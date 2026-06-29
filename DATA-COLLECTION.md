@@ -1,49 +1,159 @@
 # Data Collection Runbook — How the flight data was fetched
 
-This documents exactly how the flight dataset in [`summer-vacation-plan.md`](summer-vacation-plan.md)
-and [`flights.html`](flights.html) was produced, so new dates (or a price refresh) can be added
-efficiently. The whole pipeline is: **generate search URLs → load each in the browser → extract
-results from the DOM → export → regenerate the HTML/MD.**
+Flight data in [`flights.html`](flights.html) / [`index.html`](index.html) comes from **SerpApi's
+Google Flights engine** (primary method, used for all data as of 2026-06-29). The old Google Flights
+Explore browser-scraping method is documented at the bottom as a legacy fallback.
 
-> Tooling used: the **Claude in Chrome** browser automation tools (`navigate`, `javascript_tool`,
-> `read_page`) plus local `python3`. No external flight API — data comes from Google Flights'
-> **Explore** view, read straight from the rendered page.
+Scripts:
+- **`fetch_serpapi.py`** — queries SerpApi and writes `serp_results.json`
+- **`build_from_serp.py`** — reads `serp_results.json`, writes `flights.html` / `index.html` / `flight_tables_serp.md`
 
 ---
 
-## 0. Constraints baked into the search
+## Method A — SerpApi (current, preferred)
 
-Every search is a round trip **from Tel Aviv (TLV) to "Anywhere"** with these filters already
-encoded in the URL (so results are pre-filtered):
+### Why SerpApi over browser scraping
+
+| Problem with browser scraping | SerpApi solution |
+|---|---|
+| Google Explore shows only ~1 curated city per country | Country kgmid returns **all airports** in country |
+| Throttled after ~6 rapid queries (renderer freezes for hours) | No throttling — 250 free queries/month |
+| ~45 s per URL, iframe/renderer instability | ~1–2 s per query via HTTP |
+| DOM extraction is fragile | Structured JSON response |
+
+### Search constraints
 
 | Constraint | Value |
 |---|---|
-| Stops | **Nonstop only** |
-| Max price | **≤ 2,400 NIS** (currency ILS) |
-| Travel mode | Flights only |
-| Trip type | Round trip, 1 adult, Economy |
+| Origin | TLV (Tel Aviv) |
+| Stops | `stops=1` = **nonstop only** |
+| Max price | **≤ 2,400 NIS** (`currency=ILS`) |
+| Trip type | Round trip, 1 adult, Economy (`type=1`, `travel_class=1`) |
+| Scope | Italy, Greece, Spain, Germany, Croatia × 48 date pairs (Aug 9–26, 5–9 nights) |
 
-The reference URL (Aug 12 → Aug 19) that all other URLs are derived from:
+### Key insight: country kgmid as `arrival_id`
 
+Passing a **country kgmid** (e.g. `/m/03rjj` for Italy) as `arrival_id` returns all airports in
+that country in a single query — replacing what would otherwise be dozens of per-airport queries.
+
+```python
+COUNTRY_KGMID = {
+    "Italy":   "/m/03rjj",
+    "Greece":  "/m/035qy",
+    "Spain":   "/m/06mkj",
+    "Germany": "/m/0345h",
+    "Croatia": "/m/01pj7",
+}
 ```
-https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTEyKABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAyajcxGioSCjIwMjYtMDgtMTkoAGoMCAQSCC9tLzAyajcxcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA
+
+> **Do not** pass a comma-separated list of airport IATA codes as `arrival_id` — SerpApi returns
+> no results for multi-airport CSV. Use airport IATA codes one at a time, or a country kgmid.
+
+### Running a collection
+
+**Prerequisites:** put your SerpApi key in `.serpapi_key` (gitignored) or `$SERPAPI_KEY`.
+
+```bash
+# Validate: 1 query (Italy, Aug 12→19), prints cities + prices
+python3 fetch_serpapi.py test
+
+# Full collection: 48 date pairs × 5 countries = 240 queries
+python3 fetch_serpapi.py run          # writes serp_results.json incrementally
+
+# Rebuild HTML (reads serp_results.json)
+python3 build_from_serp.py           # writes flights.html, index.html, flight_tables_serp.md
 ```
 
-The `tfs=` query param is a **base64url-encoded protobuf**. Crucially, the two dates are stored as
-**plain ASCII strings** inside it (`2026-08-12` and `2026-08-19`), each exactly 10 chars — so we can
-make a URL for any date pair by string-substituting those two dates. The origin/"anywhere" tokens
-(`/m/07qzvr`, `/m/02j71`) and the filter flags stay untouched.
+### Budget-aware date pair selection
 
-To change the **price cap, origin, or nonstop** filter, set the filters once in the Google Flights
-UI, copy the resulting URL, and use that as the new template.
+We have 250 free SerpApi queries/month. With 5 countries, that allows 50 date pairs (250/5).
+The full date window (Aug 9–26, 5–9 nights) produces 55 pairs, so we drop 7 (every 8th index):
+
+```python
+def selected_pairs():
+    pairs = date_pairs()  # all 55 pairs
+    return [p for i, p in enumerate(pairs) if i % 8 != 0]  # 48 pairs → 240 queries
+```
+
+To add more countries, drop more date pairs to stay within budget, or upgrade the SerpApi plan.
+
+### Adding new date ranges or countries
+
+1. If extending the date window, update `date_pairs()` in `fetch_serpapi.py` (change `start`/`end`).
+2. If adding a country, find its kgmid via Google Knowledge Graph, add to `COUNTRY_KGMID`.
+   Also add its airports to `AIRPORTS` dict for clean city-name lookup.
+3. Re-run `selected_pairs()` logic to ensure total queries ≤ budget.
+4. Run `python3 fetch_serpapi.py run` (existing pairs in `serp_results.json` are overwritten).
+5. Run `python3 build_from_serp.py` to regenerate HTML.
+6. Commit & push → GitHub Pages updates in ~1 min.
+
+### How SerpApi response is parsed
+
+```python
+def search(arrival_id, dep, ret):
+    """One SerpApi query → list of nonstop flights."""
+    params = {
+        "engine": "google_flights", "departure_id": "TLV", "arrival_id": arrival_id,
+        "outbound_date": dep, "return_date": ret, "currency": "ILS", "hl": "en", "gl": "il",
+        "type": "1", "travel_class": "1", "stops": "1", "deep_search": "true", "api_key": KEY,
+    }
+    # Response buckets: best_flights, other_flights
+    # Each item has: price, flights[] (legs), total_duration
+    # Filter: len(flights) == 1 → true nonstop outbound leg
+```
+
+Cheapest fare per arrival airport is kept; city name comes from the `AIRPORTS` lookup dict (or the
+API's `arrival_airport.name` field if not in the dict).
+
+### SSL fix on macOS (python.org install)
+
+Python.org macOS builds often lack the system CA bundle. The script auto-handles this:
+
+```python
+try:
+    import certifi
+    SSL_CTX = ssl.create_default_context(cafile=certifi.where())
+except Exception:
+    SSL_CTX = ssl._create_unverified_context()
+```
+
+Run `pip3 install certifi` once to get the clean fix.
 
 ---
 
-## 1. Generate the search URLs (Python)
+## Checklist — refreshing data or adding scope
 
-Use a **placeholder swap** so it works even when a new departure date equals the template's return
-date (`2026-08-19`). Naive `.replace(dep).replace(ret)` corrupts those rows — don't skip the
-placeholders.
+1. **Edit `fetch_serpapi.py`** — update date window, country list, or budget allocation.
+2. **Test**: `python3 fetch_serpapi.py test` (1 query) → verify cities + prices look right.
+3. **Full run**: `python3 fetch_serpapi.py run` → `serp_results.json` written incrementally.
+   - Run is safe to restart: it overwrites `serp_results.json` each pair.
+   - Watch the printed query count to stay within budget.
+4. **Rebuild HTML**: `python3 build_from_serp.py` → `flights.html`, `index.html`, `flight_tables_serp.md`.
+5. **Verify locally**: `python3 -m http.server 8753` → open `http://localhost:8753/`.
+6. **Commit & push**:
+   ```bash
+   git add flights.html index.html flight_tables_serp.md serp_results.json
+   git commit -m "Refresh flight data: <date range / countries>"
+   git push
+   ```
+   GitHub Pages live at: `https://kadishay.github.io/summer-vacation-2026/`
+
+---
+
+## Method B — Google Flights Explore (legacy, browser-based)
+
+This method was used for the initial dataset but abandoned due to:
+- Google Explore returning only ~1 curated city per country (missed most airports)
+- Throttling after ~6 rapid queries (renderer freezes for hours)
+- ~45 s per URL + iframe instability
+
+Kept here for reference in case SerpApi quota runs out.
+
+### URL generation (Python)
+
+The `tfs=` param in Explore URLs is a base64url-encoded protobuf where dates are stored as **plain
+ASCII** — so any date pair can be produced by string-substituting the template dates. Use a
+**placeholder swap** to avoid corruption when new departure date = template return date (`2026-08-19`).
 
 ```python
 import base64, datetime, json
@@ -55,191 +165,29 @@ def _bytes(tpl):
     return base64.b64decode(s)
 BASE = _bytes(TEMPLATE)
 
-def url_for(dep, ret):  # dep/ret are 'YYYY-MM-DD' strings
+def url_for(dep, ret):
     b = BASE.replace(b'2026-08-12', b'@@DEP@@@@').replace(b'2026-08-19', b'@@RET@@@@')
     b = b.replace(b'@@DEP@@@@', dep.encode()).replace(b'@@RET@@@@', ret.encode())
     enc = base64.b64encode(b).decode().replace('+', '-').replace('/', '_').rstrip('=')
     return 'https://www.google.com/travel/explore?tfs=' + enc + '&tfu=GgA'
-
-# Example: build every pair with 4–10 nights inside a window
-pairs = []
-start, end = datetime.date(2026, 8, 9), datetime.date(2026, 8, 26)
-d = start
-while d <= end:
-    for n in range(4, 11):                       # min 4 nights .. max 10 nights
-        r = d + datetime.timedelta(days=n)
-        if r <= end:
-            pairs.append({'dep': d.isoformat(), 'ret': r.isoformat(), 'nights': n,
-                          'url': url_for(d.isoformat(), r.isoformat())})
-    d += datetime.timedelta(days=1)
-
-json.dump(pairs, open('flight_urls.json', 'w'), indent=1)
-# Sanity check: url_for('2026-08-12','2026-08-19') must equal the original TEMPLATE.
 ```
 
----
+### Browser DOM extraction
 
-## 2. Collect results in the browser
+Explore renders client-side only. Airline = `[role=img]` `aria-label`. Price = element with
+`aria-label` containing "Israeli new shekels". De-dupe per destination, keep cheapest.
 
-Google Flights Explore renders results **client-side** (no clean JSON endpoint), and the data is not
-plain text in the initial HTML. So we read the **rendered DOM**.
+Hidden iframe **must be visible** (`opacity:0.01`, not `left:-9999px`) or lazy-loading never fires.
 
-### Per-result extractor (run in the page context)
-Each priced destination card contains a `[role=img]` whose `aria-label` is the **airline**, a
-`[aria-label*="Israeli new shekels"]` price, a heading (city), and a duration string.
+### Export from browser
 
+`javascript_tool` output truncates at ~1,500 chars and base64 output is blocked by content filter.
+Working method: render data as **one `<div>` per line** then read via **`read_page`** (~45 KB/call).
+Use `document.body.replaceChildren()` — not `innerHTML` (blocked by Trusted Types).
+
+### Async in `javascript_tool`
+
+Bare async IIFE returns `{}`. Always use:
 ```js
-function extract(doc) {
-  const out = [];
-  doc.querySelectorAll('[role=img]').forEach(a => {       // airline logos = role=img
-    const airline = a.getAttribute('aria-label'); if (!airline) return;
-    let card = a, priceEl = null;
-    for (let i = 0; i < 8 && card; i++) {
-      priceEl = card.querySelector('[aria-label*="Israeli new shekels"]');
-      if (priceEl && card.querySelector('h3,[role=heading]')) break;
-      card = card.parentElement;
-    }
-    if (!card || !priceEl) return;
-    const dest = card.querySelector('h3,[role=heading]').textContent.trim();
-    const txt = card.innerText || '';
-    const dur = (txt.match(/\d+\s*hr(?:\s*\d+\s*min)?|\d+\s*min/) || [''])[0].replace(/\s+/g, ' ');
-    const price = +((priceEl.getAttribute('aria-label').match(/[\d,]+/) || ['0'])[0].replace(/,/g, ''));
-    out.push({ dest, airline, dur, price });
-  });
-  const m = new Map();                                     // de-dupe per destination, keep cheapest
-  out.forEach(o => { if (!m.has(o.dest) || o.price < m.get(o.dest).price) m.set(o.dest, o); });
-  return [...m.values()];
-}
+await (async () => { /* your async code */ })()
 ```
-
-### Loading many date pairs efficiently — the iframe loop
-Navigating the top tab 77× is slow. Instead, load each URL into a **same-origin hidden iframe** and
-read its DOM. Key gotchas:
-
-- The iframe **must be on-screen** (e.g. `opacity:0.01`, not `left:-9999px`) or Explore never
-  lazy-loads its results.
-- Poll until the result count is **stable for 3 polls** (results stream in).
-- `javascript_tool` has a **~45 s execution cap** → process **~5 pairs per call**.
-- Stash each result set in **`localStorage`** (survives navigation on `google.com`), keyed
-  `vac_<dep>_<ret>`, then export at the end.
-
-```js
-// one-time setup in the page
-const ifr = document.createElement('iframe');
-ifr.style.cssText = 'position:fixed;left:0;top:0;width:1200px;height:850px;z-index:99999;opacity:0.01;';
-document.body.appendChild(ifr);
-
-window.loadPair = (url) => new Promise(async resolve => {
-  ifr.src = 'about:blank'; await new Promise(r => setTimeout(r, 120));
-  ifr.src = url;
-  let prev = -1, stable = 0, res = [];
-  for (let i = 0; i < 22; i++) {
-    await new Promise(r => setTimeout(r, 550));
-    const doc = ifr.contentDocument; if (!doc) continue;
-    res = extract(doc);
-    if (res.length === prev) { if (i >= 6 && ++stable >= 3) break; } else stable = 0;
-    prev = res.length;
-  }
-  resolve(res);
-});
-
-// then, in batches of ~5 (one javascript_tool call each):
-window.runBatch = async (urls /* [{dep,ret,url}] */) => {
-  const done = [];
-  for (const p of urls) {
-    const res = await window.loadPair(p.url);
-    localStorage.setItem('vac_' + p.dep + '_' + p.ret, JSON.stringify(res));
-    done.push({ dep: p.dep, ret: p.ret, n: res.length });
-  }
-  return JSON.stringify(done);
-};
-```
-
-> `javascript_tool` returns a **bare Promise** as `{}`. Wrap async work and call with top-level
-> `await`: `await (async () => { ... })()`.
-
-> **Re-verify suspiciously low counts.** A few date pairs legitimately return only 3–4 results;
-> re-run those with a stricter poll (e.g. stable for 5 polls after iteration 12) to confirm it
-> wasn't premature stabilization.
-
----
-
-## 3. Export the data out of the browser
-
-Two harness limits make export awkward:
-- `javascript_tool` output is **truncated at ~1,500 chars**.
-- **base64-looking output is blocked** by a content filter (so gzip+base64 transfer fails).
-
-**Working method:** render the data as **one `<div>` per line** of plain text (each line < ~100
-chars, prefixed with an index like `⟦42⟧` for ordering/fidelity), then read it back with
-**`read_page`** (handles ~45 KB per call, not truncated like `javascript_tool`). Read in segments
-of ~230 lines.
-
-```js
-// build the markdown string from localStorage, then expose lines for read_page
-window.__lines = window.__md.split('\n');
-window.__render = (a, b) => {
-  const frag = document.createDocumentFragment();
-  for (let i = a; i < b && i < window.__lines.length; i++) {
-    const d = document.createElement('div');
-    d.textContent = '⟦' + i + '⟧ ' + window.__lines[i];      // index prefix = fidelity check
-    frag.appendChild(d);
-  }
-  document.body.replaceChildren(frag);                        // NOT innerHTML (Trusted Types blocks it)
-  return { a, b: Math.min(b, window.__lines.length), total: window.__lines.length };
-};
-```
-
-Then for each segment: call `__render(a, b)` via `javascript_tool`, then `read_page` (filter `all`,
-`max_chars` ~45000) and transcribe the `⟦i⟧ …` lines in order.
-
-> Notes: use `document.body.replaceChildren()` (Trusted Types blocks `innerHTML`). Avoid echoing the
-> long `tfs` URL in `javascript_tool` return values — it can trip the "Cookie/query string" filter.
-
----
-
-## 4. Regenerate `flights.html` / `index.html` (Python)
-
-The HTML is **generated from `summer-vacation-plan.md`** (single source of truth) — it parses the
-`## All Date Pairs` tables, embeds the rows as JSON, and writes the sortable/filterable page.
-The generator lives conceptually here; re-run it after the markdown changes. It also adds the
-**Country** column via a `CITY → COUNTRY` dict (extend the dict when a new destination city appears).
-
-```python
-import re, json
-COUNTRY = {'Rome':'Italy','Venice':'Italy','Athens':'Greece','Mykonos':'Greece','Santorini':'Greece',
-           'Budapest':'Hungary','Prague':'Czechia','Berlin':'Germany','Barcelona':'Spain','Madrid':'Spain',
-           'Vienna':'Austria','Paris':'France','Dubrovnik':'Croatia','London':'United Kingdom'}
-# parse rows from the '## All Date Pairs' section of summer-vacation-plan.md, attach country,
-# embed as JSON into the HTML template, write flights.html and index.html.
-# assert every destination is in COUNTRY (fail loudly on a new, unmapped city).
-```
-
----
-
-## Checklist — adding new dates (or refreshing prices)
-
-1. **Generate URLs** (§1) for the new date pairs → append to `flight_urls.json`.
-2. In the browser, open the reference Explore URL once (confirms filters: Nonstop, ≤ 2,400 NIS, ILS),
-   set up the iframe + helpers (§2), then `runBatch(...)` in chunks of ~5 pairs.
-3. Re-verify any pair that returned ≤ 4 results (§2 note).
-4. Build the markdown tables from `localStorage` and **export** via the line-render + `read_page`
-   method (§3); paste the new `### Aug X → Aug Y` sections into `summer-vacation-plan.md`. Update the
-   "Cheapest fare per destination" summary and the totals.
-5. If any **new destination city** appeared, add it to the `COUNTRY` dict (§4).
-6. **Regenerate** `flights.html` + `index.html` (§4) and verify locally
-   (`python3 -m http.server 8753`, open `http://localhost:8753/flights.html`).
-7. Commit & push — GitHub Pages rebuilds in ~1 min:
-   ```
-   git add -A && git commit -m "Add dates <range>" && git push
-   ```
-
-## Key lessons learned (don't relearn these)
-
-- Dates live as plain ASCII in the `tfs` protobuf → swap with **placeholders** (collision-safe).
-- Explore results are **DOM-only**; airline = `[role=img]` `aria-label`, price aria-label is in
-  "Israeli new shekels", de-dupe per destination keeping the cheapest.
-- Hidden iframe **must be visible** (opacity trick) to trigger result loading.
-- `javascript_tool`: ~45 s cap (batch ~5), returns Promises as `{}` (use top-level `await`),
-  output truncates ~1,500 chars, **base64 output is blocked**.
-- Export large data via **`<div>`-per-line + `read_page`**, using `replaceChildren` (Trusted Types).
