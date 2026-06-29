@@ -83,14 +83,14 @@ HTML = r'''<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
  .bar{height:4px;border-radius:2px;background:linear-gradient(90deg,#2d7d46,#4ea1ff);display:inline-block;vertical-align:middle;margin-left:8px}
  a.gf{color:var(--accent);text-decoration:none}a.gf:hover{text-decoration:underline}
  .leaflet-container{background:#0d1117}
- .map-tip{background:#1a2029;border:1px solid #2b3340;border-radius:8px;padding:0;min-width:200px;box-shadow:0 4px 20px rgba(0,0,0,.6);color:#e6edf3;font:13px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
- .map-tip .tip-head{padding:8px 12px 6px;font-weight:700;font-size:14px;border-bottom:1px solid #2b3340}
- .map-tip .tip-flight{padding:6px 12px;border-bottom:1px solid #1e2630}
- .map-tip .tip-flight:last-child{border-bottom:none;padding-bottom:8px}
+ .map-tip{background:#1a2029;border:1px solid #2b3340;border-radius:7px;padding:0;min-width:180px;box-shadow:0 4px 16px rgba(0,0,0,.6);color:#e6edf3;font:12px/1.35 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+ .map-tip .tip-head{padding:5px 10px 4px;font-weight:700;font-size:13px;border-bottom:1px solid #2b3340}
+ .map-tip .tip-flight{padding:3px 10px;border-bottom:1px solid #1e2630}
+ .map-tip .tip-flight:last-child{border-bottom:none;padding-bottom:5px}
  .map-tip .tip-price{color:#7ee2a8;font-weight:700}
- .map-tip .tip-meta{color:#8b98a8;font-size:12px}
+ .map-tip .tip-meta{color:#8b98a8;font-size:11px}
  .leaflet-tooltip{background:transparent;border:none;box-shadow:none;padding:0}
- .leaflet-tooltip-left:before,.leaflet-tooltip-right:before{border:none}
+ .leaflet-tooltip-left:before,.leaflet-tooltip-right:before,.leaflet-tooltip-top:before,.leaflet-tooltip-bottom:before{border:none}
 </style></head><body>
 <header><h1>Summer 2026 Flights — Tel Aviv → Europe</h1>
 <div class="sub">Nonstop · &le; 2,400 NIS · 5–9 nights · SerpApi/Google Flights · captured __CAPTURE__ · <span id="total"></span> options · airport-level. Click a column to sort; filter below.</div></header>
@@ -163,7 +163,7 @@ function renderMap(){
     const size=rank===0?14:rank<3?11:8;
     const marker=L.circleMarker(coords,{
       radius:size,fillColor:'#4ea1ff',color:'#fff',weight:1.5,fillOpacity:rank===0?1:0.75,
-    }).bindTooltip(tipHtml,{className:'',sticky:false,direction:'top',offset:[0,-size]}).addTo(map);
+    }).bindTooltip(tipHtml,{className:'',sticky:false,direction:'auto',offset:[0,0]}).addTo(map);
     mapMarkers.push(marker);
   });
 }
