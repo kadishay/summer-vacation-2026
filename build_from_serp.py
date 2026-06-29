@@ -63,6 +63,7 @@ data_json = json.dumps(rows, ensure_ascii=False)
 HTML = r'''<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Summer 2026 Flights — TLV → Europe</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 <style>
  :root{--bg:#0f1419;--panel:#1a2029;--line:#2b3340;--text:#e6edf3;--muted:#8b98a8;--accent:#4ea1ff;}
  *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:14px/1.45 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
@@ -73,6 +74,7 @@ HTML = r'''<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
  select,input{background:var(--bg);color:var(--text);border:1px solid var(--line);border-radius:7px;padding:6px 8px;font-size:13px;outline:none}
  input:focus,select:focus{border-color:var(--accent)}input[type=number]{width:90px}.range{display:flex;gap:6px;align-items:center}#search{width:200px}
  button{background:var(--accent);color:#06121f;border:none;border-radius:7px;padding:7px 12px;font-weight:600;cursor:pointer;font-size:13px}button.secondary{background:var(--line);color:var(--text)}
+ #map{height:360px;border-bottom:1px solid var(--line)}
  .count{color:var(--muted);font-size:13px;padding:8px 22px 0}.wrap{padding:6px 22px 60px}
  table{border-collapse:collapse;width:100%}th,td{padding:8px 12px;text-align:left;border-bottom:1px solid var(--line);white-space:nowrap}
  th{position:sticky;top:118px;background:#10161e;cursor:pointer;user-select:none;font-size:12px;text-transform:uppercase;letter-spacing:.03em;color:var(--muted);z-index:10}
@@ -80,6 +82,15 @@ HTML = r'''<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
  td.num{text-align:right;font-variant-numeric:tabular-nums}.price{font-weight:700;color:#7ee2a8}.pill{background:var(--line);border-radius:20px;padding:2px 9px;font-size:12px}.country{color:var(--muted)}
  .bar{height:4px;border-radius:2px;background:linear-gradient(90deg,#2d7d46,#4ea1ff);display:inline-block;vertical-align:middle;margin-left:8px}
  a.gf{color:var(--accent);text-decoration:none}a.gf:hover{text-decoration:underline}
+ .leaflet-container{background:#0d1117}
+ .map-tip{background:#1a2029;border:1px solid #2b3340;border-radius:8px;padding:0;min-width:200px;box-shadow:0 4px 20px rgba(0,0,0,.6);color:#e6edf3;font:13px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+ .map-tip .tip-head{padding:8px 12px 6px;font-weight:700;font-size:14px;border-bottom:1px solid #2b3340}
+ .map-tip .tip-flight{padding:6px 12px;border-bottom:1px solid #1e2630}
+ .map-tip .tip-flight:last-child{border-bottom:none;padding-bottom:8px}
+ .map-tip .tip-price{color:#7ee2a8;font-weight:700}
+ .map-tip .tip-meta{color:#8b98a8;font-size:12px}
+ .leaflet-tooltip{background:transparent;border:none;box-shadow:none;padding:0}
+ .leaflet-tooltip-left:before,.leaflet-tooltip-right:before{border:none}
 </style></head><body>
 <header><h1>Summer 2026 Flights — Tel Aviv → Europe</h1>
 <div class="sub">Nonstop · &le; 2,400 NIS · 5–9 nights · SerpApi/Google Flights · captured __CAPTURE__ · <span id="total"></span> options · airport-level. Click a column to sort; filter below.</div></header>
@@ -95,8 +106,10 @@ HTML = r'''<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
  <div class="ctrl"><label>Max flight (min)</label><input type="number" id="dMax" placeholder="e.g. 240"></div>
  <div class="ctrl"><label>&nbsp;</label><button class="secondary" id="reset">Reset</button></div>
 </div>
+<div id="map"></div>
 <div class="count" id="count"></div>
 <div class="wrap"><table><thead><tr id="head"></tr></thead><tbody id="body"></tbody></table></div>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script>
 const DATA=__DATA__;const maxPrice=Math.max(...DATA.map(d=>d.price));
 const cols=[{key:'dest',label:'Destination'},{key:'country',label:'Country'},{key:'price',label:'Price (NIS)',num:1},{key:'airline',label:'Airline'},{key:'from',label:'Depart',sortKey:'fromDay'},{key:'to',label:'Return',sortKey:'toDay'},{key:'nights',label:'Nights',num:1},{key:'length',label:'Flight length',sortKey:'durMin'},{key:'gf',label:'',nosort:1}];
@@ -113,9 +126,52 @@ const gf=d=>'https://www.google.com/travel/flights?q='+encodeURIComponent('Fligh
 const val=id=>document.getElementById(id).value.trim();const num=id=>{const v=document.getElementById(id).value;return v===''?null:Number(v)};
 function filtered(){const q=val('search').toLowerCase(),fc=val('fCountry'),fd=val('fDest'),fa=val('fAir'),ff=val('fFrom'),ft=val('fTo'),nmin=num('nMin'),nmax=num('nMax'),pmin=num('pMin'),pmax=num('pMax'),dmax=num('dMax');
  return DATA.filter(d=>{if(q&&!(d.dest.toLowerCase().includes(q)||d.country.toLowerCase().includes(q)||d.airline.toLowerCase().includes(q)))return false;if(fc&&d.country!==fc)return false;if(fd&&d.dest!==fd)return false;if(fa&&d.airline!==fa)return false;if(ff&&d.from!==ff)return false;if(ft&&d.to!==ft)return false;if(nmin!=null&&d.nights<nmin)return false;if(nmax!=null&&d.nights>nmax)return false;if(pmin!=null&&d.price<pmin)return false;if(pmax!=null&&d.price>pmax)return false;if(dmax!=null&&d.durMin>dmax)return false;return true})}
+
+// --- Map ---
+const COORDS={'Athens':[37.984,23.728],'Barcelona':[41.385,2.173],'Berlin':[52.520,13.405],
+ 'Catania':[37.508,15.083],'Chania':[35.514,24.018],'Corfu':[39.624,19.922],
+ 'Dubrovnik':[42.651,18.094],'Dusseldorf':[51.222,6.776],'Hamburg':[53.575,10.015],
+ 'Heraklion':[35.339,25.144],'Kos':[36.894,27.288],'Madrid':[40.417,-3.704],
+ 'Milan':[45.465,9.186],'Milan Bergamo':[45.674,9.704],'Munich':[48.135,11.582],
+ 'Mykonos':[37.447,25.329],'Naples':[40.852,14.268],'Palermo':[38.116,13.362],
+ 'Rhodes':[36.434,28.218],'Rome':[41.903,12.496],'Santorini':[36.393,25.461],
+ 'Thessaloniki':[40.640,22.944],'Venice':[45.441,12.316],'Split':[43.508,16.440],
+ 'Zagreb':[45.815,15.982],'Zadar':[44.120,15.230],'Pula':[44.868,13.848]};
+
+const map=L.map('map',{zoomControl:true,attributionControl:false}).setView([43,18],4);
+L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',{maxZoom:18,subdomains:'abcd'}).addTo(map);
+
+let mapMarkers=[];
+function renderMap(){
+  mapMarkers.forEach(m=>map.removeLayer(m));
+  mapMarkers=[];
+  const rows=filtered();
+  // group by dest, sort flights by price
+  const byDest={};
+  rows.forEach(d=>{if(!byDest[d.dest])byDest[d.dest]=[];byDest[d.dest].push(d)});
+  Object.values(byDest).forEach(arr=>arr.sort((a,b)=>a.price-b.price));
+  // top 10 cheapest destinations
+  const top10=Object.entries(byDest)
+    .sort((a,b)=>a[1][0].price-b[1][0].price)
+    .slice(0,10);
+  top10.forEach(([dest,flights],rank)=>{
+    const coords=COORDS[dest];if(!coords)return;
+    const top3=flights.slice(0,3);
+    const tipHtml='<div class="map-tip"><div class="tip-head">'+dest+'</div>'+
+      top3.map(f=>'<div class="tip-flight"><span class="tip-price">₪'+f.price.toLocaleString()+'</span> · '+f.airline+
+        '<div class="tip-meta">'+f.from+' → '+f.to+' · '+f.nights+' nights · '+f.length+'</div></div>').join('')+'</div>';
+    const size=rank===0?14:rank<3?11:8;
+    const marker=L.circleMarker(coords,{
+      radius:size,fillColor:'#4ea1ff',color:'#fff',weight:1.5,fillOpacity:rank===0?1:0.75,
+    }).bindTooltip(tipHtml,{className:'',sticky:false,direction:'top',offset:[0,-size]}).addTo(map);
+    mapMarkers.push(marker);
+  });
+}
+
 function render(){renderHead();let rows=filtered();rows.sort((a,b)=>{let x=a[sortKey],y=b[sortKey];if(typeof x==='string'){x=x.toLowerCase();y=y.toLowerCase();return x<y?-1*sortDir:x>y?1*sortDir:0}return(x-y)*sortDir});
  document.getElementById('body').innerHTML=rows.map(d=>{const w=Math.round(d.price/maxPrice*60);return`<tr><td>${d.dest}</td><td class="country">${d.country}</td><td class="num price">₪${d.price.toLocaleString()}<span class="bar" style="width:${w}px"></span></td><td>${d.airline}</td><td>${d.from}</td><td>${d.to}</td><td class="num"><span class="pill">${d.nights}</span></td><td>${d.length}</td><td><a class="gf" href="${gf(d)}" target="_blank" rel="noopener">open ↗</a></td></tr>`}).join('');
- const ch=rows.length?Math.min(...rows.map(r=>r.price)):0;document.getElementById('count').textContent=`${rows.length} of ${DATA.length} flights`+(rows.length?` · cheapest ₪${ch.toLocaleString()}`:'')}
+ const ch=rows.length?Math.min(...rows.map(r=>r.price)):0;document.getElementById('count').textContent=`${rows.length} of ${DATA.length} flights`+(rows.length?` · cheapest ₪${ch.toLocaleString()}`:'');
+ renderMap();}
 const ids=['search','fCountry','fDest','fAir','fFrom','fTo','nMin','nMax','pMin','pMax','dMax'];
 ids.forEach(id=>{document.getElementById(id).addEventListener('input',render);document.getElementById(id).addEventListener('change',render)});
 document.getElementById('reset').onclick=()=>{ids.forEach(id=>document.getElementById(id).value='');sortKey='price';sortDir=1;render()};
