@@ -15,5 +15,6 @@ Interactive table of **nonstop flights from Tel Aviv (TLV) to anywhere**, for a 
 - [`index.html`](index.html) / [`flights.html`](flights.html) — interactive table: sort by any column, filter by destination, airline, dates, nights, price, and flight length.
 - [`summer-vacation-plan.md`](summer-vacation-plan.md) — full write-up: constraints, all valid date combinations, cheapest fare per destination, and every flight grouped by date pair.
 - [`flight_urls.json`](flight_urls.json) — the 77 Google Flights search URLs (one per date pair) used to gather the data.
+- [`DATA-COLLECTION.md`](DATA-COLLECTION.md) — runbook: how the data was fetched and how to add new dates / refresh prices.
 
 > Prices and availability are a snapshot from Google Flights and change frequently. Verify on the airline/Google Flights before booking.
