@@ -1,2 +1,5 @@
 .claude/
 .DS_Store
+.serpapi_key
+serp_raw/
+serp_results.json
