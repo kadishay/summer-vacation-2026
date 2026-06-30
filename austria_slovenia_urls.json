@@ -1,0 +1,666 @@
+{
+ "Austria": [
+  {
+   "dep": "2026-08-09",
+   "ret": "2026-08-14",
+   "nights": 5,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTA5KABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMTQoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-09",
+   "ret": "2026-08-15",
+   "nights": 6,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTA5KABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMTUoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-09",
+   "ret": "2026-08-16",
+   "nights": 7,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTA5KABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMTYoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-09",
+   "ret": "2026-08-17",
+   "nights": 8,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTA5KABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMTcoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-09",
+   "ret": "2026-08-18",
+   "nights": 9,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTA5KABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMTgoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-10",
+   "ret": "2026-08-15",
+   "nights": 5,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTEwKABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMTUoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-10",
+   "ret": "2026-08-16",
+   "nights": 6,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTEwKABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMTYoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-10",
+   "ret": "2026-08-17",
+   "nights": 7,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTEwKABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMTcoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-10",
+   "ret": "2026-08-18",
+   "nights": 8,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTEwKABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMTgoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-10",
+   "ret": "2026-08-19",
+   "nights": 9,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTEwKABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMTkoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-11",
+   "ret": "2026-08-16",
+   "nights": 5,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTExKABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMTYoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-11",
+   "ret": "2026-08-17",
+   "nights": 6,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTExKABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMTcoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-11",
+   "ret": "2026-08-18",
+   "nights": 7,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTExKABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMTgoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-11",
+   "ret": "2026-08-19",
+   "nights": 8,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTExKABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMTkoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-11",
+   "ret": "2026-08-20",
+   "nights": 9,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTExKABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMjAoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-12",
+   "ret": "2026-08-17",
+   "nights": 5,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTEyKABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMTcoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-12",
+   "ret": "2026-08-18",
+   "nights": 6,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTEyKABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMTgoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-12",
+   "ret": "2026-08-19",
+   "nights": 7,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTEyKABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMTkoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-12",
+   "ret": "2026-08-20",
+   "nights": 8,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTEyKABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMjAoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-12",
+   "ret": "2026-08-21",
+   "nights": 9,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTEyKABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMjEoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-13",
+   "ret": "2026-08-18",
+   "nights": 5,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTEzKABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMTgoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-13",
+   "ret": "2026-08-19",
+   "nights": 6,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTEzKABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMTkoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-13",
+   "ret": "2026-08-20",
+   "nights": 7,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTEzKABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMjAoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-13",
+   "ret": "2026-08-21",
+   "nights": 8,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTEzKABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMjEoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-13",
+   "ret": "2026-08-22",
+   "nights": 9,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTEzKABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMjIoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-14",
+   "ret": "2026-08-19",
+   "nights": 5,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTE0KABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMTkoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-14",
+   "ret": "2026-08-20",
+   "nights": 6,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTE0KABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMjAoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-14",
+   "ret": "2026-08-21",
+   "nights": 7,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTE0KABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMjEoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-14",
+   "ret": "2026-08-22",
+   "nights": 8,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTE0KABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMjIoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-14",
+   "ret": "2026-08-23",
+   "nights": 9,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTE0KABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMjMoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-15",
+   "ret": "2026-08-20",
+   "nights": 5,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTE1KABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMjAoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-15",
+   "ret": "2026-08-21",
+   "nights": 6,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTE1KABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMjEoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-15",
+   "ret": "2026-08-22",
+   "nights": 7,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTE1KABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMjIoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-15",
+   "ret": "2026-08-23",
+   "nights": 8,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTE1KABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMjMoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-15",
+   "ret": "2026-08-24",
+   "nights": 9,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTE1KABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMjQoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-16",
+   "ret": "2026-08-21",
+   "nights": 5,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTE2KABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMjEoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-16",
+   "ret": "2026-08-22",
+   "nights": 6,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTE2KABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMjIoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-16",
+   "ret": "2026-08-23",
+   "nights": 7,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTE2KABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMjMoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-16",
+   "ret": "2026-08-24",
+   "nights": 8,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTE2KABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMjQoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-16",
+   "ret": "2026-08-25",
+   "nights": 9,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTE2KABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMjUoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-17",
+   "ret": "2026-08-22",
+   "nights": 5,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTE3KABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMjIoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-17",
+   "ret": "2026-08-23",
+   "nights": 6,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTE3KABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMjMoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-17",
+   "ret": "2026-08-24",
+   "nights": 7,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTE3KABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMjQoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-17",
+   "ret": "2026-08-25",
+   "nights": 8,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTE3KABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMjUoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-17",
+   "ret": "2026-08-26",
+   "nights": 9,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTE3KABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMjYoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-18",
+   "ret": "2026-08-23",
+   "nights": 5,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTE4KABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMjMoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-18",
+   "ret": "2026-08-24",
+   "nights": 6,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTE4KABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMjQoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-18",
+   "ret": "2026-08-25",
+   "nights": 7,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTE4KABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMjUoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-18",
+   "ret": "2026-08-26",
+   "nights": 8,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTE4KABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMjYoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-19",
+   "ret": "2026-08-24",
+   "nights": 5,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTE5KABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMjQoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-19",
+   "ret": "2026-08-25",
+   "nights": 6,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTE5KABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMjUoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-19",
+   "ret": "2026-08-26",
+   "nights": 7,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTE5KABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMjYoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-20",
+   "ret": "2026-08-25",
+   "nights": 5,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTIwKABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMjUoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-20",
+   "ret": "2026-08-26",
+   "nights": 6,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTIwKABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMjYoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-21",
+   "ret": "2026-08-26",
+   "nights": 5,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxoqEgoyMDI2LTA4LTIxKABqDAgCEggvbS8wN3F6dnIMCAQSCC9tLzAxNTFtGioSCjIwMjYtMDgtMjYoAGoMCAQSCC9tLzAxNTFtcgwIAhIIL20vMDdxenZAAUgBYOAScAGCAQsI____________AZgBAbIBBBgBIAE&tfu=GgA"
+  }
+ ],
+ "Ljubljana": [
+  {
+   "dep": "2026-08-09",
+   "ret": "2026-08-14",
+   "nights": 5,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTA5KABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTE0KAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-09",
+   "ret": "2026-08-15",
+   "nights": 6,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTA5KABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTE1KAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-09",
+   "ret": "2026-08-16",
+   "nights": 7,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTA5KABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTE2KAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-09",
+   "ret": "2026-08-17",
+   "nights": 8,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTA5KABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTE3KAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-09",
+   "ret": "2026-08-18",
+   "nights": 9,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTA5KABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTE4KAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-10",
+   "ret": "2026-08-15",
+   "nights": 5,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTEwKABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTE1KAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-10",
+   "ret": "2026-08-16",
+   "nights": 6,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTEwKABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTE2KAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-10",
+   "ret": "2026-08-17",
+   "nights": 7,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTEwKABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTE3KAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-10",
+   "ret": "2026-08-18",
+   "nights": 8,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTEwKABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTE4KAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-10",
+   "ret": "2026-08-19",
+   "nights": 9,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTEwKABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTE5KAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-11",
+   "ret": "2026-08-16",
+   "nights": 5,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTExKABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTE2KAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-11",
+   "ret": "2026-08-17",
+   "nights": 6,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTExKABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTE3KAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-11",
+   "ret": "2026-08-18",
+   "nights": 7,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTExKABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTE4KAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-11",
+   "ret": "2026-08-19",
+   "nights": 8,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTExKABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTE5KAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-11",
+   "ret": "2026-08-20",
+   "nights": 9,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTExKABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTIwKAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-12",
+   "ret": "2026-08-17",
+   "nights": 5,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTEyKABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTE3KAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-12",
+   "ret": "2026-08-18",
+   "nights": 6,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTEyKABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTE4KAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-12",
+   "ret": "2026-08-19",
+   "nights": 7,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTEyKABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTE5KAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-12",
+   "ret": "2026-08-20",
+   "nights": 8,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTEyKABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTIwKAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-12",
+   "ret": "2026-08-21",
+   "nights": 9,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTEyKABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTIxKAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-13",
+   "ret": "2026-08-18",
+   "nights": 5,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTEzKABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTE4KAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-13",
+   "ret": "2026-08-19",
+   "nights": 6,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTEzKABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTE5KAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-13",
+   "ret": "2026-08-20",
+   "nights": 7,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTEzKABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTIwKAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-13",
+   "ret": "2026-08-21",
+   "nights": 8,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTEzKABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTIxKAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-13",
+   "ret": "2026-08-22",
+   "nights": 9,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTEzKABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTIyKAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-14",
+   "ret": "2026-08-19",
+   "nights": 5,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTE0KABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTE5KAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-14",
+   "ret": "2026-08-20",
+   "nights": 6,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTE0KABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTIwKAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-14",
+   "ret": "2026-08-21",
+   "nights": 7,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTE0KABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTIxKAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-14",
+   "ret": "2026-08-22",
+   "nights": 8,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTE0KABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTIyKAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-14",
+   "ret": "2026-08-23",
+   "nights": 9,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTE0KABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTIzKAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-15",
+   "ret": "2026-08-20",
+   "nights": 5,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTE1KABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTIwKAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-15",
+   "ret": "2026-08-21",
+   "nights": 6,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTE1KABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTIxKAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-15",
+   "ret": "2026-08-22",
+   "nights": 7,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTE1KABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTIyKAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-15",
+   "ret": "2026-08-23",
+   "nights": 8,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTE1KABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTIzKAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-15",
+   "ret": "2026-08-24",
+   "nights": 9,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTE1KABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTI0KAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-16",
+   "ret": "2026-08-21",
+   "nights": 5,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTE2KABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTIxKAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-16",
+   "ret": "2026-08-22",
+   "nights": 6,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTE2KABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTIyKAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-16",
+   "ret": "2026-08-23",
+   "nights": 7,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTE2KABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTIzKAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-16",
+   "ret": "2026-08-24",
+   "nights": 8,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTE2KABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTI0KAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-16",
+   "ret": "2026-08-25",
+   "nights": 9,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTE2KABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTI1KAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-17",
+   "ret": "2026-08-22",
+   "nights": 5,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTE3KABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTIyKAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-17",
+   "ret": "2026-08-23",
+   "nights": 6,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTE3KABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTIzKAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-17",
+   "ret": "2026-08-24",
+   "nights": 7,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTE3KABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTI0KAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-17",
+   "ret": "2026-08-25",
+   "nights": 8,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTE3KABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTI1KAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-17",
+   "ret": "2026-08-26",
+   "nights": 9,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTE3KABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTI2KAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-18",
+   "ret": "2026-08-23",
+   "nights": 5,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTE4KABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTIzKAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-18",
+   "ret": "2026-08-24",
+   "nights": 6,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTE4KABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTI0KAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-18",
+   "ret": "2026-08-25",
+   "nights": 7,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTE4KABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTI1KAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-18",
+   "ret": "2026-08-26",
+   "nights": 8,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTE4KABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTI2KAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-19",
+   "ret": "2026-08-24",
+   "nights": 5,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTE5KABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTI0KAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-19",
+   "ret": "2026-08-25",
+   "nights": 6,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTE5KABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTI1KAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-19",
+   "ret": "2026-08-26",
+   "nights": 7,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTE5KABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTI2KAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-20",
+   "ret": "2026-08-25",
+   "nights": 5,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTIwKABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTI1KAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-20",
+   "ret": "2026-08-26",
+   "nights": 6,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTIwKABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTI2KAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  },
+  {
+   "dep": "2026-08-21",
+   "ret": "2026-08-26",
+   "nights": 5,
+   "url": "https://www.google.com/travel/explore?tfs=CBwQAxocEgoyMDI2LTA4LTIxKABqDAgCEggvbS8wN3F6dhocEgoyMDI2LTA4LTI2KAByDAgCEggvbS8wN3F6dkABSAFg4BJwAYIBCwj___________8BmAEBsgESGAEgASoMCAMSCC9tLzBibW00&tfu=GgA"
+  }
+ ]
+}

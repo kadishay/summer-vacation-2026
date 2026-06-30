@@ -38,7 +38,7 @@ md = []
 md.append("## Flight Results (SerpApi · Google Flights)\n")
 md.append(f"> Source: SerpApi Google Flights engine, captured {CAPTURE}. "
           f"Filters: from TLV, round-trip, **nonstop**, economy, **≤ 2,400 NIS** (ILS).\n"
-          f"> Scope: **{', '.join(['Italy','Greece','Spain','Germany','Croatia'])}**, "
+          f"> Scope: **{', '.join(['Italy','Greece','Spain','Germany','Croatia','Austria','France','Czechia','Hungary','Netherlands'])}**, "
           f"**5–9 nights**, airport-level. {nrows} options across {ndates} date pairs.\n")
 md.append("### Cheapest fare per destination\n")
 md.append("| Destination | Country | Price (NIS) | Airline | From | To | Nights | Flight length |")
@@ -136,7 +136,10 @@ const COORDS={'Athens':[37.984,23.728],'Barcelona':[41.385,2.173],'Berlin':[52.5
  'Mykonos':[37.447,25.329],'Naples':[40.852,14.268],'Palermo':[38.116,13.362],
  'Rhodes':[36.434,28.218],'Rome':[41.903,12.496],'Santorini':[36.393,25.461],
  'Thessaloniki':[40.640,22.944],'Venice':[45.441,12.316],'Split':[43.508,16.440],
- 'Zagreb':[45.815,15.982],'Zadar':[44.120,15.230],'Pula':[44.868,13.848]};
+ 'Zagreb':[45.815,15.982],'Zadar':[44.120,15.230],'Pula':[44.868,13.848],
+ 'Vienna':[48.208,16.374],'Salzburg':[47.800,13.045],'Innsbruck':[47.269,11.404],'Graz':[47.070,15.440],
+ 'Paris':[48.857,2.352],'Nice':[43.710,7.262],'Prague':[50.075,14.437],'Zurich':[47.376,8.541],
+ 'Budapest':[47.498,19.040],'Amsterdam':[52.370,4.895],'Eindhoven':[51.441,5.478]};
 
 const map=L.map('map',{zoomControl:true,attributionControl:false}).setView([43,18],4);
 L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',{maxZoom:18,subdomains:'abcd'}).addTo(map);

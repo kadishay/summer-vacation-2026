@@ -44,6 +44,8 @@ AIRPORTS = {
  # Croatia
  "ZAG":("Zagreb","Croatia"),"SPU":("Split","Croatia"),"DBV":("Dubrovnik","Croatia"),"ZAD":("Zadar","Croatia"),
  "PUY":("Pula","Croatia"),"RJK":("Rijeka","Croatia"),
+ # Slovenia
+ "LJU":("Ljubljana","Slovenia"),
  # Denmark
  "CPH":("Copenhagen","Denmark"),"BLL":("Billund","Denmark"),"AAL":("Aalborg","Denmark"),
  # France
@@ -78,6 +80,9 @@ QCOUNT = 0
 
 COUNTRY_KGMID = {
     "Italy":"/m/03rjj","Greece":"/m/035qy","Spain":"/m/06mkj","Germany":"/m/0345h","Croatia":"/m/01pj7",
+    "Austria":"/m/0151m","Slovenia":"/m/06t8v",
+    "France":"/m/0f8l9c","Switzerland":"/m/06mzp","Czechia":"/m/01mk6",
+    "Hungary":"/m/03gj2","Netherlands":"/m/059j2",
 }
 
 def search(arrival_id, dep, ret):
@@ -135,13 +140,16 @@ def date_pairs():
 
 ALL_AIRPORTS = ",".join(AIRPORTS.keys())
 
-RUN_COUNTRIES = ["Italy","Greece","Spain","Germany","Croatia"]
+RUN_COUNTRIES = ["Italy","Greece","Spain","Germany","Croatia","Austria","France","Switzerland","Czechia","Hungary","Netherlands"]
 
 def selected_pairs():
-    """55 pairs minus 7 evenly-spaced -> 48 pairs (fits 48*5=240 queries)."""
+    """Select ~22 evenly-spaced pairs from 55 (fits 22*11=242 queries within 250/month budget)."""
     pairs = date_pairs()
-    keep = [p for i,p in enumerate(pairs) if i % 8 != 0]   # drop indices 0,8,16,...,48
-    dropped = [p for i,p in enumerate(pairs) if i % 8 == 0]
+    n_keep = 22
+    step = len(pairs) / n_keep
+    indices = sorted(set(int(i * step) for i in range(n_keep)))
+    keep = [p for i, p in enumerate(pairs) if i in indices]
+    dropped = [p for i, p in enumerate(pairs) if i not in indices]
     return keep, dropped
 
 def main():

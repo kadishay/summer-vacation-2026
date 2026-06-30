@@ -1,0 +1,3496 @@
+{
+ "Austria_2026-08-09_2026-08-14": {
+  "country": "Austria",
+  "dep": "2026-08-09",
+  "ret": "2026-08-14",
+  "nights": 5,
+  "flights": [
+   {
+    "city": "Athens",
+    "dur": 145,
+    "price": 1258
+   },
+   {
+    "city": "Mykonos",
+    "dur": 110,
+    "price": 1832
+   },
+   {
+    "city": "London",
+    "dur": 320,
+    "price": 2277
+   },
+   {
+    "city": "Rome",
+    "dur": 230,
+    "price": 1173
+   },
+   {
+    "city": "Barcelona",
+    "dur": 280,
+    "price": 2019
+   },
+   {
+    "city": "Berlin",
+    "dur": 270,
+    "price": 2168
+   },
+   {
+    "city": "Budapest",
+    "dur": 205,
+    "price": 1483
+   },
+   {
+    "city": "Milan",
+    "dur": 250,
+    "price": 2109
+   },
+   {
+    "city": "Naples",
+    "dur": 215,
+    "price": 1247
+   },
+   {
+    "city": "Krak\u00f3w",
+    "dur": 225,
+    "price": 1570
+   },
+   {
+    "city": "Baku",
+    "dur": null,
+    "price": 1647
+   }
+  ]
+ },
+ "Austria_2026-08-09_2026-08-15": {
+  "country": "Austria",
+  "dep": "2026-08-09",
+  "ret": "2026-08-15",
+  "nights": 6,
+  "flights": [
+   {
+    "city": "Athens",
+    "dur": 145,
+    "price": 1540
+   },
+   {
+    "city": "Rome",
+    "dur": 230,
+    "price": 1173
+   },
+   {
+    "city": "Barcelona",
+    "dur": 280,
+    "price": 2138
+   },
+   {
+    "city": "Budapest",
+    "dur": 205,
+    "price": 1240
+   },
+   {
+    "city": "Milan",
+    "dur": 250,
+    "price": 2109
+   },
+   {
+    "city": "Naples",
+    "dur": 215,
+    "price": 816
+   },
+   {
+    "city": "Krak\u00f3w",
+    "dur": 225,
+    "price": 1699
+   },
+   {
+    "city": "Baku",
+    "dur": null,
+    "price": 1647
+   }
+  ]
+ },
+ "Austria_2026-08-09_2026-08-16": {
+  "country": "Austria",
+  "dep": "2026-08-09",
+  "ret": "2026-08-16",
+  "nights": 7,
+  "flights": [
+   {
+    "city": "Athens",
+    "dur": 145,
+    "price": 1427
+   },
+   {
+    "city": "Mykonos",
+    "dur": 110,
+    "price": 2100
+   },
+   {
+    "city": "Rome",
+    "dur": 230,
+    "price": 1020
+   },
+   {
+    "city": "Barcelona",
+    "dur": 280,
+    "price": 2081
+   },
+   {
+    "city": "Berlin",
+    "dur": 270,
+    "price": 2317
+   },
+   {
+    "city": "Budapest",
+    "dur": 205,
+    "price": 1444
+   },
+   {
+    "city": "Milan",
+    "dur": 250,
+    "price": 2168
+   },
+   {
+    "city": "Naples",
+    "dur": 215,
+    "price": 884
+   },
+   {
+    "city": "Krak\u00f3w",
+    "dur": 225,
+    "price": 1291
+   },
+   {
+    "city": "Baku",
+    "dur": null,
+    "price": 1647
+   }
+  ]
+ },
+ "Austria_2026-08-09_2026-08-17": {
+  "country": "Austria",
+  "dep": "2026-08-09",
+  "ret": "2026-08-17",
+  "nights": 8,
+  "flights": [
+   {
+    "city": "Athens",
+    "dur": 145,
+    "price": 1540
+   },
+   {
+    "city": "Mykonos",
+    "dur": 110,
+    "price": 1951
+   },
+   {
+    "city": "Rome",
+    "dur": 230,
+    "price": 1088
+   },
+   {
+    "city": "Barcelona",
+    "dur": 280,
+    "price": 2138
+   },
+   {
+    "city": "Berlin",
+    "dur": 270,
+    "price": 2228
+   },
+   {
+    "city": "Budapest",
+    "dur": 205,
+    "price": 1444
+   },
+   {
+    "city": "Milan",
+    "dur": 250,
+    "price": 2138
+   },
+   {
+    "city": "Naples",
+    "dur": 215,
+    "price": 1513
+   },
+   {
+    "city": "Krak\u00f3w",
+    "dur": 225,
+    "price": 1359
+   },
+   {
+    "city": "Baku",
+    "dur": null,
+    "price": 1647
+   }
+  ]
+ },
+ "Austria_2026-08-09_2026-08-18": {
+  "country": "Austria",
+  "dep": "2026-08-09",
+  "ret": "2026-08-18",
+  "nights": 9,
+  "flights": [
+   {
+    "city": "Athens",
+    "dur": 145,
+    "price": 1291
+   },
+   {
+    "city": "Mykonos",
+    "dur": 110,
+    "price": 2100
+   },
+   {
+    "city": "Rome",
+    "dur": 230,
+    "price": 1173
+   },
+   {
+    "city": "Barcelona",
+    "dur": 280,
+    "price": 1930
+   },
+   {
+    "city": "Berlin",
+    "dur": 270,
+    "price": 2168
+   },
+   {
+    "city": "Budapest",
+    "dur": 205,
+    "price": 1359
+   },
+   {
+    "city": "Milan",
+    "dur": 250,
+    "price": 2168
+   },
+   {
+    "city": "Naples",
+    "dur": 215,
+    "price": 884
+   },
+   {
+    "city": "Krak\u00f3w",
+    "dur": 225,
+    "price": 1529
+   },
+   {
+    "city": "Baku",
+    "dur": null,
+    "price": 1647
+   }
+  ]
+ },
+ "Austria_2026-08-10_2026-08-15": {
+  "country": "Austria",
+  "dep": "2026-08-10",
+  "ret": "2026-08-15",
+  "nights": 5,
+  "flights": [
+   {
+    "city": "Athens",
+    "dur": 130,
+    "price": 1424
+   },
+   {
+    "city": "Rome",
+    "dur": 230,
+    "price": 1105
+   },
+   {
+    "city": "Barcelona",
+    "dur": 280,
+    "price": 1960
+   },
+   {
+    "city": "Prague",
+    "dur": 250,
+    "price": 2016
+   },
+   {
+    "city": "Vienna",
+    "dur": 225,
+    "price": 1782
+   },
+   {
+    "city": "Budapest",
+    "dur": 210,
+    "price": 1071
+   },
+   {
+    "city": "Milan",
+    "dur": 255,
+    "price": 1632
+   },
+   {
+    "city": "Naples",
+    "dur": 195,
+    "price": 1423
+   },
+   {
+    "city": "Krak\u00f3w",
+    "dur": 225,
+    "price": 1699
+   },
+   {
+    "city": "Baku",
+    "dur": null,
+    "price": 1647
+   }
+  ]
+ },
+ "Austria_2026-08-10_2026-08-16": {
+  "country": "Austria",
+  "dep": "2026-08-10",
+  "ret": "2026-08-16",
+  "nights": 6,
+  "flights": [
+   {
+    "city": "Athens",
+    "dur": 130,
+    "price": 1316
+   },
+   {
+    "city": "Mykonos",
+    "dur": 110,
+    "price": 1766
+   },
+   {
+    "city": "Rome",
+    "dur": 230,
+    "price": 952
+   },
+   {
+    "city": "Barcelona",
+    "dur": 280,
+    "price": 2081
+   },
+   {
+    "city": "Berlin",
+    "dur": 270,
+    "price": 1900
+   },
+   {
+    "city": "Prague",
+    "dur": 250,
+    "price": 2240
+   },
+   {
+    "city": "Vienna",
+    "dur": 225,
+    "price": 1847
+   },
+   {
+    "city": "Budapest",
+    "dur": 210,
+    "price": 1274
+   },
+   {
+    "city": "Milan",
+    "dur": 255,
+    "price": 1692
+   },
+   {
+    "city": "Naples",
+    "dur": 195,
+    "price": 1492
+   },
+   {
+    "city": "Krak\u00f3w",
+    "dur": 225,
+    "price": 1291
+   },
+   {
+    "city": "Baku",
+    "dur": null,
+    "price": 1647
+   }
+  ]
+ },
+ "Austria_2026-08-10_2026-08-17": {
+  "country": "Austria",
+  "dep": "2026-08-10",
+  "ret": "2026-08-17",
+  "nights": 7,
+  "flights": [
+   {
+    "city": "Athens",
+    "dur": 130,
+    "price": 1424
+   },
+   {
+    "city": "Mykonos",
+    "dur": 110,
+    "price": 1617
+   },
+   {
+    "city": "Paris",
+    "dur": 305,
+    "price": 2135
+   },
+   {
+    "city": "Dubrovnik",
+    "dur": 200,
+    "price": 1820
+   },
+   {
+    "city": "Rome",
+    "dur": 230,
+    "price": 1020
+   },
+   {
+    "city": "Barcelona",
+    "dur": 280,
+    "price": 1960
+   },
+   {
+    "city": "Berlin",
+    "dur": 270,
+    "price": 1811
+   },
+   {
+    "city": "Prague",
+    "dur": 240,
+    "price": 1805
+   },
+   {
+    "city": "Vienna",
+    "dur": 225,
+    "price": 1841
+   },
+   {
+    "city": "Budapest",
+    "dur": 210,
+    "price": 1274
+   },
+   {
+    "city": "Milan",
+    "dur": 255,
+    "price": 1516
+   },
+   {
+    "city": "Naples",
+    "dur": 195,
+    "price": 1732
+   },
+   {
+    "city": "Krak\u00f3w",
+    "dur": 225,
+    "price": 1359
+   },
+   {
+    "city": "Baku",
+    "dur": null,
+    "price": 1647
+   }
+  ]
+ },
+ "Austria_2026-08-10_2026-08-18": {
+  "country": "Austria",
+  "dep": "2026-08-10",
+  "ret": "2026-08-18",
+  "nights": 8,
+  "flights": [
+   {
+    "city": "Athens",
+    "dur": 130,
+    "price": 1182
+   },
+   {
+    "city": "Mykonos",
+    "dur": 110,
+    "price": 1766
+   },
+   {
+    "city": "Paris",
+    "dur": 305,
+    "price": 1786
+   },
+   {
+    "city": "Rome",
+    "dur": 230,
+    "price": 1105
+   },
+   {
+    "city": "Barcelona",
+    "dur": 280,
+    "price": 1751
+   },
+   {
+    "city": "Berlin",
+    "dur": 270,
+    "price": 1751
+   },
+   {
+    "city": "Prague",
+    "dur": 240,
+    "price": 1856
+   },
+   {
+    "city": "Vienna",
+    "dur": 225,
+    "price": 1828
+   },
+   {
+    "city": "Budapest",
+    "dur": 210,
+    "price": 1190
+   },
+   {
+    "city": "Milan",
+    "dur": 255,
+    "price": 1692
+   },
+   {
+    "city": "Naples",
+    "dur": 195,
+    "price": 1492
+   },
+   {
+    "city": "Krak\u00f3w",
+    "dur": 225,
+    "price": 1529
+   },
+   {
+    "city": "Baku",
+    "dur": null,
+    "price": 1647
+   }
+  ]
+ },
+ "Austria_2026-08-10_2026-08-19": {
+  "country": "Austria",
+  "dep": "2026-08-10",
+  "ret": "2026-08-19",
+  "nights": 9,
+  "flights": [
+   {
+    "city": "Athens",
+    "dur": 130,
+    "price": 1080
+   },
+   {
+    "city": "Mykonos",
+    "dur": 110,
+    "price": 1468
+   },
+   {
+    "city": "Paris",
+    "dur": 305,
+    "price": 1890
+   },
+   {
+    "city": "Rome",
+    "dur": 230,
+    "price": 850
+   },
+   {
+    "city": "Barcelona",
+    "dur": 280,
+    "price": 1960
+   },
+   {
+    "city": "Berlin",
+    "dur": 270,
+    "price": 1722
+   },
+   {
+    "city": "Prague",
+    "dur": 240,
+    "price": 1704
+   },
+   {
+    "city": "Vienna",
+    "dur": 225,
+    "price": 1683
+   },
+   {
+    "city": "Budapest",
+    "dur": 210,
+    "price": 1427
+   },
+   {
+    "city": "Milan",
+    "dur": 255,
+    "price": 1692
+   },
+   {
+    "city": "Munich",
+    "dur": 250,
+    "price": 2233
+   },
+   {
+    "city": "Naples",
+    "dur": 195,
+    "price": 1492
+   },
+   {
+    "city": "Krak\u00f3w",
+    "dur": 225,
+    "price": 1529
+   },
+   {
+    "city": "Baku",
+    "dur": null,
+    "price": 1728
+   }
+  ]
+ },
+ "Austria_2026-08-11_2026-08-16": {
+  "country": "Austria",
+  "dep": "2026-08-11",
+  "ret": "2026-08-16",
+  "nights": 5,
+  "flights": [
+   {
+    "city": "Athens",
+    "dur": 135,
+    "price": 1337
+   },
+   {
+    "city": "Mykonos",
+    "dur": 110,
+    "price": 1674
+   },
+   {
+    "city": "Rome",
+    "dur": 230,
+    "price": 1291
+   },
+   {
+    "city": "Barcelona",
+    "dur": 280,
+    "price": 2081
+   },
+   {
+    "city": "Venice",
+    "dur": 230,
+    "price": 1933
+   },
+   {
+    "city": "Berlin",
+    "dur": 270,
+    "price": 1900
+   },
+   {
+    "city": "Prague",
+    "dur": 250,
+    "price": 2174
+   },
+   {
+    "city": "Madrid",
+    "dur": 315,
+    "price": 2031
+   },
+   {
+    "city": "Vienna",
+    "dur": 225,
+    "price": 1960
+   },
+   {
+    "city": "Budapest",
+    "dur": 210,
+    "price": 1325
+   },
+   {
+    "city": "Milan",
+    "dur": 255,
+    "price": 1632
+   },
+   {
+    "city": "Naples",
+    "dur": 210,
+    "price": 1241
+   },
+   {
+    "city": "Krak\u00f3w",
+    "dur": 225,
+    "price": 1173
+   }
+  ]
+ },
+ "Austria_2026-08-11_2026-08-17": {
+  "country": "Austria",
+  "dep": "2026-08-11",
+  "ret": "2026-08-17",
+  "nights": 6,
+  "flights": [
+   {
+    "city": "Athens",
+    "dur": 135,
+    "price": 1447
+   },
+   {
+    "city": "Mykonos",
+    "dur": 110,
+    "price": 1525
+   },
+   {
+    "city": "Paris",
+    "dur": 305,
+    "price": 2135
+   },
+   {
+    "city": "Rome",
+    "dur": 230,
+    "price": 1359
+   },
+   {
+    "city": "Barcelona",
+    "dur": 280,
+    "price": 1960
+   },
+   {
+    "city": "Berlin",
+    "dur": 270,
+    "price": 1811
+   },
+   {
+    "city": "Prague",
+    "dur": 250,
+    "price": 2109
+   },
+   {
+    "city": "Madrid",
+    "dur": 315,
+    "price": 2136
+   },
+   {
+    "city": "Vienna",
+    "dur": 225,
+    "price": 1841
+   },
+   {
+    "city": "Budapest",
+    "dur": 210,
+    "price": 1325
+   },
+   {
+    "city": "Milan",
+    "dur": 255,
+    "price": 1364
+   },
+   {
+    "city": "Naples",
+    "dur": 210,
+    "price": 1871
+   },
+   {
+    "city": "Krak\u00f3w",
+    "dur": 225,
+    "price": 1240
+   }
+  ]
+ },
+ "Austria_2026-08-11_2026-08-18": {
+  "country": "Austria",
+  "dep": "2026-08-11",
+  "ret": "2026-08-18",
+  "nights": 7,
+  "flights": [
+   {
+    "city": "Athens",
+    "dur": 135,
+    "price": 1203
+   },
+   {
+    "city": "Santorini",
+    "dur": 120,
+    "price": 1477
+   },
+   {
+    "city": "Mykonos",
+    "dur": 110,
+    "price": 1674
+   },
+   {
+    "city": "Paris",
+    "dur": 305,
+    "price": 1786
+   },
+   {
+    "city": "Rome",
+    "dur": 230,
+    "price": 1444
+   },
+   {
+    "city": "Barcelona",
+    "dur": 280,
+    "price": 1751
+   },
+   {
+    "city": "Venice",
+    "dur": 230,
+    "price": 1933
+   },
+   {
+    "city": "Berlin",
+    "dur": 270,
+    "price": 1751
+   },
+   {
+    "city": "Prague",
+    "dur": 250,
+    "price": 2109
+   },
+   {
+    "city": "Vienna",
+    "dur": 225,
+    "price": 2138
+   },
+   {
+    "city": "Budapest",
+    "dur": 210,
+    "price": 1240
+   },
+   {
+    "city": "Milan",
+    "dur": 255,
+    "price": 1632
+   },
+   {
+    "city": "Naples",
+    "dur": 210,
+    "price": 1241
+   },
+   {
+    "city": "Krak\u00f3w",
+    "dur": 225,
+    "price": 1410
+   },
+   {
+    "city": "Nice",
+    "dur": 255,
+    "price": 1794
+   }
+  ]
+ },
+ "Austria_2026-08-11_2026-08-19": {
+  "country": "Austria",
+  "dep": "2026-08-11",
+  "ret": "2026-08-19",
+  "nights": 8,
+  "flights": [
+   {
+    "city": "Athens",
+    "dur": 135,
+    "price": 1167
+   },
+   {
+    "city": "Mykonos",
+    "dur": 110,
+    "price": 1376
+   },
+   {
+    "city": "Paris",
+    "dur": 305,
+    "price": 1890
+   },
+   {
+    "city": "Rome",
+    "dur": 230,
+    "price": 1190
+   },
+   {
+    "city": "Barcelona",
+    "dur": 280,
+    "price": 1960
+   },
+   {
+    "city": "Venice",
+    "dur": 230,
+    "price": 1933
+   },
+   {
+    "city": "Berlin",
+    "dur": 270,
+    "price": 1722
+   },
+   {
+    "city": "Prague",
+    "dur": 250,
+    "price": 1950
+   },
+   {
+    "city": "Vienna",
+    "dur": 225,
+    "price": 1900
+   },
+   {
+    "city": "Budapest",
+    "dur": 210,
+    "price": 1478
+   },
+   {
+    "city": "Milan",
+    "dur": 255,
+    "price": 1632
+   },
+   {
+    "city": "Munich",
+    "dur": 250,
+    "price": 2233
+   },
+   {
+    "city": "Naples",
+    "dur": 210,
+    "price": 1241
+   },
+   {
+    "city": "Krak\u00f3w",
+    "dur": 225,
+    "price": 1410
+   },
+   {
+    "city": "Nice",
+    "dur": 255,
+    "price": 2101
+   },
+   {
+    "city": "Tbilisi",
+    "dur": null,
+    "price": 1456
+   }
+  ]
+ },
+ "Austria_2026-08-11_2026-08-20": {
+  "country": "Austria",
+  "dep": "2026-08-11",
+  "ret": "2026-08-20",
+  "nights": 9,
+  "flights": [
+   {
+    "city": "Athens",
+    "dur": 135,
+    "price": 1167
+   },
+   {
+    "city": "Santorini",
+    "dur": 120,
+    "price": 1584
+   },
+   {
+    "city": "Mykonos",
+    "dur": 110,
+    "price": 1823
+   },
+   {
+    "city": "Paris",
+    "dur": 305,
+    "price": 1890
+   },
+   {
+    "city": "Rome",
+    "dur": 230,
+    "price": 1190
+   },
+   {
+    "city": "Barcelona",
+    "dur": 280,
+    "price": 2049
+   },
+   {
+    "city": "Venice",
+    "dur": 230,
+    "price": 1933
+   },
+   {
+    "city": "Berlin",
+    "dur": 270,
+    "price": 2049
+   },
+   {
+    "city": "Vienna",
+    "dur": 225,
+    "price": 2228
+   },
+   {
+    "city": "Budapest",
+    "dur": 210,
+    "price": 1478
+   },
+   {
+    "city": "Milan",
+    "dur": 255,
+    "price": 1682
+   },
+   {
+    "city": "Naples",
+    "dur": 210,
+    "price": 1274
+   },
+   {
+    "city": "Krak\u00f3w",
+    "dur": 225,
+    "price": 1325
+   }
+  ]
+ },
+ "Austria_2026-08-12_2026-08-17": {
+  "country": "Austria",
+  "dep": "2026-08-12",
+  "ret": "2026-08-17",
+  "nights": 5,
+  "flights": [
+   {
+    "city": "Athens",
+    "dur": 140,
+    "price": 1540
+   },
+   {
+    "city": "Mykonos",
+    "dur": 110,
+    "price": 2103
+   },
+   {
+    "city": "Rome",
+    "dur": 230,
+    "price": 1190
+   },
+   {
+    "city": "Barcelona",
+    "dur": 280,
+    "price": 1960
+   },
+   {
+    "city": "Berlin",
+    "dur": 270,
+    "price": 1722
+   },
+   {
+    "city": "Prague",
+    "dur": 240,
+    "price": 1984
+   },
+   {
+    "city": "Vienna",
+    "dur": 225,
+    "price": 1781
+   },
+   {
+    "city": "Budapest",
+    "dur": 210,
+    "price": 1241
+   },
+   {
+    "city": "Milan",
+    "dur": 255,
+    "price": 1662
+   },
+   {
+    "city": "Naples",
+    "dur": 215,
+    "price": 1549
+   },
+   {
+    "city": "Krak\u00f3w",
+    "dur": 225,
+    "price": 1529
+   }
+  ]
+ },
+ "Austria_2026-08-12_2026-08-18": {
+  "country": "Austria",
+  "dep": "2026-08-12",
+  "ret": "2026-08-18",
+  "nights": 6,
+  "flights": [
+   {
+    "city": "Athens",
+    "dur": 140,
+    "price": 1291
+   },
+   {
+    "city": "Mykonos",
+    "dur": 110,
+    "price": 2252
+   },
+   {
+    "city": "Rome",
+    "dur": 230,
+    "price": 1190
+   },
+   {
+    "city": "Barcelona",
+    "dur": 280,
+    "price": 1751
+   },
+   {
+    "city": "Berlin",
+    "dur": 270,
+    "price": 1662
+   },
+   {
+    "city": "Prague",
+    "dur": 240,
+    "price": 2035
+   },
+   {
+    "city": "Vienna",
+    "dur": 225,
+    "price": 2079
+   },
+   {
+    "city": "Budapest",
+    "dur": 210,
+    "price": 1156
+   },
+   {
+    "city": "Milan",
+    "dur": 255,
+    "price": 1692
+   },
+   {
+    "city": "Naples",
+    "dur": 215,
+    "price": 918
+   },
+   {
+    "city": "Krak\u00f3w",
+    "dur": 225,
+    "price": 1699
+   },
+   {
+    "city": "Nice",
+    "dur": 255,
+    "price": 1794
+   },
+   {
+    "city": "Baku",
+    "dur": null,
+    "price": 1647
+   }
+  ]
+ },
+ "Austria_2026-08-12_2026-08-19": {
+  "country": "Austria",
+  "dep": "2026-08-12",
+  "ret": "2026-08-19",
+  "nights": 7,
+  "flights": [
+   {
+    "city": "Athens",
+    "dur": 140,
+    "price": 1258
+   },
+   {
+    "city": "Mykonos",
+    "dur": 110,
+    "price": 1954
+   },
+   {
+    "city": "Rome",
+    "dur": 230,
+    "price": 1020
+   },
+   {
+    "city": "Barcelona",
+    "dur": 280,
+    "price": 1960
+   },
+   {
+    "city": "Berlin",
+    "dur": 270,
+    "price": 1632
+   },
+   {
+    "city": "Prague",
+    "dur": 240,
+    "price": 1883
+   },
+   {
+    "city": "Vienna",
+    "dur": 225,
+    "price": 1841
+   },
+   {
+    "city": "Budapest",
+    "dur": 210,
+    "price": 1393
+   },
+   {
+    "city": "Milan",
+    "dur": 255,
+    "price": 1692
+   },
+   {
+    "city": "Naples",
+    "dur": 215,
+    "price": 918
+   },
+   {
+    "city": "Krak\u00f3w",
+    "dur": 225,
+    "price": 1699
+   },
+   {
+    "city": "Nice",
+    "dur": 255,
+    "price": 2101
+   },
+   {
+    "city": "Tbilisi",
+    "dur": null,
+    "price": 1402
+   }
+  ]
+ },
+ "Austria_2026-08-12_2026-08-20": {
+  "country": "Austria",
+  "dep": "2026-08-12",
+  "ret": "2026-08-20",
+  "nights": 8,
+  "flights": [
+   {
+    "city": "Athens",
+    "dur": 140,
+    "price": 1258
+   },
+   {
+    "city": "Mykonos",
+    "dur": 110,
+    "price": 2400
+   },
+   {
+    "city": "Rome",
+    "dur": 230,
+    "price": 1020
+   },
+   {
+    "city": "Barcelona",
+    "dur": 280,
+    "price": 2049
+   },
+   {
+    "city": "Berlin",
+    "dur": 270,
+    "price": 1960
+   },
+   {
+    "city": "Prague",
+    "dur": 240,
+    "price": 2348
+   },
+   {
+    "city": "Vienna",
+    "dur": 225,
+    "price": 2168
+   },
+   {
+    "city": "Budapest",
+    "dur": 210,
+    "price": 1393
+   },
+   {
+    "city": "Naples",
+    "dur": 215,
+    "price": 952
+   },
+   {
+    "city": "Krak\u00f3w",
+    "dur": 225,
+    "price": 1614
+   }
+  ]
+ },
+ "Austria_2026-08-12_2026-08-21": {
+  "country": "Austria",
+  "dep": "2026-08-12",
+  "ret": "2026-08-21",
+  "nights": 9,
+  "flights": [
+   {
+    "city": "Athens",
+    "dur": 140,
+    "price": 1480
+   },
+   {
+    "city": "Mykonos",
+    "dur": 110,
+    "price": 2252
+   },
+   {
+    "city": "Rome",
+    "dur": 230,
+    "price": 1122
+   },
+   {
+    "city": "Barcelona",
+    "dur": 280,
+    "price": 2228
+   },
+   {
+    "city": "Berlin",
+    "dur": 270,
+    "price": 2138
+   },
+   {
+    "city": "Prague",
+    "dur": 250,
+    "price": 2109
+   },
+   {
+    "city": "Vienna",
+    "dur": 225,
+    "price": 2168
+   },
+   {
+    "city": "Budapest",
+    "dur": 210,
+    "price": 1631
+   },
+   {
+    "city": "Milan",
+    "dur": 255,
+    "price": 2168
+   },
+   {
+    "city": "Naples",
+    "dur": 215,
+    "price": 1549
+   },
+   {
+    "city": "Krak\u00f3w",
+    "dur": 225,
+    "price": 1699
+   },
+   {
+    "city": "Baku",
+    "dur": null,
+    "price": 1728
+   }
+  ]
+ },
+ "Austria_2026-08-13_2026-08-18": {
+  "country": "Austria",
+  "dep": "2026-08-13",
+  "ret": "2026-08-18",
+  "nights": 5,
+  "flights": [
+   {
+    "city": "Athens",
+    "dur": 135,
+    "price": 1295
+   },
+   {
+    "city": "Mykonos",
+    "dur": 110,
+    "price": 2252
+   },
+   {
+    "city": "Rome",
+    "dur": 230,
+    "price": 1190
+   },
+   {
+    "city": "Barcelona",
+    "dur": 280,
+    "price": 2168
+   },
+   {
+    "city": "Venice",
+    "dur": 230,
+    "price": 1933
+   },
+   {
+    "city": "Berlin",
+    "dur": 270,
+    "price": 1751
+   },
+   {
+    "city": "Prague",
+    "dur": 240,
+    "price": 1416
+   },
+   {
+    "city": "Vienna",
+    "dur": 225,
+    "price": 2317
+   },
+   {
+    "city": "Budapest",
+    "dur": 210,
+    "price": 1240
+   },
+   {
+    "city": "Milan",
+    "dur": 255,
+    "price": 1692
+   },
+   {
+    "city": "Naples",
+    "dur": 215,
+    "price": 1037
+   },
+   {
+    "city": "Krak\u00f3w",
+    "dur": 225,
+    "price": 1767
+   },
+   {
+    "city": "Baku",
+    "dur": null,
+    "price": 1942
+   }
+  ]
+ },
+ "Austria_2026-08-13_2026-08-19": {
+  "country": "Austria",
+  "dep": "2026-08-13",
+  "ret": "2026-08-19",
+  "nights": 6,
+  "flights": [
+   {
+    "city": "Athens",
+    "dur": 135,
+    "price": 1259
+   },
+   {
+    "city": "Mykonos",
+    "dur": 110,
+    "price": 1954
+   },
+   {
+    "city": "Rome",
+    "dur": 230,
+    "price": 1020
+   },
+   {
+    "city": "Barcelona",
+    "dur": 280,
+    "price": 2377
+   },
+   {
+    "city": "Venice",
+    "dur": 230,
+    "price": 1933
+   },
+   {
+    "city": "Berlin",
+    "dur": 270,
+    "price": 1722
+   },
+   {
+    "city": "Prague",
+    "dur": 240,
+    "price": 1539
+   },
+   {
+    "city": "Vienna",
+    "dur": 225,
+    "price": 2079
+   },
+   {
+    "city": "Budapest",
+    "dur": 210,
+    "price": 1478
+   },
+   {
+    "city": "Milan",
+    "dur": 255,
+    "price": 1692
+   },
+   {
+    "city": "Naples",
+    "dur": 215,
+    "price": 1037
+   },
+   {
+    "city": "Krak\u00f3w",
+    "dur": 225,
+    "price": 1767
+   },
+   {
+    "city": "Baku",
+    "dur": null,
+    "price": 2023
+   }
+  ]
+ },
+ "Austria_2026-08-13_2026-08-20": {
+  "country": "Austria",
+  "dep": "2026-08-13",
+  "ret": "2026-08-20",
+  "nights": 7,
+  "flights": [
+   {
+    "city": "Athens",
+    "dur": 135,
+    "price": 1259
+   },
+   {
+    "city": "Mykonos",
+    "dur": 110,
+    "price": 2400
+   },
+   {
+    "city": "Rome",
+    "dur": 230,
+    "price": 1020
+   },
+   {
+    "city": "Venice",
+    "dur": 230,
+    "price": 1933
+   },
+   {
+    "city": "Berlin",
+    "dur": 270,
+    "price": 2049
+   },
+   {
+    "city": "Budapest",
+    "dur": 210,
+    "price": 1478
+   },
+   {
+    "city": "Milan",
+    "dur": 255,
+    "price": 1835
+   },
+   {
+    "city": "Naples",
+    "dur": 215,
+    "price": 1071
+   },
+   {
+    "city": "Krak\u00f3w",
+    "dur": 225,
+    "price": 1682
+   },
+   {
+    "city": "Baku",
+    "dur": null,
+    "price": 2121
+   }
+  ]
+ },
+ "Austria_2026-08-13_2026-08-21": {
+  "country": "Austria",
+  "dep": "2026-08-13",
+  "ret": "2026-08-21",
+  "nights": 8,
+  "flights": [
+   {
+    "city": "Athens",
+    "dur": 135,
+    "price": 1485
+   },
+   {
+    "city": "Mykonos",
+    "dur": 110,
+    "price": 2252
+   },
+   {
+    "city": "Rome",
+    "dur": 230,
+    "price": 1122
+   },
+   {
+    "city": "Berlin",
+    "dur": 270,
+    "price": 2228
+   },
+   {
+    "city": "Prague",
+    "dur": 250,
+    "price": 2174
+   },
+   {
+    "city": "Budapest",
+    "dur": 210,
+    "price": 1716
+   },
+   {
+    "city": "Milan",
+    "dur": 255,
+    "price": 1835
+   },
+   {
+    "city": "Naples",
+    "dur": 215,
+    "price": 1665
+   },
+   {
+    "city": "Krak\u00f3w",
+    "dur": 225,
+    "price": 1767
+   },
+   {
+    "city": "Baku",
+    "dur": null,
+    "price": 2023
+   }
+  ]
+ },
+ "Austria_2026-08-13_2026-08-22": {
+  "country": "Austria",
+  "dep": "2026-08-13",
+  "ret": "2026-08-22",
+  "nights": 9,
+  "flights": [
+   {
+    "city": "Athens",
+    "dur": 135,
+    "price": 1689
+   },
+   {
+    "city": "Rome",
+    "dur": 230,
+    "price": 1529
+   },
+   {
+    "city": "Prague",
+    "dur": 250,
+    "price": 2240
+   },
+   {
+    "city": "Budapest",
+    "dur": 210,
+    "price": 1173
+   },
+   {
+    "city": "Milan",
+    "dur": 255,
+    "price": 2073
+   },
+   {
+    "city": "Naples",
+    "dur": 215,
+    "price": 1173
+   },
+   {
+    "city": "Krak\u00f3w",
+    "dur": 225,
+    "price": 1767
+   },
+   {
+    "city": "Baku",
+    "dur": null,
+    "price": 2121
+   }
+  ]
+ },
+ "Austria_2026-08-14_2026-08-19": {
+  "country": "Austria",
+  "dep": "2026-08-14",
+  "ret": "2026-08-19",
+  "nights": 5,
+  "flights": [
+   {
+    "city": "Athens",
+    "dur": 130,
+    "price": 1152
+   },
+   {
+    "city": "Mykonos",
+    "dur": 110,
+    "price": 1710
+   },
+   {
+    "city": "London",
+    "dur": 320,
+    "price": 2277
+   },
+   {
+    "city": "Rome",
+    "dur": 230,
+    "price": 1020
+   },
+   {
+    "city": "Barcelona",
+    "dur": 280,
+    "price": 2198
+   },
+   {
+    "city": "Berlin",
+    "dur": 270,
+    "price": 1751
+   },
+   {
+    "city": "Prague",
+    "dur": 240,
+    "price": 1972
+   },
+   {
+    "city": "Vienna",
+    "dur": 225,
+    "price": 1870
+   },
+   {
+    "city": "Budapest",
+    "dur": 210,
+    "price": 1427
+   },
+   {
+    "city": "Milan",
+    "dur": 255,
+    "price": 1751
+   },
+   {
+    "city": "Krak\u00f3w",
+    "dur": 220,
+    "price": 1614
+   },
+   {
+    "city": "Baku",
+    "dur": null,
+    "price": 1844
+   }
+  ]
+ },
+ "Austria_2026-08-14_2026-08-20": {
+  "country": "Austria",
+  "dep": "2026-08-14",
+  "ret": "2026-08-20",
+  "nights": 6,
+  "flights": [
+   {
+    "city": "Athens",
+    "dur": 130,
+    "price": 1152
+   },
+   {
+    "city": "Mykonos",
+    "dur": 110,
+    "price": 2156
+   },
+   {
+    "city": "Rome",
+    "dur": 230,
+    "price": 1020
+   },
+   {
+    "city": "Barcelona",
+    "dur": 280,
+    "price": 2287
+   },
+   {
+    "city": "Berlin",
+    "dur": 270,
+    "price": 2079
+   },
+   {
+    "city": "Vienna",
+    "dur": 225,
+    "price": 2198
+   },
+   {
+    "city": "Budapest",
+    "dur": 210,
+    "price": 1427
+   },
+   {
+    "city": "Milan",
+    "dur": 250,
+    "price": 1597
+   },
+   {
+    "city": "Krak\u00f3w",
+    "dur": 220,
+    "price": 1529
+   },
+   {
+    "city": "Baku",
+    "dur": null,
+    "price": 1942
+   }
+  ]
+ },
+ "Austria_2026-08-14_2026-08-21": {
+  "country": "Austria",
+  "dep": "2026-08-14",
+  "ret": "2026-08-21",
+  "nights": 7,
+  "flights": [
+   {
+    "city": "Athens",
+    "dur": 130,
+    "price": 1373
+   },
+   {
+    "city": "Mykonos",
+    "dur": 110,
+    "price": 2007
+   },
+   {
+    "city": "London",
+    "dur": 320,
+    "price": 2175
+   },
+   {
+    "city": "Rome",
+    "dur": 230,
+    "price": 1122
+   },
+   {
+    "city": "Berlin",
+    "dur": 270,
+    "price": 2258
+   },
+   {
+    "city": "Vienna",
+    "dur": 225,
+    "price": 2198
+   },
+   {
+    "city": "Budapest",
+    "dur": 210,
+    "price": 1665
+   },
+   {
+    "city": "Milan",
+    "dur": 250,
+    "price": 1597
+   },
+   {
+    "city": "Krak\u00f3w",
+    "dur": 220,
+    "price": 1614
+   },
+   {
+    "city": "Hamburg",
+    "dur": 285,
+    "price": 2208
+   },
+   {
+    "city": "Baku",
+    "dur": null,
+    "price": 1844
+   }
+  ]
+ },
+ "Austria_2026-08-14_2026-08-22": {
+  "country": "Austria",
+  "dep": "2026-08-14",
+  "ret": "2026-08-22",
+  "nights": 8,
+  "flights": [
+   {
+    "city": "Athens",
+    "dur": 130,
+    "price": 1841
+   },
+   {
+    "city": "London",
+    "dur": 320,
+    "price": 2175
+   },
+   {
+    "city": "Rome",
+    "dur": 230,
+    "price": 1529
+   },
+   {
+    "city": "Vienna",
+    "dur": 225,
+    "price": 2198
+   },
+   {
+    "city": "Budapest",
+    "dur": 210,
+    "price": 1122
+   },
+   {
+    "city": "Milan",
+    "dur": 250,
+    "price": 1835
+   },
+   {
+    "city": "Krak\u00f3w",
+    "dur": 220,
+    "price": 1614
+   },
+   {
+    "city": "Baku",
+    "dur": null,
+    "price": 1942
+   }
+  ]
+ },
+ "Austria_2026-08-14_2026-08-23": {
+  "country": "Austria",
+  "dep": "2026-08-14",
+  "ret": "2026-08-23",
+  "nights": 9,
+  "flights": [
+   {
+    "city": "Athens",
+    "dur": 130,
+    "price": 1271
+   },
+   {
+    "city": "Mykonos",
+    "dur": 110,
+    "price": 2335
+   },
+   {
+    "city": "London",
+    "dur": 320,
+    "price": 2379
+   },
+   {
+    "city": "Rome",
+    "dur": 230,
+    "price": 1122
+   },
+   {
+    "city": "Berlin",
+    "dur": 270,
+    "price": 2258
+   },
+   {
+    "city": "Prague",
+    "dur": 240,
+    "price": 2187
+   },
+   {
+    "city": "Budapest",
+    "dur": 210,
+    "price": 1359
+   },
+   {
+    "city": "Krak\u00f3w",
+    "dur": 220,
+    "price": 1784
+   },
+   {
+    "city": "Baku",
+    "dur": null,
+    "price": 1942
+   }
+  ]
+ },
+ "Austria_2026-08-15_2026-08-20": {
+  "country": "Austria",
+  "dep": "2026-08-15",
+  "ret": "2026-08-20",
+  "nights": 5,
+  "flights": [
+   {
+    "city": "Athens",
+    "dur": 135,
+    "price": 1167
+   },
+   {
+    "city": "Rome",
+    "dur": 230,
+    "price": 918
+   },
+   {
+    "city": "Barcelona",
+    "dur": 280,
+    "price": 2138
+   },
+   {
+    "city": "Vienna",
+    "dur": 225,
+    "price": 2228
+   },
+   {
+    "city": "Budapest",
+    "dur": 210,
+    "price": 1427
+   },
+   {
+    "city": "Milan",
+    "dur": 255,
+    "price": 1835
+   },
+   {
+    "city": "Naples",
+    "dur": 210,
+    "price": 952
+   },
+   {
+    "city": "Krak\u00f3w",
+    "dur": 225,
+    "price": 1376
+   },
+   {
+    "city": "Baku",
+    "dur": null,
+    "price": 1826
+   }
+  ]
+ },
+ "Austria_2026-08-15_2026-08-21": {
+  "country": "Austria",
+  "dep": "2026-08-15",
+  "ret": "2026-08-21",
+  "nights": 6,
+  "flights": [
+   {
+    "city": "Athens",
+    "dur": 135,
+    "price": 1393
+   },
+   {
+    "city": "Rome",
+    "dur": 230,
+    "price": 1020
+   },
+   {
+    "city": "Barcelona",
+    "dur": 280,
+    "price": 2317
+   },
+   {
+    "city": "Prague",
+    "dur": 250,
+    "price": 2109
+   },
+   {
+    "city": "Vienna",
+    "dur": 225,
+    "price": 2228
+   },
+   {
+    "city": "Budapest",
+    "dur": 210,
+    "price": 1665
+   },
+   {
+    "city": "Milan",
+    "dur": 255,
+    "price": 1835
+   },
+   {
+    "city": "Naples",
+    "dur": 210,
+    "price": 1549
+   },
+   {
+    "city": "Krak\u00f3w",
+    "dur": 225,
+    "price": 1461
+   },
+   {
+    "city": "Baku",
+    "dur": null,
+    "price": 1728
+   }
+  ]
+ },
+ "Austria_2026-08-15_2026-08-22": {
+  "country": "Austria",
+  "dep": "2026-08-15",
+  "ret": "2026-08-22",
+  "nights": 7,
+  "flights": [
+   {
+    "city": "Athens",
+    "dur": 135,
+    "price": 1596
+   },
+   {
+    "city": "Rome",
+    "dur": 230,
+    "price": 1427
+   },
+   {
+    "city": "Barcelona",
+    "dur": 280,
+    "price": 2317
+   },
+   {
+    "city": "Prague",
+    "dur": 250,
+    "price": 2174
+   },
+   {
+    "city": "Vienna",
+    "dur": 225,
+    "price": 2228
+   },
+   {
+    "city": "Budapest",
+    "dur": 210,
+    "price": 1122
+   },
+   {
+    "city": "Milan",
+    "dur": 255,
+    "price": 2073
+   },
+   {
+    "city": "Munich",
+    "dur": 250,
+    "price": 2368
+   },
+   {
+    "city": "Naples",
+    "dur": 210,
+    "price": 1054
+   },
+   {
+    "city": "Krak\u00f3w",
+    "dur": 225,
+    "price": 1461
+   },
+   {
+    "city": "Baku",
+    "dur": null,
+    "price": 1826
+   }
+  ]
+ },
+ "Austria_2026-08-15_2026-08-23": {
+  "country": "Austria",
+  "dep": "2026-08-15",
+  "ret": "2026-08-23",
+  "nights": 8,
+  "flights": [
+   {
+    "city": "Athens",
+    "dur": 135,
+    "price": 1286
+   },
+   {
+    "city": "Rome",
+    "dur": 230,
+    "price": 1020
+   },
+   {
+    "city": "Prague",
+    "dur": 250,
+    "price": 2174
+   },
+   {
+    "city": "Budapest",
+    "dur": 210,
+    "price": 1359
+   },
+   {
+    "city": "Naples",
+    "dur": 210,
+    "price": 1122
+   },
+   {
+    "city": "Krak\u00f3w",
+    "dur": 225,
+    "price": 1631
+   },
+   {
+    "city": "Baku",
+    "dur": null,
+    "price": 1826
+   }
+  ]
+ },
+ "Austria_2026-08-15_2026-08-24": {
+  "country": "Austria",
+  "dep": "2026-08-15",
+  "ret": "2026-08-24",
+  "nights": 9,
+  "flights": [
+   {
+    "city": "Athens",
+    "dur": 135,
+    "price": 1596
+   },
+   {
+    "city": "Rome",
+    "dur": 230,
+    "price": 1563
+   },
+   {
+    "city": "Prague",
+    "dur": 250,
+    "price": 2174
+   },
+   {
+    "city": "Vienna",
+    "dur": 225,
+    "price": 2228
+   },
+   {
+    "city": "Budapest",
+    "dur": 210,
+    "price": 1427
+   },
+   {
+    "city": "Milan",
+    "dur": 255,
+    "price": 2228
+   },
+   {
+    "city": "Naples",
+    "dur": 210,
+    "price": 1549
+   },
+   {
+    "city": "Krak\u00f3w",
+    "dur": 225,
+    "price": 1767
+   },
+   {
+    "city": "Baku",
+    "dur": null,
+    "price": 1826
+   }
+  ]
+ },
+ "Austria_2026-08-16_2026-08-21": {
+  "country": "Austria",
+  "dep": "2026-08-16",
+  "ret": "2026-08-21",
+  "nights": 5,
+  "flights": [
+   {
+    "city": "Athens",
+    "dur": 145,
+    "price": 1701
+   },
+   {
+    "city": "Mykonos",
+    "dur": 110,
+    "price": 2344
+   },
+   {
+    "city": "Rome",
+    "dur": 230,
+    "price": 1122
+   },
+   {
+    "city": "Budapest",
+    "dur": 205,
+    "price": 1835
+   },
+   {
+    "city": "Naples",
+    "dur": 215,
+    "price": 1582
+   },
+   {
+    "city": "Krak\u00f3w",
+    "dur": 225,
+    "price": 1529
+   },
+   {
+    "city": "Baku",
+    "dur": null,
+    "price": 1844
+   }
+  ]
+ },
+ "Austria_2026-08-16_2026-08-22": {
+  "country": "Austria",
+  "dep": "2026-08-16",
+  "ret": "2026-08-22",
+  "nights": 6,
+  "flights": [
+   {
+    "city": "Athens",
+    "dur": 130,
+    "price": 2079
+   },
+   {
+    "city": "Rome",
+    "dur": 230,
+    "price": 1529
+   },
+   {
+    "city": "Budapest",
+    "dur": 205,
+    "price": 1291
+   },
+   {
+    "city": "Naples",
+    "dur": 215,
+    "price": 1088
+   },
+   {
+    "city": "Krak\u00f3w",
+    "dur": 225,
+    "price": 1529
+   },
+   {
+    "city": "Baku",
+    "dur": null,
+    "price": 1942
+   }
+  ]
+ },
+ "Austria_2026-08-16_2026-08-23": {
+  "country": "Austria",
+  "dep": "2026-08-16",
+  "ret": "2026-08-23",
+  "nights": 7,
+  "flights": [
+   {
+    "city": "Athens",
+    "dur": 145,
+    "price": 1597
+   },
+   {
+    "city": "Rome",
+    "dur": 230,
+    "price": 1122
+   },
+   {
+    "city": "Budapest",
+    "dur": 205,
+    "price": 1529
+   },
+   {
+    "city": "Naples",
+    "dur": 215,
+    "price": 1156
+   },
+   {
+    "city": "Krak\u00f3w",
+    "dur": 225,
+    "price": 1699
+   },
+   {
+    "city": "Baku",
+    "dur": null,
+    "price": 1942
+   }
+  ]
+ },
+ "Austria_2026-08-16_2026-08-24": {
+  "country": "Austria",
+  "dep": "2026-08-16",
+  "ret": "2026-08-24",
+  "nights": 8,
+  "flights": [
+   {
+    "city": "Athens",
+    "dur": 130,
+    "price": 2079
+   },
+   {
+    "city": "Mykonos",
+    "dur": 110,
+    "price": 2344
+   },
+   {
+    "city": "Rome",
+    "dur": 230,
+    "price": 1665
+   },
+   {
+    "city": "Budapest",
+    "dur": 205,
+    "price": 1597
+   },
+   {
+    "city": "Naples",
+    "dur": 215,
+    "price": 1582
+   },
+   {
+    "city": "Krak\u00f3w",
+    "dur": 225,
+    "price": 1835
+   },
+   {
+    "city": "Baku",
+    "dur": null,
+    "price": 1942
+   }
+  ]
+ },
+ "Austria_2026-08-16_2026-08-25": {
+  "country": "Austria",
+  "dep": "2026-08-16",
+  "ret": "2026-08-25",
+  "nights": 9,
+  "flights": [
+   {
+    "city": "Athens",
+    "dur": 145,
+    "price": 1648
+   },
+   {
+    "city": "Mykonos",
+    "dur": 110,
+    "price": 2284
+   },
+   {
+    "city": "Rome",
+    "dur": 230,
+    "price": 1190
+   },
+   {
+    "city": "Budapest",
+    "dur": 205,
+    "price": 1835
+   },
+   {
+    "city": "Naples",
+    "dur": 215,
+    "price": 1325
+   },
+   {
+    "city": "Krak\u00f3w",
+    "dur": 225,
+    "price": 1699
+   },
+   {
+    "city": "Baku",
+    "dur": null,
+    "price": 1942
+   }
+  ]
+ },
+ "Austria_2026-08-17_2026-08-22": {
+  "country": "Austria",
+  "dep": "2026-08-17",
+  "ret": "2026-08-22",
+  "nights": 5,
+  "flights": [
+   {
+    "city": "Athens",
+    "price": 1665,
+    "dur": 130
+   },
+   {
+    "city": "Rome",
+    "price": 1498,
+    "dur": 230
+   },
+   {
+    "city": "Barcelona",
+    "price": 2231,
+    "dur": 280
+   },
+   {
+    "city": "Prague",
+    "price": 1921,
+    "dur": 240
+   },
+   {
+    "city": "Vienna",
+    "price": 2082,
+    "dur": 225
+   },
+   {
+    "city": "Budapest",
+    "price": 1294,
+    "dur": 210
+   },
+   {
+    "city": "Milan",
+    "price": 2172,
+    "dur": 255
+   },
+   {
+    "city": "Naples",
+    "price": 1631,
+    "dur": 195
+   },
+   {
+    "city": "Krak\u00f3w",
+    "price": 1464,
+    "dur": 225
+   },
+   {
+    "city": "Baku",
+    "price": 1828,
+    "dur": null
+   }
+  ]
+ },
+ "Austria_2026-08-17_2026-08-23": {
+  "country": "Austria",
+  "dep": "2026-08-17",
+  "ret": "2026-08-23",
+  "nights": 6,
+  "flights": [
+   {
+    "city": "Athens",
+    "price": 1271,
+    "dur": 130
+   },
+   {
+    "city": "Mykonos",
+    "price": 2032,
+    "dur": 110
+   },
+   {
+    "city": "Rome",
+    "price": 1037,
+    "dur": 230
+   },
+   {
+    "city": "Berlin",
+    "price": 2199,
+    "dur": 270
+   },
+   {
+    "city": "Prague",
+    "price": 1918,
+    "dur": 240
+   },
+   {
+    "city": "Budapest",
+    "price": 1530,
+    "dur": 210
+   },
+   {
+    "city": "Naples",
+    "price": 1695,
+    "dur": 195
+   },
+   {
+    "city": "Krak\u00f3w",
+    "price": 1632,
+    "dur": 225
+   },
+   {
+    "city": "Baku",
+    "price": 1826,
+    "dur": null
+   }
+  ]
+ },
+ "Austria_2026-08-17_2026-08-24": {
+  "country": "Austria",
+  "dep": "2026-08-17",
+  "ret": "2026-08-24",
+  "nights": 7,
+  "flights": [
+   {
+    "city": "Athens",
+    "price": 1663,
+    "dur": 130
+   },
+   {
+    "city": "Mykonos",
+    "price": 1704,
+    "dur": 110
+   },
+   {
+    "city": "Dubrovnik",
+    "price": 1900,
+    "dur": 200
+   },
+   {
+    "city": "Rome",
+    "price": 1632,
+    "dur": 230
+   },
+   {
+    "city": "Barcelona",
+    "price": 2348,
+    "dur": 280
+   },
+   {
+    "city": "Berlin",
+    "price": 2199,
+    "dur": 270
+   },
+   {
+    "city": "Prague",
+    "price": 1918,
+    "dur": 240
+   },
+   {
+    "city": "Vienna",
+    "price": 2080,
+    "dur": 225
+   },
+   {
+    "city": "Budapest",
+    "price": 1598,
+    "dur": 210
+   },
+   {
+    "city": "Milan",
+    "price": 2169,
+    "dur": 255
+   },
+   {
+    "city": "Naples",
+    "price": 1731,
+    "dur": 195
+   },
+   {
+    "city": "Krak\u00f3w",
+    "price": 1768,
+    "dur": 225
+   },
+   {
+    "city": "Baku",
+    "price": 1826,
+    "dur": null
+   }
+  ]
+ },
+ "Austria_2026-08-17_2026-08-25": {
+  "country": "Austria",
+  "dep": "2026-08-17",
+  "ret": "2026-08-25",
+  "nights": 8,
+  "flights": [
+   {
+    "city": "Athens",
+    "price": 1408,
+    "dur": 130
+   },
+   {
+    "city": "Mykonos",
+    "price": 1645,
+    "dur": 110
+   },
+   {
+    "city": "Rome",
+    "price": 1156,
+    "dur": 230
+   },
+   {
+    "city": "Barcelona",
+    "price": 2229,
+    "dur": 280
+   },
+   {
+    "city": "Berlin",
+    "price": 2199,
+    "dur": 270
+   },
+   {
+    "city": "Prague",
+    "price": 1993,
+    "dur": 240
+   },
+   {
+    "city": "Vienna",
+    "price": 2080,
+    "dur": 225
+   },
+   {
+    "city": "Budapest",
+    "price": 1836,
+    "dur": 210
+   },
+   {
+    "city": "Milan",
+    "price": 2169,
+    "dur": 255
+   },
+   {
+    "city": "Naples",
+    "price": 1865,
+    "dur": 195
+   },
+   {
+    "city": "Krak\u00f3w",
+    "price": 1632,
+    "dur": 225
+   },
+   {
+    "city": "Baku",
+    "price": 1826,
+    "dur": null
+   }
+  ]
+ },
+ "Austria_2026-08-17_2026-08-26": {
+  "country": "Austria",
+  "dep": "2026-08-17",
+  "ret": "2026-08-26",
+  "nights": 9,
+  "flights": [
+   {
+    "city": "Athens",
+    "price": 1514,
+    "dur": 130
+   },
+   {
+    "city": "Mykonos",
+    "price": 1645,
+    "dur": 110
+   },
+   {
+    "city": "Rome",
+    "price": 1241,
+    "dur": 230
+   },
+   {
+    "city": "Barcelona",
+    "price": 2229,
+    "dur": 280
+   },
+   {
+    "city": "Berlin",
+    "price": 2199,
+    "dur": 270
+   },
+   {
+    "city": "Prague",
+    "price": 1918,
+    "dur": 240
+   },
+   {
+    "city": "Vienna",
+    "price": 2080,
+    "dur": 225
+   },
+   {
+    "city": "Budapest",
+    "price": 1377,
+    "dur": 210
+   },
+   {
+    "city": "Milan",
+    "price": 2169,
+    "dur": 255
+   },
+   {
+    "city": "Naples",
+    "price": 1731,
+    "dur": 195
+   },
+   {
+    "city": "Krak\u00f3w",
+    "price": 1462,
+    "dur": 225
+   },
+   {
+    "city": "Baku",
+    "price": 1727,
+    "dur": null
+   }
+  ]
+ },
+ "Austria_2026-08-21_2026-08-26": {
+  "country": "Austria",
+  "dep": "2026-08-21",
+  "ret": "2026-08-26",
+  "nights": 5,
+  "flights": [
+   {
+    "city": "Athens",
+    "price": 1564,
+    "dur": 145
+   },
+   {
+    "city": "Mykonos",
+    "price": 1707,
+    "dur": 110
+   },
+   {
+    "city": "Rome",
+    "price": 1173,
+    "dur": 230
+   },
+   {
+    "city": "Berlin",
+    "price": 2258,
+    "dur": 270
+   },
+   {
+    "city": "Prague",
+    "price": 1918,
+    "dur": 240
+   },
+   {
+    "city": "Vienna",
+    "price": 2139,
+    "dur": 225
+   },
+   {
+    "city": "Budapest",
+    "price": 1105,
+    "dur": 210
+   },
+   {
+    "city": "Milan",
+    "price": 2039,
+    "dur": 250
+   },
+   {
+    "city": "Naples",
+    "price": 1731,
+    "dur": 195
+   },
+   {
+    "city": "Krak\u00f3w",
+    "price": 1530,
+    "dur": 220
+   },
+   {
+    "city": "Baku",
+    "price": 1727,
+    "dur": null
+   }
+  ]
+ },
+ "Austria_2026-08-18_2026-08-23": {
+  "country": "Austria",
+  "dep": "2026-08-18",
+  "ret": "2026-08-23",
+  "nights": 5,
+  "flights": [
+   {
+    "city": "Athens",
+    "price": 1139,
+    "dur": 145
+   },
+   {
+    "city": "Mykonos",
+    "price": 1972,
+    "dur": 110
+   },
+   {
+    "city": "Rome",
+    "price": 1122,
+    "dur": 230
+   },
+   {
+    "city": "Berlin",
+    "price": 2169,
+    "dur": 270
+   },
+   {
+    "city": "Prague",
+    "price": 2016,
+    "dur": 250
+   },
+   {
+    "city": "Budapest",
+    "price": 1462,
+    "dur": 210
+   },
+   {
+    "city": "Naples",
+    "price": 1190,
+    "dur": 210
+   },
+   {
+    "city": "Krak\u00f3w",
+    "price": 1632,
+    "dur": 225
+   },
+   {
+    "city": "Baku",
+    "price": 2121,
+    "dur": null
+   }
+  ]
+ },
+ "Austria_2026-08-18_2026-08-24": {
+  "country": "Austria",
+  "dep": "2026-08-18",
+  "ret": "2026-08-24",
+  "nights": 6,
+  "flights": [
+   {
+    "city": "Athens",
+    "price": 1537,
+    "dur": 145
+   },
+   {
+    "city": "Mykonos",
+    "price": 1645,
+    "dur": 110
+   },
+   {
+    "city": "London",
+    "price": 2311,
+    "dur": 320
+   },
+   {
+    "city": "Rome",
+    "price": 1717,
+    "dur": 230
+   },
+   {
+    "city": "Barcelona",
+    "price": 2348,
+    "dur": 280
+   },
+   {
+    "city": "Berlin",
+    "price": 2169,
+    "dur": 270
+   },
+   {
+    "city": "Prague",
+    "price": 2016,
+    "dur": 250
+   },
+   {
+    "city": "Vienna",
+    "price": 2229,
+    "dur": 225
+   },
+   {
+    "city": "Budapest",
+    "price": 1530,
+    "dur": 210
+   },
+   {
+    "city": "Milan",
+    "price": 2169,
+    "dur": 255
+   },
+   {
+    "city": "Naples",
+    "price": 1614,
+    "dur": 210
+   },
+   {
+    "city": "Krak\u00f3w",
+    "price": 1768,
+    "dur": 225
+   },
+   {
+    "city": "Baku",
+    "price": 2121,
+    "dur": null
+   }
+  ]
+ },
+ "Austria_2026-08-18_2026-08-25": {
+  "country": "Austria",
+  "dep": "2026-08-18",
+  "ret": "2026-08-25",
+  "nights": 7,
+  "flights": [
+   {
+    "city": "Athens",
+    "price": 1275,
+    "dur": 145
+   },
+   {
+    "city": "Santorini",
+    "price": 1584,
+    "dur": 120
+   },
+   {
+    "city": "Mykonos",
+    "price": 1585,
+    "dur": 110
+   },
+   {
+    "city": "Rome",
+    "price": 1241,
+    "dur": 230
+   },
+   {
+    "city": "Barcelona",
+    "price": 2229,
+    "dur": 280
+   },
+   {
+    "city": "Berlin",
+    "price": 2169,
+    "dur": 270
+   },
+   {
+    "city": "Prague",
+    "price": 2090,
+    "dur": 250
+   },
+   {
+    "city": "Vienna",
+    "price": 2229,
+    "dur": 225
+   },
+   {
+    "city": "Budapest",
+    "price": 1768,
+    "dur": 210
+   },
+   {
+    "city": "Milan",
+    "price": 2023,
+    "dur": 255
+   },
+   {
+    "city": "Munich",
+    "price": 2191,
+    "dur": 250
+   },
+   {
+    "city": "Naples",
+    "price": 1275,
+    "dur": 210
+   },
+   {
+    "city": "Krak\u00f3w",
+    "price": 1632,
+    "dur": 225
+   },
+   {
+    "city": "Baku",
+    "price": 2121,
+    "dur": null
+   }
+  ]
+ },
+ "Austria_2026-08-18_2026-08-26": {
+  "country": "Austria",
+  "dep": "2026-08-18",
+  "ret": "2026-08-26",
+  "nights": 8,
+  "flights": [
+   {
+    "city": "Athens",
+    "price": 1387,
+    "dur": 145
+   },
+   {
+    "city": "Mykonos",
+    "price": 1585,
+    "dur": 110
+   },
+   {
+    "city": "Rome",
+    "price": 1326,
+    "dur": 230
+   },
+   {
+    "city": "Barcelona",
+    "price": 2229,
+    "dur": 280
+   },
+   {
+    "city": "Berlin",
+    "price": 2169,
+    "dur": 270
+   },
+   {
+    "city": "Prague",
+    "price": 1893,
+    "dur": 240
+   },
+   {
+    "city": "Vienna",
+    "price": 2229,
+    "dur": 225
+   },
+   {
+    "city": "Budapest",
+    "price": 1377,
+    "dur": 210
+   },
+   {
+    "city": "Milan",
+    "price": 2125,
+    "dur": 255
+   },
+   {
+    "city": "Naples",
+    "price": 1360,
+    "dur": 210
+   },
+   {
+    "city": "Krak\u00f3w",
+    "price": 1462,
+    "dur": 225
+   },
+   {
+    "city": "Baku",
+    "price": 2023,
+    "dur": null
+   }
+  ]
+ },
+ "Austria_2026-08-19_2026-08-24": {
+  "country": "Austria",
+  "dep": "2026-08-19",
+  "ret": "2026-08-24",
+  "nights": 5,
+  "flights": [
+   {
+    "city": "Athens",
+    "price": 1587,
+    "dur": 140
+   },
+   {
+    "city": "Mykonos",
+    "price": 1949,
+    "dur": 110
+   },
+   {
+    "city": "London",
+    "price": 2311,
+    "dur": 320
+   },
+   {
+    "city": "Rome",
+    "price": 1530,
+    "dur": 230
+   },
+   {
+    "city": "Berlin",
+    "price": 2109,
+    "dur": 270
+   },
+   {
+    "city": "Prague",
+    "price": 2174,
+    "dur": 250
+   },
+   {
+    "city": "Vienna",
+    "price": 2199,
+    "dur": 225
+   },
+   {
+    "city": "Budapest",
+    "price": 1360,
+    "dur": 210
+   },
+   {
+    "city": "Milan",
+    "price": 2181,
+    "dur": 255
+   },
+   {
+    "city": "Naples",
+    "price": 1513,
+    "dur": 215
+   },
+   {
+    "city": "Krak\u00f3w",
+    "price": 1921,
+    "dur": 225
+   },
+   {
+    "city": "Baku",
+    "price": 1826,
+    "dur": null
+   }
+  ]
+ },
+ "Austria_2026-08-19_2026-08-25": {
+  "country": "Austria",
+  "dep": "2026-08-19",
+  "ret": "2026-08-25",
+  "nights": 6,
+  "flights": [
+   {
+    "city": "Athens",
+    "price": 1326,
+    "dur": 140
+   },
+   {
+    "city": "Mykonos",
+    "price": 1889,
+    "dur": 110
+   },
+   {
+    "city": "Rome",
+    "price": 1054,
+    "dur": 230
+   },
+   {
+    "city": "Berlin",
+    "price": 2109,
+    "dur": 270
+   },
+   {
+    "city": "Prague",
+    "price": 2249,
+    "dur": 250
+   },
+   {
+    "city": "Vienna",
+    "price": 2199,
+    "dur": 225
+   },
+   {
+    "city": "Budapest",
+    "price": 1598,
+    "dur": 210
+   },
+   {
+    "city": "Milan",
+    "price": 2023,
+    "dur": 255
+   },
+   {
+    "city": "Munich",
+    "price": 2356,
+    "dur": 250
+   },
+   {
+    "city": "Naples",
+    "price": 1173,
+    "dur": 215
+   },
+   {
+    "city": "Krak\u00f3w",
+    "price": 1785,
+    "dur": 225
+   },
+   {
+    "city": "Baku",
+    "price": 1826,
+    "dur": null
+   }
+  ]
+ },
+ "Austria_2026-08-19_2026-08-26": {
+  "country": "Austria",
+  "dep": "2026-08-19",
+  "ret": "2026-08-26",
+  "nights": 7,
+  "flights": [
+   {
+    "city": "Athens",
+    "price": 1496,
+    "dur": 140
+   },
+   {
+    "city": "Mykonos",
+    "price": 1889,
+    "dur": 110
+   },
+   {
+    "city": "Rome",
+    "price": 1139,
+    "dur": 230
+   },
+   {
+    "city": "Berlin",
+    "price": 2109,
+    "dur": 270
+   },
+   {
+    "city": "Prague",
+    "price": 1837,
+    "dur": 240
+   },
+   {
+    "city": "Vienna",
+    "price": 2199,
+    "dur": 225
+   },
+   {
+    "city": "Budapest",
+    "price": 1207,
+    "dur": 210
+   },
+   {
+    "city": "Milan",
+    "price": 2125,
+    "dur": 255
+   },
+   {
+    "city": "Naples",
+    "price": 1258,
+    "dur": 215
+   },
+   {
+    "city": "Krak\u00f3w",
+    "price": 1615,
+    "dur": 225
+   },
+   {
+    "city": "Baku",
+    "price": 1727,
+    "dur": null
+   }
+  ]
+ },
+ "Austria_2026-08-20_2026-08-25": {
+  "country": "Austria",
+  "dep": "2026-08-20",
+  "ret": "2026-08-25",
+  "nights": 5,
+  "flights": [
+   {
+    "city": "Athens",
+    "price": 1428,
+    "dur": 150
+   },
+   {
+    "city": "Mykonos",
+    "price": 2041,
+    "dur": 110
+   },
+   {
+    "city": "Rome",
+    "price": 1020,
+    "dur": 230
+   },
+   {
+    "city": "Berlin",
+    "price": 2229,
+    "dur": 270
+   },
+   {
+    "city": "Prague",
+    "price": 2249,
+    "dur": 250
+   },
+   {
+    "city": "Vienna",
+    "price": 2348,
+    "dur": 225
+   },
+   {
+    "city": "Budapest",
+    "price": 1564,
+    "dur": 210
+   },
+   {
+    "city": "Milan",
+    "price": 1870,
+    "dur": 255
+   },
+   {
+    "city": "Naples",
+    "price": 1105,
+    "dur": 215
+   },
+   {
+    "city": "Krak\u00f3w",
+    "price": 1581,
+    "dur": 225
+   },
+   {
+    "city": "Baku",
+    "price": 2023,
+    "dur": null
+   }
+  ]
+ },
+ "Austria_2026-08-20_2026-08-26": {
+  "country": "Austria",
+  "dep": "2026-08-20",
+  "ret": "2026-08-26",
+  "nights": 6,
+  "flights": [
+   {
+    "city": "Athens",
+    "price": 1598,
+    "dur": 150
+   },
+   {
+    "city": "Mykonos",
+    "price": 2041,
+    "dur": 110
+   },
+   {
+    "city": "Rome",
+    "price": 1173,
+    "dur": 230
+   },
+   {
+    "city": "Berlin",
+    "price": 2229,
+    "dur": 270
+   },
+   {
+    "city": "Prague",
+    "price": 1893,
+    "dur": 240
+   },
+   {
+    "city": "Vienna",
+    "price": 2348,
+    "dur": 225
+   },
+   {
+    "city": "Budapest",
+    "price": 1173,
+    "dur": 210
+   },
+   {
+    "city": "Milan",
+    "price": 1972,
+    "dur": 255
+   },
+   {
+    "city": "Naples",
+    "price": 1190,
+    "dur": 215
+   },
+   {
+    "city": "Krak\u00f3w",
+    "price": 1411,
+    "dur": 225
+   },
+   {
+    "city": "Baku",
+    "price": 1924,
+    "dur": null
+   }
+  ]
+ },
+ "Ljubljana_2026-08-09_2026-08-14": {
+  "country": "Ljubljana",
+  "dep": "2026-08-09",
+  "ret": "2026-08-14",
+  "nights": 5,
+  "flights": [
+   {
+    "city": "Athens",
+    "price": 1258,
+    "dur": null
+   },
+   {
+    "city": "Barcelona",
+    "price": 2020,
+    "dur": null
+   },
+   {
+    "city": "Berlin",
+    "price": 2169,
+    "dur": null
+   },
+   {
+    "city": "Baku",
+    "price": 1647,
+    "dur": null
+   }
+  ]
+ },
+ "Ljubljana_2026-08-09_2026-08-15": {
+  "country": "Ljubljana",
+  "dep": "2026-08-09",
+  "ret": "2026-08-15",
+  "nights": 6,
+  "flights": [
+   {
+    "city": "Athens",
+    "price": 1540,
+    "dur": null
+   },
+   {
+    "city": "Barcelona",
+    "price": 2139,
+    "dur": null
+   },
+   {
+    "city": "Baku",
+    "price": 1647,
+    "dur": null
+   }
+  ]
+ },
+ "Ljubljana_2026-08-09_2026-08-16": {
+  "country": "Ljubljana",
+  "dep": "2026-08-09",
+  "ret": "2026-08-16",
+  "nights": 7,
+  "flights": [
+   {
+    "city": "Athens",
+    "price": 1428,
+    "dur": null
+   },
+   {
+    "city": "Berlin",
+    "price": 2318,
+    "dur": null
+   },
+   {
+    "city": "Baku",
+    "price": 1647,
+    "dur": null
+   }
+  ]
+ }
+}
