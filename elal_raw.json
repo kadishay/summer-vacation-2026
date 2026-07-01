@@ -1,0 +1,45 @@
+{
+ "2026-08-09_2026-08-14": {"dep":"2026-08-09","ret":"2026-08-14","nights":5,"dests":[
+  {"dest":"Madrid - MAD","iata":"MAD","usd":529},{"dest":"Thessaloniki - SKG","iata":"SKG","usd":623},{"dest":"Dubai - DXB","iata":"DXB","usd":763}]},
+ "2026-08-09_2026-08-16": {"dep":"2026-08-09","ret":"2026-08-16","nights":7,"dests":[
+  {"dest":"Thessaloniki - SKG","iata":"SKG","usd":577},{"dest":"Geneva - GVA","iata":"GVA","usd":699},{"dest":"Dubai - DXB","iata":"DXB","usd":763},{"dest":"Bucharest - OTP","iata":"OTP","usd":780}]},
+ "2026-08-10_2026-08-15": {"dep":"2026-08-10","ret":"2026-08-15","nights":5,"dests":[
+  {"dest":"Larnaca - LCA","iata":"LCA","usd":390},{"dest":"Rome - FCO","iata":"FCO","usd":597},{"dest":"Bucharest - OTP","iata":"OTP","usd":787}]},
+ "2026-08-10_2026-08-17": {"dep":"2026-08-10","ret":"2026-08-17","nights":7,"dests":[
+  {"dest":"Larnaca - LCA","iata":"LCA","usd":323},{"dest":"Sofia - SOF","iata":"SOF","usd":439},{"dest":"Thessaloniki - SKG","iata":"SKG","usd":530},{"dest":"Rome - FCO","iata":"FCO","usd":597},{"dest":"Athens - ATH","iata":"ATH","usd":598},{"dest":"Paris - CDG","iata":"CDG","usd":633},{"dest":"Bucharest - OTP","iata":"OTP","usd":780},{"dest":"Dubai - DXB","iata":"DXB","usd":840}]},
+ "2026-08-11_2026-08-16": {"dep":"2026-08-11","ret":"2026-08-16","nights":5,"dests":[
+  {"dest":"Sofia - SOF","iata":"SOF","usd":564},{"dest":"Thessaloniki - SKG","iata":"SKG","usd":575},{"dest":"Rome - FCO","iata":"FCO","usd":597},{"dest":"Venice - VCE","iata":"VCE","usd":648},{"dest":"Geneva - GVA","iata":"GVA","usd":699},{"dest":"Dubai - DXB","iata":"DXB","usd":763},{"dest":"Bucharest - OTP","iata":"OTP","usd":780}]},
+ "2026-08-11_2026-08-18": {"dep":"2026-08-11","ret":"2026-08-18","nights":7,"dests":[
+  {"dest":"Larnaca - LCA","iata":"LCA","usd":278},{"dest":"Tbilisi - TBS","iata":"TBS","usd":488},{"dest":"Rome - FCO","iata":"FCO","usd":585},{"dest":"Sofia - SOF","iata":"SOF","usd":594},{"dest":"Paris - CDG","iata":"CDG","usd":598},{"dest":"Budapest - BUD","iata":"BUD","usd":647},{"dest":"Venice - VCE","iata":"VCE","usd":648},{"dest":"London - LTN","iata":"LTN","usd":684},{"dest":"Barcelona - BCN","iata":"BCN","usd":697},{"dest":"Geneva - GVA","iata":"GVA","usd":699},{"dest":"Bucharest - OTP","iata":"OTP","usd":780},{"dest":"Dubai - DXB","iata":"DXB","usd":840}]},
+ "2026-08-12_2026-08-17": {"dep":"2026-08-12","ret":"2026-08-17","nights":5,"dests":[
+  {"dest":"Larnaca - LCA","iata":"LCA","usd":415},{"dest":"Thessaloniki - SKG","iata":"SKG","usd":575},{"dest":"Sofia - SOF","iata":"SOF","usd":594},{"dest":"Bucharest - OTP","iata":"OTP","usd":602},{"dest":"Dubai - DXB","iata":"DXB","usd":763}]},
+ "2026-08-12_2026-08-19": {"dep":"2026-08-12","ret":"2026-08-19","nights":7,"dests":[
+  {"dest":"Larnaca - LCA","iata":"LCA","usd":415},{"dest":"Tbilisi - TBS","iata":"TBS","usd":470},{"dest":"Bucharest - OTP","iata":"OTP","usd":602},{"dest":"Thessaloniki - SKG","iata":"SKG","usd":623}]},
+ "2026-08-13_2026-08-18": {"dep":"2026-08-13","ret":"2026-08-18","nights":5,"dests":[
+  {"dest":"Larnaca - LCA","iata":"LCA","usd":303},{"dest":"Sofia - SOF","iata":"SOF","usd":593},{"dest":"Venice - VCE","iata":"VCE","usd":648},{"dest":"Bucharest - OTP","iata":"OTP","usd":650},{"dest":"Geneva - GVA","iata":"GVA","usd":699},{"dest":"Dubai - DXB","iata":"DXB","usd":763}]},
+ "2026-08-13_2026-08-20": {"dep":"2026-08-13","ret":"2026-08-20","nights":7,"dests":[
+  {"dest":"Larnaca - LCA","iata":"LCA","usd":415},{"dest":"Venice - VCE","iata":"VCE","usd":648},{"dest":"Bucharest - OTP","iata":"OTP","usd":650}]},
+ "2026-08-14_2026-08-19": {"dep":"2026-08-14","ret":"2026-08-19","nights":5,"dests":[
+  {"dest":"Larnaca - LCA","iata":"LCA","usd":433},{"dest":"Thessaloniki - SKG","iata":"SKG","usd":673},{"dest":"Bucharest - OTP","iata":"OTP","usd":690},{"dest":"Budapest - BUD","iata":"BUD","usd":695},{"dest":"Amsterdam - AMS","iata":"AMS","usd":762}]},
+ "2026-08-14_2026-08-21": {"dep":"2026-08-14","ret":"2026-08-21","nights":7,"dests":[
+  {"dest":"Thessaloniki - SKG","iata":"SKG","usd":723}]},
+ "2026-08-15_2026-08-20": {"dep":"2026-08-15","ret":"2026-08-20","nights":5,"dests":[
+  {"dest":"Bucharest - OTP","iata":"OTP","usd":650}]},
+ "2026-08-15_2026-08-22": {"dep":"2026-08-15","ret":"2026-08-22","nights":7,"dests":[
+  {"dest":"Bucharest - OTP","iata":"OTP","usd":827}]},
+ "2026-08-16_2026-08-21": {"dep":"2026-08-16","ret":"2026-08-21","nights":5,"dests":[
+  {"dest":"Thessaloniki - SKG","iata":"SKG","usd":673}]},
+ "2026-08-16_2026-08-23": {"dep":"2026-08-16","ret":"2026-08-23","nights":7,"dests":[
+  {"dest":"Geneva - GVA","iata":"GVA","usd":699}]},
+ "2026-08-17_2026-08-22": {"dep":"2026-08-17","ret":"2026-08-22","nights":5,"dests":[
+  {"dest":"Larnaca - LCA","iata":"LCA","usd":481},{"dest":"Bucharest - OTP","iata":"OTP","usd":787}]},
+ "2026-08-17_2026-08-24": {"dep":"2026-08-17","ret":"2026-08-24","nights":7,"dests":[]},
+ "2026-08-18_2026-08-23": {"dep":"2026-08-18","ret":"2026-08-23","nights":5,"dests":[
+  {"dest":"Bucharest - OTP","iata":"OTP","usd":565}]},
+ "2026-08-18_2026-08-25": {"dep":"2026-08-18","ret":"2026-08-25","nights":7,"dests":[
+  {"dest":"Larnaca - LCA","iata":"LCA","usd":481},{"dest":"Marseilles - MRS","iata":"MRS","usd":677},{"dest":"Geneva - GVA","iata":"GVA","usd":699}]},
+ "2026-08-19_2026-08-25": {"dep":"2026-08-19","ret":"2026-08-25","nights":6,"dests":[
+  {"dest":"Larnaca - LCA","iata":"LCA","usd":481},{"dest":"Marseilles - MRS","iata":"MRS","usd":651}]},
+ "2026-08-20_2026-08-25": {"dep":"2026-08-20","ret":"2026-08-25","nights":5,"dests":[
+  {"dest":"Larnaca - LCA","iata":"LCA","usd":481},{"dest":"Geneva - GVA","iata":"GVA","usd":699}]}
+}

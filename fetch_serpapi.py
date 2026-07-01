@@ -95,8 +95,20 @@ def search(arrival_id, dep, ret):
     }
     url = "https://serpapi.com/search.json?" + urllib.parse.urlencode(params)
     QCOUNT += 1
-    with urllib.request.urlopen(url, timeout=90, context=SSL_CTX) as r:
-        data = json.loads(r.read().decode())
+    for attempt in range(5):
+        try:
+            with urllib.request.urlopen(url, timeout=90, context=SSL_CTX) as r:
+                data = json.loads(r.read().decode())
+            break
+        except urllib.error.HTTPError as e:
+            if e.code == 429:
+                wait = 60 * (2 ** attempt)
+                print(f"  429 rate-limit, waiting {wait}s (attempt {attempt+1}/5)...")
+                time.sleep(wait)
+            else:
+                raise
+    else:
+        return {}, []
     if "error" in data:
         return data, []
     out = []
@@ -174,7 +186,7 @@ def main():
                 except Exception as e:
                     print(f"  ! {dep} {c} error: {e}"); continue
                 merged.update(parse_cheapest(fl, c))
-                time.sleep(0.5)
+                time.sleep(1.5)
             results[f"{dep}_{ret}"] = {"dep":dep,"ret":ret,"nights":n,
                                        "flights":sorted(merged.values(), key=lambda x:x["price"])}
             json.dump(results, open("serp_results.json","w"), indent=1)

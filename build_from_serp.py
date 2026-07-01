@@ -35,11 +35,10 @@ for r in rows:
 
 # ---------- Markdown ----------
 md = []
-md.append("## Flight Results (SerpApi · Google Flights)\n")
-md.append(f"> Source: SerpApi Google Flights engine, captured {CAPTURE}. "
-          f"Filters: from TLV, round-trip, **nonstop**, economy, **≤ 2,400 NIS** (ILS).\n"
-          f"> Scope: **{', '.join(['Italy','Greece','Spain','Germany','Croatia','Austria','France','Czechia','Hungary','Netherlands'])}**, "
-          f"**5–9 nights**, airport-level. {nrows} options across {ndates} date pairs.\n")
+md.append("## Flight Results (El Al · inspireme.elal.com)\n")
+md.append(f"> Source: El Al InspireMe, captured {CAPTURE}. "
+          f"Filters: from TLV, round-trip, El Al only, **≤ $850 USD** (prices shown in NIS at ~3.65 rate).\n"
+          f"> Scope: all El Al destinations, **5–9 nights**, Aug 9–26 2026. {nrows} options across {ndates} date pairs.\n")
 md.append("### Cheapest fare per destination\n")
 md.append("| Destination | Country | Price (NIS) | Airline | From | To | Nights | Flight length |")
 md.append("|---|---|---|---|---|---|---|---|")
@@ -93,7 +92,7 @@ HTML = r'''<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
  .leaflet-tooltip-left:before,.leaflet-tooltip-right:before,.leaflet-tooltip-top:before,.leaflet-tooltip-bottom:before{border:none}
 </style></head><body>
 <header><h1>Summer 2026 Flights — Tel Aviv → Europe</h1>
-<div class="sub">Nonstop · &le; 2,400 NIS · 5–9 nights · Aug 9–26, 2026 · SerpApi/Google Flights · captured __CAPTURE__ · <span id="total"></span> options · airport-level. Click a column to sort; filter below.</div></header>
+<div class="sub">El Al only · &le; $850 USD · 5–9 nights · Aug 9–26, 2026 · captured __CAPTURE__ · <span id="total"></span> options. Prices in NIS (~3.65 rate). Click a column to sort; filter below.</div></header>
 <div class="controls">
  <div class="ctrl"><label>Search</label><input id="search" placeholder="city / country / airline…"></div>
  <div class="ctrl"><label>Country</label><select id="fCountry"></select></div>
@@ -139,7 +138,10 @@ const COORDS={'Athens':[37.984,23.728],'Barcelona':[41.385,2.173],'Berlin':[52.5
  'Zagreb':[45.815,15.982],'Zadar':[44.120,15.230],'Pula':[44.868,13.848],
  'Vienna':[48.208,16.374],'Salzburg':[47.800,13.045],'Innsbruck':[47.269,11.404],'Graz':[47.070,15.440],
  'Paris':[48.857,2.352],'Nice':[43.710,7.262],'Prague':[50.075,14.437],'Zurich':[47.376,8.541],
- 'Budapest':[47.498,19.040],'Amsterdam':[52.370,4.895],'Eindhoven':[51.441,5.478]};
+ 'Budapest':[47.498,19.040],'Amsterdam':[52.370,4.895],'Eindhoven':[51.441,5.478],
+ 'Sofia':[42.698,23.322],'Bucharest':[44.430,26.103],'Larnaca':[34.885,33.625],
+ 'Geneva':[46.204,6.143],'Tbilisi':[41.715,44.827],'Dubai':[25.204,55.270],
+ 'London':[51.505,-0.090],'Marseilles':[43.296,5.381],'Madrid':[40.417,-3.704]};
 
 const map=L.map('map',{zoomControl:true,attributionControl:false}).setView([43,18],4);
 L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',{maxZoom:18,subdomains:'abcd'}).addTo(map);
