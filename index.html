@@ -96,12 +96,9 @@ function renderMap(){
   const byDest={};
   rows.forEach(d=>{if(!byDest[d.dest])byDest[d.dest]=[];byDest[d.dest].push(d)});
   Object.values(byDest).forEach(arr=>arr.sort((a,b)=>a.price-b.price));
-  // top 10 cheapest destinations
-  const top10=Object.entries(byDest)
-    .sort((a,b)=>a[1][0].price-b[1][0].price)
-    .slice(0,10);
-  top10.forEach(([dest,flights],rank)=>{
-    const coords=COORDS[dest];if(!coords)return;
+  const allDests=Object.entries(byDest).sort((a,b)=>a[1][0].price-b[1][0].price);
+  allDests.forEach(([dest,flights],rank)=>{
+    const coords=COORDS[dest];
     const top3=flights.slice(0,3);
     const tipHtml='<div class="map-tip"><div class="tip-head">'+dest+'</div>'+
       top3.map(f=>'<div class="tip-flight"><span class="tip-price">₪'+f.price.toLocaleString()+'</span> · '+f.airline+
