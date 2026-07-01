@@ -92,7 +92,7 @@ HTML = r'''<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
  .leaflet-tooltip-left:before,.leaflet-tooltip-right:before,.leaflet-tooltip-top:before,.leaflet-tooltip-bottom:before{border:none}
 </style></head><body>
 <header><h1>Summer 2026 Flights — Tel Aviv → Europe</h1>
-<div class="sub">El Al only · &le; $850 USD · 5–9 nights · Aug 9–26, 2026 · captured __CAPTURE__ · <span id="total"></span> options. Prices in NIS (~3.65 rate). Click a column to sort; filter below.</div></header>
+<div class="sub">Google Flights + El Al · &le; 2,400 NIS · 5–9 nights · Aug 9–26, 2026 · captured __CAPTURE__ · <span id="total"></span> options. El Al prices converted from USD at ~3.65. Click a column to sort; filter below.</div></header>
 <div class="controls">
  <div class="ctrl"><label>Search</label><input id="search" placeholder="city / country / airline…"></div>
  <div class="ctrl"><label>Country</label><select id="fCountry"></select></div>

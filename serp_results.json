@@ -1,35 +1,80 @@
 {
- "2026-08-09_2026-08-14": {
+ "2026-08-09_2026-08-15": {
   "dep": "2026-08-09",
-  "ret": "2026-08-14",
-  "nights": 5,
+  "ret": "2026-08-15",
+  "nights": 6,
   "flights": [
    {
-    "airport": "MAD",
-    "city": "Madrid",
-    "country": "Spain",
-    "price": 1931,
-    "price_usd": 529,
-    "airline": "El Al",
-    "dur": null
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 752,
+    "airline": "Wizz Air",
+    "dur": 215
    },
    {
-    "airport": "SKG",
-    "city": "Thessaloniki",
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 1213,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1240,
+    "airline": "",
+    "dur": 205
+   },
+   {
+    "airport": "ATH",
+    "city": "Athens",
     "country": "Greece",
-    "price": 2274,
-    "price_usd": 623,
-    "airline": "El Al",
-    "dur": null
+    "price": 1300,
+    "airline": "Israir Airlines",
+    "dur": 135
    },
    {
-    "airport": "DXB",
-    "city": "Dubai",
-    "country": "UAE",
-    "price": 2785,
-    "price_usd": 763,
-    "airline": "El Al",
-    "dur": null
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 1461,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1534,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 1850,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "BCN",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price": 2111,
+    "airline": "Arkia",
+    "dur": 280
+   },
+   {
+    "airport": "BGY",
+    "city": "Milan Bergamo",
+    "country": "Italy",
+    "price": 2120,
+    "airline": "Bluebird Airways",
+    "dur": 250
    }
   ]
  },
@@ -39,6 +84,78 @@
   "nights": 7,
   "flights": [
    {
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 820,
+    "airline": "Wizz Air",
+    "dur": 215
+   },
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 1059,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1207,
+    "airline": "Israir Airlines",
+    "dur": 135
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1444,
+    "airline": "",
+    "dur": 205
+   },
+   {
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 1491,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 1671,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1683,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "CFU",
+    "city": "Corfu",
+    "country": "Greece",
+    "price": 1879,
+    "airline": "Tus Air",
+    "dur": 155
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 2090,
+    "airline": "Bluebird Airways",
+    "dur": 270
+   },
+   {
     "airport": "SKG",
     "city": "Thessaloniki",
     "country": "Greece",
@@ -46,6 +163,30 @@
     "price_usd": 577,
     "airline": "El Al",
     "dur": null
+   },
+   {
+    "airport": "JMK",
+    "city": "Mykonos",
+    "country": "Greece",
+    "price": 2111,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "BGY",
+    "city": "Milan Bergamo",
+    "country": "Italy",
+    "price": 2179,
+    "airline": "Bluebird Airways",
+    "dur": 250
+   },
+   {
+    "airport": "SKG",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "price": 2350,
+    "airline": "Aegean",
+    "dur": 145
    },
    {
     "airport": "GVA",
@@ -76,11 +217,265 @@
    }
   ]
  },
+ "2026-08-09_2026-08-17": {
+  "dep": "2026-08-09",
+  "ret": "2026-08-17",
+  "nights": 8,
+  "flights": [
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 1093,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1385,
+    "airline": "Israir Airlines",
+    "dur": 135
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1444,
+    "airline": "",
+    "dur": 205
+   },
+   {
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 1451,
+    "airline": "Wizz Air",
+    "dur": 215
+   },
+   {
+    "airport": "CFU",
+    "city": "Corfu",
+    "country": "Greece",
+    "price": 1460,
+    "airline": "Tus Air",
+    "dur": 155
+   },
+   {
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 1491,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1563,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 1790,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "JMK",
+    "city": "Mykonos",
+    "country": "Greece",
+    "price": 1961,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 2000,
+    "airline": "Bluebird Airways",
+    "dur": 270
+   },
+   {
+    "airport": "BGY",
+    "city": "Milan Bergamo",
+    "country": "Italy",
+    "price": 2150,
+    "airline": "Bluebird Airways",
+    "dur": 250
+   },
+   {
+    "airport": "BCN",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price": 2150,
+    "airline": "Bluebird Airways",
+    "dur": 280
+   }
+  ]
+ },
+ "2026-08-09_2026-08-18": {
+  "dep": "2026-08-09",
+  "ret": "2026-08-18",
+  "nights": 9,
+  "flights": [
+   {
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 905,
+    "airline": "Wizz Air",
+    "dur": 215
+   },
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 1093,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1245,
+    "airline": "Israir Airlines",
+    "dur": 135
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1359,
+    "airline": "",
+    "dur": 205
+   },
+   {
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 1491,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1563,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "CFU",
+    "city": "Corfu",
+    "country": "Greece",
+    "price": 1789,
+    "airline": "Tus Air",
+    "dur": 155
+   },
+   {
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 1910,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "BCN",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price": 1940,
+    "airline": "Bluebird Airways",
+    "dur": 280
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 1940,
+    "airline": "Bluebird Airways",
+    "dur": 270
+   },
+   {
+    "airport": "JMK",
+    "city": "Mykonos",
+    "country": "Greece",
+    "price": 2111,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "BGY",
+    "city": "Milan Bergamo",
+    "country": "Italy",
+    "price": 2179,
+    "airline": "Bluebird Airways",
+    "dur": 250
+   }
+  ]
+ },
  "2026-08-10_2026-08-15": {
   "dep": "2026-08-10",
   "ret": "2026-08-15",
   "nights": 5,
   "flights": [
+   {
+    "airport": "PMO",
+    "city": "Palermo",
+    "country": "Italy",
+    "price": 860,
+    "airline": "Wizz Air",
+    "dur": 200
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1071,
+    "airline": "",
+    "dur": 210
+   },
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 1076,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1221,
+    "airline": "Israir Airlines",
+    "dur": 135
+   },
+   {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1324,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 1341,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
    {
     "airport": "LCA",
     "city": "Larnaca",
@@ -91,6 +486,62 @@
     "dur": null
    },
    {
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 1427,
+    "airline": "El Al",
+    "dur": 195
+   },
+   {
+    "airport": "BGY",
+    "city": "Milan Bergamo",
+    "country": "Italy",
+    "price": 1611,
+    "airline": "Bluebird Airways",
+    "dur": 255
+   },
+   {
+    "airport": "VIE",
+    "city": "Vienna",
+    "country": "Austria",
+    "price": 1782,
+    "airline": "",
+    "dur": 225
+   },
+   {
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 1910,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 1947,
+    "airline": "Wizz Air",
+    "dur": 255
+   },
+   {
+    "airport": "BCN",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price": 1970,
+    "airline": "Bluebird Airways",
+    "dur": 280
+   },
+   {
+    "airport": "PRG",
+    "city": "Prague",
+    "country": "Czechia",
+    "price": 2016,
+    "airline": "",
+    "dur": 250
+   },
+   {
     "airport": "FCO",
     "city": "Rome",
     "country": "Italy",
@@ -98,6 +549,14 @@
     "price_usd": 597,
     "airline": "El Al",
     "dur": null
+   },
+   {
+    "airport": "MUC",
+    "city": "Munich",
+    "country": "Germany",
+    "price": 2200,
+    "airline": "Bluebird Airways",
+    "dur": 240
    },
    {
     "airport": "OTP",
@@ -110,11 +569,154 @@
    }
   ]
  },
+ "2026-08-10_2026-08-16": {
+  "dep": "2026-08-10",
+  "ret": "2026-08-16",
+  "nights": 6,
+  "flights": [
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 923,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1216,
+    "airline": "Bluebird Airways",
+    "dur": 130
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1274,
+    "airline": "",
+    "dur": 210
+   },
+   {
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 1371,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1474,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 1498,
+    "airline": "El Al",
+    "dur": 195
+   },
+   {
+    "airport": "SKG",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "price": 1587,
+    "airline": "El Al",
+    "dur": 160
+   },
+   {
+    "airport": "BGY",
+    "city": "Milan Bergamo",
+    "country": "Italy",
+    "price": 1671,
+    "airline": "Bluebird Airways",
+    "dur": 255
+   },
+   {
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 1731,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "JMK",
+    "city": "Mykonos",
+    "country": "Greece",
+    "price": 1775,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "VIE",
+    "city": "Vienna",
+    "country": "Austria",
+    "price": 1847,
+    "airline": "",
+    "dur": 225
+   },
+   {
+    "airport": "CFU",
+    "city": "Corfu",
+    "country": "Greece",
+    "price": 1879,
+    "airline": "Tus Air",
+    "dur": 155
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 1910,
+    "airline": "Bluebird Airways",
+    "dur": 270
+   },
+   {
+    "airport": "BCN",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price": 2088,
+    "airline": "El Al",
+    "dur": 280
+   },
+   {
+    "airport": "PRG",
+    "city": "Prague",
+    "country": "Czechia",
+    "price": 2240,
+    "airline": "",
+    "dur": 250
+   },
+   {
+    "airport": "MAD",
+    "city": "Madrid",
+    "country": "Spain",
+    "price": 2308,
+    "airline": "Air Europa",
+    "dur": 315
+   }
+  ]
+ },
  "2026-08-10_2026-08-17": {
   "dep": "2026-08-10",
   "ret": "2026-08-17",
   "nights": 7,
   "flights": [
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 990,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
    {
     "airport": "LCA",
     "city": "Larnaca",
@@ -123,6 +725,62 @@
     "price_usd": 323,
     "airline": "El Al",
     "dur": null
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1274,
+    "airline": "",
+    "dur": 210
+   },
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1303,
+    "airline": "Israir Airlines",
+    "dur": 135
+   },
+   {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1354,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "PMO",
+    "city": "Palermo",
+    "country": "Italy",
+    "price": 1367,
+    "airline": "Wizz Air",
+    "dur": 200
+   },
+   {
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 1371,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "CFU",
+    "city": "Corfu",
+    "country": "Greece",
+    "price": 1460,
+    "airline": "Tus Air",
+    "dur": 155
+   },
+   {
+    "airport": "SKG",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "price": 1587,
+    "airline": "El Al",
+    "dur": 160
    },
    {
     "airport": "SOF",
@@ -134,13 +792,92 @@
     "dur": null
    },
    {
-    "airport": "SKG",
-    "city": "Thessaloniki",
+    "airport": "JMK",
+    "city": "Mykonos",
     "country": "Greece",
-    "price": 1934,
-    "price_usd": 530,
+    "price": 1626,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "BGY",
+    "city": "Milan Bergamo",
+    "country": "Italy",
+    "price": 1641,
+    "airline": "Bluebird Airways",
+    "dur": 255
+   },
+   {
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 1737,
     "airline": "El Al",
-    "dur": null
+    "dur": 195
+   },
+   {
+    "airport": "PRG",
+    "city": "Prague",
+    "country": "Czechia",
+    "price": 1805,
+    "airline": "",
+    "dur": 240
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 1820,
+    "airline": "Bluebird Airways",
+    "dur": 270
+   },
+   {
+    "airport": "DBV",
+    "city": "Dubrovnik",
+    "country": "Croatia",
+    "price": 1826,
+    "airline": "El Al",
+    "dur": 200
+   },
+   {
+    "airport": "VIE",
+    "city": "Vienna",
+    "country": "Austria",
+    "price": 1841,
+    "airline": "",
+    "dur": 225
+   },
+   {
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 1850,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "BCN",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price": 1970,
+    "airline": "Bluebird Airways",
+    "dur": 280
+   },
+   {
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 2084,
+    "airline": "Wizz Air",
+    "dur": 255
+   },
+   {
+    "airport": "CDG",
+    "city": "Paris",
+    "country": "France",
+    "price": 2135,
+    "airline": "",
+    "dur": 305
    },
    {
     "airport": "FCO",
@@ -189,11 +926,298 @@
    }
   ]
  },
+ "2026-08-10_2026-08-19": {
+  "dep": "2026-08-10",
+  "ret": "2026-08-19",
+  "nights": 9,
+  "flights": [
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 922,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "PMO",
+    "city": "Palermo",
+    "country": "Italy",
+    "price": 1025,
+    "airline": "Wizz Air",
+    "dur": 200
+   },
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1064,
+    "airline": "Bluebird Airways",
+    "dur": 130
+   },
+   {
+    "airport": "CTA",
+    "city": "Catania",
+    "country": "Italy",
+    "price": 1377,
+    "airline": "El Al",
+    "dur": 200
+   },
+   {
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 1401,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1414,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1427,
+    "airline": "",
+    "dur": 210
+   },
+   {
+    "airport": "JMK",
+    "city": "Mykonos",
+    "country": "Greece",
+    "price": 1476,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 1495,
+    "airline": "El Al",
+    "dur": 195
+   },
+   {
+    "airport": "SKG",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "price": 1587,
+    "airline": "El Al",
+    "dur": 160
+   },
+   {
+    "airport": "BGY",
+    "city": "Milan Bergamo",
+    "country": "Italy",
+    "price": 1671,
+    "airline": "Bluebird Airways",
+    "dur": 255
+   },
+   {
+    "airport": "VIE",
+    "city": "Vienna",
+    "country": "Austria",
+    "price": 1683,
+    "airline": "",
+    "dur": 225
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 1701,
+    "airline": "Bluebird Airways",
+    "dur": 270
+   },
+   {
+    "airport": "PRG",
+    "city": "Prague",
+    "country": "Czechia",
+    "price": 1704,
+    "airline": "",
+    "dur": 240
+   },
+   {
+    "airport": "CFU",
+    "city": "Corfu",
+    "country": "Greece",
+    "price": 1879,
+    "airline": "Tus Air",
+    "dur": 155
+   },
+   {
+    "airport": "CDG",
+    "city": "Paris",
+    "country": "France",
+    "price": 1890,
+    "airline": "",
+    "dur": 305
+   },
+   {
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 1910,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "BCN",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price": 1970,
+    "airline": "Bluebird Airways",
+    "dur": 280
+   },
+   {
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 2084,
+    "airline": "Wizz Air",
+    "dur": 255
+   }
+  ]
+ },
  "2026-08-11_2026-08-16": {
   "dep": "2026-08-11",
   "ret": "2026-08-16",
   "nights": 5,
   "flights": [
+   {
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 1247,
+    "airline": "Wizz Air",
+    "dur": 210
+   },
+   {
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 1271,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 1298,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1298,
+    "airline": "Wizz Air",
+    "dur": 145
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1325,
+    "airline": "",
+    "dur": 210
+   },
+   {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1504,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "JTR",
+    "city": "Santorini",
+    "country": "Greece",
+    "price": 1590,
+    "airline": "El Al",
+    "dur": 120
+   },
+   {
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 1611,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "BGY",
+    "city": "Milan Bergamo",
+    "country": "Italy",
+    "price": 1641,
+    "airline": "Bluebird Airways",
+    "dur": 255
+   },
+   {
+    "airport": "JMK",
+    "city": "Mykonos",
+    "country": "Greece",
+    "price": 1683,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "SKG",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "price": 1773,
+    "airline": "Aegean",
+    "dur": 145
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 1910,
+    "airline": "Bluebird Airways",
+    "dur": 270
+   },
+   {
+    "airport": "VCE",
+    "city": "Venice",
+    "country": "Italy",
+    "price": 1940,
+    "airline": "El Al",
+    "dur": 230
+   },
+   {
+    "airport": "VIE",
+    "city": "Vienna",
+    "country": "Austria",
+    "price": 1960,
+    "airline": "",
+    "dur": 225
+   },
+   {
+    "airport": "CFU",
+    "city": "Corfu",
+    "country": "Greece",
+    "price": 1969,
+    "airline": "Tus Air",
+    "dur": 155
+   },
+   {
+    "airport": "MAD",
+    "city": "Madrid",
+    "country": "Spain",
+    "price": 2039,
+    "airline": "Air Europa",
+    "dur": 315
+   },
    {
     "airport": "SOF",
     "city": "Sofia",
@@ -202,6 +1226,14 @@
     "price_usd": 564,
     "airline": "El Al",
     "dur": null
+   },
+   {
+    "airport": "BCN",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price": 2088,
+    "airline": "El Al",
+    "dur": 280
    },
    {
     "airport": "SKG",
@@ -213,20 +1245,19 @@
     "dur": null
    },
    {
+    "airport": "PRG",
+    "city": "Prague",
+    "country": "Czechia",
+    "price": 2174,
+    "airline": "",
+    "dur": 250
+   },
+   {
     "airport": "FCO",
     "city": "Rome",
     "country": "Italy",
     "price": 2179,
     "price_usd": 597,
-    "airline": "El Al",
-    "dur": null
-   },
-   {
-    "airport": "VCE",
-    "city": "Venice",
-    "country": "Italy",
-    "price": 2365,
-    "price_usd": 648,
     "airline": "El Al",
     "dur": null
    },
@@ -259,6 +1290,149 @@
    }
   ]
  },
+ "2026-08-11_2026-08-17": {
+  "dep": "2026-08-11",
+  "ret": "2026-08-17",
+  "nights": 6,
+  "flights": [
+   {
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 1271,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1303,
+    "airline": "Israir Airlines",
+    "dur": 135
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1325,
+    "airline": "",
+    "dur": 210
+   },
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 1367,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1384,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "JMK",
+    "city": "Mykonos",
+    "country": "Greece",
+    "price": 1533,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "CFU",
+    "city": "Corfu",
+    "country": "Greece",
+    "price": 1550,
+    "airline": "Tus Air",
+    "dur": 155
+   },
+   {
+    "airport": "BGY",
+    "city": "Milan Bergamo",
+    "country": "Italy",
+    "price": 1611,
+    "airline": "Bluebird Airways",
+    "dur": 255
+   },
+   {
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 1731,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 1815,
+    "airline": "Wizz Air",
+    "dur": 255
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 1820,
+    "airline": "Bluebird Airways",
+    "dur": 270
+   },
+   {
+    "airport": "VIE",
+    "city": "Vienna",
+    "country": "Austria",
+    "price": 1841,
+    "airline": "",
+    "dur": 225
+   },
+   {
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 1878,
+    "airline": "Wizz Air",
+    "dur": 210
+   },
+   {
+    "airport": "BCN",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price": 1970,
+    "airline": "Bluebird Airways",
+    "dur": 280
+   },
+   {
+    "airport": "PRG",
+    "city": "Prague",
+    "country": "Czechia",
+    "price": 2109,
+    "airline": "",
+    "dur": 250
+   },
+   {
+    "airport": "CDG",
+    "city": "Paris",
+    "country": "France",
+    "price": 2135,
+    "airline": "",
+    "dur": 305
+   },
+   {
+    "airport": "MAD",
+    "city": "Madrid",
+    "country": "Spain",
+    "price": 2144,
+    "airline": "Air Europa",
+    "dur": 315
+   }
+  ]
+ },
  "2026-08-11_2026-08-18": {
   "dep": "2026-08-11",
   "ret": "2026-08-18",
@@ -274,6 +1448,94 @@
     "dur": null
    },
    {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1163,
+    "airline": "Israir Airlines",
+    "dur": 135
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1240,
+    "airline": "",
+    "dur": 210
+   },
+   {
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 1282,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 1333,
+    "airline": "Wizz Air",
+    "dur": 210
+   },
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 1367,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1384,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "JTR",
+    "city": "Santorini",
+    "country": "Greece",
+    "price": 1482,
+    "airline": "El Al",
+    "dur": 120
+   },
+   {
+    "airport": "BGY",
+    "city": "Milan Bergamo",
+    "country": "Italy",
+    "price": 1641,
+    "airline": "Bluebird Airways",
+    "dur": 255
+   },
+   {
+    "airport": "JMK",
+    "city": "Mykonos",
+    "country": "Greece",
+    "price": 1683,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "BCN",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price": 1760,
+    "airline": "Bluebird Airways",
+    "dur": 280
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 1760,
+    "airline": "Bluebird Airways",
+    "dur": 270
+   },
+   {
     "airport": "TBS",
     "city": "Tbilisi",
     "country": "Georgia",
@@ -283,6 +1545,70 @@
     "dur": null
    },
    {
+    "airport": "CDG",
+    "city": "Paris",
+    "country": "France",
+    "price": 1786,
+    "airline": "",
+    "dur": 305
+   },
+   {
+    "airport": "NCE",
+    "city": "Nice",
+    "country": "France",
+    "price": 1794,
+    "airline": "",
+    "dur": 255
+   },
+   {
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 1850,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "CFU",
+    "city": "Corfu",
+    "country": "Greece",
+    "price": 1879,
+    "airline": "Tus Air",
+    "dur": 155
+   },
+   {
+    "airport": "VCE",
+    "city": "Venice",
+    "country": "Italy",
+    "price": 1940,
+    "airline": "El Al",
+    "dur": 230
+   },
+   {
+    "airport": "SKG",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "price": 1999,
+    "airline": "Aegean",
+    "dur": 145
+   },
+   {
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 2033,
+    "airline": "Wizz Air",
+    "dur": 255
+   },
+   {
+    "airport": "PRG",
+    "city": "Prague",
+    "country": "Czechia",
+    "price": 2109,
+    "airline": "",
+    "dur": 250
+   },
+   {
     "airport": "FCO",
     "city": "Rome",
     "country": "Italy",
@@ -290,6 +1616,14 @@
     "price_usd": 585,
     "airline": "El Al",
     "dur": null
+   },
+   {
+    "airport": "VIE",
+    "city": "Vienna",
+    "country": "Austria",
+    "price": 2138,
+    "airline": "",
+    "dur": 225
    },
    {
     "airport": "SOF",
@@ -310,20 +1644,19 @@
     "dur": null
    },
    {
+    "airport": "MUC",
+    "city": "Munich",
+    "country": "Germany",
+    "price": 2327,
+    "airline": "Bluebird Airways",
+    "dur": 240
+   },
+   {
     "airport": "BUD",
     "city": "Budapest",
     "country": "Hungary",
     "price": 2362,
     "price_usd": 647,
-    "airline": "El Al",
-    "dur": null
-   },
-   {
-    "airport": "VCE",
-    "city": "Venice",
-    "country": "Italy",
-    "price": 2365,
-    "price_usd": 648,
     "airline": "El Al",
     "dur": null
    },
@@ -374,11 +1707,369 @@
    }
   ]
  },
+ "2026-08-11_2026-08-19": {
+  "dep": "2026-08-11",
+  "ret": "2026-08-19",
+  "nights": 8,
+  "flights": [
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1148,
+    "airline": "SKY express",
+    "dur": 135
+   },
+   {
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 1247,
+    "airline": "Wizz Air",
+    "dur": 210
+   },
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 1298,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 1311,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "JMK",
+    "city": "Mykonos",
+    "country": "Greece",
+    "price": 1383,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1444,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1478,
+    "airline": "",
+    "dur": 210
+   },
+   {
+    "airport": "BGY",
+    "city": "Milan Bergamo",
+    "country": "Italy",
+    "price": 1641,
+    "airline": "Bluebird Airways",
+    "dur": 255
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 1701,
+    "airline": "Bluebird Airways",
+    "dur": 270
+   },
+   {
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 1790,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "CDG",
+    "city": "Paris",
+    "country": "France",
+    "price": 1890,
+    "airline": "",
+    "dur": 305
+   },
+   {
+    "airport": "VIE",
+    "city": "Vienna",
+    "country": "Austria",
+    "price": 1900,
+    "airline": "",
+    "dur": 225
+   },
+   {
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 1930,
+    "airline": "Wizz Air",
+    "dur": 255
+   },
+   {
+    "airport": "VCE",
+    "city": "Venice",
+    "country": "Italy",
+    "price": 1940,
+    "airline": "El Al",
+    "dur": 230
+   },
+   {
+    "airport": "PRG",
+    "city": "Prague",
+    "country": "Czechia",
+    "price": 1950,
+    "airline": "",
+    "dur": 250
+   },
+   {
+    "airport": "CFU",
+    "city": "Corfu",
+    "country": "Greece",
+    "price": 1969,
+    "airline": "Tus Air",
+    "dur": 155
+   },
+   {
+    "airport": "BCN",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price": 1970,
+    "airline": "Bluebird Airways",
+    "dur": 280
+   },
+   {
+    "airport": "SKG",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "price": 1986,
+    "airline": "Aegean",
+    "dur": 145
+   },
+   {
+    "airport": "NCE",
+    "city": "Nice",
+    "country": "France",
+    "price": 2101,
+    "airline": "",
+    "dur": 255
+   }
+  ]
+ },
+ "2026-08-11_2026-08-20": {
+  "dep": "2026-08-11",
+  "ret": "2026-08-20",
+  "nights": 9,
+  "flights": [
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 1196,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1264,
+    "airline": "Wizz Air",
+    "dur": 145
+   },
+   {
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 1384,
+    "airline": "Wizz Air",
+    "dur": 210
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1478,
+    "airline": "",
+    "dur": 210
+   },
+   {
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 1538,
+    "airline": "Wizz Air",
+    "dur": 255
+   },
+   {
+    "airport": "JTR",
+    "city": "Santorini",
+    "country": "Greece",
+    "price": 1590,
+    "airline": "El Al",
+    "dur": 120
+   },
+   {
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 1641,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1729,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 1788,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "JMK",
+    "city": "Mykonos",
+    "country": "Greece",
+    "price": 1832,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "CDG",
+    "city": "Paris",
+    "country": "France",
+    "price": 1890,
+    "airline": "",
+    "dur": 305
+   },
+   {
+    "airport": "VCE",
+    "city": "Venice",
+    "country": "Italy",
+    "price": 1940,
+    "airline": "El Al",
+    "dur": 230
+   },
+   {
+    "airport": "BCN",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price": 2060,
+    "airline": "Bluebird Airways",
+    "dur": 280
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 2060,
+    "airline": "Bluebird Airways",
+    "dur": 270
+   },
+   {
+    "airport": "CFU",
+    "city": "Corfu",
+    "country": "Greece",
+    "price": 2119,
+    "airline": "Tus Air",
+    "dur": 155
+   },
+   {
+    "airport": "VIE",
+    "city": "Vienna",
+    "country": "Austria",
+    "price": 2228,
+    "airline": "",
+    "dur": 225
+   },
+   {
+    "airport": "SKG",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "price": 2248,
+    "airline": "Aegean",
+    "dur": 145
+   }
+  ]
+ },
  "2026-08-12_2026-08-17": {
   "dep": "2026-08-12",
   "ret": "2026-08-17",
   "nights": 5,
   "flights": [
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 1195,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1241,
+    "airline": "",
+    "dur": 210
+   },
+   {
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 1301,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1412,
+    "airline": "Israir Airlines",
+    "dur": 135
+   },
+   {
+    "airport": "CFU",
+    "city": "Corfu",
+    "country": "Greece",
+    "price": 1460,
+    "airline": "Tus Air",
+    "dur": 155
+   },
+   {
+    "airport": "PMO",
+    "city": "Palermo",
+    "country": "Italy",
+    "price": 1469,
+    "airline": "Wizz Air",
+    "dur": 200
+   },
+   {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1474,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
    {
     "airport": "LCA",
     "city": "Larnaca",
@@ -389,6 +2080,62 @@
     "dur": null
    },
    {
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 1553,
+    "airline": "Wizz Air",
+    "dur": 215
+   },
+   {
+    "airport": "BGY",
+    "city": "Milan Bergamo",
+    "country": "Italy",
+    "price": 1671,
+    "airline": "Bluebird Airways",
+    "dur": 255
+   },
+   {
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 1701,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 1760,
+    "airline": "Bluebird Airways",
+    "dur": 270
+   },
+   {
+    "airport": "VIE",
+    "city": "Vienna",
+    "country": "Austria",
+    "price": 1781,
+    "airline": "",
+    "dur": 225
+   },
+   {
+    "airport": "BCN",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price": 1970,
+    "airline": "Bluebird Airways",
+    "dur": 280
+   },
+   {
+    "airport": "PRG",
+    "city": "Prague",
+    "country": "Czechia",
+    "price": 1984,
+    "airline": "",
+    "dur": 240
+   },
+   {
     "airport": "SKG",
     "city": "Thessaloniki",
     "country": "Greece",
@@ -396,6 +2143,14 @@
     "price_usd": 575,
     "airline": "El Al",
     "dur": null
+   },
+   {
+    "airport": "JMK",
+    "city": "Mykonos",
+    "country": "Greece",
+    "price": 2114,
+    "airline": "Bluebird Airways",
+    "dur": 110
    },
    {
     "airport": "SOF",
@@ -432,6 +2187,54 @@
   "nights": 7,
   "flights": [
    {
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 922,
+    "airline": "Wizz Air",
+    "dur": 215
+   },
+   {
+    "airport": "PMO",
+    "city": "Palermo",
+    "country": "Italy",
+    "price": 1059,
+    "airline": "Wizz Air",
+    "dur": 200
+   },
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1099,
+    "airline": "Israir Airlines",
+    "dur": 135
+   },
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 1127,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 1341,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1393,
+    "airline": "",
+    "dur": 210
+   },
+   {
     "airport": "LCA",
     "city": "Larnaca",
     "country": "Cyprus",
@@ -441,6 +2244,30 @@
     "dur": null
    },
    {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1534,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 1641,
+    "airline": "Bluebird Airways",
+    "dur": 270
+   },
+   {
+    "airport": "BGY",
+    "city": "Milan Bergamo",
+    "country": "Italy",
+    "price": 1701,
+    "airline": "Bluebird Airways",
+    "dur": 255
+   },
+   {
     "airport": "TBS",
     "city": "Tbilisi",
     "country": "Georgia",
@@ -448,6 +2275,78 @@
     "price_usd": 470,
     "airline": "El Al",
     "dur": null
+   },
+   {
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 1760,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "CTA",
+    "city": "Catania",
+    "country": "Italy",
+    "price": 1781,
+    "airline": "El Al",
+    "dur": 200
+   },
+   {
+    "airport": "VIE",
+    "city": "Vienna",
+    "country": "Austria",
+    "price": 1841,
+    "airline": "",
+    "dur": 225
+   },
+   {
+    "airport": "SKG",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "price": 1879,
+    "airline": "Tus Air",
+    "dur": 155
+   },
+   {
+    "airport": "CFU",
+    "city": "Corfu",
+    "country": "Greece",
+    "price": 1879,
+    "airline": "Tus Air",
+    "dur": 155
+   },
+   {
+    "airport": "PRG",
+    "city": "Prague",
+    "country": "Czechia",
+    "price": 1883,
+    "airline": "",
+    "dur": 240
+   },
+   {
+    "airport": "JMK",
+    "city": "Mykonos",
+    "country": "Greece",
+    "price": 1964,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "BCN",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price": 1970,
+    "airline": "Bluebird Airways",
+    "dur": 280
+   },
+   {
+    "airport": "NCE",
+    "city": "Nice",
+    "country": "France",
+    "price": 2101,
+    "airline": "",
+    "dur": 255
    },
    {
     "airport": "OTP",
@@ -469,11 +2368,249 @@
    }
   ]
  },
+ "2026-08-12_2026-08-20": {
+  "dep": "2026-08-12",
+  "ret": "2026-08-20",
+  "nights": 8,
+  "flights": [
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 1025,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 1128,
+    "airline": "Wizz Air",
+    "dur": 215
+   },
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1264,
+    "airline": "Wizz Air",
+    "dur": 140
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1393,
+    "airline": "",
+    "dur": 210
+   },
+   {
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 1611,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 1818,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1819,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 2000,
+    "airline": "Bluebird Airways",
+    "dur": 270
+   },
+   {
+    "airport": "CFU",
+    "city": "Corfu",
+    "country": "Greece",
+    "price": 2029,
+    "airline": "Tus Air",
+    "dur": 155
+   },
+   {
+    "airport": "BCN",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price": 2060,
+    "airline": "Bluebird Airways",
+    "dur": 280
+   },
+   {
+    "airport": "SKG",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "price": 2154,
+    "airline": "Tus Air",
+    "dur": 155
+   },
+   {
+    "airport": "VIE",
+    "city": "Vienna",
+    "country": "Austria",
+    "price": 2168,
+    "airline": "",
+    "dur": 225
+   },
+   {
+    "airport": "PRG",
+    "city": "Prague",
+    "country": "Czechia",
+    "price": 2348,
+    "airline": "",
+    "dur": 240
+   }
+  ]
+ },
+ "2026-08-12_2026-08-21": {
+  "dep": "2026-08-12",
+  "ret": "2026-08-21",
+  "nights": 9,
+  "flights": [
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 1128,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1486,
+    "airline": "Wizz Air",
+    "dur": 140
+   },
+   {
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 1512,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 1553,
+    "airline": "Wizz Air",
+    "dur": 215
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1631,
+    "airline": "",
+    "dur": 210
+   },
+   {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1743,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "CFU",
+    "city": "Corfu",
+    "country": "Greece",
+    "price": 1879,
+    "airline": "Tus Air",
+    "dur": 155
+   },
+   {
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 2000,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "PRG",
+    "city": "Prague",
+    "country": "Czechia",
+    "price": 2109,
+    "airline": "",
+    "dur": 250
+   },
+   {
+    "airport": "VIE",
+    "city": "Vienna",
+    "country": "Austria",
+    "price": 2168,
+    "airline": "",
+    "dur": 225
+   },
+   {
+    "airport": "BGY",
+    "city": "Milan Bergamo",
+    "country": "Italy",
+    "price": 2179,
+    "airline": "Bluebird Airways",
+    "dur": 255
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 2179,
+    "airline": "Bluebird Airways",
+    "dur": 270
+   },
+   {
+    "airport": "BCN",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price": 2239,
+    "airline": "Bluebird Airways",
+    "dur": 280
+   },
+   {
+    "airport": "JMK",
+    "city": "Mykonos",
+    "country": "Greece",
+    "price": 2263,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   }
+  ]
+ },
  "2026-08-13_2026-08-18": {
   "dep": "2026-08-13",
   "ret": "2026-08-18",
   "nights": 5,
   "flights": [
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 1093,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
    {
     "airport": "LCA",
     "city": "Larnaca",
@@ -484,6 +2621,94 @@
     "dur": null
    },
    {
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 1128,
+    "airline": "Wizz Air",
+    "dur": 215
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1240,
+    "airline": "",
+    "dur": 210
+   },
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1266,
+    "airline": "Israir Airlines",
+    "dur": 135
+   },
+   {
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 1282,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "PRG",
+    "city": "Prague",
+    "country": "Czechia",
+    "price": 1416,
+    "airline": "",
+    "dur": 240
+   },
+   {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1444,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "BGY",
+    "city": "Milan Bergamo",
+    "country": "Italy",
+    "price": 1701,
+    "airline": "Bluebird Airways",
+    "dur": 255
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 1760,
+    "airline": "Bluebird Airways",
+    "dur": 270
+   },
+   {
+    "airport": "SKG",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "price": 1773,
+    "airline": "Aegean",
+    "dur": 145
+   },
+   {
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 1910,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "CFU",
+    "city": "Corfu",
+    "country": "Greece",
+    "price": 1969,
+    "airline": "Tus Air",
+    "dur": 155
+   },
+   {
     "airport": "SOF",
     "city": "Sofia",
     "country": "Bulgaria",
@@ -491,6 +2716,38 @@
     "price_usd": 593,
     "airline": "El Al",
     "dur": null
+   },
+   {
+    "airport": "BCN",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price": 2179,
+    "airline": "Bluebird Airways",
+    "dur": 280
+   },
+   {
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 2186,
+    "airline": "Wizz Air",
+    "dur": 255
+   },
+   {
+    "airport": "JMK",
+    "city": "Mykonos",
+    "country": "Greece",
+    "price": 2263,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "VIE",
+    "city": "Vienna",
+    "country": "Austria",
+    "price": 2317,
+    "airline": "",
+    "dur": 225
    },
    {
     "airport": "VCE",
@@ -530,11 +2787,178 @@
    }
   ]
  },
+ "2026-08-13_2026-08-19": {
+  "dep": "2026-08-13",
+  "ret": "2026-08-19",
+  "nights": 6,
+  "flights": [
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 1025,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 1042,
+    "airline": "Wizz Air",
+    "dur": 215
+   },
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1148,
+    "airline": "SKY express",
+    "dur": 135
+   },
+   {
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 1311,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1478,
+    "airline": "",
+    "dur": 210
+   },
+   {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1504,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "PRG",
+    "city": "Prague",
+    "country": "Czechia",
+    "price": 1539,
+    "airline": "",
+    "dur": 240
+   },
+   {
+    "airport": "BGY",
+    "city": "Milan Bergamo",
+    "country": "Italy",
+    "price": 1701,
+    "airline": "Bluebird Airways",
+    "dur": 255
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 1701,
+    "airline": "Bluebird Airways",
+    "dur": 270
+   },
+   {
+    "airport": "SKG",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "price": 1764,
+    "airline": "Aegean",
+    "dur": 145
+   },
+   {
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 1850,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "JMK",
+    "city": "Mykonos",
+    "country": "Greece",
+    "price": 1964,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "CFU",
+    "city": "Corfu",
+    "country": "Greece",
+    "price": 2059,
+    "airline": "Tus Air",
+    "dur": 155
+   },
+   {
+    "airport": "VIE",
+    "city": "Vienna",
+    "country": "Austria",
+    "price": 2079,
+    "airline": "",
+    "dur": 225
+   },
+   {
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 2084,
+    "airline": "Wizz Air",
+    "dur": 255
+   },
+   {
+    "airport": "BCN",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price": 2389,
+    "airline": "Bluebird Airways",
+    "dur": 280
+   }
+  ]
+ },
  "2026-08-13_2026-08-20": {
   "dep": "2026-08-13",
   "ret": "2026-08-20",
   "nights": 7,
   "flights": [
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 922,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 1247,
+    "airline": "Wizz Air",
+    "dur": 215
+   },
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1267,
+    "airline": "SKY express",
+    "dur": 135
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1478,
+    "airline": "",
+    "dur": 210
+   },
    {
     "airport": "LCA",
     "city": "Larnaca",
@@ -543,6 +2967,62 @@
     "price_usd": 415,
     "airline": "El Al",
     "dur": null
+   },
+   {
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 1691,
+    "airline": "Wizz Air",
+    "dur": 255
+   },
+   {
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 1701,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 1788,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1789,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "SKG",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "price": 2022,
+    "airline": "Aegean",
+    "dur": 145
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 2060,
+    "airline": "Bluebird Airways",
+    "dur": 270
+   },
+   {
+    "airport": "CFU",
+    "city": "Corfu",
+    "country": "Greece",
+    "price": 2208,
+    "airline": "Tus Air",
+    "dur": 155
    },
    {
     "airport": "VCE",
@@ -564,11 +3044,162 @@
    }
   ]
  },
+ "2026-08-13_2026-08-21": {
+  "dep": "2026-08-13",
+  "ret": "2026-08-21",
+  "nights": 8,
+  "flights": [
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 1025,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 1482,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1491,
+    "airline": "SKY express",
+    "dur": 135
+   },
+   {
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 1673,
+    "airline": "Wizz Air",
+    "dur": 215
+   },
+   {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1713,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1716,
+    "airline": "",
+    "dur": 210
+   },
+   {
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 1845,
+    "airline": "Wizz Air",
+    "dur": 255
+   },
+   {
+    "airport": "CFU",
+    "city": "Corfu",
+    "country": "Greece",
+    "price": 2059,
+    "airline": "Tus Air",
+    "dur": 155
+   },
+   {
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 2090,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "PRG",
+    "city": "Prague",
+    "country": "Czechia",
+    "price": 2174,
+    "airline": "",
+    "dur": 250
+   },
+   {
+    "airport": "BGY",
+    "city": "Milan Bergamo",
+    "country": "Italy",
+    "price": 2179,
+    "airline": "Bluebird Airways",
+    "dur": 255
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 2239,
+    "airline": "Bluebird Airways",
+    "dur": 270
+   },
+   {
+    "airport": "JMK",
+    "city": "Mykonos",
+    "country": "Greece",
+    "price": 2263,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   }
+  ]
+ },
  "2026-08-14_2026-08-19": {
   "dep": "2026-08-14",
   "ret": "2026-08-19",
   "nights": 5,
   "flights": [
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1037,
+    "airline": "Aegean",
+    "dur": 130
+   },
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 1093,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 1282,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1414,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1427,
+    "airline": "",
+    "dur": 210
+   },
    {
     "airport": "LCA",
     "city": "Larnaca",
@@ -577,6 +3208,78 @@
     "price_usd": 433,
     "airline": "El Al",
     "dur": null
+   },
+   {
+    "airport": "JMK",
+    "city": "Mykonos",
+    "country": "Greece",
+    "price": 1719,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 1731,
+    "airline": "Bluebird Airways",
+    "dur": 270
+   },
+   {
+    "airport": "BGY",
+    "city": "Milan Bergamo",
+    "country": "Italy",
+    "price": 1760,
+    "airline": "Bluebird Airways",
+    "dur": 255
+   },
+   {
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 1845,
+    "airline": "Wizz Air",
+    "dur": 250
+   },
+   {
+    "airport": "VIE",
+    "city": "Vienna",
+    "country": "Austria",
+    "price": 1870,
+    "airline": "",
+    "dur": 225
+   },
+   {
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 1940,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "PRG",
+    "city": "Prague",
+    "country": "Czechia",
+    "price": 1972,
+    "airline": "",
+    "dur": 240
+   },
+   {
+    "airport": "CFU",
+    "city": "Corfu",
+    "country": "Greece",
+    "price": 2149,
+    "airline": "Tus Air",
+    "dur": 155
+   },
+   {
+    "airport": "BCN",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price": 2209,
+    "airline": "Bluebird Airways",
+    "dur": 280
    },
    {
     "airport": "SKG",
@@ -616,11 +3319,218 @@
    }
   ]
  },
+ "2026-08-14_2026-08-20": {
+  "dep": "2026-08-14",
+  "ret": "2026-08-20",
+  "nights": 6,
+  "flights": [
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 990,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1157,
+    "airline": "Aegean",
+    "dur": 130
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1427,
+    "airline": "",
+    "dur": 210
+   },
+   {
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 1452,
+    "airline": "Wizz Air",
+    "dur": 250
+   },
+   {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1699,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 1758,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 1790,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 2090,
+    "airline": "Bluebird Airways",
+    "dur": 270
+   },
+   {
+    "airport": "JMK",
+    "city": "Mykonos",
+    "country": "Greece",
+    "price": 2168,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "VIE",
+    "city": "Vienna",
+    "country": "Austria",
+    "price": 2198,
+    "airline": "",
+    "dur": 225
+   },
+   {
+    "airport": "CFU",
+    "city": "Corfu",
+    "country": "Greece",
+    "price": 2298,
+    "airline": "Tus Air",
+    "dur": 155
+   },
+   {
+    "airport": "BCN",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price": 2299,
+    "airline": "Bluebird Airways",
+    "dur": 280
+   }
+  ]
+ },
  "2026-08-14_2026-08-21": {
   "dep": "2026-08-14",
   "ret": "2026-08-21",
   "nights": 7,
   "flights": [
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 1093,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1377,
+    "airline": "Aegean",
+    "dur": 130
+   },
+   {
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 1452,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 1606,
+    "airline": "Wizz Air",
+    "dur": 250
+   },
+   {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1623,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "JMK",
+    "city": "Mykonos",
+    "country": "Greece",
+    "price": 1641,
+    "airline": "El Al",
+    "dur": 130
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1665,
+    "airline": "",
+    "dur": 210
+   },
+   {
+    "airport": "CFU",
+    "city": "Corfu",
+    "country": "Greece",
+    "price": 2149,
+    "airline": "Tus Air",
+    "dur": 155
+   },
+   {
+    "airport": "HAM",
+    "city": "Hamburg",
+    "country": "Germany",
+    "price": 2156,
+    "airline": "Eurowings",
+    "dur": 285
+   },
+   {
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 2179,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "VIE",
+    "city": "Vienna",
+    "country": "Austria",
+    "price": 2198,
+    "airline": "",
+    "dur": 225
+   },
+   {
+    "airport": "BGY",
+    "city": "Milan Bergamo",
+    "country": "Italy",
+    "price": 2239,
+    "airline": "Bluebird Airways",
+    "dur": 255
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 2269,
+    "airline": "Bluebird Airways",
+    "dur": 270
+   },
    {
     "airport": "SKG",
     "city": "Thessaloniki",
@@ -632,11 +3542,257 @@
    }
   ]
  },
+ "2026-08-14_2026-08-22": {
+  "dep": "2026-08-14",
+  "ret": "2026-08-22",
+  "nights": 8,
+  "flights": [
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1122,
+    "airline": "",
+    "dur": 210
+   },
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 1247,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1312,
+    "airline": "Israir Airlines",
+    "dur": 135
+   },
+   {
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 1401,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1623,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 1845,
+    "airline": "Wizz Air",
+    "dur": 250
+   },
+   {
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 1940,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "VIE",
+    "city": "Vienna",
+    "country": "Austria",
+    "price": 2198,
+    "airline": "",
+    "dur": 225
+   },
+   {
+    "airport": "BGY",
+    "city": "Milan Bergamo",
+    "country": "Italy",
+    "price": 2239,
+    "airline": "Bluebird Airways",
+    "dur": 255
+   }
+  ]
+ },
+ "2026-08-14_2026-08-23": {
+  "dep": "2026-08-14",
+  "ret": "2026-08-23",
+  "nights": 9,
+  "flights": [
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 1042,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1276,
+    "airline": "Aegean",
+    "dur": 130
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1359,
+    "airline": "",
+    "dur": 210
+   },
+   {
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 1401,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1623,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 1671,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "PRG",
+    "city": "Prague",
+    "country": "Czechia",
+    "price": 2187,
+    "airline": "",
+    "dur": 240
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 2269,
+    "airline": "Bluebird Airways",
+    "dur": 270
+   },
+   {
+    "airport": "JMK",
+    "city": "Mykonos",
+    "country": "Greece",
+    "price": 2347,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   }
+  ]
+ },
  "2026-08-15_2026-08-20": {
   "dep": "2026-08-15",
   "ret": "2026-08-20",
   "nights": 5,
   "flights": [
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 923,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 1128,
+    "airline": "Wizz Air",
+    "dur": 210
+   },
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1174,
+    "airline": "SKY express",
+    "dur": 135
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1427,
+    "airline": "",
+    "dur": 210
+   },
+   {
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 1691,
+    "airline": "Wizz Air",
+    "dur": 255
+   },
+   {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1699,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 1731,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 2000,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "DUS",
+    "city": "Dusseldorf",
+    "country": "Germany",
+    "price": 2097,
+    "airline": "Eurowings",
+    "dur": 275
+   },
+   {
+    "airport": "BCN",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price": 2150,
+    "airline": "Bluebird Airways",
+    "dur": 280
+   },
+   {
+    "airport": "VIE",
+    "city": "Vienna",
+    "country": "Austria",
+    "price": 2228,
+    "airline": "",
+    "dur": 225
+   },
    {
     "airport": "OTP",
     "city": "Bucharest",
@@ -648,19 +3804,280 @@
    }
   ]
  },
- "2026-08-15_2026-08-22": {
+ "2026-08-15_2026-08-21": {
   "dep": "2026-08-15",
-  "ret": "2026-08-22",
-  "nights": 7,
+  "ret": "2026-08-21",
+  "nights": 6,
   "flights": [
    {
-    "airport": "OTP",
-    "city": "Bucharest",
-    "country": "Romania",
-    "price": 3019,
-    "price_usd": 827,
-    "airline": "El Al",
-    "dur": null
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 1025,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1399,
+    "airline": "SKY express",
+    "dur": 135
+   },
+   {
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 1558,
+    "airline": "Wizz Air",
+    "dur": 210
+   },
+   {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1623,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1665,
+    "airline": "",
+    "dur": 210
+   },
+   {
+    "airport": "CHQ",
+    "city": "Chania",
+    "country": "Greece",
+    "price": 1691,
+    "airline": "Bluebird Airways",
+    "dur": 115
+   },
+   {
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 1760,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 1845,
+    "airline": "Wizz Air",
+    "dur": 255
+   },
+   {
+    "airport": "PRG",
+    "city": "Prague",
+    "country": "Czechia",
+    "price": 2109,
+    "airline": "",
+    "dur": 250
+   },
+   {
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 2120,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "VIE",
+    "city": "Vienna",
+    "country": "Austria",
+    "price": 2228,
+    "airline": "",
+    "dur": 225
+   },
+   {
+    "airport": "BGY",
+    "city": "Milan Bergamo",
+    "country": "Italy",
+    "price": 2239,
+    "airline": "Bluebird Airways",
+    "dur": 255
+   },
+   {
+    "airport": "BCN",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price": 2329,
+    "airline": "Bluebird Airways",
+    "dur": 280
+   }
+  ]
+ },
+ "2026-08-15_2026-08-23": {
+  "dep": "2026-08-15",
+  "ret": "2026-08-23",
+  "nights": 8,
+  "flights": [
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 974,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 1213,
+    "airline": "Wizz Air",
+    "dur": 210
+   },
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1294,
+    "airline": "SKY express",
+    "dur": 135
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1359,
+    "airline": "",
+    "dur": 210
+   },
+   {
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 1611,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 1611,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1623,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "PRG",
+    "city": "Prague",
+    "country": "Czechia",
+    "price": 2174,
+    "airline": "",
+    "dur": 250
+   }
+  ]
+ },
+ "2026-08-15_2026-08-24": {
+  "dep": "2026-08-15",
+  "ret": "2026-08-24",
+  "nights": 9,
+  "flights": [
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1427,
+    "airline": "",
+    "dur": 210
+   },
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 1572,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1603,
+    "airline": "SKY express",
+    "dur": 135
+   },
+   {
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 1611,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "PMO",
+    "city": "Palermo",
+    "country": "Italy",
+    "price": 1623,
+    "airline": "Wizz Air",
+    "dur": 200
+   },
+   {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1623,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 2120,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "PRG",
+    "city": "Prague",
+    "country": "Czechia",
+    "price": 2174,
+    "airline": "",
+    "dur": 250
+   },
+   {
+    "airport": "VIE",
+    "city": "Vienna",
+    "country": "Austria",
+    "price": 2228,
+    "airline": "",
+    "dur": 225
+   },
+   {
+    "airport": "BGY",
+    "city": "Milan Bergamo",
+    "country": "Italy",
+    "price": 2239,
+    "airline": "Bluebird Airways",
+    "dur": 255
+   },
+   {
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 2342,
+    "airline": "Wizz Air",
+    "dur": 255
    }
   ]
  },
@@ -669,6 +4086,78 @@
   "ret": "2026-08-21",
   "nights": 5,
   "flights": [
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 1230,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 1587,
+    "airline": "Wizz Air",
+    "dur": 215
+   },
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1708,
+    "airline": "Wizz Air",
+    "dur": 145
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1835,
+    "airline": "",
+    "dur": 205
+   },
+   {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1923,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "CFU",
+    "city": "Corfu",
+    "country": "Greece",
+    "price": 1969,
+    "airline": "Tus Air",
+    "dur": 155
+   },
+   {
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 2090,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 2090,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "JMK",
+    "city": "Mykonos",
+    "country": "Greece",
+    "price": 2356,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
    {
     "airport": "SKG",
     "city": "Thessaloniki",
@@ -680,11 +4169,146 @@
    }
   ]
  },
+ "2026-08-16_2026-08-22": {
+  "dep": "2026-08-16",
+  "ret": "2026-08-22",
+  "nights": 6,
+  "flights": [
+   {
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 1247,
+    "airline": "Wizz Air",
+    "dur": 215
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1291,
+    "airline": "",
+    "dur": 205
+   },
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 1384,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1506,
+    "airline": "Israir Airlines",
+    "dur": 135
+   },
+   {
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 1850,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1923,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 1940,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   }
+  ]
+ },
  "2026-08-16_2026-08-23": {
   "dep": "2026-08-16",
   "ret": "2026-08-23",
   "nights": 7,
   "flights": [
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 1179,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 1281,
+    "airline": "Wizz Air",
+    "dur": 215
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1529,
+    "airline": "",
+    "dur": 205
+   },
+   {
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 1581,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1605,
+    "airline": "Wizz Air",
+    "dur": 145
+   },
+   {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1923,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 1940,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "SKG",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "price": 2080,
+    "airline": "Tus Air",
+    "dur": 155
+   },
+   {
+    "airport": "CFU",
+    "city": "Corfu",
+    "country": "Greece",
+    "price": 2298,
+    "airline": "Tus Air",
+    "dur": 155
+   },
    {
     "airport": "GVA",
     "city": "Geneva",
@@ -696,11 +4320,940 @@
    }
   ]
  },
- "2026-08-17_2026-08-22": {
+ "2026-08-16_2026-08-24": {
+  "dep": "2026-08-16",
+  "ret": "2026-08-24",
+  "nights": 8,
+  "flights": [
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1447,
+    "airline": "Israir Airlines",
+    "dur": 135
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1597,
+    "airline": "",
+    "dur": 205
+   },
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 1776,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1923,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 1940,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "CFU",
+    "city": "Corfu",
+    "country": "Greece",
+    "price": 1969,
+    "airline": "Tus Air",
+    "dur": 155
+   },
+   {
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 2090,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "JMK",
+    "city": "Mykonos",
+    "country": "Greece",
+    "price": 2356,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   }
+  ]
+ },
+ "2026-08-16_2026-08-25": {
+  "dep": "2026-08-16",
+  "ret": "2026-08-25",
+  "nights": 9,
+  "flights": [
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 1298,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 1367,
+    "airline": "Wizz Air",
+    "dur": 215
+   },
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1742,
+    "airline": "Wizz Air",
+    "dur": 145
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1835,
+    "airline": "",
+    "dur": 205
+   },
+   {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1923,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 1940,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 2090,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "CFU",
+    "city": "Corfu",
+    "country": "Greece",
+    "price": 2119,
+    "airline": "Tus Air",
+    "dur": 155
+   },
+   {
+    "airport": "JMK",
+    "city": "Mykonos",
+    "country": "Greece",
+    "price": 2296,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   }
+  ]
+ },
+ "2026-08-17_2026-08-23": {
   "dep": "2026-08-17",
-  "ret": "2026-08-22",
+  "ret": "2026-08-23",
+  "nights": 6,
+  "flights": [
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 1008,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1363,
+    "airline": "Bluebird Airways",
+    "dur": 130
+   },
+   {
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 1461,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1530,
+    "airline": "",
+    "dur": 210
+   },
+   {
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 1641,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1683,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 1786,
+    "airline": "El Al",
+    "dur": 195
+   },
+   {
+    "airport": "PRG",
+    "city": "Prague",
+    "country": "Czechia",
+    "price": 1918,
+    "airline": "",
+    "dur": 240
+   },
+   {
+    "airport": "JMK",
+    "city": "Mykonos",
+    "country": "Greece",
+    "price": 2042,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "CFU",
+    "city": "Corfu",
+    "country": "Greece",
+    "price": 2208,
+    "airline": "Tus Air",
+    "dur": 155
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 2209,
+    "airline": "Bluebird Airways",
+    "dur": 270
+   }
+  ]
+ },
+ "2026-08-17_2026-08-24": {
+  "dep": "2026-08-17",
+  "ret": "2026-08-24",
+  "nights": 7,
+  "flights": [
+   {
+    "airport": "PMO",
+    "city": "Palermo",
+    "country": "Italy",
+    "price": 1333,
+    "airline": "Wizz Air",
+    "dur": 200
+   },
+   {
+    "airport": "CTA",
+    "city": "Catania",
+    "country": "Italy",
+    "price": 1440,
+    "airline": "El Al",
+    "dur": 200
+   },
+   {
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 1442,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1509,
+    "airline": "Israir Airlines",
+    "dur": 135
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1598,
+    "airline": "",
+    "dur": 210
+   },
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 1606,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1683,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "JMK",
+    "city": "Mykonos",
+    "country": "Greece",
+    "price": 1713,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 1737,
+    "airline": "El Al",
+    "dur": 195
+   },
+   {
+    "airport": "DBV",
+    "city": "Dubrovnik",
+    "country": "Croatia",
+    "price": 1826,
+    "airline": "El Al",
+    "dur": 200
+   },
+   {
+    "airport": "CFU",
+    "city": "Corfu",
+    "country": "Greece",
+    "price": 1879,
+    "airline": "Tus Air",
+    "dur": 155
+   },
+   {
+    "airport": "PRG",
+    "city": "Prague",
+    "country": "Czechia",
+    "price": 1918,
+    "airline": "",
+    "dur": 240
+   },
+   {
+    "airport": "VIE",
+    "city": "Vienna",
+    "country": "Austria",
+    "price": 2080,
+    "airline": "",
+    "dur": 225
+   },
+   {
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 2150,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "BGY",
+    "city": "Milan Bergamo",
+    "country": "Italy",
+    "price": 2179,
+    "airline": "Bluebird Airways",
+    "dur": 255
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 2209,
+    "airline": "Bluebird Airways",
+    "dur": 270
+   },
+   {
+    "airport": "MAD",
+    "city": "Madrid",
+    "country": "Spain",
+    "price": 2278,
+    "airline": "Air Europa",
+    "dur": 315
+   },
+   {
+    "airport": "BCN",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price": 2359,
+    "airline": "Bluebird Airways",
+    "dur": 280
+   }
+  ]
+ },
+ "2026-08-17_2026-08-25": {
+  "dep": "2026-08-17",
+  "ret": "2026-08-25",
+  "nights": 8,
+  "flights": [
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 1127,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1306,
+    "airline": "Israir Airlines",
+    "dur": 135
+   },
+   {
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 1461,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "JMK",
+    "city": "Mykonos",
+    "country": "Greece",
+    "price": 1653,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1683,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1836,
+    "airline": "",
+    "dur": 210
+   },
+   {
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 1871,
+    "airline": "El Al",
+    "dur": 195
+   },
+   {
+    "airport": "PRG",
+    "city": "Prague",
+    "country": "Czechia",
+    "price": 1993,
+    "airline": "",
+    "dur": 240
+   },
+   {
+    "airport": "CFU",
+    "city": "Corfu",
+    "country": "Greece",
+    "price": 2029,
+    "airline": "Tus Air",
+    "dur": 155
+   },
+   {
+    "airport": "VIE",
+    "city": "Vienna",
+    "country": "Austria",
+    "price": 2080,
+    "airline": "",
+    "dur": 225
+   },
+   {
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 2150,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "BGY",
+    "city": "Milan Bergamo",
+    "country": "Italy",
+    "price": 2179,
+    "airline": "Bluebird Airways",
+    "dur": 255
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 2209,
+    "airline": "Bluebird Airways",
+    "dur": 270
+   },
+   {
+    "airport": "BCN",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price": 2239,
+    "airline": "Bluebird Airways",
+    "dur": 280
+   }
+  ]
+ },
+ "2026-08-17_2026-08-26": {
+  "dep": "2026-08-17",
+  "ret": "2026-08-26",
+  "nights": 9,
+  "flights": [
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 1213,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1377,
+    "airline": "",
+    "dur": 210
+   },
+   {
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 1461,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1521,
+    "airline": "Bluebird Airways",
+    "dur": 130
+   },
+   {
+    "airport": "CTA",
+    "city": "Catania",
+    "country": "Italy",
+    "price": 1602,
+    "airline": "El Al",
+    "dur": 200
+   },
+   {
+    "airport": "PMO",
+    "city": "Palermo",
+    "country": "Italy",
+    "price": 1640,
+    "airline": "Wizz Air",
+    "dur": 200
+   },
+   {
+    "airport": "JMK",
+    "city": "Mykonos",
+    "country": "Greece",
+    "price": 1653,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1683,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 1738,
+    "airline": "El Al",
+    "dur": 195
+   },
+   {
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 1910,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "PRG",
+    "city": "Prague",
+    "country": "Czechia",
+    "price": 1918,
+    "airline": "",
+    "dur": 240
+   },
+   {
+    "airport": "VIE",
+    "city": "Vienna",
+    "country": "Austria",
+    "price": 2080,
+    "airline": "",
+    "dur": 225
+   },
+   {
+    "airport": "BGY",
+    "city": "Milan Bergamo",
+    "country": "Italy",
+    "price": 2179,
+    "airline": "Bluebird Airways",
+    "dur": 255
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 2209,
+    "airline": "Bluebird Airways",
+    "dur": 270
+   },
+   {
+    "airport": "BCN",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price": 2239,
+    "airline": "Bluebird Airways",
+    "dur": 280
+   }
+  ]
+ },
+ "2026-08-18_2026-08-23": {
+  "dep": "2026-08-18",
+  "ret": "2026-08-23",
   "nights": 5,
   "flights": [
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 1128,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1230,
+    "airline": "Wizz Air",
+    "dur": 145
+   },
+   {
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 1281,
+    "airline": "Wizz Air",
+    "dur": 210
+   },
+   {
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 1341,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1462,
+    "airline": "",
+    "dur": 210
+   },
+   {
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 1581,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1623,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "JMK",
+    "city": "Mykonos",
+    "country": "Greece",
+    "price": 1982,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "SKG",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "price": 1999,
+    "airline": "Aegean",
+    "dur": 145
+   },
+   {
+    "airport": "PRG",
+    "city": "Prague",
+    "country": "Czechia",
+    "price": 2016,
+    "airline": "",
+    "dur": 250
+   },
+   {
+    "airport": "OTP",
+    "city": "Bucharest",
+    "country": "Romania",
+    "price": 2062,
+    "price_usd": 565,
+    "airline": "El Al",
+    "dur": null
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 2179,
+    "airline": "Bluebird Airways",
+    "dur": 270
+   }
+  ]
+ },
+ "2026-08-18_2026-08-24": {
+  "dep": "2026-08-18",
+  "ret": "2026-08-24",
+  "nights": 6,
+  "flights": [
+   {
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 1322,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1530,
+    "airline": "",
+    "dur": 210
+   },
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1539,
+    "airline": "Israir Airlines",
+    "dur": 135
+   },
+   {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1623,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "JMK",
+    "city": "Mykonos",
+    "country": "Greece",
+    "price": 1653,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 1725,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "PRG",
+    "city": "Prague",
+    "country": "Czechia",
+    "price": 2016,
+    "airline": "",
+    "dur": 250
+   },
+   {
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 2090,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 2106,
+    "airline": "Wizz Air",
+    "dur": 255
+   },
+   {
+    "airport": "CFU",
+    "city": "Corfu",
+    "country": "Greece",
+    "price": 2149,
+    "airline": "Tus Air",
+    "dur": 155
+   },
+   {
+    "airport": "BGY",
+    "city": "Milan Bergamo",
+    "country": "Italy",
+    "price": 2179,
+    "airline": "Bluebird Airways",
+    "dur": 255
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 2179,
+    "airline": "Bluebird Airways",
+    "dur": 270
+   },
+   {
+    "airport": "VIE",
+    "city": "Vienna",
+    "country": "Austria",
+    "price": 2229,
+    "airline": "",
+    "dur": 225
+   },
+   {
+    "airport": "MAD",
+    "city": "Madrid",
+    "country": "Spain",
+    "price": 2279,
+    "airline": "Air Europa",
+    "dur": 315
+   },
+   {
+    "airport": "BCN",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price": 2359,
+    "airline": "Bluebird Airways",
+    "dur": 280
+   }
+  ]
+ },
+ "2026-08-18_2026-08-25": {
+  "dep": "2026-08-18",
+  "ret": "2026-08-25",
+  "nights": 7,
+  "flights": [
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 1247,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1336,
+    "airline": "Israir Airlines",
+    "dur": 135
+   },
+   {
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 1341,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 1367,
+    "airline": "Wizz Air",
+    "dur": 210
+   },
+   {
+    "airport": "JTR",
+    "city": "Santorini",
+    "country": "Greece",
+    "price": 1590,
+    "airline": "El Al",
+    "dur": 120
+   },
+   {
+    "airport": "JMK",
+    "city": "Mykonos",
+    "country": "Greece",
+    "price": 1593,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1623,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
    {
     "airport": "LCA",
     "city": "Larnaca",
@@ -711,51 +5264,84 @@
     "dur": null
    },
    {
-    "airport": "OTP",
-    "city": "Bucharest",
-    "country": "Romania",
-    "price": 2873,
-    "price_usd": 787,
-    "airline": "El Al",
-    "dur": null
-   }
-  ]
- },
- "2026-08-17_2026-08-24": {
-  "dep": "2026-08-17",
-  "ret": "2026-08-24",
-  "nights": 7,
-  "flights": []
- },
- "2026-08-18_2026-08-23": {
-  "dep": "2026-08-18",
-  "ret": "2026-08-23",
-  "nights": 5,
-  "flights": [
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1768,
+    "airline": "",
+    "dur": 210
+   },
    {
-    "airport": "OTP",
-    "city": "Bucharest",
-    "country": "Romania",
-    "price": 2062,
-    "price_usd": 565,
-    "airline": "El Al",
-    "dur": null
-   }
-  ]
- },
- "2026-08-18_2026-08-25": {
-  "dep": "2026-08-18",
-  "ret": "2026-08-25",
-  "nights": 7,
-  "flights": [
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 1845,
+    "airline": "Wizz Air",
+    "dur": 255
+   },
    {
-    "airport": "LCA",
-    "city": "Larnaca",
-    "country": "Cyprus",
-    "price": 1756,
-    "price_usd": 481,
-    "airline": "El Al",
-    "dur": null
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 2090,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "PRG",
+    "city": "Prague",
+    "country": "Czechia",
+    "price": 2090,
+    "airline": "",
+    "dur": 250
+   },
+   {
+    "airport": "BGY",
+    "city": "Milan Bergamo",
+    "country": "Italy",
+    "price": 2179,
+    "airline": "Bluebird Airways",
+    "dur": 255
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 2179,
+    "airline": "Bluebird Airways",
+    "dur": 270
+   },
+   {
+    "airport": "VIE",
+    "city": "Vienna",
+    "country": "Austria",
+    "price": 2229,
+    "airline": "",
+    "dur": 225
+   },
+   {
+    "airport": "BCN",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price": 2239,
+    "airline": "Bluebird Airways",
+    "dur": 280
+   },
+   {
+    "airport": "CFU",
+    "city": "Corfu",
+    "country": "Greece",
+    "price": 2298,
+    "airline": "Tus Air",
+    "dur": 155
+   },
+   {
+    "airport": "MUC",
+    "city": "Munich",
+    "country": "Germany",
+    "price": 2345,
+    "airline": "Bluebird Airways",
+    "dur": 240
    },
    {
     "airport": "MRS",
@@ -777,11 +5363,202 @@
    }
   ]
  },
+ "2026-08-19_2026-08-24": {
+  "dep": "2026-08-19",
+  "ret": "2026-08-24",
+  "nights": 5,
+  "flights": [
+   {
+    "airport": "PMO",
+    "city": "Palermo",
+    "country": "Italy",
+    "price": 1298,
+    "airline": "Wizz Air",
+    "dur": 200
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1360,
+    "airline": "",
+    "dur": 210
+   },
+   {
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 1438,
+    "airline": "El Al",
+    "dur": 105
+   },
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1494,
+    "airline": "Israir Airlines",
+    "dur": 135
+   },
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 1537,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1683,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 1737,
+    "airline": "El Al",
+    "dur": 195
+   },
+   {
+    "airport": "CTA",
+    "city": "Catania",
+    "country": "Italy",
+    "price": 1781,
+    "airline": "El Al",
+    "dur": 200
+   },
+   {
+    "airport": "CFU",
+    "city": "Corfu",
+    "country": "Greece",
+    "price": 1879,
+    "airline": "Tus Air",
+    "dur": 155
+   },
+   {
+    "airport": "JMK",
+    "city": "Mykonos",
+    "country": "Greece",
+    "price": 1958,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 2000,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 2150,
+    "airline": "Bluebird Airways",
+    "dur": 270
+   },
+   {
+    "airport": "PRG",
+    "city": "Prague",
+    "country": "Czechia",
+    "price": 2174,
+    "airline": "",
+    "dur": 250
+   },
+   {
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 2190,
+    "airline": "Wizz Air",
+    "dur": 255
+   },
+   {
+    "airport": "VIE",
+    "city": "Vienna",
+    "country": "Austria",
+    "price": 2199,
+    "airline": "",
+    "dur": 225
+   },
+   {
+    "airport": "BGY",
+    "city": "Milan Bergamo",
+    "country": "Italy",
+    "price": 2209,
+    "airline": "Bluebird Airways",
+    "dur": 255
+   },
+   {
+    "airport": "MAD",
+    "city": "Madrid",
+    "country": "Spain",
+    "price": 2278,
+    "airline": "Air Europa",
+    "dur": 315
+   }
+  ]
+ },
  "2026-08-19_2026-08-25": {
   "dep": "2026-08-19",
   "ret": "2026-08-25",
   "nights": 6,
   "flights": [
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 1059,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1111,
+    "airline": "Israir Airlines",
+    "dur": 135
+   },
+   {
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 1298,
+    "airline": "Wizz Air",
+    "dur": 215
+   },
+   {
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 1438,
+    "airline": "El Al",
+    "dur": 105
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1598,
+    "airline": "",
+    "dur": 210
+   },
+   {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1683,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
    {
     "airport": "LCA",
     "city": "Larnaca",
@@ -790,6 +5567,78 @@
     "price_usd": 481,
     "airline": "El Al",
     "dur": null
+   },
+   {
+    "airport": "JMK",
+    "city": "Mykonos",
+    "country": "Greece",
+    "price": 1898,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 1929,
+    "airline": "Wizz Air",
+    "dur": 255
+   },
+   {
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 2000,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "CFU",
+    "city": "Corfu",
+    "country": "Greece",
+    "price": 2029,
+    "airline": "Tus Air",
+    "dur": 155
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 2150,
+    "airline": "Bluebird Airways",
+    "dur": 270
+   },
+   {
+    "airport": "VIE",
+    "city": "Vienna",
+    "country": "Austria",
+    "price": 2199,
+    "airline": "",
+    "dur": 225
+   },
+   {
+    "airport": "BGY",
+    "city": "Milan Bergamo",
+    "country": "Italy",
+    "price": 2209,
+    "airline": "Bluebird Airways",
+    "dur": 255
+   },
+   {
+    "airport": "PRG",
+    "city": "Prague",
+    "country": "Czechia",
+    "price": 2249,
+    "airline": "",
+    "dur": 250
+   },
+   {
+    "airport": "BCN",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price": 2281,
+    "airline": "El Al",
+    "dur": 280
    },
    {
     "airport": "MRS",
@@ -802,11 +5651,194 @@
    }
   ]
  },
+ "2026-08-19_2026-08-26": {
+  "dep": "2026-08-19",
+  "ret": "2026-08-26",
+  "nights": 7,
+  "flights": [
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 1144,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1207,
+    "airline": "",
+    "dur": 210
+   },
+   {
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 1213,
+    "airline": "Wizz Air",
+    "dur": 215
+   },
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1388,
+    "airline": "Israir Airlines",
+    "dur": 135
+   },
+   {
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 1521,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "PMO",
+    "city": "Palermo",
+    "country": "Italy",
+    "price": 1538,
+    "airline": "Wizz Air",
+    "dur": 200
+   },
+   {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1683,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 1760,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "PRG",
+    "city": "Prague",
+    "country": "Czechia",
+    "price": 1837,
+    "airline": "",
+    "dur": 240
+   },
+   {
+    "airport": "JMK",
+    "city": "Mykonos",
+    "country": "Greece",
+    "price": 1898,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "CTA",
+    "city": "Catania",
+    "country": "Italy",
+    "price": 1943,
+    "airline": "El Al",
+    "dur": 200
+   },
+   {
+    "airport": "SKG",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "price": 1969,
+    "airline": "Tus Air",
+    "dur": 155
+   },
+   {
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 2135,
+    "airline": "Wizz Air",
+    "dur": 255
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 2150,
+    "airline": "Bluebird Airways",
+    "dur": 270
+   },
+   {
+    "airport": "VIE",
+    "city": "Vienna",
+    "country": "Austria",
+    "price": 2199,
+    "airline": "",
+    "dur": 225
+   },
+   {
+    "airport": "BGY",
+    "city": "Milan Bergamo",
+    "country": "Italy",
+    "price": 2209,
+    "airline": "Bluebird Airways",
+    "dur": 255
+   }
+  ]
+ },
  "2026-08-20_2026-08-25": {
   "dep": "2026-08-20",
   "ret": "2026-08-25",
   "nights": 5,
   "flights": [
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 1025,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1210,
+    "airline": "Israir Airlines",
+    "dur": 135
+   },
+   {
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 1230,
+    "airline": "Wizz Air",
+    "dur": 215
+   },
+   {
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 1371,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1564,
+    "airline": "",
+    "dur": 210
+   },
+   {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1653,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
    {
     "airport": "LCA",
     "city": "Larnaca",
@@ -817,11 +5849,560 @@
     "dur": null
    },
    {
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 1845,
+    "airline": "Wizz Air",
+    "dur": 260
+   },
+   {
+    "airport": "JMK",
+    "city": "Mykonos",
+    "country": "Greece",
+    "price": 1935,
+    "airline": "Arkia",
+    "dur": 115
+   },
+   {
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 2090,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "CFU",
+    "city": "Corfu",
+    "country": "Greece",
+    "price": 2119,
+    "airline": "Tus Air",
+    "dur": 155
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 2239,
+    "airline": "Bluebird Airways",
+    "dur": 270
+   },
+   {
+    "airport": "PRG",
+    "city": "Prague",
+    "country": "Czechia",
+    "price": 2249,
+    "airline": "",
+    "dur": 250
+   },
+   {
+    "airport": "VIE",
+    "city": "Vienna",
+    "country": "Austria",
+    "price": 2348,
+    "airline": "",
+    "dur": 225
+   },
+   {
+    "airport": "SKG",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "price": 2350,
+    "airline": "Aegean",
+    "dur": 145
+   },
+   {
     "airport": "GVA",
     "city": "Geneva",
     "country": "Switzerland",
     "price": 2551,
     "price_usd": 699,
+    "airline": "El Al",
+    "dur": null
+   }
+  ]
+ },
+ "2026-08-20_2026-08-26": {
+  "dep": "2026-08-20",
+  "ret": "2026-08-26",
+  "nights": 6,
+  "flights": [
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 1111,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 1145,
+    "airline": "Wizz Air",
+    "dur": 215
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1173,
+    "airline": "",
+    "dur": 210
+   },
+   {
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 1371,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1506,
+    "airline": "Israir Airlines",
+    "dur": 135
+   },
+   {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1653,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "SKG",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "price": 1798,
+    "airline": "Aegean",
+    "dur": 145
+   },
+   {
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 1850,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "PRG",
+    "city": "Prague",
+    "country": "Czechia",
+    "price": 1893,
+    "airline": "",
+    "dur": 240
+   },
+   {
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 2050,
+    "airline": "Wizz Air",
+    "dur": 260
+   },
+   {
+    "airport": "JMK",
+    "city": "Mykonos",
+    "country": "Greece",
+    "price": 2051,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 2239,
+    "airline": "Bluebird Airways",
+    "dur": 270
+   },
+   {
+    "airport": "VIE",
+    "city": "Vienna",
+    "country": "Austria",
+    "price": 2348,
+    "airline": "",
+    "dur": 225
+   }
+  ]
+ },
+ "2026-08-21_2026-08-26": {
+  "dep": "2026-08-21",
+  "ret": "2026-08-26",
+  "nights": 5,
+  "flights": [
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1105,
+    "airline": "",
+    "dur": 210
+   },
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 1213,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "RHO",
+    "city": "Rhodes",
+    "country": "Greece",
+    "price": 1341,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "HER",
+    "city": "Heraklion",
+    "country": "Greece",
+    "price": 1563,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1572,
+    "airline": "Wizz Air",
+    "dur": 145
+   },
+   {
+    "airport": "JMK",
+    "city": "Mykonos",
+    "country": "Greece",
+    "price": 1716,
+    "airline": "Bluebird Airways",
+    "dur": 110
+   },
+   {
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 1737,
+    "airline": "El Al",
+    "dur": 195
+   },
+   {
+    "airport": "KGS",
+    "city": "Kos",
+    "country": "Greece",
+    "price": 1760,
+    "airline": "Bluebird Airways",
+    "dur": 100
+   },
+   {
+    "airport": "PRG",
+    "city": "Prague",
+    "country": "Czechia",
+    "price": 1918,
+    "airline": "",
+    "dur": 240
+   },
+   {
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 2135,
+    "airline": "Wizz Air",
+    "dur": 250
+   },
+   {
+    "airport": "VIE",
+    "city": "Vienna",
+    "country": "Austria",
+    "price": 2139,
+    "airline": "",
+    "dur": 225
+   },
+   {
+    "airport": "BGY",
+    "city": "Milan Bergamo",
+    "country": "Italy",
+    "price": 2179,
+    "airline": "Bluebird Airways",
+    "dur": 255
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 2269,
+    "airline": "Bluebird Airways",
+    "dur": 270
+   }
+  ]
+ },
+ "2026-08-10_2026-08-18": {
+  "dep": "2026-08-10",
+  "ret": "2026-08-18",
+  "nights": 8,
+  "flights": [
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1190,
+    "airline": "",
+    "dur": 210
+   },
+   {
+    "airport": "CDG",
+    "city": "Paris",
+    "country": "France",
+    "price": 1786,
+    "airline": "",
+    "dur": 305
+   },
+   {
+    "airport": "VIE",
+    "city": "Vienna",
+    "country": "Austria",
+    "price": 1828,
+    "airline": "",
+    "dur": 225
+   },
+   {
+    "airport": "PRG",
+    "city": "Prague",
+    "country": "Czechia",
+    "price": 1856,
+    "airline": "",
+    "dur": 240
+   }
+  ]
+ },
+ "2026-08-12_2026-08-18": {
+  "dep": "2026-08-12",
+  "ret": "2026-08-18",
+  "nights": 6,
+  "flights": [
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1156,
+    "airline": "",
+    "dur": 210
+   },
+   {
+    "airport": "NCE",
+    "city": "Nice",
+    "country": "France",
+    "price": 1794,
+    "airline": "",
+    "dur": 255
+   },
+   {
+    "airport": "PRG",
+    "city": "Prague",
+    "country": "Czechia",
+    "price": 2035,
+    "airline": "",
+    "dur": 240
+   },
+   {
+    "airport": "VIE",
+    "city": "Vienna",
+    "country": "Austria",
+    "price": 2079,
+    "airline": "",
+    "dur": 225
+   }
+  ]
+ },
+ "2026-08-15_2026-08-22": {
+  "dep": "2026-08-15",
+  "ret": "2026-08-22",
+  "nights": 7,
+  "flights": [
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1122,
+    "airline": "",
+    "dur": 210
+   },
+   {
+    "airport": "PRG",
+    "city": "Prague",
+    "country": "Czechia",
+    "price": 2174,
+    "airline": "",
+    "dur": 250
+   },
+   {
+    "airport": "VIE",
+    "city": "Vienna",
+    "country": "Austria",
+    "price": 2228,
+    "airline": "",
+    "dur": 225
+   },
+   {
+    "airport": "OTP",
+    "city": "Bucharest",
+    "country": "Romania",
+    "price": 3019,
+    "price_usd": 827,
+    "airline": "El Al",
+    "dur": null
+   }
+  ]
+ },
+ "2026-08-17_2026-08-22": {
+  "dep": "2026-08-17",
+  "ret": "2026-08-22",
+  "nights": 5,
+  "flights": [
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1294,
+    "airline": "",
+    "dur": 210
+   },
+   {
+    "airport": "LCA",
+    "city": "Larnaca",
+    "country": "Cyprus",
+    "price": 1756,
+    "price_usd": 481,
+    "airline": "El Al",
+    "dur": null
+   },
+   {
+    "airport": "PRG",
+    "city": "Prague",
+    "country": "Czechia",
+    "price": 1921,
+    "airline": "",
+    "dur": 240
+   },
+   {
+    "airport": "VIE",
+    "city": "Vienna",
+    "country": "Austria",
+    "price": 2082,
+    "airline": "",
+    "dur": 225
+   },
+   {
+    "airport": "OTP",
+    "city": "Bucharest",
+    "country": "Romania",
+    "price": 2873,
+    "price_usd": 787,
+    "airline": "El Al",
+    "dur": null
+   }
+  ]
+ },
+ "2026-08-18_2026-08-26": {
+  "dep": "2026-08-18",
+  "ret": "2026-08-26",
+  "nights": 8,
+  "flights": [
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1377,
+    "airline": "",
+    "dur": 210
+   },
+   {
+    "airport": "PRG",
+    "city": "Prague",
+    "country": "Czechia",
+    "price": 1893,
+    "airline": "",
+    "dur": 240
+   },
+   {
+    "airport": "VIE",
+    "city": "Vienna",
+    "country": "Austria",
+    "price": 2229,
+    "airline": "",
+    "dur": 225
+   }
+  ]
+ },
+ "2026-08-13_2026-08-22": {
+  "dep": "2026-08-13",
+  "ret": "2026-08-22",
+  "nights": 9,
+  "flights": [
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1173,
+    "airline": "",
+    "dur": 210
+   },
+   {
+    "airport": "PRG",
+    "city": "Prague",
+    "country": "Czechia",
+    "price": 2240,
+    "airline": "",
+    "dur": 250
+   }
+  ]
+ },
+ "2026-08-09_2026-08-14": {
+  "dep": "2026-08-09",
+  "ret": "2026-08-14",
+  "nights": 5,
+  "flights": [
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 1483,
+    "airline": "",
+    "dur": 205
+   },
+   {
+    "airport": "MAD",
+    "city": "Madrid",
+    "country": "Spain",
+    "price": 1931,
+    "price_usd": 529,
+    "airline": "El Al",
+    "dur": null
+   },
+   {
+    "airport": "SKG",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "price": 2274,
+    "price_usd": 623,
+    "airline": "El Al",
+    "dur": null
+   },
+   {
+    "airport": "DXB",
+    "city": "Dubai",
+    "country": "UAE",
+    "price": 2785,
+    "price_usd": 763,
     "airline": "El Al",
     "dur": null
    }
