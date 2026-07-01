@@ -1,7 +1,7 @@
 ## Flight Results (El Al · inspireme.elal.com)
 
 > Source: El Al InspireMe, captured 2026-07-01. Filters: from TLV, round-trip, El Al only, **≤ $850 USD** (prices shown in NIS at ~3.65 rate).
-> Scope: all El Al destinations, **5–9 nights**, Aug 9–26 2026. 744 options across 55 date pairs.
+> Scope: all El Al destinations, **5–9 nights**, Aug 9–26 2026. 828 options across 55 date pairs.
 
 ### Cheapest fare per destination
 
@@ -11,19 +11,25 @@
 | Palermo | Italy | ₪860 | Wizz Air | Aug 10 | Aug 15 | 5 | 3 hr 20 min |
 | Rome | Italy | ₪922 | Wizz Air | Aug 10 | Aug 19 | 9 | 3 hr 50 min |
 | Larnaca | Cyprus | ₪1,015 | El Al | Aug 11 | Aug 18 | 7 |  |
+| Bucharest | Romania | ₪1,020 | Wizz Air | Aug 17 | Aug 24 | 7 | 2 hr 50 min |
 | Athens | Greece | ₪1,037 | Aegean | Aug 14 | Aug 19 | 5 | 2 hr 10 min |
 | Budapest | Hungary | ₪1,071 | Various | Aug 10 | Aug 15 | 5 | 3 hr 30 min |
+| Bratislava | Slovakia | ₪1,122 | Wizz Air | Aug 10 | Aug 17 | 7 | 3 hr 40 min |
+| Kraków | Poland | ₪1,156 | Wizz Air | Aug 9 | Aug 16 | 7 | 3 hr 45 min |
+| Sofia | Bulgaria | ₪1,156 | Wizz Air | Aug 9 | Aug 14 | 5 | 2 hr 50 min |
+| Varna | Bulgaria | ₪1,224 | Wizz Air | Aug 15 | Aug 22 | 7 | 2 hr 35 min |
 | Rhodes | Greece | ₪1,271 | Bluebird Airways | Aug 11 | Aug 16 | 5 | 1 hr 40 min |
 | Heraklion | Greece | ₪1,324 | Bluebird Airways | Aug 10 | Aug 15 | 5 | 1 hr 50 min |
 | Catania | Italy | ₪1,377 | El Al | Aug 10 | Aug 19 | 9 | 3 hr 20 min |
 | Mykonos | Greece | ₪1,383 | Bluebird Airways | Aug 11 | Aug 19 | 8 | 1 hr 50 min |
 | Prague | Czechia | ₪1,416 | Various | Aug 13 | Aug 18 | 5 | 4 hr |
+| Warsaw | Poland | ₪1,445 | Wizz Air | Aug 16 | Aug 21 | 5 | 4 hr |
 | Milan | Italy | ₪1,452 | Wizz Air | Aug 14 | Aug 20 | 6 | 4 hr 10 min |
 | Corfu | Greece | ₪1,460 | Tus Air | Aug 9 | Aug 17 | 8 | 2 hr 35 min |
 | Santorini | Greece | ₪1,482 | El Al | Aug 11 | Aug 18 | 7 | 2 hr |
+| Vilnius | Lithuania | ₪1,530 | Wizz Air | Aug 16 | Aug 23 | 7 | 4 hr 25 min |
 | Kos | Greece | ₪1,581 | Bluebird Airways | Aug 16 | Aug 23 | 7 | 1 hr 40 min |
 | Thessaloniki | Greece | ₪1,587 | El Al | Aug 10 | Aug 16 | 6 | 2 hr 40 min |
-| Sofia | Bulgaria | ₪1,602 | El Al | Aug 10 | Aug 17 | 7 |  |
 | Milan Bergamo | Italy | ₪1,611 | Bluebird Airways | Aug 10 | Aug 15 | 5 | 4 hr 15 min |
 | Berlin | Germany | ₪1,641 | Bluebird Airways | Aug 12 | Aug 19 | 7 | 4 hr 30 min |
 | Vienna | Austria | ₪1,683 | Various | Aug 10 | Aug 19 | 9 | 3 hr 45 min |
@@ -35,12 +41,11 @@
 | Dubrovnik | Croatia | ₪1,826 | El Al | Aug 10 | Aug 17 | 7 | 3 hr 20 min |
 | Madrid | Spain | ₪1,931 | El Al | Aug 9 | Aug 14 | 5 |  |
 | Venice | Italy | ₪1,940 | El Al | Aug 11 | Aug 16 | 5 | 3 hr 50 min |
-| Bucharest | Romania | ₪2,062 | El Al | Aug 18 | Aug 23 | 5 |  |
 | Dusseldorf | Germany | ₪2,097 | Eurowings | Aug 15 | Aug 20 | 5 | 4 hr 35 min |
 | Hamburg | Germany | ₪2,156 | Eurowings | Aug 14 | Aug 21 | 7 | 4 hr 45 min |
 | Munich | Germany | ₪2,200 | Bluebird Airways | Aug 10 | Aug 15 | 5 | 4 hr |
+| London | UK | ₪2,278 | Wizz Air | Aug 14 | Aug 19 | 5 | 5 hr 20 min |
 | Marseilles | France | ₪2,376 | El Al | Aug 19 | Aug 25 | 6 |  |
-| London | UK | ₪2,497 | El Al | Aug 11 | Aug 18 | 7 |  |
 | Geneva | Switzerland | ₪2,551 | El Al | Aug 9 | Aug 16 | 7 |  |
 | Amsterdam | Netherlands | ₪2,781 | El Al | Aug 14 | Aug 19 | 5 |  |
 | Dubai | UAE | ₪2,785 | El Al | Aug 9 | Aug 16 | 7 |  |
@@ -60,17 +65,22 @@
 | Barcelona | Spain | ₪2,111 | Arkia | Aug 9 | Aug 15 | 6 | 4 hr 40 min |
 | Milan Bergamo | Italy | ₪2,120 | Bluebird Airways | Aug 9 | Aug 15 | 6 | 4 hr 10 min |
 
-### Aug 9 → Aug 16 (7 nights) — 16 flights
+### Aug 9 → Aug 16 (7 nights) — 21 flights
 | Destination | Country | Price (NIS) | Airline | From | To | Nights | Flight length |
 |---|---|---|---|---|---|---|---|
 | Naples | Italy | ₪820 | Wizz Air | Aug 9 | Aug 16 | 7 | 3 hr 35 min |
 | Rome | Italy | ₪1,059 | Wizz Air | Aug 9 | Aug 16 | 7 | 3 hr 50 min |
+| Kraków | Poland | ₪1,156 | Wizz Air | Aug 9 | Aug 16 | 7 | 3 hr 45 min |
 | Athens | Greece | ₪1,207 | Israir Airlines | Aug 9 | Aug 16 | 7 | 2 hr 15 min |
+| Sofia | Bulgaria | ₪1,241 | Wizz Air | Aug 9 | Aug 16 | 7 | 2 hr 50 min |
+| Bratislava | Slovakia | ₪1,360 | Wizz Air | Aug 9 | Aug 16 | 7 | 3 hr 40 min |
 | Budapest | Hungary | ₪1,444 | Various | Aug 9 | Aug 16 | 7 | 3 hr 25 min |
 | Rhodes | Greece | ₪1,491 | Bluebird Airways | Aug 9 | Aug 16 | 7 | 1 hr 40 min |
 | Kos | Greece | ₪1,671 | Bluebird Airways | Aug 9 | Aug 16 | 7 | 1 hr 40 min |
 | Heraklion | Greece | ₪1,683 | Bluebird Airways | Aug 9 | Aug 16 | 7 | 1 hr 50 min |
+| Warsaw | Poland | ₪1,768 | Wizz Air | Aug 9 | Aug 16 | 7 | 4 hr |
 | Corfu | Greece | ₪1,879 | Tus Air | Aug 9 | Aug 16 | 7 | 2 hr 35 min |
+| Vilnius | Lithuania | ₪2,074 | Wizz Air | Aug 9 | Aug 16 | 7 | 4 hr 25 min |
 | Berlin | Germany | ₪2,090 | Bluebird Airways | Aug 9 | Aug 16 | 7 | 4 hr 30 min |
 | Thessaloniki | Greece | ₪2,106 | El Al | Aug 9 | Aug 16 | 7 |  |
 | Mykonos | Greece | ₪2,111 | Bluebird Airways | Aug 9 | Aug 16 | 7 | 1 hr 50 min |
@@ -112,7 +122,7 @@
 | Mykonos | Greece | ₪2,111 | Bluebird Airways | Aug 9 | Aug 18 | 9 | 1 hr 50 min |
 | Milan Bergamo | Italy | ₪2,179 | Bluebird Airways | Aug 9 | Aug 18 | 9 | 4 hr 10 min |
 
-### Aug 10 → Aug 15 (5 nights) — 17 flights
+### Aug 10 → Aug 15 (5 nights) — 18 flights
 | Destination | Country | Price (NIS) | Airline | From | To | Nights | Flight length |
 |---|---|---|---|---|---|---|---|
 | Palermo | Italy | ₪860 | Wizz Air | Aug 10 | Aug 15 | 5 | 3 hr 20 min |
@@ -123,6 +133,7 @@
 | Rhodes | Greece | ₪1,341 | Bluebird Airways | Aug 10 | Aug 15 | 5 | 1 hr 40 min |
 | Larnaca | Cyprus | ₪1,424 | El Al | Aug 10 | Aug 15 | 5 |  |
 | Naples | Italy | ₪1,427 | El Al | Aug 10 | Aug 15 | 5 | 3 hr 15 min |
+| Kraków | Poland | ₪1,445 | Wizz Air | Aug 10 | Aug 15 | 5 | 3 hr 45 min |
 | Milan Bergamo | Italy | ₪1,611 | Bluebird Airways | Aug 10 | Aug 15 | 5 | 4 hr 15 min |
 | Vienna | Austria | ₪1,782 | Various | Aug 10 | Aug 15 | 5 | 3 hr 45 min |
 | Kos | Greece | ₪1,910 | Bluebird Airways | Aug 10 | Aug 15 | 5 | 1 hr 40 min |
@@ -153,10 +164,11 @@
 | Prague | Czechia | ₪2,240 | Various | Aug 10 | Aug 16 | 6 | 4 hr 10 min |
 | Madrid | Spain | ₪2,308 | Air Europa | Aug 10 | Aug 16 | 6 | 5 hr 15 min |
 
-### Aug 10 → Aug 17 (7 nights) — 26 flights
+### Aug 10 → Aug 17 (7 nights) — 29 flights
 | Destination | Country | Price (NIS) | Airline | From | To | Nights | Flight length |
 |---|---|---|---|---|---|---|---|
 | Rome | Italy | ₪990 | Wizz Air | Aug 10 | Aug 17 | 7 | 3 hr 50 min |
+| Bratislava | Slovakia | ₪1,122 | Wizz Air | Aug 10 | Aug 17 | 7 | 3 hr 40 min |
 | Larnaca | Cyprus | ₪1,179 | El Al | Aug 10 | Aug 17 | 7 |  |
 | Budapest | Hungary | ₪1,274 | Various | Aug 10 | Aug 17 | 7 | 3 hr 30 min |
 | Athens | Greece | ₪1,303 | Israir Airlines | Aug 10 | Aug 17 | 7 | 2 hr 15 min |
@@ -168,7 +180,9 @@
 | Sofia | Bulgaria | ₪1,602 | El Al | Aug 10 | Aug 17 | 7 |  |
 | Mykonos | Greece | ₪1,626 | Bluebird Airways | Aug 10 | Aug 17 | 7 | 1 hr 50 min |
 | Milan Bergamo | Italy | ₪1,641 | Bluebird Airways | Aug 10 | Aug 17 | 7 | 4 hr 15 min |
+| Kraków | Poland | ₪1,700 | Wizz Air | Aug 10 | Aug 17 | 7 | 3 hr 45 min |
 | Naples | Italy | ₪1,737 | El Al | Aug 10 | Aug 17 | 7 | 3 hr 15 min |
+| Warsaw | Poland | ₪1,768 | Wizz Air | Aug 10 | Aug 17 | 7 | 4 hr |
 | Prague | Czechia | ₪1,805 | Various | Aug 10 | Aug 17 | 7 | 4 hr |
 | Berlin | Germany | ₪1,820 | Bluebird Airways | Aug 10 | Aug 17 | 7 | 4 hr 30 min |
 | Dubrovnik | Croatia | ₪1,826 | El Al | Aug 10 | Aug 17 | 7 | 3 hr 20 min |
@@ -206,11 +220,12 @@
 | Barcelona | Spain | ₪1,970 | Bluebird Airways | Aug 10 | Aug 19 | 9 | 4 hr 40 min |
 | Milan | Italy | ₪2,084 | Wizz Air | Aug 10 | Aug 19 | 9 | 4 hr 15 min |
 
-### Aug 11 → Aug 16 (5 nights) — 24 flights
+### Aug 11 → Aug 16 (5 nights) — 26 flights
 | Destination | Country | Price (NIS) | Airline | From | To | Nights | Flight length |
 |---|---|---|---|---|---|---|---|
 | Naples | Italy | ₪1,247 | Wizz Air | Aug 11 | Aug 16 | 5 | 3 hr 30 min |
 | Rhodes | Greece | ₪1,271 | Bluebird Airways | Aug 11 | Aug 16 | 5 | 1 hr 40 min |
+| Kraków | Poland | ₪1,292 | Wizz Air | Aug 11 | Aug 16 | 5 | 3 hr 45 min |
 | Rome | Italy | ₪1,298 | Wizz Air | Aug 11 | Aug 16 | 5 | 3 hr 50 min |
 | Athens | Greece | ₪1,298 | Wizz Air | Aug 11 | Aug 16 | 5 | 2 hr 25 min |
 | Budapest | Hungary | ₪1,325 | Various | Aug 11 | Aug 16 | 5 | 3 hr 30 min |
@@ -220,6 +235,7 @@
 | Milan Bergamo | Italy | ₪1,641 | Bluebird Airways | Aug 11 | Aug 16 | 5 | 4 hr 15 min |
 | Mykonos | Greece | ₪1,683 | Bluebird Airways | Aug 11 | Aug 16 | 5 | 1 hr 50 min |
 | Thessaloniki | Greece | ₪1,773 | Aegean | Aug 11 | Aug 16 | 5 | 2 hr 25 min |
+| Bratislava | Slovakia | ₪1,870 | Wizz Air | Aug 11 | Aug 16 | 5 | 3 hr 40 min |
 | Berlin | Germany | ₪1,910 | Bluebird Airways | Aug 11 | Aug 16 | 5 | 4 hr 30 min |
 | Venice | Italy | ₪1,940 | El Al | Aug 11 | Aug 16 | 5 | 3 hr 50 min |
 | Vienna | Austria | ₪1,960 | Various | Aug 11 | Aug 16 | 5 | 3 hr 45 min |
@@ -255,7 +271,7 @@
 | Paris | France | ₪2,135 | Various | Aug 11 | Aug 17 | 6 | 5 hr 5 min |
 | Madrid | Spain | ₪2,144 | Air Europa | Aug 11 | Aug 17 | 6 | 5 hr 15 min |
 
-### Aug 11 → Aug 18 (7 nights) — 32 flights
+### Aug 11 → Aug 18 (7 nights) — 34 flights
 | Destination | Country | Price (NIS) | Airline | From | To | Nights | Flight length |
 |---|---|---|---|---|---|---|---|
 | Larnaca | Cyprus | ₪1,015 | El Al | Aug 11 | Aug 18 | 7 |  |
@@ -265,12 +281,14 @@
 | Naples | Italy | ₪1,333 | Wizz Air | Aug 11 | Aug 18 | 7 | 3 hr 30 min |
 | Rome | Italy | ₪1,367 | Wizz Air | Aug 11 | Aug 18 | 7 | 3 hr 50 min |
 | Heraklion | Greece | ₪1,384 | Bluebird Airways | Aug 11 | Aug 18 | 7 | 1 hr 50 min |
+| Kraków | Poland | ₪1,462 | Wizz Air | Aug 11 | Aug 18 | 7 | 3 hr 45 min |
 | Santorini | Greece | ₪1,482 | El Al | Aug 11 | Aug 18 | 7 | 2 hr |
 | Milan Bergamo | Italy | ₪1,641 | Bluebird Airways | Aug 11 | Aug 18 | 7 | 4 hr 15 min |
 | Mykonos | Greece | ₪1,683 | Bluebird Airways | Aug 11 | Aug 18 | 7 | 1 hr 50 min |
 | Barcelona | Spain | ₪1,760 | Bluebird Airways | Aug 11 | Aug 18 | 7 | 4 hr 40 min |
 | Berlin | Germany | ₪1,760 | Bluebird Airways | Aug 11 | Aug 18 | 7 | 4 hr 30 min |
 | Tbilisi | Georgia | ₪1,781 | El Al | Aug 11 | Aug 18 | 7 |  |
+| Bratislava | Slovakia | ₪1,785 | Wizz Air | Aug 11 | Aug 18 | 7 | 3 hr 40 min |
 | Paris | France | ₪1,786 | Various | Aug 11 | Aug 18 | 7 | 5 hr 5 min |
 | Nice | France | ₪1,794 | Various | Aug 11 | Aug 18 | 7 | 4 hr 15 min |
 | Kos | Greece | ₪1,850 | Bluebird Airways | Aug 11 | Aug 18 | 7 | 1 hr 40 min |
@@ -335,22 +353,25 @@
 | Vienna | Austria | ₪2,228 | Various | Aug 11 | Aug 20 | 9 | 3 hr 45 min |
 | Thessaloniki | Greece | ₪2,248 | Aegean | Aug 11 | Aug 20 | 9 | 2 hr 25 min |
 
-### Aug 12 → Aug 17 (5 nights) — 20 flights
+### Aug 12 → Aug 17 (5 nights) — 23 flights
 | Destination | Country | Price (NIS) | Airline | From | To | Nights | Flight length |
 |---|---|---|---|---|---|---|---|
 | Rome | Italy | ₪1,195 | Wizz Air | Aug 12 | Aug 17 | 5 | 3 hr 50 min |
 | Budapest | Hungary | ₪1,241 | Various | Aug 12 | Aug 17 | 5 | 3 hr 30 min |
 | Rhodes | Greece | ₪1,301 | Bluebird Airways | Aug 12 | Aug 17 | 5 | 1 hr 40 min |
 | Athens | Greece | ₪1,412 | Israir Airlines | Aug 12 | Aug 17 | 5 | 2 hr 15 min |
+| Bratislava | Slovakia | ₪1,445 | Wizz Air | Aug 12 | Aug 17 | 5 | 3 hr 35 min |
 | Corfu | Greece | ₪1,460 | Tus Air | Aug 12 | Aug 17 | 5 | 2 hr 35 min |
 | Palermo | Italy | ₪1,469 | Wizz Air | Aug 12 | Aug 17 | 5 | 3 hr 20 min |
 | Heraklion | Greece | ₪1,474 | Bluebird Airways | Aug 12 | Aug 17 | 5 | 1 hr 50 min |
 | Larnaca | Cyprus | ₪1,515 | El Al | Aug 12 | Aug 17 | 5 |  |
 | Naples | Italy | ₪1,553 | Wizz Air | Aug 12 | Aug 17 | 5 | 3 hr 35 min |
 | Milan Bergamo | Italy | ₪1,671 | Bluebird Airways | Aug 12 | Aug 17 | 5 | 4 hr 15 min |
+| Warsaw | Poland | ₪1,700 | Wizz Air | Aug 12 | Aug 17 | 5 | 4 hr |
 | Kos | Greece | ₪1,701 | Bluebird Airways | Aug 12 | Aug 17 | 5 | 1 hr 40 min |
 | Berlin | Germany | ₪1,760 | Bluebird Airways | Aug 12 | Aug 17 | 5 | 4 hr 30 min |
 | Vienna | Austria | ₪1,781 | Various | Aug 12 | Aug 17 | 5 | 3 hr 45 min |
+| Kraków | Poland | ₪1,870 | Wizz Air | Aug 12 | Aug 17 | 5 | 3 hr 45 min |
 | Barcelona | Spain | ₪1,970 | Bluebird Airways | Aug 12 | Aug 17 | 5 | 4 hr 40 min |
 | Prague | Czechia | ₪1,984 | Various | Aug 12 | Aug 17 | 5 | 4 hr |
 | Thessaloniki | Greece | ₪2,099 | El Al | Aug 12 | Aug 17 | 5 |  |
@@ -359,17 +380,22 @@
 | Bucharest | Romania | ₪2,197 | El Al | Aug 12 | Aug 17 | 5 |  |
 | Dubai | UAE | ₪2,785 | El Al | Aug 12 | Aug 17 | 5 |  |
 
-### Aug 12 → Aug 19 (7 nights) — 22 flights
+### Aug 12 → Aug 19 (7 nights) — 27 flights
 | Destination | Country | Price (NIS) | Airline | From | To | Nights | Flight length |
 |---|---|---|---|---|---|---|---|
 | Naples | Italy | ₪922 | Wizz Air | Aug 12 | Aug 19 | 7 | 3 hr 35 min |
 | Palermo | Italy | ₪1,059 | Wizz Air | Aug 12 | Aug 19 | 7 | 3 hr 20 min |
 | Athens | Greece | ₪1,099 | Israir Airlines | Aug 12 | Aug 19 | 7 | 2 hr 15 min |
 | Rome | Italy | ₪1,127 | Wizz Air | Aug 12 | Aug 19 | 7 | 3 hr 50 min |
+| Sofia | Bulgaria | ₪1,224 | Wizz Air | Aug 12 | Aug 19 | 7 | 2 hr 50 min |
+| Varna | Bulgaria | ₪1,292 | Wizz Air | Aug 12 | Aug 19 | 7 | 2 hr 35 min |
 | Rhodes | Greece | ₪1,341 | Bluebird Airways | Aug 12 | Aug 19 | 7 | 1 hr 40 min |
 | Budapest | Hungary | ₪1,393 | Various | Aug 12 | Aug 19 | 7 | 3 hr 30 min |
 | Larnaca | Cyprus | ₪1,515 | El Al | Aug 12 | Aug 19 | 7 |  |
 | Heraklion | Greece | ₪1,534 | Bluebird Airways | Aug 12 | Aug 19 | 7 | 1 hr 50 min |
+| Bratislava | Slovakia | ₪1,615 | Wizz Air | Aug 12 | Aug 19 | 7 | 3 hr 35 min |
+| Kraków | Poland | ₪1,615 | Wizz Air | Aug 12 | Aug 19 | 7 | 3 hr 45 min |
+| Warsaw | Poland | ₪1,615 | Wizz Air | Aug 12 | Aug 19 | 7 | 4 hr |
 | Berlin | Germany | ₪1,641 | Bluebird Airways | Aug 12 | Aug 19 | 7 | 4 hr 30 min |
 | Milan Bergamo | Italy | ₪1,701 | Bluebird Airways | Aug 12 | Aug 19 | 7 | 4 hr 15 min |
 | Tbilisi | Georgia | ₪1,716 | El Al | Aug 12 | Aug 19 | 7 |  |
@@ -420,7 +446,7 @@
 | Barcelona | Spain | ₪2,239 | Bluebird Airways | Aug 12 | Aug 21 | 9 | 4 hr 40 min |
 | Mykonos | Greece | ₪2,263 | Bluebird Airways | Aug 12 | Aug 21 | 9 | 1 hr 50 min |
 
-### Aug 13 → Aug 18 (5 nights) — 22 flights
+### Aug 13 → Aug 18 (5 nights) — 24 flights
 | Destination | Country | Price (NIS) | Airline | From | To | Nights | Flight length |
 |---|---|---|---|---|---|---|---|
 | Rome | Italy | ₪1,093 | Wizz Air | Aug 13 | Aug 18 | 5 | 3 hr 50 min |
@@ -436,6 +462,7 @@
 | Thessaloniki | Greece | ₪1,773 | Aegean | Aug 13 | Aug 18 | 5 | 2 hr 25 min |
 | Kos | Greece | ₪1,910 | Bluebird Airways | Aug 13 | Aug 18 | 5 | 1 hr 40 min |
 | Corfu | Greece | ₪1,969 | Tus Air | Aug 13 | Aug 18 | 5 | 2 hr 35 min |
+| Kraków | Poland | ₪2,006 | Wizz Air | Aug 13 | Aug 18 | 5 | 3 hr 45 min |
 | Sofia | Bulgaria | ₪2,164 | El Al | Aug 13 | Aug 18 | 5 |  |
 | Barcelona | Spain | ₪2,179 | Bluebird Airways | Aug 13 | Aug 18 | 5 | 4 hr 40 min |
 | Milan | Italy | ₪2,186 | Wizz Air | Aug 13 | Aug 18 | 5 | 4 hr 15 min |
@@ -443,6 +470,7 @@
 | Vienna | Austria | ₪2,317 | Various | Aug 13 | Aug 18 | 5 | 3 hr 45 min |
 | Venice | Italy | ₪2,365 | El Al | Aug 13 | Aug 18 | 5 |  |
 | Bucharest | Romania | ₪2,372 | El Al | Aug 13 | Aug 18 | 5 |  |
+| Bratislava | Slovakia | ₪2,465 | Wizz Air | Aug 13 | Aug 18 | 5 | 3 hr 40 min |
 | Geneva | Switzerland | ₪2,551 | El Al | Aug 13 | Aug 18 | 5 |  |
 | Dubai | UAE | ₪2,785 | El Al | Aug 13 | Aug 18 | 5 |  |
 
@@ -466,10 +494,11 @@
 | Milan | Italy | ₪2,084 | Wizz Air | Aug 13 | Aug 19 | 6 | 4 hr 15 min |
 | Barcelona | Spain | ₪2,389 | Bluebird Airways | Aug 13 | Aug 19 | 6 | 4 hr 40 min |
 
-### Aug 13 → Aug 20 (7 nights) — 14 flights
+### Aug 13 → Aug 20 (7 nights) — 17 flights
 | Destination | Country | Price (NIS) | Airline | From | To | Nights | Flight length |
 |---|---|---|---|---|---|---|---|
 | Rome | Italy | ₪922 | Wizz Air | Aug 13 | Aug 20 | 7 | 3 hr 50 min |
+| Sofia | Bulgaria | ₪1,241 | Wizz Air | Aug 13 | Aug 20 | 7 | 2 hr 50 min |
 | Naples | Italy | ₪1,247 | Wizz Air | Aug 13 | Aug 20 | 7 | 3 hr 35 min |
 | Athens | Greece | ₪1,267 | SKY express | Aug 13 | Aug 20 | 7 | 2 hr 15 min |
 | Budapest | Hungary | ₪1,478 | Various | Aug 13 | Aug 20 | 7 | 3 hr 30 min |
@@ -478,6 +507,8 @@
 | Kos | Greece | ₪1,701 | Bluebird Airways | Aug 13 | Aug 20 | 7 | 1 hr 40 min |
 | Rhodes | Greece | ₪1,788 | Bluebird Airways | Aug 13 | Aug 20 | 7 | 1 hr 40 min |
 | Heraklion | Greece | ₪1,789 | Bluebird Airways | Aug 13 | Aug 20 | 7 | 1 hr 50 min |
+| Vilnius | Lithuania | ₪1,870 | Wizz Air | Aug 13 | Aug 20 | 7 | 4 hr 25 min |
+| Kraków | Poland | ₪1,921 | Wizz Air | Aug 13 | Aug 20 | 7 | 3 hr 45 min |
 | Thessaloniki | Greece | ₪2,022 | Aegean | Aug 13 | Aug 20 | 7 | 2 hr 25 min |
 | Berlin | Germany | ₪2,060 | Bluebird Airways | Aug 13 | Aug 20 | 7 | 4 hr 30 min |
 | Corfu | Greece | ₪2,208 | Tus Air | Aug 13 | Aug 20 | 7 | 2 hr 35 min |
@@ -501,7 +532,7 @@
 | Berlin | Germany | ₪2,239 | Bluebird Airways | Aug 13 | Aug 21 | 8 | 4 hr 30 min |
 | Mykonos | Greece | ₪2,263 | Bluebird Airways | Aug 13 | Aug 21 | 8 | 1 hr 50 min |
 
-### Aug 14 → Aug 19 (5 nights) — 19 flights
+### Aug 14 → Aug 19 (5 nights) — 23 flights
 | Destination | Country | Price (NIS) | Airline | From | To | Nights | Flight length |
 |---|---|---|---|---|---|---|---|
 | Athens | Greece | ₪1,037 | Aegean | Aug 14 | Aug 19 | 5 | 2 hr 10 min |
@@ -509,6 +540,8 @@
 | Rhodes | Greece | ₪1,282 | Bluebird Airways | Aug 14 | Aug 19 | 5 | 1 hr 40 min |
 | Heraklion | Greece | ₪1,414 | Bluebird Airways | Aug 14 | Aug 19 | 5 | 1 hr 50 min |
 | Budapest | Hungary | ₪1,427 | Various | Aug 14 | Aug 19 | 5 | 3 hr 30 min |
+| Sofia | Bulgaria | ₪1,462 | Wizz Air | Aug 14 | Aug 19 | 5 | 2 hr 50 min |
+| Kraków | Poland | ₪1,530 | Wizz Air | Aug 14 | Aug 19 | 5 | 3 hr 40 min |
 | Larnaca | Cyprus | ₪1,580 | El Al | Aug 14 | Aug 19 | 5 |  |
 | Mykonos | Greece | ₪1,719 | Bluebird Airways | Aug 14 | Aug 19 | 5 | 1 hr 50 min |
 | Berlin | Germany | ₪1,731 | Bluebird Airways | Aug 14 | Aug 19 | 5 | 4 hr 30 min |
@@ -517,8 +550,10 @@
 | Vienna | Austria | ₪1,870 | Various | Aug 14 | Aug 19 | 5 | 3 hr 45 min |
 | Kos | Greece | ₪1,940 | Bluebird Airways | Aug 14 | Aug 19 | 5 | 1 hr 40 min |
 | Prague | Czechia | ₪1,972 | Various | Aug 14 | Aug 19 | 5 | 4 hr |
+| Warsaw | Poland | ₪2,023 | Wizz Air | Aug 14 | Aug 19 | 5 | 4 hr |
 | Corfu | Greece | ₪2,149 | Tus Air | Aug 14 | Aug 19 | 5 | 2 hr 35 min |
 | Barcelona | Spain | ₪2,209 | Bluebird Airways | Aug 14 | Aug 19 | 5 | 4 hr 40 min |
+| London | UK | ₪2,278 | Wizz Air | Aug 14 | Aug 19 | 5 | 5 hr 20 min |
 | Thessaloniki | Greece | ₪2,456 | El Al | Aug 14 | Aug 19 | 5 |  |
 | Bucharest | Romania | ₪2,518 | El Al | Aug 14 | Aug 19 | 5 |  |
 | Budapest | Hungary | ₪2,537 | El Al | Aug 14 | Aug 19 | 5 |  |
@@ -540,22 +575,28 @@
 | Corfu | Greece | ₪2,298 | Tus Air | Aug 14 | Aug 20 | 6 | 2 hr 35 min |
 | Barcelona | Spain | ₪2,299 | Bluebird Airways | Aug 14 | Aug 20 | 6 | 4 hr 40 min |
 
-### Aug 14 → Aug 21 (7 nights) — 14 flights
+### Aug 14 → Aug 21 (7 nights) — 20 flights
 | Destination | Country | Price (NIS) | Airline | From | To | Nights | Flight length |
 |---|---|---|---|---|---|---|---|
 | Rome | Italy | ₪1,093 | Wizz Air | Aug 14 | Aug 21 | 7 | 3 hr 50 min |
+| Bucharest | Romania | ₪1,122 | Wizz Air | Aug 14 | Aug 21 | 7 | 2 hr 50 min |
 | Athens | Greece | ₪1,377 | Aegean | Aug 14 | Aug 21 | 7 | 2 hr 10 min |
 | Rhodes | Greece | ₪1,452 | Bluebird Airways | Aug 14 | Aug 21 | 7 | 1 hr 40 min |
+| Kraków | Poland | ₪1,530 | Wizz Air | Aug 14 | Aug 21 | 7 | 3 hr 40 min |
 | Milan | Italy | ₪1,606 | Wizz Air | Aug 14 | Aug 21 | 7 | 4 hr 10 min |
 | Heraklion | Greece | ₪1,623 | Bluebird Airways | Aug 14 | Aug 21 | 7 | 1 hr 50 min |
 | Mykonos | Greece | ₪1,641 | El Al | Aug 14 | Aug 21 | 7 | 2 hr 10 min |
 | Budapest | Hungary | ₪1,665 | Various | Aug 14 | Aug 21 | 7 | 3 hr 30 min |
+| Sofia | Bulgaria | ₪1,768 | Wizz Air | Aug 14 | Aug 21 | 7 | 2 hr 50 min |
+| Larnaca | Cyprus | ₪1,887 | Wizz Air | Aug 14 | Aug 21 | 7 | 1 hr 5 min |
+| Warsaw | Poland | ₪2,023 | Wizz Air | Aug 14 | Aug 21 | 7 | 4 hr |
 | Corfu | Greece | ₪2,149 | Tus Air | Aug 14 | Aug 21 | 7 | 2 hr 35 min |
 | Hamburg | Germany | ₪2,156 | Eurowings | Aug 14 | Aug 21 | 7 | 4 hr 45 min |
 | Kos | Greece | ₪2,179 | Bluebird Airways | Aug 14 | Aug 21 | 7 | 1 hr 40 min |
 | Vienna | Austria | ₪2,198 | Various | Aug 14 | Aug 21 | 7 | 3 hr 45 min |
 | Milan Bergamo | Italy | ₪2,239 | Bluebird Airways | Aug 14 | Aug 21 | 7 | 4 hr 15 min |
 | Berlin | Germany | ₪2,269 | Bluebird Airways | Aug 14 | Aug 21 | 7 | 4 hr 30 min |
+| London | UK | ₪2,380 | Wizz Air | Aug 14 | Aug 21 | 7 | 5 hr 20 min |
 | Thessaloniki | Greece | ₪2,639 | El Al | Aug 14 | Aug 21 | 7 |  |
 
 ### Aug 14 → Aug 22 (8 nights) — 9 flights
@@ -584,12 +625,13 @@
 | Berlin | Germany | ₪2,269 | Bluebird Airways | Aug 14 | Aug 23 | 9 | 4 hr 30 min |
 | Mykonos | Greece | ₪2,347 | Bluebird Airways | Aug 14 | Aug 23 | 9 | 1 hr 50 min |
 
-### Aug 15 → Aug 20 (5 nights) — 12 flights
+### Aug 15 → Aug 20 (5 nights) — 13 flights
 | Destination | Country | Price (NIS) | Airline | From | To | Nights | Flight length |
 |---|---|---|---|---|---|---|---|
 | Rome | Italy | ₪923 | Wizz Air | Aug 15 | Aug 20 | 5 | 3 hr 50 min |
 | Naples | Italy | ₪1,128 | Wizz Air | Aug 15 | Aug 20 | 5 | 3 hr 30 min |
 | Athens | Greece | ₪1,174 | SKY express | Aug 15 | Aug 20 | 5 | 2 hr 15 min |
+| Kraków | Poland | ₪1,377 | Wizz Air | Aug 15 | Aug 20 | 5 | 3 hr 45 min |
 | Budapest | Hungary | ₪1,427 | Various | Aug 15 | Aug 20 | 5 | 3 hr 30 min |
 | Milan | Italy | ₪1,691 | Wizz Air | Aug 15 | Aug 20 | 5 | 4 hr 15 min |
 | Heraklion | Greece | ₪1,699 | Bluebird Airways | Aug 15 | Aug 20 | 5 | 1 hr 50 min |
@@ -644,10 +686,14 @@
 | Milan Bergamo | Italy | ₪2,239 | Bluebird Airways | Aug 15 | Aug 24 | 9 | 4 hr 15 min |
 | Milan | Italy | ₪2,342 | Wizz Air | Aug 15 | Aug 24 | 9 | 4 hr 15 min |
 
-### Aug 16 → Aug 21 (5 nights) — 10 flights
+### Aug 16 → Aug 21 (5 nights) — 15 flights
 | Destination | Country | Price (NIS) | Airline | From | To | Nights | Flight length |
 |---|---|---|---|---|---|---|---|
+| Bucharest | Romania | ₪1,190 | Wizz Air | Aug 16 | Aug 21 | 5 | 2 hr 50 min |
 | Rome | Italy | ₪1,230 | Wizz Air | Aug 16 | Aug 21 | 5 | 3 hr 50 min |
+| Kraków | Poland | ₪1,445 | Wizz Air | Aug 16 | Aug 21 | 5 | 3 hr 45 min |
+| Warsaw | Poland | ₪1,445 | Wizz Air | Aug 16 | Aug 21 | 5 | 4 hr |
+| Sofia | Bulgaria | ₪1,479 | Wizz Air | Aug 16 | Aug 21 | 5 | 2 hr 50 min |
 | Naples | Italy | ₪1,587 | Wizz Air | Aug 16 | Aug 21 | 5 | 3 hr 35 min |
 | Athens | Greece | ₪1,708 | Wizz Air | Aug 16 | Aug 21 | 5 | 2 hr 25 min |
 | Budapest | Hungary | ₪1,835 | Various | Aug 16 | Aug 21 | 5 | 3 hr 25 min |
@@ -655,6 +701,7 @@
 | Corfu | Greece | ₪1,969 | Tus Air | Aug 16 | Aug 21 | 5 | 2 hr 35 min |
 | Kos | Greece | ₪2,090 | Bluebird Airways | Aug 16 | Aug 21 | 5 | 1 hr 40 min |
 | Rhodes | Greece | ₪2,090 | Bluebird Airways | Aug 16 | Aug 21 | 5 | 1 hr 40 min |
+| Larnaca | Cyprus | ₪2,312 | Wizz Air | Aug 16 | Aug 21 | 5 | 1 hr 5 min |
 | Mykonos | Greece | ₪2,356 | Bluebird Airways | Aug 16 | Aug 21 | 5 | 1 hr 50 min |
 | Thessaloniki | Greece | ₪2,456 | El Al | Aug 16 | Aug 21 | 5 |  |
 
@@ -669,18 +716,24 @@
 | Heraklion | Greece | ₪1,923 | Bluebird Airways | Aug 16 | Aug 22 | 6 | 1 hr 50 min |
 | Rhodes | Greece | ₪1,940 | Bluebird Airways | Aug 16 | Aug 22 | 6 | 1 hr 40 min |
 
-### Aug 16 → Aug 23 (7 nights) — 10 flights
+### Aug 16 → Aug 23 (7 nights) — 16 flights
 | Destination | Country | Price (NIS) | Airline | From | To | Nights | Flight length |
 |---|---|---|---|---|---|---|---|
 | Rome | Italy | ₪1,179 | Wizz Air | Aug 16 | Aug 23 | 7 | 3 hr 50 min |
 | Naples | Italy | ₪1,281 | Wizz Air | Aug 16 | Aug 23 | 7 | 3 hr 35 min |
+| Sofia | Bulgaria | ₪1,479 | Wizz Air | Aug 16 | Aug 23 | 7 | 2 hr 50 min |
 | Budapest | Hungary | ₪1,529 | Various | Aug 16 | Aug 23 | 7 | 3 hr 25 min |
+| Vilnius | Lithuania | ₪1,530 | Wizz Air | Aug 16 | Aug 23 | 7 | 4 hr 25 min |
 | Kos | Greece | ₪1,581 | Bluebird Airways | Aug 16 | Aug 23 | 7 | 1 hr 40 min |
 | Athens | Greece | ₪1,605 | Wizz Air | Aug 16 | Aug 23 | 7 | 2 hr 25 min |
+| Bucharest | Romania | ₪1,700 | Wizz Air | Aug 16 | Aug 23 | 7 | 2 hr 50 min |
+| Warsaw | Poland | ₪1,700 | Wizz Air | Aug 16 | Aug 23 | 7 | 4 hr |
+| Kraków | Poland | ₪1,836 | Wizz Air | Aug 16 | Aug 23 | 7 | 3 hr 45 min |
 | Heraklion | Greece | ₪1,923 | Bluebird Airways | Aug 16 | Aug 23 | 7 | 1 hr 50 min |
 | Rhodes | Greece | ₪1,940 | Bluebird Airways | Aug 16 | Aug 23 | 7 | 1 hr 40 min |
 | Thessaloniki | Greece | ₪2,080 | Tus Air | Aug 16 | Aug 23 | 7 | 2 hr 35 min |
 | Corfu | Greece | ₪2,298 | Tus Air | Aug 16 | Aug 23 | 7 | 2 hr 35 min |
+| Larnaca | Cyprus | ₪2,312 | Wizz Air | Aug 16 | Aug 23 | 7 | 1 hr 5 min |
 | Geneva | Switzerland | ₪2,551 | El Al | Aug 16 | Aug 23 | 7 |  |
 
 ### Aug 16 → Aug 24 (8 nights) — 8 flights
@@ -723,10 +776,13 @@
 | Corfu | Greece | ₪2,208 | Tus Air | Aug 17 | Aug 23 | 6 | 2 hr 35 min |
 | Berlin | Germany | ₪2,209 | Bluebird Airways | Aug 17 | Aug 23 | 6 | 4 hr 30 min |
 
-### Aug 17 → Aug 24 (7 nights) — 18 flights
+### Aug 17 → Aug 24 (7 nights) — 24 flights
 | Destination | Country | Price (NIS) | Airline | From | To | Nights | Flight length |
 |---|---|---|---|---|---|---|---|
+| Bucharest | Romania | ₪1,020 | Wizz Air | Aug 17 | Aug 24 | 7 | 2 hr 50 min |
 | Palermo | Italy | ₪1,333 | Wizz Air | Aug 17 | Aug 24 | 7 | 3 hr 20 min |
+| Larnaca | Cyprus | ₪1,343 | Wizz Air | Aug 17 | Aug 24 | 7 | 1 hr 5 min |
+| Sofia | Bulgaria | ₪1,377 | Wizz Air | Aug 17 | Aug 24 | 7 | 2 hr 50 min |
 | Catania | Italy | ₪1,440 | El Al | Aug 17 | Aug 24 | 7 | 3 hr 20 min |
 | Rhodes | Greece | ₪1,442 | Bluebird Airways | Aug 17 | Aug 24 | 7 | 1 hr 40 min |
 | Athens | Greece | ₪1,509 | Israir Airlines | Aug 17 | Aug 24 | 7 | 2 hr 15 min |
@@ -735,9 +791,12 @@
 | Heraklion | Greece | ₪1,683 | Bluebird Airways | Aug 17 | Aug 24 | 7 | 1 hr 50 min |
 | Mykonos | Greece | ₪1,713 | Bluebird Airways | Aug 17 | Aug 24 | 7 | 1 hr 50 min |
 | Naples | Italy | ₪1,737 | El Al | Aug 17 | Aug 24 | 7 | 3 hr 15 min |
+| Kraków | Poland | ₪1,785 | Wizz Air | Aug 17 | Aug 24 | 7 | 3 hr 45 min |
 | Dubrovnik | Croatia | ₪1,826 | El Al | Aug 17 | Aug 24 | 7 | 3 hr 20 min |
 | Corfu | Greece | ₪1,879 | Tus Air | Aug 17 | Aug 24 | 7 | 2 hr 35 min |
 | Prague | Czechia | ₪1,918 | Various | Aug 17 | Aug 24 | 7 | 4 hr |
+| Bratislava | Slovakia | ₪1,921 | Wizz Air | Aug 17 | Aug 24 | 7 | 3 hr 40 min |
+| Warsaw | Poland | ₪1,921 | Wizz Air | Aug 17 | Aug 24 | 7 | 4 hr |
 | Vienna | Austria | ₪2,080 | Various | Aug 17 | Aug 24 | 7 | 3 hr 45 min |
 | Kos | Greece | ₪2,150 | Bluebird Airways | Aug 17 | Aug 24 | 7 | 1 hr 40 min |
 | Milan Bergamo | Italy | ₪2,179 | Bluebird Airways | Aug 17 | Aug 24 | 7 | 4 hr 15 min |
@@ -782,7 +841,7 @@
 | Berlin | Germany | ₪2,209 | Bluebird Airways | Aug 17 | Aug 26 | 9 | 4 hr 30 min |
 | Barcelona | Spain | ₪2,239 | Bluebird Airways | Aug 17 | Aug 26 | 9 | 4 hr 40 min |
 
-### Aug 18 → Aug 23 (5 nights) — 12 flights
+### Aug 18 → Aug 23 (5 nights) — 16 flights
 | Destination | Country | Price (NIS) | Airline | From | To | Nights | Flight length |
 |---|---|---|---|---|---|---|---|
 | Rome | Italy | ₪1,128 | Wizz Air | Aug 18 | Aug 23 | 5 | 3 hr 50 min |
@@ -790,8 +849,12 @@
 | Naples | Italy | ₪1,281 | Wizz Air | Aug 18 | Aug 23 | 5 | 3 hr 30 min |
 | Rhodes | Greece | ₪1,341 | Bluebird Airways | Aug 18 | Aug 23 | 5 | 1 hr 40 min |
 | Budapest | Hungary | ₪1,462 | Various | Aug 18 | Aug 23 | 5 | 3 hr 30 min |
+| Bratislava | Slovakia | ₪1,530 | Wizz Air | Aug 18 | Aug 23 | 5 | 3 hr 40 min |
+| Sofia | Bulgaria | ₪1,530 | Wizz Air | Aug 18 | Aug 23 | 5 | 2 hr 50 min |
 | Kos | Greece | ₪1,581 | Bluebird Airways | Aug 18 | Aug 23 | 5 | 1 hr 40 min |
 | Heraklion | Greece | ₪1,623 | Bluebird Airways | Aug 18 | Aug 23 | 5 | 1 hr 50 min |
+| Larnaca | Cyprus | ₪1,666 | Wizz Air | Aug 18 | Aug 23 | 5 | 1 hr 5 min |
+| Kraków | Poland | ₪1,717 | Wizz Air | Aug 18 | Aug 23 | 5 | 3 hr 45 min |
 | Mykonos | Greece | ₪1,982 | Bluebird Airways | Aug 18 | Aug 23 | 5 | 1 hr 50 min |
 | Thessaloniki | Greece | ₪1,999 | Aegean | Aug 18 | Aug 23 | 5 | 2 hr 25 min |
 | Prague | Czechia | ₪2,016 | Various | Aug 18 | Aug 23 | 5 | 4 hr 10 min |
@@ -817,13 +880,16 @@
 | Madrid | Spain | ₪2,279 | Air Europa | Aug 18 | Aug 24 | 6 | 5 hr 15 min |
 | Barcelona | Spain | ₪2,359 | Bluebird Airways | Aug 18 | Aug 24 | 6 | 4 hr 40 min |
 
-### Aug 18 → Aug 25 (7 nights) — 20 flights
+### Aug 18 → Aug 25 (7 nights) — 24 flights
 | Destination | Country | Price (NIS) | Airline | From | To | Nights | Flight length |
 |---|---|---|---|---|---|---|---|
+| Bucharest | Romania | ₪1,190 | Wizz Air | Aug 18 | Aug 25 | 7 | 2 hr 50 min |
 | Rome | Italy | ₪1,247 | Wizz Air | Aug 18 | Aug 25 | 7 | 3 hr 50 min |
 | Athens | Greece | ₪1,336 | Israir Airlines | Aug 18 | Aug 25 | 7 | 2 hr 15 min |
 | Rhodes | Greece | ₪1,341 | Bluebird Airways | Aug 18 | Aug 25 | 7 | 1 hr 40 min |
 | Naples | Italy | ₪1,367 | Wizz Air | Aug 18 | Aug 25 | 7 | 3 hr 30 min |
+| Kraków | Poland | ₪1,479 | Wizz Air | Aug 18 | Aug 25 | 7 | 3 hr 45 min |
+| Sofia | Bulgaria | ₪1,530 | Wizz Air | Aug 18 | Aug 25 | 7 | 2 hr 50 min |
 | Santorini | Greece | ₪1,590 | El Al | Aug 18 | Aug 25 | 7 | 2 hr |
 | Mykonos | Greece | ₪1,593 | Bluebird Airways | Aug 18 | Aug 25 | 7 | 1 hr 50 min |
 | Heraklion | Greece | ₪1,623 | Bluebird Airways | Aug 18 | Aug 25 | 7 | 1 hr 50 min |
@@ -838,6 +904,7 @@
 | Barcelona | Spain | ₪2,239 | Bluebird Airways | Aug 18 | Aug 25 | 7 | 4 hr 40 min |
 | Corfu | Greece | ₪2,298 | Tus Air | Aug 18 | Aug 25 | 7 | 2 hr 35 min |
 | Munich | Germany | ₪2,345 | Bluebird Airways | Aug 18 | Aug 25 | 7 | 4 hr |
+| London | UK | ₪2,414 | Wizz Air | Aug 18 | Aug 25 | 7 | 5 hr 20 min |
 | Marseilles | France | ₪2,471 | El Al | Aug 18 | Aug 25 | 7 |  |
 | Geneva | Switzerland | ₪2,551 | El Al | Aug 18 | Aug 25 | 7 |  |
 
@@ -862,15 +929,18 @@
 | Milan Bergamo | Italy | ₪2,209 | Bluebird Airways | Aug 19 | Aug 24 | 5 | 4 hr 15 min |
 | Madrid | Spain | ₪2,278 | Air Europa | Aug 19 | Aug 24 | 5 | 5 hr 15 min |
 
-### Aug 19 → Aug 25 (6 nights) — 17 flights
+### Aug 19 → Aug 25 (6 nights) — 21 flights
 | Destination | Country | Price (NIS) | Airline | From | To | Nights | Flight length |
 |---|---|---|---|---|---|---|---|
 | Rome | Italy | ₪1,059 | Wizz Air | Aug 19 | Aug 25 | 6 | 3 hr 50 min |
 | Athens | Greece | ₪1,111 | Israir Airlines | Aug 19 | Aug 25 | 6 | 2 hr 15 min |
+| Bucharest | Romania | ₪1,156 | Wizz Air | Aug 19 | Aug 25 | 6 | 2 hr 50 min |
 | Naples | Italy | ₪1,298 | Wizz Air | Aug 19 | Aug 25 | 6 | 3 hr 35 min |
 | Rhodes | Greece | ₪1,438 | El Al | Aug 19 | Aug 25 | 6 | 1 hr 45 min |
+| Sofia | Bulgaria | ₪1,530 | Wizz Air | Aug 19 | Aug 25 | 6 | 2 hr 50 min |
 | Budapest | Hungary | ₪1,598 | Various | Aug 19 | Aug 25 | 6 | 3 hr 30 min |
 | Heraklion | Greece | ₪1,683 | Bluebird Airways | Aug 19 | Aug 25 | 6 | 1 hr 50 min |
+| Kraków | Poland | ₪1,683 | Wizz Air | Aug 19 | Aug 25 | 6 | 3 hr 45 min |
 | Larnaca | Cyprus | ₪1,756 | El Al | Aug 19 | Aug 25 | 6 |  |
 | Mykonos | Greece | ₪1,898 | Bluebird Airways | Aug 19 | Aug 25 | 6 | 1 hr 50 min |
 | Milan | Italy | ₪1,929 | Wizz Air | Aug 19 | Aug 25 | 6 | 4 hr 15 min |
@@ -882,6 +952,7 @@
 | Prague | Czechia | ₪2,249 | Various | Aug 19 | Aug 25 | 6 | 4 hr 10 min |
 | Barcelona | Spain | ₪2,281 | El Al | Aug 19 | Aug 25 | 6 | 4 hr 40 min |
 | Marseilles | France | ₪2,376 | El Al | Aug 19 | Aug 25 | 6 |  |
+| London | UK | ₪2,414 | Wizz Air | Aug 19 | Aug 25 | 6 | 5 hr 20 min |
 
 ### Aug 19 → Aug 26 (7 nights) — 16 flights
 | Destination | Country | Price (NIS) | Airline | From | To | Nights | Flight length |
@@ -903,14 +974,17 @@
 | Vienna | Austria | ₪2,199 | Various | Aug 19 | Aug 26 | 7 | 3 hr 45 min |
 | Milan Bergamo | Italy | ₪2,209 | Bluebird Airways | Aug 19 | Aug 26 | 7 | 4 hr 15 min |
 
-### Aug 20 → Aug 25 (5 nights) — 16 flights
+### Aug 20 → Aug 25 (5 nights) — 19 flights
 | Destination | Country | Price (NIS) | Airline | From | To | Nights | Flight length |
 |---|---|---|---|---|---|---|---|
 | Rome | Italy | ₪1,025 | Wizz Air | Aug 20 | Aug 25 | 5 | 3 hr 50 min |
 | Athens | Greece | ₪1,210 | Israir Airlines | Aug 20 | Aug 25 | 5 | 2 hr 15 min |
 | Naples | Italy | ₪1,230 | Wizz Air | Aug 20 | Aug 25 | 5 | 3 hr 35 min |
+| Bucharest | Romania | ₪1,241 | Wizz Air | Aug 20 | Aug 25 | 5 | 2 hr 50 min |
 | Rhodes | Greece | ₪1,371 | Bluebird Airways | Aug 20 | Aug 25 | 5 | 1 hr 40 min |
+| Kraków | Poland | ₪1,479 | Wizz Air | Aug 20 | Aug 25 | 5 | 3 hr 45 min |
 | Budapest | Hungary | ₪1,564 | Various | Aug 20 | Aug 25 | 5 | 3 hr 30 min |
+| Sofia | Bulgaria | ₪1,598 | Wizz Air | Aug 20 | Aug 25 | 5 | 2 hr 50 min |
 | Heraklion | Greece | ₪1,653 | Bluebird Airways | Aug 20 | Aug 25 | 5 | 1 hr 50 min |
 | Larnaca | Cyprus | ₪1,756 | El Al | Aug 20 | Aug 25 | 5 |  |
 | Milan | Italy | ₪1,845 | Wizz Air | Aug 20 | Aug 25 | 5 | 4 hr 20 min |
@@ -973,20 +1047,29 @@
 | Prague | Czechia | ₪2,035 | Various | Aug 12 | Aug 18 | 6 | 4 hr |
 | Vienna | Austria | ₪2,079 | Various | Aug 12 | Aug 18 | 6 | 3 hr 45 min |
 
-### Aug 15 → Aug 22 (7 nights) — 4 flights
+### Aug 15 → Aug 22 (7 nights) — 10 flights
 | Destination | Country | Price (NIS) | Airline | From | To | Nights | Flight length |
 |---|---|---|---|---|---|---|---|
+| Naples | Italy | ₪1,054 | Wizz Air | Aug 15 | Aug 22 | 7 | 3 hr 30 min |
 | Budapest | Hungary | ₪1,122 | Various | Aug 15 | Aug 22 | 7 | 3 hr 30 min |
+| Varna | Bulgaria | ₪1,224 | Wizz Air | Aug 15 | Aug 22 | 7 | 2 hr 35 min |
+| Rome | Italy | ₪1,428 | Wizz Air | Aug 15 | Aug 22 | 7 | 3 hr 50 min |
+| Palermo | Italy | ₪1,700 | Wizz Air | Aug 15 | Aug 22 | 7 | 3 hr 20 min |
+| Kraków | Poland | ₪1,768 | Wizz Air | Aug 15 | Aug 22 | 7 | 3 hr 45 min |
+| Milan | Italy | ₪2,074 | Wizz Air | Aug 15 | Aug 22 | 7 | 4 hr 15 min |
 | Prague | Czechia | ₪2,174 | Various | Aug 15 | Aug 22 | 7 | 4 hr 10 min |
 | Vienna | Austria | ₪2,228 | Various | Aug 15 | Aug 22 | 7 | 3 hr 45 min |
 | Bucharest | Romania | ₪3,019 | El Al | Aug 15 | Aug 22 | 7 |  |
 
-### Aug 17 → Aug 22 (5 nights) — 5 flights
+### Aug 17 → Aug 22 (5 nights) — 8 flights
 | Destination | Country | Price (NIS) | Airline | From | To | Nights | Flight length |
 |---|---|---|---|---|---|---|---|
 | Budapest | Hungary | ₪1,294 | Various | Aug 17 | Aug 22 | 5 | 3 hr 30 min |
+| Palermo | Italy | ₪1,496 | Wizz Air | Aug 17 | Aug 22 | 5 | 3 hr 20 min |
+| Rome | Italy | ₪1,496 | Wizz Air | Aug 17 | Aug 22 | 5 | 3 hr 50 min |
 | Larnaca | Cyprus | ₪1,756 | El Al | Aug 17 | Aug 22 | 5 |  |
 | Prague | Czechia | ₪1,921 | Various | Aug 17 | Aug 22 | 5 | 4 hr |
+| Kraków | Poland | ₪1,921 | Wizz Air | Aug 17 | Aug 22 | 5 | 3 hr 45 min |
 | Vienna | Austria | ₪2,082 | Various | Aug 17 | Aug 22 | 5 | 3 hr 45 min |
 | Bucharest | Romania | ₪2,873 | El Al | Aug 17 | Aug 22 | 5 |  |
 
@@ -1003,10 +1086,16 @@
 | Budapest | Hungary | ₪1,173 | Various | Aug 13 | Aug 22 | 9 | 3 hr 30 min |
 | Prague | Czechia | ₪2,240 | Various | Aug 13 | Aug 22 | 9 | 4 hr 10 min |
 
-### Aug 9 → Aug 14 (5 nights) — 4 flights
+### Aug 9 → Aug 14 (5 nights) — 10 flights
 | Destination | Country | Price (NIS) | Airline | From | To | Nights | Flight length |
 |---|---|---|---|---|---|---|---|
+| Rome | Italy | ₪1,088 | Wizz Air | Aug 9 | Aug 14 | 5 | 3 hr 50 min |
+| Kraków | Poland | ₪1,156 | Wizz Air | Aug 9 | Aug 14 | 5 | 3 hr 45 min |
+| Sofia | Bulgaria | ₪1,156 | Wizz Air | Aug 9 | Aug 14 | 5 | 2 hr 50 min |
+| Athens | Greece | ₪1,258 | Wizz Air | Aug 9 | Aug 14 | 5 | 2 hr 25 min |
 | Budapest | Hungary | ₪1,483 | Various | Aug 9 | Aug 14 | 5 | 3 hr 25 min |
 | Madrid | Spain | ₪1,931 | El Al | Aug 9 | Aug 14 | 5 |  |
+| Bucharest | Romania | ₪2,023 | Wizz Air | Aug 9 | Aug 14 | 5 | 2 hr 50 min |
+| Warsaw | Poland | ₪2,176 | Wizz Air | Aug 9 | Aug 14 | 5 | 4 hr |
 | Thessaloniki | Greece | ₪2,274 | El Al | Aug 9 | Aug 14 | 5 |  |
 | Dubai | UAE | ₪2,785 | El Al | Aug 9 | Aug 14 | 5 |  |

@@ -100,12 +100,36 @@
     "dur": 230
    },
    {
+    "airport": "KRK",
+    "city": "Krak\u00f3w",
+    "country": "Poland",
+    "price": 1156,
+    "airline": "Wizz Air",
+    "dur": 225
+   },
+   {
     "airport": "ATH",
     "city": "Athens",
     "country": "Greece",
     "price": 1207,
     "airline": "Israir Airlines",
     "dur": 135
+   },
+   {
+    "airport": "SOF",
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "price": 1241,
+    "airline": "Wizz Air",
+    "dur": 170
+   },
+   {
+    "airport": "BTS",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "price": 1360,
+    "airline": "Wizz Air",
+    "dur": 220
    },
    {
     "airport": "BUD",
@@ -140,12 +164,28 @@
     "dur": 110
    },
    {
+    "airport": "WAW",
+    "city": "Warsaw",
+    "country": "Poland",
+    "price": 1768,
+    "airline": "Wizz Air",
+    "dur": 240
+   },
+   {
     "airport": "CFU",
     "city": "Corfu",
     "country": "Greece",
     "price": 1879,
     "airline": "Tus Air",
     "dur": 155
+   },
+   {
+    "airport": "VNO",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "price": 2074,
+    "airline": "Wizz Air",
+    "dur": 265
    },
    {
     "airport": "BER",
@@ -494,6 +534,14 @@
     "dur": 195
    },
    {
+    "airport": "KRK",
+    "city": "Krak\u00f3w",
+    "country": "Poland",
+    "price": 1445,
+    "airline": "Wizz Air",
+    "dur": 225
+   },
+   {
     "airport": "BGY",
     "city": "Milan Bergamo",
     "country": "Italy",
@@ -718,6 +766,14 @@
     "dur": 230
    },
    {
+    "airport": "BTS",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "price": 1122,
+    "airline": "Wizz Air",
+    "dur": 220
+   },
+   {
     "airport": "LCA",
     "city": "Larnaca",
     "country": "Cyprus",
@@ -808,12 +864,28 @@
     "dur": 255
    },
    {
+    "airport": "KRK",
+    "city": "Krak\u00f3w",
+    "country": "Poland",
+    "price": 1700,
+    "airline": "Wizz Air",
+    "dur": 225
+   },
+   {
     "airport": "NAP",
     "city": "Naples",
     "country": "Italy",
     "price": 1737,
     "airline": "El Al",
     "dur": 195
+   },
+   {
+    "airport": "WAW",
+    "city": "Warsaw",
+    "country": "Poland",
+    "price": 1768,
+    "airline": "Wizz Air",
+    "dur": 240
    },
    {
     "airport": "PRG",
@@ -1107,6 +1179,14 @@
     "dur": 100
    },
    {
+    "airport": "KRK",
+    "city": "Krak\u00f3w",
+    "country": "Poland",
+    "price": 1292,
+    "airline": "Wizz Air",
+    "dur": 225
+   },
+   {
     "airport": "FCO",
     "city": "Rome",
     "country": "Italy",
@@ -1177,6 +1257,14 @@
     "price": 1773,
     "airline": "Aegean",
     "dur": 145
+   },
+   {
+    "airport": "BTS",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "price": 1870,
+    "airline": "Wizz Air",
+    "dur": 220
    },
    {
     "airport": "BER",
@@ -1496,6 +1584,14 @@
     "dur": 110
    },
    {
+    "airport": "KRK",
+    "city": "Krak\u00f3w",
+    "country": "Poland",
+    "price": 1462,
+    "airline": "Wizz Air",
+    "dur": 225
+   },
+   {
     "airport": "JTR",
     "city": "Santorini",
     "country": "Greece",
@@ -1543,6 +1639,14 @@
     "price_usd": 488,
     "airline": "El Al",
     "dur": null
+   },
+   {
+    "airport": "BTS",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "price": 1785,
+    "airline": "Wizz Air",
+    "dur": 220
    },
    {
     "airport": "CDG",
@@ -2047,6 +2151,14 @@
     "dur": 135
    },
    {
+    "airport": "BTS",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "price": 1445,
+    "airline": "Wizz Air",
+    "dur": 215
+   },
+   {
     "airport": "CFU",
     "city": "Corfu",
     "country": "Greece",
@@ -2096,6 +2208,14 @@
     "dur": 255
    },
    {
+    "airport": "WAW",
+    "city": "Warsaw",
+    "country": "Poland",
+    "price": 1700,
+    "airline": "Wizz Air",
+    "dur": 240
+   },
+   {
     "airport": "KGS",
     "city": "Kos",
     "country": "Greece",
@@ -2117,6 +2237,14 @@
     "country": "Austria",
     "price": 1781,
     "airline": "Various",
+    "dur": 225
+   },
+   {
+    "airport": "KRK",
+    "city": "Krak\u00f3w",
+    "country": "Poland",
+    "price": 1870,
+    "airline": "Wizz Air",
     "dur": 225
    },
    {
@@ -2219,6 +2347,22 @@
     "dur": 230
    },
    {
+    "airport": "SOF",
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "price": 1224,
+    "airline": "Wizz Air",
+    "dur": 170
+   },
+   {
+    "airport": "VAR",
+    "city": "Varna",
+    "country": "Bulgaria",
+    "price": 1292,
+    "airline": "Wizz Air",
+    "dur": 155
+   },
+   {
     "airport": "RHO",
     "city": "Rhodes",
     "country": "Greece",
@@ -2250,6 +2394,30 @@
     "price": 1534,
     "airline": "Bluebird Airways",
     "dur": 110
+   },
+   {
+    "airport": "BTS",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "price": 1615,
+    "airline": "Wizz Air",
+    "dur": 215
+   },
+   {
+    "airport": "KRK",
+    "city": "Krak\u00f3w",
+    "country": "Poland",
+    "price": 1615,
+    "airline": "Wizz Air",
+    "dur": 225
+   },
+   {
+    "airport": "WAW",
+    "city": "Warsaw",
+    "country": "Poland",
+    "price": 1615,
+    "airline": "Wizz Air",
+    "dur": 240
    },
    {
     "airport": "BER",
@@ -2709,6 +2877,14 @@
     "dur": 155
    },
    {
+    "airport": "KRK",
+    "city": "Krak\u00f3w",
+    "country": "Poland",
+    "price": 2006,
+    "airline": "Wizz Air",
+    "dur": 225
+   },
+   {
     "airport": "SOF",
     "city": "Sofia",
     "country": "Bulgaria",
@@ -2766,6 +2942,14 @@
     "price_usd": 650,
     "airline": "El Al",
     "dur": null
+   },
+   {
+    "airport": "BTS",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "price": 2465,
+    "airline": "Wizz Air",
+    "dur": 220
    },
    {
     "airport": "GVA",
@@ -2936,6 +3120,14 @@
     "dur": 230
    },
    {
+    "airport": "SOF",
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "price": 1241,
+    "airline": "Wizz Air",
+    "dur": 170
+   },
+   {
     "airport": "NAP",
     "city": "Naples",
     "country": "Italy",
@@ -2999,6 +3191,22 @@
     "price": 1789,
     "airline": "Bluebird Airways",
     "dur": 110
+   },
+   {
+    "airport": "VNO",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "price": 1870,
+    "airline": "Wizz Air",
+    "dur": 265
+   },
+   {
+    "airport": "KRK",
+    "city": "Krak\u00f3w",
+    "country": "Poland",
+    "price": 1921,
+    "airline": "Wizz Air",
+    "dur": 225
    },
    {
     "airport": "SKG",
@@ -3201,6 +3409,22 @@
     "dur": 210
    },
    {
+    "airport": "SOF",
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "price": 1462,
+    "airline": "Wizz Air",
+    "dur": 170
+   },
+   {
+    "airport": "KRK",
+    "city": "Krak\u00f3w",
+    "country": "Poland",
+    "price": 1530,
+    "airline": "Wizz Air",
+    "dur": 220
+   },
+   {
     "airport": "LCA",
     "city": "Larnaca",
     "country": "Cyprus",
@@ -3266,6 +3490,14 @@
     "dur": 240
    },
    {
+    "airport": "WAW",
+    "city": "Warsaw",
+    "country": "Poland",
+    "price": 2023,
+    "airline": "Wizz Air",
+    "dur": 240
+   },
+   {
     "airport": "CFU",
     "city": "Corfu",
     "country": "Greece",
@@ -3280,6 +3512,14 @@
     "price": 2209,
     "airline": "Bluebird Airways",
     "dur": 280
+   },
+   {
+    "airport": "LTN",
+    "city": "London",
+    "country": "UK",
+    "price": 2278,
+    "airline": "Wizz Air",
+    "dur": 320
    },
    {
     "airport": "SKG",
@@ -3436,6 +3676,14 @@
     "dur": 230
    },
    {
+    "airport": "OTP",
+    "city": "Bucharest",
+    "country": "Romania",
+    "price": 1122,
+    "airline": "Wizz Air",
+    "dur": 170
+   },
+   {
     "airport": "ATH",
     "city": "Athens",
     "country": "Greece",
@@ -3450,6 +3698,14 @@
     "price": 1452,
     "airline": "Bluebird Airways",
     "dur": 100
+   },
+   {
+    "airport": "KRK",
+    "city": "Krak\u00f3w",
+    "country": "Poland",
+    "price": 1530,
+    "airline": "Wizz Air",
+    "dur": 220
    },
    {
     "airport": "MXP",
@@ -3482,6 +3738,30 @@
     "price": 1665,
     "airline": "Various",
     "dur": 210
+   },
+   {
+    "airport": "SOF",
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "price": 1768,
+    "airline": "Wizz Air",
+    "dur": 170
+   },
+   {
+    "airport": "LCA",
+    "city": "Larnaca",
+    "country": "Cyprus",
+    "price": 1887,
+    "airline": "Wizz Air",
+    "dur": 65
+   },
+   {
+    "airport": "WAW",
+    "city": "Warsaw",
+    "country": "Poland",
+    "price": 2023,
+    "airline": "Wizz Air",
+    "dur": 240
    },
    {
     "airport": "CFU",
@@ -3530,6 +3810,14 @@
     "price": 2269,
     "airline": "Bluebird Airways",
     "dur": 270
+   },
+   {
+    "airport": "LTN",
+    "city": "London",
+    "country": "UK",
+    "price": 2380,
+    "airline": "Wizz Air",
+    "dur": 320
    },
    {
     "airport": "SKG",
@@ -3728,6 +4016,14 @@
     "price": 1174,
     "airline": "SKY express",
     "dur": 135
+   },
+   {
+    "airport": "KRK",
+    "city": "Krak\u00f3w",
+    "country": "Poland",
+    "price": 1377,
+    "airline": "Wizz Air",
+    "dur": 225
    },
    {
     "airport": "BUD",
@@ -4087,12 +4383,44 @@
   "nights": 5,
   "flights": [
    {
+    "airport": "OTP",
+    "city": "Bucharest",
+    "country": "Romania",
+    "price": 1190,
+    "airline": "Wizz Air",
+    "dur": 170
+   },
+   {
     "airport": "FCO",
     "city": "Rome",
     "country": "Italy",
     "price": 1230,
     "airline": "Wizz Air",
     "dur": 230
+   },
+   {
+    "airport": "KRK",
+    "city": "Krak\u00f3w",
+    "country": "Poland",
+    "price": 1445,
+    "airline": "Wizz Air",
+    "dur": 225
+   },
+   {
+    "airport": "WAW",
+    "city": "Warsaw",
+    "country": "Poland",
+    "price": 1445,
+    "airline": "Wizz Air",
+    "dur": 240
+   },
+   {
+    "airport": "SOF",
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "price": 1479,
+    "airline": "Wizz Air",
+    "dur": 170
    },
    {
     "airport": "NAP",
@@ -4149,6 +4477,14 @@
     "price": 2090,
     "airline": "Bluebird Airways",
     "dur": 100
+   },
+   {
+    "airport": "LCA",
+    "city": "Larnaca",
+    "country": "Cyprus",
+    "price": 2312,
+    "airline": "Wizz Air",
+    "dur": 65
    },
    {
     "airport": "JMK",
@@ -4254,12 +4590,28 @@
     "dur": 215
    },
    {
+    "airport": "SOF",
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "price": 1479,
+    "airline": "Wizz Air",
+    "dur": 170
+   },
+   {
     "airport": "BUD",
     "city": "Budapest",
     "country": "Hungary",
     "price": 1529,
     "airline": "Various",
     "dur": 205
+   },
+   {
+    "airport": "VNO",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "price": 1530,
+    "airline": "Wizz Air",
+    "dur": 265
    },
    {
     "airport": "KGS",
@@ -4276,6 +4628,30 @@
     "price": 1605,
     "airline": "Wizz Air",
     "dur": 145
+   },
+   {
+    "airport": "OTP",
+    "city": "Bucharest",
+    "country": "Romania",
+    "price": 1700,
+    "airline": "Wizz Air",
+    "dur": 170
+   },
+   {
+    "airport": "WAW",
+    "city": "Warsaw",
+    "country": "Poland",
+    "price": 1700,
+    "airline": "Wizz Air",
+    "dur": 240
+   },
+   {
+    "airport": "KRK",
+    "city": "Krak\u00f3w",
+    "country": "Poland",
+    "price": 1836,
+    "airline": "Wizz Air",
+    "dur": 225
    },
    {
     "airport": "HER",
@@ -4308,6 +4684,14 @@
     "price": 2298,
     "airline": "Tus Air",
     "dur": 155
+   },
+   {
+    "airport": "LCA",
+    "city": "Larnaca",
+    "country": "Cyprus",
+    "price": 2312,
+    "airline": "Wizz Air",
+    "dur": 65
    },
    {
     "airport": "GVA",
@@ -4571,12 +4955,36 @@
   "nights": 7,
   "flights": [
    {
+    "airport": "OTP",
+    "city": "Bucharest",
+    "country": "Romania",
+    "price": 1020,
+    "airline": "Wizz Air",
+    "dur": 170
+   },
+   {
     "airport": "PMO",
     "city": "Palermo",
     "country": "Italy",
     "price": 1333,
     "airline": "Wizz Air",
     "dur": 200
+   },
+   {
+    "airport": "LCA",
+    "city": "Larnaca",
+    "country": "Cyprus",
+    "price": 1343,
+    "airline": "Wizz Air",
+    "dur": 65
+   },
+   {
+    "airport": "SOF",
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "price": 1377,
+    "airline": "Wizz Air",
+    "dur": 170
    },
    {
     "airport": "CTA",
@@ -4643,6 +5051,14 @@
     "dur": 195
    },
    {
+    "airport": "KRK",
+    "city": "Krak\u00f3w",
+    "country": "Poland",
+    "price": 1785,
+    "airline": "Wizz Air",
+    "dur": 225
+   },
+   {
     "airport": "DBV",
     "city": "Dubrovnik",
     "country": "Croatia",
@@ -4664,6 +5080,22 @@
     "country": "Czechia",
     "price": 1918,
     "airline": "Various",
+    "dur": 240
+   },
+   {
+    "airport": "BTS",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "price": 1921,
+    "airline": "Wizz Air",
+    "dur": 220
+   },
+   {
+    "airport": "WAW",
+    "city": "Warsaw",
+    "country": "Poland",
+    "price": 1921,
+    "airline": "Wizz Air",
     "dur": 240
    },
    {
@@ -5008,6 +5440,22 @@
     "dur": 210
    },
    {
+    "airport": "BTS",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "price": 1530,
+    "airline": "Wizz Air",
+    "dur": 220
+   },
+   {
+    "airport": "SOF",
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "price": 1530,
+    "airline": "Wizz Air",
+    "dur": 170
+   },
+   {
     "airport": "KGS",
     "city": "Kos",
     "country": "Greece",
@@ -5022,6 +5470,22 @@
     "price": 1623,
     "airline": "Bluebird Airways",
     "dur": 110
+   },
+   {
+    "airport": "LCA",
+    "city": "Larnaca",
+    "country": "Cyprus",
+    "price": 1666,
+    "airline": "Wizz Air",
+    "dur": 65
+   },
+   {
+    "airport": "KRK",
+    "city": "Krak\u00f3w",
+    "country": "Poland",
+    "price": 1717,
+    "airline": "Wizz Air",
+    "dur": 225
    },
    {
     "airport": "JMK",
@@ -5199,6 +5663,14 @@
   "nights": 7,
   "flights": [
    {
+    "airport": "OTP",
+    "city": "Bucharest",
+    "country": "Romania",
+    "price": 1190,
+    "airline": "Wizz Air",
+    "dur": 170
+   },
+   {
     "airport": "FCO",
     "city": "Rome",
     "country": "Italy",
@@ -5229,6 +5701,22 @@
     "price": 1367,
     "airline": "Wizz Air",
     "dur": 210
+   },
+   {
+    "airport": "KRK",
+    "city": "Krak\u00f3w",
+    "country": "Poland",
+    "price": 1479,
+    "airline": "Wizz Air",
+    "dur": 225
+   },
+   {
+    "airport": "SOF",
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "price": 1530,
+    "airline": "Wizz Air",
+    "dur": 170
    },
    {
     "airport": "JTR",
@@ -5342,6 +5830,14 @@
     "price": 2345,
     "airline": "Bluebird Airways",
     "dur": 240
+   },
+   {
+    "airport": "LTN",
+    "city": "London",
+    "country": "UK",
+    "price": 2414,
+    "airline": "Wizz Air",
+    "dur": 320
    },
    {
     "airport": "MRS",
@@ -5528,6 +6024,14 @@
     "dur": 135
    },
    {
+    "airport": "OTP",
+    "city": "Bucharest",
+    "country": "Romania",
+    "price": 1156,
+    "airline": "Wizz Air",
+    "dur": 170
+   },
+   {
     "airport": "NAP",
     "city": "Naples",
     "country": "Italy",
@@ -5544,6 +6048,14 @@
     "dur": 105
    },
    {
+    "airport": "SOF",
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "price": 1530,
+    "airline": "Wizz Air",
+    "dur": 170
+   },
+   {
     "airport": "BUD",
     "city": "Budapest",
     "country": "Hungary",
@@ -5558,6 +6070,14 @@
     "price": 1683,
     "airline": "Bluebird Airways",
     "dur": 110
+   },
+   {
+    "airport": "KRK",
+    "city": "Krak\u00f3w",
+    "country": "Poland",
+    "price": 1683,
+    "airline": "Wizz Air",
+    "dur": 225
    },
    {
     "airport": "LCA",
@@ -5648,6 +6168,14 @@
     "price_usd": 651,
     "airline": "El Al",
     "dur": null
+   },
+   {
+    "airport": "LTN",
+    "city": "London",
+    "country": "UK",
+    "price": 2414,
+    "airline": "Wizz Air",
+    "dur": 320
    }
   ]
  },
@@ -5816,6 +6344,14 @@
     "dur": 215
    },
    {
+    "airport": "OTP",
+    "city": "Bucharest",
+    "country": "Romania",
+    "price": 1241,
+    "airline": "Wizz Air",
+    "dur": 170
+   },
+   {
     "airport": "RHO",
     "city": "Rhodes",
     "country": "Greece",
@@ -5824,12 +6360,28 @@
     "dur": 100
    },
    {
+    "airport": "KRK",
+    "city": "Krak\u00f3w",
+    "country": "Poland",
+    "price": 1479,
+    "airline": "Wizz Air",
+    "dur": 225
+   },
+   {
     "airport": "BUD",
     "city": "Budapest",
     "country": "Hungary",
     "price": 1564,
     "airline": "Various",
     "dur": 210
+   },
+   {
+    "airport": "SOF",
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "price": 1598,
+    "airline": "Wizz Air",
+    "dur": 170
    },
    {
     "airport": "HER",
@@ -6229,12 +6781,60 @@
   "nights": 7,
   "flights": [
    {
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 1054,
+    "airline": "Wizz Air",
+    "dur": 210
+   },
+   {
     "airport": "BUD",
     "city": "Budapest",
     "country": "Hungary",
     "price": 1122,
     "airline": "Various",
     "dur": 210
+   },
+   {
+    "airport": "VAR",
+    "city": "Varna",
+    "country": "Bulgaria",
+    "price": 1224,
+    "airline": "Wizz Air",
+    "dur": 155
+   },
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 1428,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "PMO",
+    "city": "Palermo",
+    "country": "Italy",
+    "price": 1700,
+    "airline": "Wizz Air",
+    "dur": 200
+   },
+   {
+    "airport": "KRK",
+    "city": "Krak\u00f3w",
+    "country": "Poland",
+    "price": 1768,
+    "airline": "Wizz Air",
+    "dur": 225
+   },
+   {
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 2074,
+    "airline": "Wizz Air",
+    "dur": 255
    },
    {
     "airport": "PRG",
@@ -6277,6 +6877,22 @@
     "dur": 210
    },
    {
+    "airport": "PMO",
+    "city": "Palermo",
+    "country": "Italy",
+    "price": 1496,
+    "airline": "Wizz Air",
+    "dur": 200
+   },
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 1496,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
     "airport": "LCA",
     "city": "Larnaca",
     "country": "Cyprus",
@@ -6292,6 +6908,14 @@
     "price": 1921,
     "airline": "Various",
     "dur": 240
+   },
+   {
+    "airport": "KRK",
+    "city": "Krak\u00f3w",
+    "country": "Poland",
+    "price": 1921,
+    "airline": "Wizz Air",
+    "dur": 225
    },
    {
     "airport": "VIE",
@@ -6372,6 +6996,38 @@
   "nights": 5,
   "flights": [
    {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 1088,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "KRK",
+    "city": "Krak\u00f3w",
+    "country": "Poland",
+    "price": 1156,
+    "airline": "Wizz Air",
+    "dur": 225
+   },
+   {
+    "airport": "SOF",
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "price": 1156,
+    "airline": "Wizz Air",
+    "dur": 170
+   },
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 1258,
+    "airline": "Wizz Air",
+    "dur": 145
+   },
+   {
     "airport": "BUD",
     "city": "Budapest",
     "country": "Hungary",
@@ -6387,6 +7043,22 @@
     "price_usd": 529,
     "airline": "El Al",
     "dur": null
+   },
+   {
+    "airport": "OTP",
+    "city": "Bucharest",
+    "country": "Romania",
+    "price": 2023,
+    "airline": "Wizz Air",
+    "dur": 170
+   },
+   {
+    "airport": "WAW",
+    "city": "Warsaw",
+    "country": "Poland",
+    "price": 2176,
+    "airline": "Wizz Air",
+    "dur": 240
    },
    {
     "airport": "SKG",

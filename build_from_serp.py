@@ -92,7 +92,7 @@ HTML = r'''<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
  .leaflet-tooltip-left:before,.leaflet-tooltip-right:before,.leaflet-tooltip-top:before,.leaflet-tooltip-bottom:before{border:none}
 </style></head><body>
 <header><h1>Summer 2026 Flights — Tel Aviv → Europe</h1>
-<div class="sub">Google Flights + El Al · &le; 2,400 NIS · 5–9 nights · Aug 9–26, 2026 · captured __CAPTURE__ · <span id="total"></span> options. El Al prices converted from USD at ~3.65. Click a column to sort; filter below.</div></header>
+<div class="sub">Google Flights + El Al + Wizz Air · &le; 2,500 NIS · 5–9 nights · Aug 9–26, 2026 · captured __CAPTURE__ · <span id="total"></span> options. El Al prices converted from USD at ~3.65. Click a column to sort; filter below.</div></header>
 <div class="controls">
  <div class="ctrl"><label>Search</label><input id="search" placeholder="city / country / airline…"></div>
  <div class="ctrl"><label>Country</label><select id="fCountry"></select></div>
@@ -141,7 +141,9 @@ const COORDS={'Athens':[37.984,23.728],'Barcelona':[41.385,2.173],'Berlin':[52.5
  'Budapest':[47.498,19.040],'Amsterdam':[52.370,4.895],'Eindhoven':[51.441,5.478],
  'Sofia':[42.698,23.322],'Bucharest':[44.430,26.103],'Larnaca':[34.885,33.625],
  'Geneva':[46.204,6.143],'Tbilisi':[41.715,44.827],'Dubai':[25.204,55.270],
- 'London':[51.505,-0.090],'Marseilles':[43.296,5.381],'Madrid':[40.417,-3.704]};
+ 'London':[51.505,-0.090],'Marseilles':[43.296,5.381],'Madrid':[40.417,-3.704],
+ 'Warsaw':[52.229,21.012],'Kraków':[50.061,19.937],'Bratislava':[48.148,17.107],
+ 'Vilnius':[54.687,25.279],'Varna':[43.204,27.911]};
 
 const map=L.map('map',{zoomControl:true,attributionControl:false}).setView([43,18],4);
 L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',{maxZoom:18,subdomains:'abcd'}).addTo(map);

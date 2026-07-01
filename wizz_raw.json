@@ -1,0 +1,239 @@
+{
+ "2026-08-09_2026-08-14": {"dep":"2026-08-09","ret":"2026-08-14","nights":5,"dests":[
+  {"city":"Rome Fiumicino","eur":319.98,"nis":1088,"dur":230},
+  {"city":"Kraków","eur":339.98,"nis":1156,"dur":225},
+  {"city":"Sofia","eur":339.98,"nis":1156,"dur":170},
+  {"city":"Athens","eur":369.98,"nis":1258,"dur":145},
+  {"city":"Budapest","eur":449.98,"nis":1530,"dur":205},
+  {"city":"Bucharest Otopeni","eur":594.98,"nis":2023,"dur":170},
+  {"city":"Warsaw Chopin","eur":639.98,"nis":2176,"dur":240}
+ ]},
+ "2026-08-09_2026-08-16": {"dep":"2026-08-09","ret":"2026-08-16","nights":7,"dests":[
+  {"city":"Naples","eur":299.98,"nis":1020,"dur":215},
+  {"city":"Rome Fiumicino","eur":299.98,"nis":1020,"dur":230},
+  {"city":"Kraków","eur":339.98,"nis":1156,"dur":225},
+  {"city":"Sofia","eur":364.98,"nis":1241,"dur":170},
+  {"city":"Bratislava","eur":399.98,"nis":1360,"dur":220},
+  {"city":"Athens","eur":419.98,"nis":1428,"dur":145},
+  {"city":"Budapest","eur":424.98,"nis":1445,"dur":205},
+  {"city":"Warsaw Chopin","eur":519.98,"nis":1768,"dur":240},
+  {"city":"Bucharest Otopeni","eur":594.98,"nis":2023,"dur":170},
+  {"city":"Vilnius","eur":609.98,"nis":2074,"dur":265}
+ ]},
+ "2026-08-10_2026-08-15": {"dep":"2026-08-10","ret":"2026-08-15","nights":5,"dests":[
+  {"city":"Larnaca","eur":319.98,"nis":1088,"dur":65},
+  {"city":"Rome Fiumicino","eur":324.98,"nis":1105,"dur":230},
+  {"city":"Budapest","eur":329.98,"nis":1122,"dur":210},
+  {"city":"Palermo (Sicily)","eur":344.98,"nis":1173,"dur":200},
+  {"city":"Bucharest Otopeni","eur":404.98,"nis":1377,"dur":170},
+  {"city":"Kraków","eur":424.98,"nis":1445,"dur":225}
+ ]},
+ "2026-08-10_2026-08-17": {"dep":"2026-08-10","ret":"2026-08-17","nights":7,"dests":[
+  {"city":"Rome Fiumicino","eur":299.98,"nis":1020,"dur":230},
+  {"city":"Bratislava","eur":329.98,"nis":1122,"dur":220},
+  {"city":"Larnaca","eur":339.98,"nis":1156,"dur":65},
+  {"city":"Sofia","eur":359.98,"nis":1224,"dur":170},
+  {"city":"Bucharest Otopeni","eur":364.98,"nis":1241,"dur":170},
+  {"city":"Budapest","eur":389.98,"nis":1326,"dur":210},
+  {"city":"Palermo (Sicily)","eur":389.98,"nis":1326,"dur":200},
+  {"city":"Kraków","eur":499.98,"nis":1700,"dur":225},
+  {"city":"Warsaw Chopin","eur":519.98,"nis":1768,"dur":240},
+  {"city":"Milan Malpensa","eur":719.98,"nis":2448,"dur":255}
+ ]},
+ "2026-08-11_2026-08-16": {"dep":"2026-08-11","ret":"2026-08-16","nights":5,"dests":[
+  {"city":"Rome Fiumicino","eur":359.98,"nis":1224,"dur":230},
+  {"city":"Naples","eur":374.98,"nis":1275,"dur":210},
+  {"city":"Kraków","eur":379.98,"nis":1292,"dur":225},
+  {"city":"Budapest","eur":389.98,"nis":1326,"dur":210},
+  {"city":"Sofia","eur":404.98,"nis":1377,"dur":170},
+  {"city":"Athens","eur":409.98,"nis":1394,"dur":145},
+  {"city":"Bucharest Otopeni","eur":449.98,"nis":1530,"dur":170},
+  {"city":"Bratislava","eur":549.98,"nis":1870,"dur":220}
+ ]},
+ "2026-08-11_2026-08-18": {"dep":"2026-08-11","ret":"2026-08-18","nights":7,"dests":[
+  {"city":"Bucharest Otopeni","eur":344.98,"nis":1173,"dur":170},
+  {"city":"Sofia","eur":344.98,"nis":1173,"dur":170},
+  {"city":"Athens","eur":359.98,"nis":1224,"dur":145},
+  {"city":"Budapest","eur":364.98,"nis":1241,"dur":210},
+  {"city":"Naples","eur":364.98,"nis":1241,"dur":210},
+  {"city":"Rome Fiumicino","eur":379.98,"nis":1292,"dur":230},
+  {"city":"Kraków","eur":429.98,"nis":1462,"dur":225},
+  {"city":"Bratislava","eur":524.98,"nis":1785,"dur":220},
+  {"city":"Milan Malpensa","eur":539.98,"nis":1836,"dur":255}
+ ]},
+ "2026-08-12_2026-08-17": {"dep":"2026-08-12","ret":"2026-08-17","nights":5,"dests":[
+  {"city":"Bucharest Otopeni","eur":289.98,"nis":986,"dur":170},
+  {"city":"Rome Fiumicino","eur":349.98,"nis":1190,"dur":230},
+  {"city":"Larnaca","eur":359.98,"nis":1224,"dur":65},
+  {"city":"Sofia","eur":359.98,"nis":1224,"dur":170},
+  {"city":"Palermo (Sicily)","eur":409.98,"nis":1394,"dur":200},
+  {"city":"Bratislava","eur":424.98,"nis":1445,"dur":215},
+  {"city":"Budapest","eur":424.98,"nis":1445,"dur":210},
+  {"city":"Warsaw Chopin","eur":499.98,"nis":1700,"dur":240},
+  {"city":"Kraków","eur":549.98,"nis":1870,"dur":225}
+ ]},
+ "2026-08-12_2026-08-19": {"dep":"2026-08-12","ret":"2026-08-19","nights":7,"dests":[
+  {"city":"Naples","eur":269.98,"nis":918,"dur":215},
+  {"city":"Bucharest Otopeni","eur":314.98,"nis":1071,"dur":170},
+  {"city":"Rome Fiumicino","eur":314.98,"nis":1071,"dur":230},
+  {"city":"Larnaca","eur":339.98,"nis":1156,"dur":65},
+  {"city":"Sofia","eur":359.98,"nis":1224,"dur":170},
+  {"city":"Palermo (Sicily)","eur":364.98,"nis":1241,"dur":200},
+  {"city":"Athens","eur":369.98,"nis":1258,"dur":140},
+  {"city":"Varna (Black Sea)","eur":379.98,"nis":1292,"dur":155},
+  {"city":"Budapest","eur":469.98,"nis":1598,"dur":210},
+  {"city":"Bratislava","eur":474.98,"nis":1615,"dur":215},
+  {"city":"Kraków","eur":474.98,"nis":1615,"dur":225},
+  {"city":"Warsaw Chopin","eur":474.98,"nis":1615,"dur":240}
+ ]},
+ "2026-08-13_2026-08-18": {"dep":"2026-08-13","ret":"2026-08-18","nights":5,"dests":[
+  {"city":"Naples","eur":304.98,"nis":1037,"dur":215},
+  {"city":"Sofia","eur":304.98,"nis":1037,"dur":170},
+  {"city":"Budapest","eur":364.98,"nis":1241,"dur":210},
+  {"city":"Rome Fiumicino","eur":364.98,"nis":1241,"dur":230},
+  {"city":"Athens","eur":394.98,"nis":1343,"dur":150},
+  {"city":"Bucharest Otopeni","eur":459.98,"nis":1564,"dur":170},
+  {"city":"Kraków","eur":589.98,"nis":2006,"dur":225},
+  {"city":"Milan Malpensa","eur":609.98,"nis":2074,"dur":255},
+  {"city":"Bratislava","eur":724.98,"nis":2465,"dur":220}
+ ]},
+ "2026-08-13_2026-08-20": {"dep":"2026-08-13","ret":"2026-08-20","nights":7,"dests":[
+  {"city":"Rome Fiumicino","eur":314.98,"nis":1071,"dur":230},
+  {"city":"Naples","eur":329.98,"nis":1122,"dur":215},
+  {"city":"Sofia","eur":364.98,"nis":1241,"dur":170},
+  {"city":"Budapest","eur":419.98,"nis":1428,"dur":210},
+  {"city":"Athens","eur":429.98,"nis":1462,"dur":150},
+  {"city":"Bucharest Otopeni","eur":519.98,"nis":1768,"dur":170},
+  {"city":"Milan Malpensa","eur":539.98,"nis":1836,"dur":255},
+  {"city":"Vilnius","eur":549.98,"nis":1870,"dur":265},
+  {"city":"Kraków","eur":564.98,"nis":1921,"dur":225}
+ ]},
+ "2026-08-14_2026-08-19": {"dep":"2026-08-14","ret":"2026-08-19","nights":5,"dests":[
+  {"city":"Rome Fiumicino","eur":314.98,"nis":1071,"dur":230},
+  {"city":"Bucharest Otopeni","eur":344.98,"nis":1173,"dur":170},
+  {"city":"Larnaca","eur":384.98,"nis":1309,"dur":65},
+  {"city":"Athens","eur":394.98,"nis":1343,"dur":145},
+  {"city":"Sofia","eur":429.98,"nis":1462,"dur":170},
+  {"city":"Budapest","eur":449.98,"nis":1530,"dur":210},
+  {"city":"Kraków","eur":449.98,"nis":1530,"dur":220},
+  {"city":"Warsaw Chopin","eur":594.98,"nis":2023,"dur":240},
+  {"city":"London Luton","eur":669.98,"nis":2278,"dur":320},
+  {"city":"Milan Malpensa","eur":679.98,"nis":2312,"dur":250}
+ ]},
+ "2026-08-14_2026-08-21": {"dep":"2026-08-14","ret":"2026-08-21","nights":7,"dests":[
+  {"city":"Bucharest Otopeni","eur":329.98,"nis":1122,"dur":170},
+  {"city":"Rome Fiumicino","eur":329.98,"nis":1122,"dur":230},
+  {"city":"Kraków","eur":449.98,"nis":1530,"dur":220},
+  {"city":"Athens","eur":494.98,"nis":1683,"dur":145},
+  {"city":"Budapest","eur":519.98,"nis":1768,"dur":210},
+  {"city":"Sofia","eur":519.98,"nis":1768,"dur":170},
+  {"city":"Larnaca","eur":554.98,"nis":1887,"dur":65},
+  {"city":"Warsaw Chopin","eur":594.98,"nis":2023,"dur":240},
+  {"city":"Milan Malpensa","eur":609.98,"nis":2074,"dur":250},
+  {"city":"London Luton","eur":699.98,"nis":2380,"dur":320}
+ ]},
+ "2026-08-15_2026-08-20": {"dep":"2026-08-15","ret":"2026-08-20","nights":5,"dests":[
+  {"city":"Rome Fiumicino","eur":284.98,"nis":969,"dur":230},
+  {"city":"Naples","eur":294.98,"nis":1003,"dur":210},
+  {"city":"Bucharest Otopeni","eur":344.98,"nis":1173,"dur":170},
+  {"city":"Kraków","eur":404.98,"nis":1377,"dur":225},
+  {"city":"Budapest","eur":419.98,"nis":1428,"dur":210},
+  {"city":"Milan Malpensa","eur":539.98,"nis":1836,"dur":255}
+ ]},
+ "2026-08-15_2026-08-22": {"dep":"2026-08-15","ret":"2026-08-22","nights":7,"dests":[
+  {"city":"Naples","eur":309.98,"nis":1054,"dur":210},
+  {"city":"Budapest","eur":349.98,"nis":1190,"dur":210},
+  {"city":"Varna (Black Sea)","eur":359.98,"nis":1224,"dur":155},
+  {"city":"Bucharest Otopeni","eur":414.98,"nis":1411,"dur":170},
+  {"city":"Rome Fiumicino","eur":419.98,"nis":1428,"dur":230},
+  {"city":"Palermo (Sicily)","eur":499.98,"nis":1700,"dur":200},
+  {"city":"Kraków","eur":519.98,"nis":1768,"dur":225},
+  {"city":"Milan Malpensa","eur":609.98,"nis":2074,"dur":255}
+ ]},
+ "2026-08-16_2026-08-21": {"dep":"2026-08-16","ret":"2026-08-21","nights":5,"dests":[
+  {"city":"Rome Fiumicino","eur":329.98,"nis":1122,"dur":230},
+  {"city":"Bucharest Otopeni","eur":349.98,"nis":1190,"dur":170},
+  {"city":"Kraków","eur":424.98,"nis":1445,"dur":225},
+  {"city":"Warsaw Chopin","eur":424.98,"nis":1445,"dur":240},
+  {"city":"Sofia","eur":434.98,"nis":1479,"dur":170},
+  {"city":"Budapest","eur":519.98,"nis":1768,"dur":205},
+  {"city":"Athens","eur":559.98,"nis":1904,"dur":145},
+  {"city":"Larnaca","eur":679.98,"nis":2312,"dur":65}
+ ]},
+ "2026-08-16_2026-08-23": {"dep":"2026-08-16","ret":"2026-08-23","nights":7,"dests":[
+  {"city":"Rome Fiumicino","eur":329.98,"nis":1122,"dur":230},
+  {"city":"Naples","eur":374.98,"nis":1275,"dur":215},
+  {"city":"Budapest","eur":404.98,"nis":1377,"dur":205},
+  {"city":"Sofia","eur":434.98,"nis":1479,"dur":170},
+  {"city":"Vilnius","eur":449.98,"nis":1530,"dur":265},
+  {"city":"Athens","eur":469.98,"nis":1598,"dur":145},
+  {"city":"Bucharest Otopeni","eur":499.98,"nis":1700,"dur":170},
+  {"city":"Warsaw Chopin","eur":499.98,"nis":1700,"dur":240},
+  {"city":"Kraków","eur":539.98,"nis":1836,"dur":225},
+  {"city":"Larnaca","eur":679.98,"nis":2312,"dur":65}
+ ]},
+ "2026-08-17_2026-08-22": {"dep":"2026-08-17","ret":"2026-08-22","nights":5,"dests":[
+  {"city":"Larnaca","eur":329.98,"nis":1122,"dur":65},
+  {"city":"Bucharest Otopeni","eur":349.98,"nis":1190,"dur":170},
+  {"city":"Budapest","eur":349.98,"nis":1190,"dur":210},
+  {"city":"Palermo (Sicily)","eur":439.98,"nis":1496,"dur":200},
+  {"city":"Rome Fiumicino","eur":439.98,"nis":1496,"dur":230},
+  {"city":"Kraków","eur":564.98,"nis":1921,"dur":225}
+ ]},
+ "2026-08-17_2026-08-24": {"dep":"2026-08-17","ret":"2026-08-24","nights":7,"dests":[
+  {"city":"Bucharest Otopeni","eur":299.98,"nis":1020,"dur":170},
+  {"city":"Palermo (Sicily)","eur":364.98,"nis":1241,"dur":200},
+  {"city":"Larnaca","eur":394.98,"nis":1343,"dur":65},
+  {"city":"Sofia","eur":404.98,"nis":1377,"dur":170},
+  {"city":"Budapest","eur":419.98,"nis":1428,"dur":210},
+  {"city":"Rome Fiumicino","eur":479.98,"nis":1632,"dur":230},
+  {"city":"Kraków","eur":524.98,"nis":1785,"dur":225},
+  {"city":"Bratislava","eur":564.98,"nis":1921,"dur":220},
+  {"city":"Warsaw Chopin","eur":564.98,"nis":1921,"dur":240}
+ ]},
+ "2026-08-18_2026-08-23": {"dep":"2026-08-18","ret":"2026-08-23","nights":5,"dests":[
+  {"city":"Athens","eur":334.98,"nis":1139,"dur":145},
+  {"city":"Naples","eur":374.98,"nis":1275,"dur":210},
+  {"city":"Budapest","eur":389.98,"nis":1326,"dur":210},
+  {"city":"Rome Fiumicino","eur":429.98,"nis":1462,"dur":230},
+  {"city":"Bratislava","eur":449.98,"nis":1530,"dur":220},
+  {"city":"Bucharest Otopeni","eur":449.98,"nis":1530,"dur":170},
+  {"city":"Sofia","eur":449.98,"nis":1530,"dur":170},
+  {"city":"Larnaca","eur":489.98,"nis":1666,"dur":65},
+  {"city":"Kraków","eur":504.98,"nis":1717,"dur":225}
+ ]},
+ "2026-08-18_2026-08-25": {"dep":"2026-08-18","ret":"2026-08-25","nights":7,"dests":[
+  {"city":"Bucharest Otopeni","eur":349.98,"nis":1190,"dur":170},
+  {"city":"Athens","eur":374.98,"nis":1275,"dur":145},
+  {"city":"Naples","eur":374.98,"nis":1275,"dur":210},
+  {"city":"Kraków","eur":434.98,"nis":1479,"dur":225},
+  {"city":"Sofia","eur":449.98,"nis":1530,"dur":170},
+  {"city":"Larnaca","eur":489.98,"nis":1666,"dur":65},
+  {"city":"Budapest","eur":504.98,"nis":1717,"dur":210},
+  {"city":"Rome Fiumicino","eur":519.98,"nis":1768,"dur":230},
+  {"city":"Milan Malpensa","eur":594.98,"nis":2023,"dur":255},
+  {"city":"London Luton","eur":709.98,"nis":2414,"dur":320}
+ ]},
+ "2026-08-19_2026-08-25": {"dep":"2026-08-19","ret":"2026-08-25","nights":6,"dests":[
+  {"city":"Naples","eur":334.98,"nis":1139,"dur":215},
+  {"city":"Bucharest Otopeni","eur":339.98,"nis":1156,"dur":170},
+  {"city":"Athens","eur":389.98,"nis":1326,"dur":140},
+  {"city":"Rome Fiumicino","eur":389.98,"nis":1326,"dur":230},
+  {"city":"Sofia","eur":449.98,"nis":1530,"dur":170},
+  {"city":"Budapest","eur":479.98,"nis":1632,"dur":210},
+  {"city":"Kraków","eur":494.98,"nis":1683,"dur":225},
+  {"city":"Larnaca","eur":569.98,"nis":1938,"dur":65},
+  {"city":"Milan Malpensa","eur":594.98,"nis":2023,"dur":255},
+  {"city":"London Luton","eur":709.98,"nis":2414,"dur":320}
+ ]},
+ "2026-08-20_2026-08-25": {"dep":"2026-08-20","ret":"2026-08-25","nights":5,"dests":[
+  {"city":"Naples","eur":324.98,"nis":1105,"dur":215},
+  {"city":"Bucharest Otopeni","eur":364.98,"nis":1241,"dur":170},
+  {"city":"Rome Fiumicino","eur":369.98,"nis":1258,"dur":230},
+  {"city":"Athens","eur":419.98,"nis":1428,"dur":150},
+  {"city":"Kraków","eur":434.98,"nis":1479,"dur":225},
+  {"city":"Budapest","eur":459.98,"nis":1564,"dur":210},
+  {"city":"Sofia","eur":469.98,"nis":1598,"dur":170},
+  {"city":"Milan Malpensa","eur":549.98,"nis":1870,"dur":255}
+ ]}
+}
