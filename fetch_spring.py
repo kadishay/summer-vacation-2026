@@ -144,7 +144,7 @@ def parse_cheapest(flights, country):
 def date_pairs():
     """All 60 pairs: Mar 24–Apr 2 departures × 5–10 nights."""
     pairs = []
-    start, end = datetime.date(2027, 3, 24), datetime.date(2027, 4, 2)
+    start, end = datetime.date(2027, 4, 13), datetime.date(2027, 4, 23)
     d = start
     while d <= end:
         for n in range(5, 11):  # 5, 6, 7, 8, 9, 10 nights
@@ -154,7 +154,7 @@ def date_pairs():
     return pairs
 
 def selected_pairs():
-    """Select 20 evenly-spaced pairs from 60 → 20 × 12 = 240 queries (≤ 250/month budget)."""
+    """Select 20 evenly-spaced pairs from 48 → 20 × 12 = 240 queries (≤ 250/month budget)."""
     pairs = date_pairs()
     n_keep = 20
     step = len(pairs) / n_keep
@@ -167,7 +167,7 @@ def main():
     global KEY; KEY = api_key()
     mode = sys.argv[1] if len(sys.argv) > 1 else "test"
     if mode == "test":
-        dep, ret = "2027-03-28", "2027-04-04"
+        dep, ret = "2027-04-16", "2027-04-23"
         raw, flights = search(COUNTRY_KGMID["Italy"], dep, ret)
         best = parse_cheapest(flights, "Italy")
         print(f"queries used: {QCOUNT} | Italy cities ({dep}→{ret}):")

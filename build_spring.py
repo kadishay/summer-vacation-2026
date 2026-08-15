@@ -169,7 +169,7 @@ HTML = r'''<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
  .weather-legend b{display:block;margin-bottom:2px;font-size:11px;text-transform:uppercase;letter-spacing:.04em;color:#8b98a8}
 </style></head><body>
 <header><h1>Spring Break 2027 Flights — Tel Aviv → Europe</h1>
-<div class="sub">Google Flights · &le; 3,000 NIS (~$1,000) · 5–10 nights · Mar 24 – Apr 2, 2027 · captured __CAPTURE__ · <span id="total"></span> options · 3 NIS ≈ $1 USD. Click a column to sort; filter below.</div></header>
+<div class="sub">Google Flights · &le; 3,000 NIS (~$1,000) · 5–10 nights · Apr 13–23, 2027 · captured __CAPTURE__ · <span id="total"></span> options · 3 NIS ≈ $1 USD. Click a column to sort; filter below.</div></header>
 <div class="controls">
  <div class="ctrl"><label>Search</label><input id="search" placeholder="city / country / airline…"></div>
  <div class="ctrl"><label>Country</label><select id="fCountry"></select></div>
