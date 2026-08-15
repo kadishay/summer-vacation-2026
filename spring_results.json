@@ -6,7 +6,7 @@
   "flights": [
    {
     "airport": "LCA",
-    "city": "\u05dc\u05e8\u05e0\u05e7\u05d4",
+    "city": "Larnaca",
     "country": "Cyprus",
     "price": 540,
     "airline": "El Al",
@@ -14,7 +14,7 @@
    },
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 684,
     "airline": "El Al",
@@ -22,7 +22,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 849,
     "airline": "El Al",
@@ -30,7 +30,7 @@
    },
    {
     "airport": "SOF",
-    "city": "\u05e1\u05d5\u05e4\u05d9\u05d4",
+    "city": "Sofia",
     "country": "Bulgaria",
     "price": 975,
     "airline": "El Al",
@@ -38,7 +38,7 @@
    },
    {
     "airport": "BUD",
-    "city": "\u05d1\u05d5\u05d3\u05e4\u05e9\u05d8",
+    "city": "Budapest",
     "country": "Hungary",
     "price": 1272,
     "airline": "El Al",
@@ -46,7 +46,7 @@
    },
    {
     "airport": "MUC",
-    "city": "\u05de\u05d9\u05e0\u05db\u05df",
+    "city": "Munich",
     "country": "Germany",
     "price": 1434,
     "airline": "El Al",
@@ -54,7 +54,7 @@
    },
    {
     "airport": "VCE",
-    "city": "\u05d5\u05e0\u05e6\u05d9\u05d4",
+    "city": "Venice",
     "country": "Italy",
     "price": 1470,
     "airline": "El Al",
@@ -62,7 +62,7 @@
    },
    {
     "airport": "MRS",
-    "city": "\u05de\u05e8\u05e1\u05d9\u05d9",
+    "city": "Marseille",
     "country": "France",
     "price": 1491,
     "airline": "El Al",
@@ -70,7 +70,7 @@
    },
    {
     "airport": "PRG",
-    "city": "\u05e4\u05e8\u05d0\u05d2",
+    "city": "Prague",
     "country": "Czechia",
     "price": 1518,
     "airline": "El Al",
@@ -78,7 +78,7 @@
    },
    {
     "airport": "BER",
-    "city": "\u05d1\u05e8\u05dc\u05d9\u05df",
+    "city": "Berlin",
     "country": "Germany",
     "price": 1551,
     "airline": "El Al",
@@ -86,7 +86,7 @@
    },
    {
     "airport": "BCN",
-    "city": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+    "city": "Barcelona",
     "country": "Spain",
     "price": 1593,
     "airline": "El Al",
@@ -94,7 +94,7 @@
    },
    {
     "airport": "ZRH",
-    "city": "\u05e6\u05d9\u05e8\u05d9\u05da",
+    "city": "Zurich",
     "country": "Switzerland",
     "price": 1647,
     "airline": "El Al",
@@ -102,7 +102,7 @@
    },
    {
     "airport": "FRA",
-    "city": "\u05e4\u05e8\u05e0\u05e7\u05e4\u05d5\u05e8\u05d8",
+    "city": "Frankfurt",
     "country": "Germany",
     "price": 1653,
     "airline": "El Al",
@@ -110,7 +110,7 @@
    },
    {
     "airport": "VIE",
-    "city": "\u05d5\u05d9\u05e0\u05d4",
+    "city": "Vienna",
     "country": "Austria",
     "price": 1668,
     "airline": "El Al",
@@ -118,7 +118,7 @@
    },
    {
     "airport": "CDG",
-    "city": "\u05e4\u05e8\u05d9\u05d6",
+    "city": "Paris",
     "country": "France",
     "price": 1722,
     "airline": "El Al",
@@ -126,7 +126,7 @@
    },
    {
     "airport": "GVA",
-    "city": "\u05d6'\u05e0\u05d1\u05d4",
+    "city": "Geneva",
     "country": "Switzerland",
     "price": 1749,
     "airline": "El Al",
@@ -134,7 +134,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1848,
     "airline": "El Al",
@@ -142,7 +142,7 @@
    },
    {
     "airport": "MAD",
-    "city": "\u05de\u05d3\u05e8\u05d9\u05d3",
+    "city": "Madrid",
     "country": "Spain",
     "price": 1947,
     "airline": "El Al",
@@ -150,7 +150,7 @@
    },
    {
     "airport": "AMS",
-    "city": "\u05d0\u05de\u05e1\u05d8\u05e8\u05d3\u05dd",
+    "city": "Amsterdam",
     "country": "Netherlands",
     "price": 2088,
     "airline": "El Al",
@@ -158,7 +158,7 @@
    },
    {
     "airport": "MXP",
-    "city": "\u05de\u05d9\u05dc\u05d0\u05e0\u05d5",
+    "city": "Milan",
     "country": "Italy",
     "price": 2094,
     "airline": "El Al",
@@ -166,7 +166,7 @@
    },
    {
     "airport": "LTN",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London Luton",
     "country": "England",
     "price": 2103,
     "airline": "El Al",
@@ -174,15 +174,15 @@
    },
    {
     "airport": "DXB",
-    "city": "\u05d3\u05d5\u05d1\u05d0\u05d9",
-    "country": "Unknown",
+    "city": "Dubai",
+    "country": "UAE",
     "price": 2238,
     "airline": "El Al",
     "dur": null
    },
    {
     "airport": "LIS",
-    "city": "\u05dc\u05d9\u05e1\u05d1\u05d5\u05df",
+    "city": "Lisbon",
     "country": "Portugal",
     "price": 2244,
     "airline": "El Al",
@@ -190,7 +190,7 @@
    },
    {
     "airport": "LHR",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London",
     "country": "England",
     "price": 2493,
     "airline": "El Al",
@@ -198,8 +198,8 @@
    },
    {
     "airport": "DME",
-    "city": "\u05de\u05d5\u05e1\u05e7\u05d1\u05d4",
-    "country": "Unknown",
+    "city": "Moscow",
+    "country": "Russia",
     "price": 2799,
     "airline": "El Al",
     "dur": null
@@ -213,7 +213,7 @@
   "flights": [
    {
     "airport": "LCA",
-    "city": "\u05dc\u05e8\u05e0\u05e7\u05d4",
+    "city": "Larnaca",
     "country": "Cyprus",
     "price": 486,
     "airline": "El Al",
@@ -221,7 +221,7 @@
    },
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 684,
     "airline": "El Al",
@@ -229,7 +229,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 849,
     "airline": "El Al",
@@ -237,7 +237,7 @@
    },
    {
     "airport": "SOF",
-    "city": "\u05e1\u05d5\u05e4\u05d9\u05d4",
+    "city": "Sofia",
     "country": "Bulgaria",
     "price": 915,
     "airline": "El Al",
@@ -245,7 +245,7 @@
    },
    {
     "airport": "BUD",
-    "city": "\u05d1\u05d5\u05d3\u05e4\u05e9\u05d8",
+    "city": "Budapest",
     "country": "Hungary",
     "price": 1197,
     "airline": "El Al",
@@ -253,7 +253,7 @@
    },
    {
     "airport": "VCE",
-    "city": "\u05d5\u05e0\u05e6\u05d9\u05d4",
+    "city": "Venice",
     "country": "Italy",
     "price": 1200,
     "airline": "El Al",
@@ -261,7 +261,7 @@
    },
    {
     "airport": "MUC",
-    "city": "\u05de\u05d9\u05e0\u05db\u05df",
+    "city": "Munich",
     "country": "Germany",
     "price": 1434,
     "airline": "El Al",
@@ -269,7 +269,7 @@
    },
    {
     "airport": "PRG",
-    "city": "\u05e4\u05e8\u05d0\u05d2",
+    "city": "Prague",
     "country": "Czechia",
     "price": 1443,
     "airline": "El Al",
@@ -277,7 +277,7 @@
    },
    {
     "airport": "BER",
-    "city": "\u05d1\u05e8\u05dc\u05d9\u05df",
+    "city": "Berlin",
     "country": "Germany",
     "price": 1551,
     "airline": "El Al",
@@ -285,7 +285,7 @@
    },
    {
     "airport": "GVA",
-    "city": "\u05d6'\u05e0\u05d1\u05d4",
+    "city": "Geneva",
     "country": "Switzerland",
     "price": 1554,
     "airline": "El Al",
@@ -293,7 +293,7 @@
    },
    {
     "airport": "BCN",
-    "city": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+    "city": "Barcelona",
     "country": "Spain",
     "price": 1593,
     "airline": "El Al",
@@ -301,7 +301,7 @@
    },
    {
     "airport": "MRS",
-    "city": "\u05de\u05e8\u05e1\u05d9\u05d9",
+    "city": "Marseille",
     "country": "France",
     "price": 1596,
     "airline": "El Al",
@@ -309,7 +309,7 @@
    },
    {
     "airport": "ZRH",
-    "city": "\u05e6\u05d9\u05e8\u05d9\u05da",
+    "city": "Zurich",
     "country": "Switzerland",
     "price": 1647,
     "airline": "El Al",
@@ -317,7 +317,7 @@
    },
    {
     "airport": "FRA",
-    "city": "\u05e4\u05e8\u05e0\u05e7\u05e4\u05d5\u05e8\u05d8",
+    "city": "Frankfurt",
     "country": "Germany",
     "price": 1653,
     "airline": "El Al",
@@ -325,7 +325,7 @@
    },
    {
     "airport": "VIE",
-    "city": "\u05d5\u05d9\u05e0\u05d4",
+    "city": "Vienna",
     "country": "Austria",
     "price": 1668,
     "airline": "El Al",
@@ -333,7 +333,7 @@
    },
    {
     "airport": "CDG",
-    "city": "\u05e4\u05e8\u05d9\u05d6",
+    "city": "Paris",
     "country": "France",
     "price": 1722,
     "airline": "El Al",
@@ -341,7 +341,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1884,
     "airline": "El Al",
@@ -349,7 +349,7 @@
    },
    {
     "airport": "MAD",
-    "city": "\u05de\u05d3\u05e8\u05d9\u05d3",
+    "city": "Madrid",
     "country": "Spain",
     "price": 1947,
     "airline": "El Al",
@@ -357,15 +357,15 @@
    },
    {
     "airport": "DXB",
-    "city": "\u05d3\u05d5\u05d1\u05d0\u05d9",
-    "country": "Unknown",
+    "city": "Dubai",
+    "country": "UAE",
     "price": 2019,
     "airline": "El Al",
     "dur": null
    },
    {
     "airport": "AMS",
-    "city": "\u05d0\u05de\u05e1\u05d8\u05e8\u05d3\u05dd",
+    "city": "Amsterdam",
     "country": "Netherlands",
     "price": 2088,
     "airline": "El Al",
@@ -373,7 +373,7 @@
    },
    {
     "airport": "MXP",
-    "city": "\u05de\u05d9\u05dc\u05d0\u05e0\u05d5",
+    "city": "Milan",
     "country": "Italy",
     "price": 2094,
     "airline": "El Al",
@@ -381,7 +381,7 @@
    },
    {
     "airport": "LTN",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London Luton",
     "country": "England",
     "price": 2103,
     "airline": "El Al",
@@ -389,8 +389,8 @@
    },
    {
     "airport": "DME",
-    "city": "\u05de\u05d5\u05e1\u05e7\u05d1\u05d4",
-    "country": "Unknown",
+    "city": "Moscow",
+    "country": "Russia",
     "price": 2799,
     "airline": "El Al",
     "dur": null
@@ -404,7 +404,7 @@
   "flights": [
    {
     "airport": "LCA",
-    "city": "\u05dc\u05e8\u05e0\u05e7\u05d4",
+    "city": "Larnaca",
     "country": "Cyprus",
     "price": 660,
     "airline": "El Al",
@@ -412,7 +412,7 @@
    },
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 744,
     "airline": "El Al",
@@ -420,7 +420,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 849,
     "airline": "El Al",
@@ -428,7 +428,7 @@
    },
    {
     "airport": "SOF",
-    "city": "\u05e1\u05d5\u05e4\u05d9\u05d4",
+    "city": "Sofia",
     "country": "Bulgaria",
     "price": 975,
     "airline": "El Al",
@@ -436,7 +436,7 @@
    },
    {
     "airport": "BUD",
-    "city": "\u05d1\u05d5\u05d3\u05e4\u05e9\u05d8",
+    "city": "Budapest",
     "country": "Hungary",
     "price": 1362,
     "airline": "El Al",
@@ -444,7 +444,7 @@
    },
    {
     "airport": "ZRH",
-    "city": "\u05e6\u05d9\u05e8\u05d9\u05da",
+    "city": "Zurich",
     "country": "Switzerland",
     "price": 1392,
     "airline": "El Al",
@@ -452,7 +452,7 @@
    },
    {
     "airport": "MUC",
-    "city": "\u05de\u05d9\u05e0\u05db\u05df",
+    "city": "Munich",
     "country": "Germany",
     "price": 1434,
     "airline": "El Al",
@@ -460,7 +460,7 @@
    },
    {
     "airport": "VIE",
-    "city": "\u05d5\u05d9\u05e0\u05d4",
+    "city": "Vienna",
     "country": "Austria",
     "price": 1446,
     "airline": "El Al",
@@ -468,7 +468,7 @@
    },
    {
     "airport": "BCN",
-    "city": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+    "city": "Barcelona",
     "country": "Spain",
     "price": 1518,
     "airline": "El Al",
@@ -476,7 +476,7 @@
    },
    {
     "airport": "PRG",
-    "city": "\u05e4\u05e8\u05d0\u05d2",
+    "city": "Prague",
     "country": "Czechia",
     "price": 1518,
     "airline": "El Al",
@@ -484,7 +484,7 @@
    },
    {
     "airport": "FRA",
-    "city": "\u05e4\u05e8\u05e0\u05e7\u05e4\u05d5\u05e8\u05d8",
+    "city": "Frankfurt",
     "country": "Germany",
     "price": 1548,
     "airline": "El Al",
@@ -492,7 +492,7 @@
    },
    {
     "airport": "BER",
-    "city": "\u05d1\u05e8\u05dc\u05d9\u05df",
+    "city": "Berlin",
     "country": "Germany",
     "price": 1551,
     "airline": "El Al",
@@ -500,7 +500,7 @@
    },
    {
     "airport": "MRS",
-    "city": "\u05de\u05e8\u05e1\u05d9\u05d9",
+    "city": "Marseille",
     "country": "France",
     "price": 1596,
     "airline": "El Al",
@@ -508,7 +508,7 @@
    },
    {
     "airport": "CDG",
-    "city": "\u05e4\u05e8\u05d9\u05d6",
+    "city": "Paris",
     "country": "France",
     "price": 1722,
     "airline": "El Al",
@@ -516,7 +516,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1728,
     "airline": "El Al",
@@ -524,7 +524,7 @@
    },
    {
     "airport": "MAD",
-    "city": "\u05de\u05d3\u05e8\u05d9\u05d3",
+    "city": "Madrid",
     "country": "Spain",
     "price": 1812,
     "airline": "El Al",
@@ -532,15 +532,15 @@
    },
    {
     "airport": "DXB",
-    "city": "\u05d3\u05d5\u05d1\u05d0\u05d9",
-    "country": "Unknown",
+    "city": "Dubai",
+    "country": "UAE",
     "price": 2019,
     "airline": "El Al",
     "dur": null
    },
    {
     "airport": "AMS",
-    "city": "\u05d0\u05de\u05e1\u05d8\u05e8\u05d3\u05dd",
+    "city": "Amsterdam",
     "country": "Netherlands",
     "price": 2088,
     "airline": "El Al",
@@ -548,7 +548,7 @@
    },
    {
     "airport": "MXP",
-    "city": "\u05de\u05d9\u05dc\u05d0\u05e0\u05d5",
+    "city": "Milan",
     "country": "Italy",
     "price": 2094,
     "airline": "El Al",
@@ -556,7 +556,7 @@
    },
    {
     "airport": "LTN",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London Luton",
     "country": "England",
     "price": 2310,
     "airline": "El Al",
@@ -564,7 +564,7 @@
    },
    {
     "airport": "LHR",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London",
     "country": "England",
     "price": 2310,
     "airline": "El Al",
@@ -572,8 +572,8 @@
    },
    {
     "airport": "DME",
-    "city": "\u05de\u05d5\u05e1\u05e7\u05d1\u05d4",
-    "country": "Unknown",
+    "city": "Moscow",
+    "country": "Russia",
     "price": 2799,
     "airline": "El Al",
     "dur": null
@@ -587,7 +587,7 @@
   "flights": [
    {
     "airport": "LCA",
-    "city": "\u05dc\u05e8\u05e0\u05e7\u05d4",
+    "city": "Larnaca",
     "country": "Cyprus",
     "price": 486,
     "airline": "El Al",
@@ -595,7 +595,7 @@
    },
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 684,
     "airline": "El Al",
@@ -603,7 +603,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 693,
     "airline": "El Al",
@@ -611,7 +611,7 @@
    },
    {
     "airport": "SOF",
-    "city": "\u05e1\u05d5\u05e4\u05d9\u05d4",
+    "city": "Sofia",
     "country": "Bulgaria",
     "price": 975,
     "airline": "El Al",
@@ -619,7 +619,7 @@
    },
    {
     "airport": "BUD",
-    "city": "\u05d1\u05d5\u05d3\u05e4\u05e9\u05d8",
+    "city": "Budapest",
     "country": "Hungary",
     "price": 1197,
     "airline": "El Al",
@@ -627,7 +627,7 @@
    },
    {
     "airport": "VIE",
-    "city": "\u05d5\u05d9\u05e0\u05d4",
+    "city": "Vienna",
     "country": "Austria",
     "price": 1356,
     "airline": "El Al",
@@ -635,7 +635,7 @@
    },
    {
     "airport": "ZRH",
-    "city": "\u05e6\u05d9\u05e8\u05d9\u05da",
+    "city": "Zurich",
     "country": "Switzerland",
     "price": 1392,
     "airline": "El Al",
@@ -643,7 +643,7 @@
    },
    {
     "airport": "MUC",
-    "city": "\u05de\u05d9\u05e0\u05db\u05df",
+    "city": "Munich",
     "country": "Germany",
     "price": 1434,
     "airline": "El Al",
@@ -651,7 +651,7 @@
    },
    {
     "airport": "PRG",
-    "city": "\u05e4\u05e8\u05d0\u05d2",
+    "city": "Prague",
     "country": "Czechia",
     "price": 1443,
     "airline": "El Al",
@@ -659,7 +659,7 @@
    },
    {
     "airport": "GVA",
-    "city": "\u05d6'\u05e0\u05d1\u05d4",
+    "city": "Geneva",
     "country": "Switzerland",
     "price": 1479,
     "airline": "El Al",
@@ -667,7 +667,7 @@
    },
    {
     "airport": "FRA",
-    "city": "\u05e4\u05e8\u05e0\u05e7\u05e4\u05d5\u05e8\u05d8",
+    "city": "Frankfurt",
     "country": "Germany",
     "price": 1503,
     "airline": "El Al",
@@ -675,7 +675,7 @@
    },
    {
     "airport": "BER",
-    "city": "\u05d1\u05e8\u05dc\u05d9\u05df",
+    "city": "Berlin",
     "country": "Germany",
     "price": 1551,
     "airline": "El Al",
@@ -683,7 +683,7 @@
    },
    {
     "airport": "BCN",
-    "city": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+    "city": "Barcelona",
     "country": "Spain",
     "price": 1593,
     "airline": "El Al",
@@ -691,15 +691,15 @@
    },
    {
     "airport": "DXB",
-    "city": "\u05d3\u05d5\u05d1\u05d0\u05d9",
-    "country": "Unknown",
+    "city": "Dubai",
+    "country": "UAE",
     "price": 1743,
     "airline": "El Al",
     "dur": null
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1848,
     "airline": "El Al",
@@ -707,7 +707,7 @@
    },
    {
     "airport": "CDG",
-    "city": "\u05e4\u05e8\u05d9\u05d6",
+    "city": "Paris",
     "country": "France",
     "price": 1857,
     "airline": "El Al",
@@ -715,7 +715,7 @@
    },
    {
     "airport": "LTN",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London Luton",
     "country": "England",
     "price": 1983,
     "airline": "El Al",
@@ -723,7 +723,7 @@
    },
    {
     "airport": "MXP",
-    "city": "\u05de\u05d9\u05dc\u05d0\u05e0\u05d5",
+    "city": "Milan",
     "country": "Italy",
     "price": 2094,
     "airline": "El Al",
@@ -731,7 +731,7 @@
    },
    {
     "airport": "AMS",
-    "city": "\u05d0\u05de\u05e1\u05d8\u05e8\u05d3\u05dd",
+    "city": "Amsterdam",
     "country": "Netherlands",
     "price": 2196,
     "airline": "El Al",
@@ -739,7 +739,7 @@
    },
    {
     "airport": "LIS",
-    "city": "\u05dc\u05d9\u05e1\u05d1\u05d5\u05df",
+    "city": "Lisbon",
     "country": "Portugal",
     "price": 2469,
     "airline": "El Al",
@@ -754,7 +754,7 @@
   "flights": [
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 783,
     "airline": "El Al",
@@ -762,7 +762,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 1140,
     "airline": "El Al",
@@ -770,7 +770,7 @@
    },
    {
     "airport": "BCN",
-    "city": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+    "city": "Barcelona",
     "country": "Spain",
     "price": 1593,
     "airline": "El Al",
@@ -778,7 +778,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1728,
     "airline": "El Al",
@@ -786,7 +786,7 @@
    },
    {
     "airport": "MXP",
-    "city": "\u05de\u05d9\u05dc\u05d0\u05e0\u05d5",
+    "city": "Milan",
     "country": "Italy",
     "price": 1743,
     "airline": "El Al",
@@ -801,7 +801,7 @@
   "flights": [
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 819,
     "airline": "El Al",
@@ -809,7 +809,7 @@
    },
    {
     "airport": "SOF",
-    "city": "\u05e1\u05d5\u05e4\u05d9\u05d4",
+    "city": "Sofia",
     "country": "Bulgaria",
     "price": 1110,
     "airline": "El Al",
@@ -817,7 +817,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 1128,
     "airline": "El Al",
@@ -825,7 +825,7 @@
    },
    {
     "airport": "BUD",
-    "city": "\u05d1\u05d5\u05d3\u05e4\u05e9\u05d8",
+    "city": "Budapest",
     "country": "Hungary",
     "price": 1272,
     "airline": "El Al",
@@ -833,7 +833,7 @@
    },
    {
     "airport": "VIE",
-    "city": "\u05d5\u05d9\u05e0\u05d4",
+    "city": "Vienna",
     "country": "Austria",
     "price": 1446,
     "airline": "El Al",
@@ -841,7 +841,7 @@
    },
    {
     "airport": "MRS",
-    "city": "\u05de\u05e8\u05e1\u05d9\u05d9",
+    "city": "Marseille",
     "country": "France",
     "price": 1491,
     "airline": "El Al",
@@ -849,7 +849,7 @@
    },
    {
     "airport": "PRG",
-    "city": "\u05e4\u05e8\u05d0\u05d2",
+    "city": "Prague",
     "country": "Czechia",
     "price": 1518,
     "airline": "El Al",
@@ -857,7 +857,7 @@
    },
    {
     "airport": "FRA",
-    "city": "\u05e4\u05e8\u05e0\u05e7\u05e4\u05d5\u05e8\u05d8",
+    "city": "Frankfurt",
     "country": "Germany",
     "price": 1548,
     "airline": "El Al",
@@ -865,7 +865,7 @@
    },
    {
     "airport": "GVA",
-    "city": "\u05d6'\u05e0\u05d1\u05d4",
+    "city": "Geneva",
     "country": "Switzerland",
     "price": 1554,
     "airline": "El Al",
@@ -873,7 +873,7 @@
    },
    {
     "airport": "BCN",
-    "city": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+    "city": "Barcelona",
     "country": "Spain",
     "price": 1593,
     "airline": "El Al",
@@ -881,7 +881,7 @@
    },
    {
     "airport": "MUC",
-    "city": "\u05de\u05d9\u05e0\u05db\u05df",
+    "city": "Munich",
     "country": "Germany",
     "price": 1614,
     "airline": "El Al",
@@ -889,7 +889,7 @@
    },
    {
     "airport": "ZRH",
-    "city": "\u05e6\u05d9\u05e8\u05d9\u05da",
+    "city": "Zurich",
     "country": "Switzerland",
     "price": 1647,
     "airline": "El Al",
@@ -897,7 +897,7 @@
    },
    {
     "airport": "BER",
-    "city": "\u05d1\u05e8\u05dc\u05d9\u05df",
+    "city": "Berlin",
     "country": "Germany",
     "price": 1680,
     "airline": "El Al",
@@ -905,7 +905,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1728,
     "airline": "El Al",
@@ -913,7 +913,7 @@
    },
    {
     "airport": "MXP",
-    "city": "\u05de\u05d9\u05dc\u05d0\u05e0\u05d5",
+    "city": "Milan",
     "country": "Italy",
     "price": 1848,
     "airline": "El Al",
@@ -921,7 +921,7 @@
    },
    {
     "airport": "CDG",
-    "city": "\u05e4\u05e8\u05d9\u05d6",
+    "city": "Paris",
     "country": "France",
     "price": 1857,
     "airline": "El Al",
@@ -929,15 +929,15 @@
    },
    {
     "airport": "DXB",
-    "city": "\u05d3\u05d5\u05d1\u05d0\u05d9",
-    "country": "Unknown",
+    "city": "Dubai",
+    "country": "UAE",
     "price": 1869,
     "airline": "El Al",
     "dur": null
    },
    {
     "airport": "LTN",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London Luton",
     "country": "England",
     "price": 1893,
     "airline": "El Al",
@@ -945,7 +945,7 @@
    },
    {
     "airport": "MAD",
-    "city": "\u05de\u05d3\u05e8\u05d9\u05d3",
+    "city": "Madrid",
     "country": "Spain",
     "price": 1947,
     "airline": "El Al",
@@ -953,7 +953,7 @@
    },
    {
     "airport": "AMS",
-    "city": "\u05d0\u05de\u05e1\u05d8\u05e8\u05d3\u05dd",
+    "city": "Amsterdam",
     "country": "Netherlands",
     "price": 2196,
     "airline": "El Al",
@@ -961,7 +961,7 @@
    },
    {
     "airport": "LIS",
-    "city": "\u05dc\u05d9\u05e1\u05d1\u05d5\u05df",
+    "city": "Lisbon",
     "country": "Portugal",
     "price": 2469,
     "airline": "El Al",
@@ -976,7 +976,7 @@
   "flights": [
    {
     "airport": "LCA",
-    "city": "\u05dc\u05e8\u05e0\u05e7\u05d4",
+    "city": "Larnaca",
     "country": "Cyprus",
     "price": 591,
     "airline": "El Al",
@@ -984,7 +984,7 @@
    },
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 789,
     "airline": "El Al",
@@ -992,7 +992,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 915,
     "airline": "El Al",
@@ -1000,7 +1000,7 @@
    },
    {
     "airport": "SOF",
-    "city": "\u05e1\u05d5\u05e4\u05d9\u05d4",
+    "city": "Sofia",
     "country": "Bulgaria",
     "price": 975,
     "airline": "El Al",
@@ -1008,7 +1008,7 @@
    },
    {
     "airport": "MUC",
-    "city": "\u05de\u05d9\u05e0\u05db\u05df",
+    "city": "Munich",
     "country": "Germany",
     "price": 1434,
     "airline": "El Al",
@@ -1016,7 +1016,7 @@
    },
    {
     "airport": "BUD",
-    "city": "\u05d1\u05d5\u05d3\u05e4\u05e9\u05d8",
+    "city": "Budapest",
     "country": "Hungary",
     "price": 1512,
     "airline": "El Al",
@@ -1024,7 +1024,7 @@
    },
    {
     "airport": "PRG",
-    "city": "\u05e4\u05e8\u05d0\u05d2",
+    "city": "Prague",
     "country": "Czechia",
     "price": 1518,
     "airline": "El Al",
@@ -1032,7 +1032,7 @@
    },
    {
     "airport": "VCE",
-    "city": "\u05d5\u05e0\u05e6\u05d9\u05d4",
+    "city": "Venice",
     "country": "Italy",
     "price": 1575,
     "airline": "El Al",
@@ -1040,7 +1040,7 @@
    },
    {
     "airport": "MRS",
-    "city": "\u05de\u05e8\u05e1\u05d9\u05d9",
+    "city": "Marseille",
     "country": "France",
     "price": 1596,
     "airline": "El Al",
@@ -1048,7 +1048,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1599,
     "airline": "El Al",
@@ -1056,7 +1056,7 @@
    },
    {
     "airport": "FRA",
-    "city": "\u05e4\u05e8\u05e0\u05e7\u05e4\u05d5\u05e8\u05d8",
+    "city": "Frankfurt",
     "country": "Germany",
     "price": 1653,
     "airline": "El Al",
@@ -1064,7 +1064,7 @@
    },
    {
     "airport": "BCN",
-    "city": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+    "city": "Barcelona",
     "country": "Spain",
     "price": 1668,
     "airline": "El Al",
@@ -1072,7 +1072,7 @@
    },
    {
     "airport": "VIE",
-    "city": "\u05d5\u05d9\u05e0\u05d4",
+    "city": "Vienna",
     "country": "Austria",
     "price": 1668,
     "airline": "El Al",
@@ -1080,7 +1080,7 @@
    },
    {
     "airport": "BER",
-    "city": "\u05d1\u05e8\u05dc\u05d9\u05df",
+    "city": "Berlin",
     "country": "Germany",
     "price": 1680,
     "airline": "El Al",
@@ -1088,7 +1088,7 @@
    },
    {
     "airport": "CDG",
-    "city": "\u05e4\u05e8\u05d9\u05d6",
+    "city": "Paris",
     "country": "France",
     "price": 1722,
     "airline": "El Al",
@@ -1096,7 +1096,7 @@
    },
    {
     "airport": "ZRH",
-    "city": "\u05e6\u05d9\u05e8\u05d9\u05da",
+    "city": "Zurich",
     "country": "Switzerland",
     "price": 1752,
     "airline": "El Al",
@@ -1104,7 +1104,7 @@
    },
    {
     "airport": "GVA",
-    "city": "\u05d6'\u05e0\u05d1\u05d4",
+    "city": "Geneva",
     "country": "Switzerland",
     "price": 1839,
     "airline": "El Al",
@@ -1112,7 +1112,7 @@
    },
    {
     "airport": "MAD",
-    "city": "\u05de\u05d3\u05e8\u05d9\u05d3",
+    "city": "Madrid",
     "country": "Spain",
     "price": 1947,
     "airline": "El Al",
@@ -1120,7 +1120,7 @@
    },
    {
     "airport": "MXP",
-    "city": "\u05de\u05d9\u05dc\u05d0\u05e0\u05d5",
+    "city": "Milan",
     "country": "Italy",
     "price": 1968,
     "airline": "El Al",
@@ -1128,7 +1128,7 @@
    },
    {
     "airport": "AMS",
-    "city": "\u05d0\u05de\u05e1\u05d8\u05e8\u05d3\u05dd",
+    "city": "Amsterdam",
     "country": "Netherlands",
     "price": 2088,
     "airline": "El Al",
@@ -1136,7 +1136,7 @@
    },
    {
     "airport": "LTN",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London Luton",
     "country": "England",
     "price": 2103,
     "airline": "El Al",
@@ -1144,7 +1144,7 @@
    },
    {
     "airport": "LIS",
-    "city": "\u05dc\u05d9\u05e1\u05d1\u05d5\u05df",
+    "city": "Lisbon",
     "country": "Portugal",
     "price": 2319,
     "airline": "El Al",
@@ -1152,7 +1152,7 @@
    },
    {
     "airport": "LHR",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London",
     "country": "England",
     "price": 2382,
     "airline": "El Al",
@@ -1160,16 +1160,16 @@
    },
    {
     "airport": "DXB",
-    "city": "\u05d3\u05d5\u05d1\u05d0\u05d9",
-    "country": "Unknown",
+    "city": "Dubai",
+    "country": "UAE",
     "price": 2388,
     "airline": "El Al",
     "dur": null
    },
    {
     "airport": "DME",
-    "city": "\u05de\u05d5\u05e1\u05e7\u05d1\u05d4",
-    "country": "Unknown",
+    "city": "Moscow",
+    "country": "Russia",
     "price": 2799,
     "airline": "El Al",
     "dur": null
@@ -1183,7 +1183,7 @@
   "flights": [
    {
     "airport": "LCA",
-    "city": "\u05dc\u05e8\u05e0\u05e7\u05d4",
+    "city": "Larnaca",
     "country": "Cyprus",
     "price": 540,
     "airline": "El Al",
@@ -1191,7 +1191,7 @@
    },
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 789,
     "airline": "El Al",
@@ -1199,7 +1199,7 @@
    },
    {
     "airport": "SOF",
-    "city": "\u05e1\u05d5\u05e4\u05d9\u05d4",
+    "city": "Sofia",
     "country": "Bulgaria",
     "price": 915,
     "airline": "El Al",
@@ -1207,7 +1207,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 915,
     "airline": "El Al",
@@ -1215,7 +1215,7 @@
    },
    {
     "airport": "VCE",
-    "city": "\u05d5\u05e0\u05e6\u05d9\u05d4",
+    "city": "Venice",
     "country": "Italy",
     "price": 1305,
     "airline": "El Al",
@@ -1223,7 +1223,7 @@
    },
    {
     "airport": "MUC",
-    "city": "\u05de\u05d9\u05e0\u05db\u05df",
+    "city": "Munich",
     "country": "Germany",
     "price": 1434,
     "airline": "El Al",
@@ -1231,7 +1231,7 @@
    },
    {
     "airport": "BUD",
-    "city": "\u05d1\u05d5\u05d3\u05e4\u05e9\u05d8",
+    "city": "Budapest",
     "country": "Hungary",
     "price": 1437,
     "airline": "El Al",
@@ -1239,7 +1239,7 @@
    },
    {
     "airport": "PRG",
-    "city": "\u05e4\u05e8\u05d0\u05d2",
+    "city": "Prague",
     "country": "Czechia",
     "price": 1443,
     "airline": "El Al",
@@ -1247,7 +1247,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1638,
     "airline": "El Al",
@@ -1255,7 +1255,7 @@
    },
    {
     "airport": "GVA",
-    "city": "\u05d6'\u05e0\u05d1\u05d4",
+    "city": "Geneva",
     "country": "Switzerland",
     "price": 1644,
     "airline": "El Al",
@@ -1263,7 +1263,7 @@
    },
    {
     "airport": "FRA",
-    "city": "\u05e4\u05e8\u05e0\u05e7\u05e4\u05d5\u05e8\u05d8",
+    "city": "Frankfurt",
     "country": "Germany",
     "price": 1653,
     "airline": "El Al",
@@ -1271,7 +1271,7 @@
    },
    {
     "airport": "BCN",
-    "city": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+    "city": "Barcelona",
     "country": "Spain",
     "price": 1668,
     "airline": "El Al",
@@ -1279,7 +1279,7 @@
    },
    {
     "airport": "VIE",
-    "city": "\u05d5\u05d9\u05e0\u05d4",
+    "city": "Vienna",
     "country": "Austria",
     "price": 1668,
     "airline": "El Al",
@@ -1287,7 +1287,7 @@
    },
    {
     "airport": "BER",
-    "city": "\u05d1\u05e8\u05dc\u05d9\u05df",
+    "city": "Berlin",
     "country": "Germany",
     "price": 1680,
     "airline": "El Al",
@@ -1295,7 +1295,7 @@
    },
    {
     "airport": "MRS",
-    "city": "\u05de\u05e8\u05e1\u05d9\u05d9",
+    "city": "Marseille",
     "country": "France",
     "price": 1701,
     "airline": "El Al",
@@ -1303,7 +1303,7 @@
    },
    {
     "airport": "CDG",
-    "city": "\u05e4\u05e8\u05d9\u05d6",
+    "city": "Paris",
     "country": "France",
     "price": 1722,
     "airline": "El Al",
@@ -1311,7 +1311,7 @@
    },
    {
     "airport": "ZRH",
-    "city": "\u05e6\u05d9\u05e8\u05d9\u05da",
+    "city": "Zurich",
     "country": "Switzerland",
     "price": 1752,
     "airline": "El Al",
@@ -1319,7 +1319,7 @@
    },
    {
     "airport": "MAD",
-    "city": "\u05de\u05d3\u05e8\u05d9\u05d3",
+    "city": "Madrid",
     "country": "Spain",
     "price": 1947,
     "airline": "El Al",
@@ -1327,7 +1327,7 @@
    },
    {
     "airport": "MXP",
-    "city": "\u05de\u05d9\u05dc\u05d0\u05e0\u05d5",
+    "city": "Milan",
     "country": "Italy",
     "price": 1968,
     "airline": "El Al",
@@ -1335,7 +1335,7 @@
    },
    {
     "airport": "AMS",
-    "city": "\u05d0\u05de\u05e1\u05d8\u05e8\u05d3\u05dd",
+    "city": "Amsterdam",
     "country": "Netherlands",
     "price": 2088,
     "airline": "El Al",
@@ -1343,7 +1343,7 @@
    },
    {
     "airport": "LTN",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London Luton",
     "country": "England",
     "price": 2103,
     "airline": "El Al",
@@ -1351,16 +1351,16 @@
    },
    {
     "airport": "DXB",
-    "city": "\u05d3\u05d5\u05d1\u05d0\u05d9",
-    "country": "Unknown",
+    "city": "Dubai",
+    "country": "UAE",
     "price": 2169,
     "airline": "El Al",
     "dur": null
    },
    {
     "airport": "DME",
-    "city": "\u05de\u05d5\u05e1\u05e7\u05d1\u05d4",
-    "country": "Unknown",
+    "city": "Moscow",
+    "country": "Russia",
     "price": 2799,
     "airline": "El Al",
     "dur": null
@@ -1374,7 +1374,7 @@
   "flights": [
    {
     "airport": "LCA",
-    "city": "\u05dc\u05e8\u05e0\u05e7\u05d4",
+    "city": "Larnaca",
     "country": "Cyprus",
     "price": 540,
     "airline": "El Al",
@@ -1382,7 +1382,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 759,
     "airline": "El Al",
@@ -1390,7 +1390,7 @@
    },
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 789,
     "airline": "El Al",
@@ -1398,7 +1398,7 @@
    },
    {
     "airport": "SOF",
-    "city": "\u05e1\u05d5\u05e4\u05d9\u05d4",
+    "city": "Sofia",
     "country": "Bulgaria",
     "price": 975,
     "airline": "El Al",
@@ -1406,7 +1406,7 @@
    },
    {
     "airport": "VIE",
-    "city": "\u05d5\u05d9\u05e0\u05d4",
+    "city": "Vienna",
     "country": "Austria",
     "price": 1356,
     "airline": "El Al",
@@ -1414,7 +1414,7 @@
    },
    {
     "airport": "MUC",
-    "city": "\u05de\u05d9\u05e0\u05db\u05df",
+    "city": "Munich",
     "country": "Germany",
     "price": 1434,
     "airline": "El Al",
@@ -1422,7 +1422,7 @@
    },
    {
     "airport": "BUD",
-    "city": "\u05d1\u05d5\u05d3\u05e4\u05e9\u05d8",
+    "city": "Budapest",
     "country": "Hungary",
     "price": 1437,
     "airline": "El Al",
@@ -1430,7 +1430,7 @@
    },
    {
     "airport": "PRG",
-    "city": "\u05e4\u05e8\u05d0\u05d2",
+    "city": "Prague",
     "country": "Czechia",
     "price": 1443,
     "airline": "El Al",
@@ -1438,7 +1438,7 @@
    },
    {
     "airport": "ZRH",
-    "city": "\u05e6\u05d9\u05e8\u05d9\u05da",
+    "city": "Zurich",
     "country": "Switzerland",
     "price": 1497,
     "airline": "El Al",
@@ -1446,7 +1446,7 @@
    },
    {
     "airport": "FRA",
-    "city": "\u05e4\u05e8\u05e0\u05e7\u05e4\u05d5\u05e8\u05d8",
+    "city": "Frankfurt",
     "country": "Germany",
     "price": 1503,
     "airline": "El Al",
@@ -1454,7 +1454,7 @@
    },
    {
     "airport": "GVA",
-    "city": "\u05d6'\u05e0\u05d1\u05d4",
+    "city": "Geneva",
     "country": "Switzerland",
     "price": 1569,
     "airline": "El Al",
@@ -1462,7 +1462,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1599,
     "airline": "El Al",
@@ -1470,7 +1470,7 @@
    },
    {
     "airport": "BCN",
-    "city": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+    "city": "Barcelona",
     "country": "Spain",
     "price": 1668,
     "airline": "El Al",
@@ -1478,7 +1478,7 @@
    },
    {
     "airport": "BER",
-    "city": "\u05d1\u05e8\u05dc\u05d9\u05df",
+    "city": "Berlin",
     "country": "Germany",
     "price": 1680,
     "airline": "El Al",
@@ -1486,7 +1486,7 @@
    },
    {
     "airport": "CDG",
-    "city": "\u05e4\u05e8\u05d9\u05d6",
+    "city": "Paris",
     "country": "France",
     "price": 1857,
     "airline": "El Al",
@@ -1494,15 +1494,15 @@
    },
    {
     "airport": "DXB",
-    "city": "\u05d3\u05d5\u05d1\u05d0\u05d9",
-    "country": "Unknown",
+    "city": "Dubai",
+    "country": "UAE",
     "price": 1893,
     "airline": "El Al",
     "dur": null
    },
    {
     "airport": "MXP",
-    "city": "\u05de\u05d9\u05dc\u05d0\u05e0\u05d5",
+    "city": "Milan",
     "country": "Italy",
     "price": 1968,
     "airline": "El Al",
@@ -1510,7 +1510,7 @@
    },
    {
     "airport": "LTN",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London Luton",
     "country": "England",
     "price": 1983,
     "airline": "El Al",
@@ -1518,7 +1518,7 @@
    },
    {
     "airport": "AMS",
-    "city": "\u05d0\u05de\u05e1\u05d8\u05e8\u05d3\u05dd",
+    "city": "Amsterdam",
     "country": "Netherlands",
     "price": 2196,
     "airline": "El Al",
@@ -1526,7 +1526,7 @@
    },
    {
     "airport": "LIS",
-    "city": "\u05dc\u05d9\u05e1\u05d1\u05d5\u05df",
+    "city": "Lisbon",
     "country": "Portugal",
     "price": 2541,
     "airline": "El Al",
@@ -1541,7 +1541,7 @@
   "flights": [
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 888,
     "airline": "El Al",
@@ -1549,7 +1549,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 1206,
     "airline": "El Al",
@@ -1557,7 +1557,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1479,
     "airline": "El Al",
@@ -1565,7 +1565,7 @@
    },
    {
     "airport": "MXP",
-    "city": "\u05de\u05d9\u05dc\u05d0\u05e0\u05d5",
+    "city": "Milan",
     "country": "Italy",
     "price": 1617,
     "airline": "El Al",
@@ -1573,7 +1573,7 @@
    },
    {
     "airport": "BCN",
-    "city": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+    "city": "Barcelona",
     "country": "Spain",
     "price": 1668,
     "airline": "El Al",
@@ -1588,7 +1588,7 @@
   "flights": [
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 924,
     "airline": "El Al",
@@ -1596,7 +1596,7 @@
    },
    {
     "airport": "SOF",
-    "city": "\u05e1\u05d5\u05e4\u05d9\u05d4",
+    "city": "Sofia",
     "country": "Bulgaria",
     "price": 1110,
     "airline": "El Al",
@@ -1604,7 +1604,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 1194,
     "airline": "El Al",
@@ -1612,7 +1612,7 @@
    },
    {
     "airport": "VIE",
-    "city": "\u05d5\u05d9\u05e0\u05d4",
+    "city": "Vienna",
     "country": "Austria",
     "price": 1446,
     "airline": "El Al",
@@ -1620,7 +1620,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1479,
     "airline": "El Al",
@@ -1628,7 +1628,7 @@
    },
    {
     "airport": "BUD",
-    "city": "\u05d1\u05d5\u05d3\u05e4\u05e9\u05d8",
+    "city": "Budapest",
     "country": "Hungary",
     "price": 1512,
     "airline": "El Al",
@@ -1636,7 +1636,7 @@
    },
    {
     "airport": "PRG",
-    "city": "\u05e4\u05e8\u05d0\u05d2",
+    "city": "Prague",
     "country": "Czechia",
     "price": 1518,
     "airline": "El Al",
@@ -1644,7 +1644,7 @@
    },
    {
     "airport": "FRA",
-    "city": "\u05e4\u05e8\u05e0\u05e7\u05e4\u05d5\u05e8\u05d8",
+    "city": "Frankfurt",
     "country": "Germany",
     "price": 1548,
     "airline": "El Al",
@@ -1652,7 +1652,7 @@
    },
    {
     "airport": "MRS",
-    "city": "\u05de\u05e8\u05e1\u05d9\u05d9",
+    "city": "Marseille",
     "country": "France",
     "price": 1596,
     "airline": "El Al",
@@ -1660,7 +1660,7 @@
    },
    {
     "airport": "MUC",
-    "city": "\u05de\u05d9\u05e0\u05db\u05df",
+    "city": "Munich",
     "country": "Germany",
     "price": 1614,
     "airline": "El Al",
@@ -1668,7 +1668,7 @@
    },
    {
     "airport": "GVA",
-    "city": "\u05d6'\u05e0\u05d1\u05d4",
+    "city": "Geneva",
     "country": "Switzerland",
     "price": 1644,
     "airline": "El Al",
@@ -1676,7 +1676,7 @@
    },
    {
     "airport": "BCN",
-    "city": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+    "city": "Barcelona",
     "country": "Spain",
     "price": 1668,
     "airline": "El Al",
@@ -1684,7 +1684,7 @@
    },
    {
     "airport": "MXP",
-    "city": "\u05de\u05d9\u05dc\u05d0\u05e0\u05d5",
+    "city": "Milan",
     "country": "Italy",
     "price": 1722,
     "airline": "El Al",
@@ -1692,7 +1692,7 @@
    },
    {
     "airport": "ZRH",
-    "city": "\u05e6\u05d9\u05e8\u05d9\u05da",
+    "city": "Zurich",
     "country": "Switzerland",
     "price": 1752,
     "airline": "El Al",
@@ -1700,7 +1700,7 @@
    },
    {
     "airport": "BER",
-    "city": "\u05d1\u05e8\u05dc\u05d9\u05df",
+    "city": "Berlin",
     "country": "Germany",
     "price": 1806,
     "airline": "El Al",
@@ -1708,7 +1708,7 @@
    },
    {
     "airport": "CDG",
-    "city": "\u05e4\u05e8\u05d9\u05d6",
+    "city": "Paris",
     "country": "France",
     "price": 1857,
     "airline": "El Al",
@@ -1716,7 +1716,7 @@
    },
    {
     "airport": "LTN",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London Luton",
     "country": "England",
     "price": 1893,
     "airline": "El Al",
@@ -1724,7 +1724,7 @@
    },
    {
     "airport": "MAD",
-    "city": "\u05de\u05d3\u05e8\u05d9\u05d3",
+    "city": "Madrid",
     "country": "Spain",
     "price": 1947,
     "airline": "El Al",
@@ -1732,15 +1732,15 @@
    },
    {
     "airport": "DXB",
-    "city": "\u05d3\u05d5\u05d1\u05d0\u05d9",
-    "country": "Unknown",
+    "city": "Dubai",
+    "country": "UAE",
     "price": 2019,
     "airline": "El Al",
     "dur": null
    },
    {
     "airport": "AMS",
-    "city": "\u05d0\u05de\u05e1\u05d8\u05e8\u05d3\u05dd",
+    "city": "Amsterdam",
     "country": "Netherlands",
     "price": 2196,
     "airline": "El Al",
@@ -1748,7 +1748,7 @@
    },
    {
     "airport": "LIS",
-    "city": "\u05dc\u05d9\u05e1\u05d1\u05d5\u05df",
+    "city": "Lisbon",
     "country": "Portugal",
     "price": 2541,
     "airline": "El Al",
@@ -1763,7 +1763,7 @@
   "flights": [
    {
     "airport": "LCA",
-    "city": "\u05dc\u05e8\u05e0\u05e7\u05d4",
+    "city": "Larnaca",
     "country": "Cyprus",
     "price": 846,
     "airline": "El Al",
@@ -1771,7 +1771,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 1206,
     "airline": "El Al",
@@ -1779,7 +1779,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1599,
     "airline": "El Al",
@@ -1787,7 +1787,7 @@
    },
    {
     "airport": "MAD",
-    "city": "\u05de\u05d3\u05e8\u05d9\u05d3",
+    "city": "Madrid",
     "country": "Spain",
     "price": 2877,
     "airline": "El Al",
@@ -1802,7 +1802,7 @@
   "flights": [
    {
     "airport": "LCA",
-    "city": "\u05dc\u05e8\u05e0\u05e7\u05d4",
+    "city": "Larnaca",
     "country": "Cyprus",
     "price": 600,
     "airline": "El Al",
@@ -1810,7 +1810,7 @@
    },
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 789,
     "airline": "El Al",
@@ -1818,7 +1818,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 1014,
     "airline": "El Al",
@@ -1826,7 +1826,7 @@
    },
    {
     "airport": "SOF",
-    "city": "\u05e1\u05d5\u05e4\u05d9\u05d4",
+    "city": "Sofia",
     "country": "Bulgaria",
     "price": 1080,
     "airline": "El Al",
@@ -1834,7 +1834,7 @@
    },
    {
     "airport": "MUC",
-    "city": "\u05de\u05d9\u05e0\u05db\u05df",
+    "city": "Munich",
     "country": "Germany",
     "price": 1344,
     "airline": "El Al",
@@ -1842,7 +1842,7 @@
    },
    {
     "airport": "BUD",
-    "city": "\u05d1\u05d5\u05d3\u05e4\u05e9\u05d8",
+    "city": "Budapest",
     "country": "Hungary",
     "price": 1347,
     "airline": "El Al",
@@ -1850,7 +1850,7 @@
    },
    {
     "airport": "PRG",
-    "city": "\u05e4\u05e8\u05d0\u05d2",
+    "city": "Prague",
     "country": "Czechia",
     "price": 1368,
     "airline": "El Al",
@@ -1858,7 +1858,7 @@
    },
    {
     "airport": "VCE",
-    "city": "\u05d5\u05e0\u05e6\u05d9\u05d4",
+    "city": "Venice",
     "country": "Italy",
     "price": 1413,
     "airline": "El Al",
@@ -1866,7 +1866,7 @@
    },
    {
     "airport": "BER",
-    "city": "\u05d1\u05e8\u05dc\u05d9\u05df",
+    "city": "Berlin",
     "country": "Germany",
     "price": 1551,
     "airline": "El Al",
@@ -1874,7 +1874,7 @@
    },
    {
     "airport": "FRA",
-    "city": "\u05e4\u05e8\u05e0\u05e7\u05e4\u05d5\u05e8\u05d8",
+    "city": "Frankfurt",
     "country": "Germany",
     "price": 1653,
     "airline": "El Al",
@@ -1882,7 +1882,7 @@
    },
    {
     "airport": "CDG",
-    "city": "\u05e4\u05e8\u05d9\u05d6",
+    "city": "Paris",
     "country": "France",
     "price": 1722,
     "airline": "El Al",
@@ -1890,7 +1890,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1758,
     "airline": "El Al",
@@ -1898,7 +1898,7 @@
    },
    {
     "airport": "VIE",
-    "city": "\u05d5\u05d9\u05e0\u05d4",
+    "city": "Vienna",
     "country": "Austria",
     "price": 1797,
     "airline": "El Al",
@@ -1906,7 +1906,7 @@
    },
    {
     "airport": "BCN",
-    "city": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+    "city": "Barcelona",
     "country": "Spain",
     "price": 1983,
     "airline": "El Al",
@@ -1914,15 +1914,15 @@
    },
    {
     "airport": "DXB",
-    "city": "\u05d3\u05d5\u05d1\u05d0\u05d9",
-    "country": "Unknown",
+    "city": "Dubai",
+    "country": "UAE",
     "price": 2019,
     "airline": "El Al",
     "dur": null
    },
    {
     "airport": "MAD",
-    "city": "\u05de\u05d3\u05e8\u05d9\u05d3",
+    "city": "Madrid",
     "country": "Spain",
     "price": 2082,
     "airline": "El Al",
@@ -1930,7 +1930,7 @@
    },
    {
     "airport": "MXP",
-    "city": "\u05de\u05d9\u05dc\u05d0\u05e0\u05d5",
+    "city": "Milan",
     "country": "Italy",
     "price": 2094,
     "airline": "El Al",
@@ -1938,7 +1938,7 @@
    },
    {
     "airport": "LTN",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London Luton",
     "country": "England",
     "price": 2103,
     "airline": "El Al",
@@ -1946,7 +1946,7 @@
    },
    {
     "airport": "ZRH",
-    "city": "\u05e6\u05d9\u05e8\u05d9\u05da",
+    "city": "Zurich",
     "country": "Switzerland",
     "price": 2178,
     "airline": "El Al",
@@ -1954,7 +1954,7 @@
    },
    {
     "airport": "AMS",
-    "city": "\u05d0\u05de\u05e1\u05d8\u05e8\u05d3\u05dd",
+    "city": "Amsterdam",
     "country": "Netherlands",
     "price": 2196,
     "airline": "El Al",
@@ -1962,8 +1962,8 @@
    },
    {
     "airport": "DME",
-    "city": "\u05de\u05d5\u05e1\u05e7\u05d1\u05d4",
-    "country": "Unknown",
+    "city": "Moscow",
+    "country": "Russia",
     "price": 2799,
     "airline": "El Al",
     "dur": null
@@ -1977,7 +1977,7 @@
   "flights": [
    {
     "airport": "LCA",
-    "city": "\u05dc\u05e8\u05e0\u05e7\u05d4",
+    "city": "Larnaca",
     "country": "Cyprus",
     "price": 600,
     "airline": "El Al",
@@ -1985,7 +1985,7 @@
    },
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 789,
     "airline": "El Al",
@@ -1993,7 +1993,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 858,
     "airline": "El Al",
@@ -2001,7 +2001,7 @@
    },
    {
     "airport": "SOF",
-    "city": "\u05e1\u05d5\u05e4\u05d9\u05d4",
+    "city": "Sofia",
     "country": "Bulgaria",
     "price": 1140,
     "airline": "El Al",
@@ -2009,7 +2009,7 @@
    },
    {
     "airport": "MUC",
-    "city": "\u05de\u05d9\u05e0\u05db\u05df",
+    "city": "Munich",
     "country": "Germany",
     "price": 1344,
     "airline": "El Al",
@@ -2017,7 +2017,7 @@
    },
    {
     "airport": "BUD",
-    "city": "\u05d1\u05d5\u05d3\u05e4\u05e9\u05d8",
+    "city": "Budapest",
     "country": "Hungary",
     "price": 1347,
     "airline": "El Al",
@@ -2025,7 +2025,7 @@
    },
    {
     "airport": "PRG",
-    "city": "\u05e4\u05e8\u05d0\u05d2",
+    "city": "Prague",
     "country": "Czechia",
     "price": 1368,
     "airline": "El Al",
@@ -2033,7 +2033,7 @@
    },
    {
     "airport": "VIE",
-    "city": "\u05d5\u05d9\u05e0\u05d4",
+    "city": "Vienna",
     "country": "Austria",
     "price": 1488,
     "airline": "El Al",
@@ -2041,7 +2041,7 @@
    },
    {
     "airport": "FRA",
-    "city": "\u05e4\u05e8\u05e0\u05e7\u05e4\u05d5\u05e8\u05d8",
+    "city": "Frankfurt",
     "country": "Germany",
     "price": 1503,
     "airline": "El Al",
@@ -2049,7 +2049,7 @@
    },
    {
     "airport": "BER",
-    "city": "\u05d1\u05e8\u05dc\u05d9\u05df",
+    "city": "Berlin",
     "country": "Germany",
     "price": 1551,
     "airline": "El Al",
@@ -2057,7 +2057,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1719,
     "airline": "El Al",
@@ -2065,15 +2065,15 @@
    },
    {
     "airport": "DXB",
-    "city": "\u05d3\u05d5\u05d1\u05d0\u05d9",
-    "country": "Unknown",
+    "city": "Dubai",
+    "country": "UAE",
     "price": 1743,
     "airline": "El Al",
     "dur": null
    },
    {
     "airport": "CDG",
-    "city": "\u05e4\u05e8\u05d9\u05d6",
+    "city": "Paris",
     "country": "France",
     "price": 1857,
     "airline": "El Al",
@@ -2081,7 +2081,7 @@
    },
    {
     "airport": "ZRH",
-    "city": "\u05e6\u05d9\u05e8\u05d9\u05da",
+    "city": "Zurich",
     "country": "Switzerland",
     "price": 1923,
     "airline": "El Al",
@@ -2089,7 +2089,7 @@
    },
    {
     "airport": "BCN",
-    "city": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+    "city": "Barcelona",
     "country": "Spain",
     "price": 1983,
     "airline": "El Al",
@@ -2097,7 +2097,7 @@
    },
    {
     "airport": "LTN",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London Luton",
     "country": "England",
     "price": 1983,
     "airline": "El Al",
@@ -2105,7 +2105,7 @@
    },
    {
     "airport": "MXP",
-    "city": "\u05de\u05d9\u05dc\u05d0\u05e0\u05d5",
+    "city": "Milan",
     "country": "Italy",
     "price": 2094,
     "airline": "El Al",
@@ -2113,7 +2113,7 @@
    },
    {
     "airport": "AMS",
-    "city": "\u05d0\u05de\u05e1\u05d8\u05e8\u05d3\u05dd",
+    "city": "Amsterdam",
     "country": "Netherlands",
     "price": 2301,
     "airline": "El Al",
@@ -2121,7 +2121,7 @@
    },
    {
     "airport": "LIS",
-    "city": "\u05dc\u05d9\u05e1\u05d1\u05d5\u05df",
+    "city": "Lisbon",
     "country": "Portugal",
     "price": 2541,
     "airline": "El Al",
@@ -2136,7 +2136,7 @@
   "flights": [
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 888,
     "airline": "El Al",
@@ -2144,7 +2144,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 1305,
     "airline": "El Al",
@@ -2152,7 +2152,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1599,
     "airline": "El Al",
@@ -2160,7 +2160,7 @@
    },
    {
     "airport": "MXP",
-    "city": "\u05de\u05d9\u05dc\u05d0\u05e0\u05d5",
+    "city": "Milan",
     "country": "Italy",
     "price": 1743,
     "airline": "El Al",
@@ -2168,7 +2168,7 @@
    },
    {
     "airport": "BCN",
-    "city": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+    "city": "Barcelona",
     "country": "Spain",
     "price": 1983,
     "airline": "El Al",
@@ -2183,7 +2183,7 @@
   "flights": [
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 924,
     "airline": "El Al",
@@ -2191,7 +2191,7 @@
    },
    {
     "airport": "SOF",
-    "city": "\u05e1\u05d5\u05e4\u05d9\u05d4",
+    "city": "Sofia",
     "country": "Bulgaria",
     "price": 1140,
     "airline": "El Al",
@@ -2199,7 +2199,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 1293,
     "airline": "El Al",
@@ -2207,7 +2207,7 @@
    },
    {
     "airport": "BUD",
-    "city": "\u05d1\u05d5\u05d3\u05e4\u05e9\u05d8",
+    "city": "Budapest",
     "country": "Hungary",
     "price": 1422,
     "airline": "El Al",
@@ -2215,7 +2215,7 @@
    },
    {
     "airport": "PRG",
-    "city": "\u05e4\u05e8\u05d0\u05d2",
+    "city": "Prague",
     "country": "Czechia",
     "price": 1443,
     "airline": "El Al",
@@ -2223,7 +2223,7 @@
    },
    {
     "airport": "MUC",
-    "city": "\u05de\u05d9\u05e0\u05db\u05df",
+    "city": "Munich",
     "country": "Germany",
     "price": 1524,
     "airline": "El Al",
@@ -2231,7 +2231,7 @@
    },
    {
     "airport": "FRA",
-    "city": "\u05e4\u05e8\u05e0\u05e7\u05e4\u05d5\u05e8\u05d8",
+    "city": "Frankfurt",
     "country": "Germany",
     "price": 1548,
     "airline": "El Al",
@@ -2239,7 +2239,7 @@
    },
    {
     "airport": "VIE",
-    "city": "\u05d5\u05d9\u05e0\u05d4",
+    "city": "Vienna",
     "country": "Austria",
     "price": 1578,
     "airline": "El Al",
@@ -2247,7 +2247,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1599,
     "airline": "El Al",
@@ -2255,7 +2255,7 @@
    },
    {
     "airport": "BER",
-    "city": "\u05d1\u05e8\u05dc\u05d9\u05df",
+    "city": "Berlin",
     "country": "Germany",
     "price": 1680,
     "airline": "El Al",
@@ -2263,7 +2263,7 @@
    },
    {
     "airport": "MXP",
-    "city": "\u05de\u05d9\u05dc\u05d0\u05e0\u05d5",
+    "city": "Milan",
     "country": "Italy",
     "price": 1848,
     "airline": "El Al",
@@ -2271,7 +2271,7 @@
    },
    {
     "airport": "CDG",
-    "city": "\u05e4\u05e8\u05d9\u05d6",
+    "city": "Paris",
     "country": "France",
     "price": 1857,
     "airline": "El Al",
@@ -2279,15 +2279,15 @@
    },
    {
     "airport": "DXB",
-    "city": "\u05d3\u05d5\u05d1\u05d0\u05d9",
-    "country": "Unknown",
+    "city": "Dubai",
+    "country": "UAE",
     "price": 1869,
     "airline": "El Al",
     "dur": null
    },
    {
     "airport": "BCN",
-    "city": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+    "city": "Barcelona",
     "country": "Spain",
     "price": 1983,
     "airline": "El Al",
@@ -2295,7 +2295,7 @@
    },
    {
     "airport": "LTN",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London Luton",
     "country": "England",
     "price": 1983,
     "airline": "El Al",
@@ -2303,7 +2303,7 @@
    },
    {
     "airport": "MAD",
-    "city": "\u05de\u05d3\u05e8\u05d9\u05d3",
+    "city": "Madrid",
     "country": "Spain",
     "price": 2082,
     "airline": "El Al",
@@ -2311,7 +2311,7 @@
    },
    {
     "airport": "ZRH",
-    "city": "\u05e6\u05d9\u05e8\u05d9\u05da",
+    "city": "Zurich",
     "country": "Switzerland",
     "price": 2178,
     "airline": "El Al",
@@ -2319,7 +2319,7 @@
    },
    {
     "airport": "AMS",
-    "city": "\u05d0\u05de\u05e1\u05d8\u05e8\u05d3\u05dd",
+    "city": "Amsterdam",
     "country": "Netherlands",
     "price": 2301,
     "airline": "El Al",
@@ -2327,7 +2327,7 @@
    },
    {
     "airport": "LIS",
-    "city": "\u05dc\u05d9\u05e1\u05d1\u05d5\u05df",
+    "city": "Lisbon",
     "country": "Portugal",
     "price": 2541,
     "airline": "El Al",
@@ -2342,7 +2342,7 @@
   "flights": [
    {
     "airport": "LCA",
-    "city": "\u05dc\u05e8\u05e0\u05e7\u05d4",
+    "city": "Larnaca",
     "country": "Cyprus",
     "price": 831,
     "airline": "El Al",
@@ -2350,7 +2350,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 1305,
     "airline": "El Al",
@@ -2358,7 +2358,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1719,
     "airline": "El Al",
@@ -2373,7 +2373,7 @@
   "flights": [
    {
     "airport": "LCA",
-    "city": "\u05dc\u05e8\u05e0\u05e7\u05d4",
+    "city": "Larnaca",
     "country": "Cyprus",
     "price": 831,
     "airline": "El Al",
@@ -2381,7 +2381,7 @@
    },
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 924,
     "airline": "El Al",
@@ -2389,7 +2389,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 1293,
     "airline": "El Al",
@@ -2397,7 +2397,7 @@
    },
    {
     "airport": "PRG",
-    "city": "\u05e4\u05e8\u05d0\u05d2",
+    "city": "Prague",
     "country": "Czechia",
     "price": 1368,
     "airline": "El Al",
@@ -2405,7 +2405,7 @@
    },
    {
     "airport": "SOF",
-    "city": "\u05e1\u05d5\u05e4\u05d9\u05d4",
+    "city": "Sofia",
     "country": "Bulgaria",
     "price": 1470,
     "airline": "El Al",
@@ -2413,7 +2413,7 @@
    },
    {
     "airport": "MUC",
-    "city": "\u05de\u05d9\u05e0\u05db\u05df",
+    "city": "Munich",
     "country": "Germany",
     "price": 1524,
     "airline": "El Al",
@@ -2421,7 +2421,7 @@
    },
    {
     "airport": "BUD",
-    "city": "\u05d1\u05d5\u05d3\u05e4\u05e9\u05d8",
+    "city": "Budapest",
     "country": "Hungary",
     "price": 1608,
     "airline": "El Al",
@@ -2429,7 +2429,7 @@
    },
    {
     "airport": "CDG",
-    "city": "\u05e4\u05e8\u05d9\u05d6",
+    "city": "Paris",
     "country": "France",
     "price": 1617,
     "airline": "El Al",
@@ -2437,7 +2437,7 @@
    },
    {
     "airport": "VIE",
-    "city": "\u05d5\u05d9\u05e0\u05d4",
+    "city": "Vienna",
     "country": "Austria",
     "price": 1668,
     "airline": "El Al",
@@ -2445,7 +2445,7 @@
    },
    {
     "airport": "BER",
-    "city": "\u05d1\u05e8\u05dc\u05d9\u05df",
+    "city": "Berlin",
     "country": "Germany",
     "price": 1680,
     "airline": "El Al",
@@ -2453,7 +2453,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1719,
     "airline": "El Al",
@@ -2461,7 +2461,7 @@
    },
    {
     "airport": "MXP",
-    "city": "\u05de\u05d9\u05dc\u05d0\u05e0\u05d5",
+    "city": "Milan",
     "country": "Italy",
     "price": 1743,
     "airline": "El Al",
@@ -2469,7 +2469,7 @@
    },
    {
     "airport": "FRA",
-    "city": "\u05e4\u05e8\u05e0\u05e7\u05e4\u05d5\u05e8\u05d8",
+    "city": "Frankfurt",
     "country": "Germany",
     "price": 1743,
     "airline": "El Al",
@@ -2477,7 +2477,7 @@
    },
    {
     "airport": "VCE",
-    "city": "\u05d5\u05e0\u05e6\u05d9\u05d4",
+    "city": "Venice",
     "country": "Italy",
     "price": 1791,
     "airline": "El Al",
@@ -2485,7 +2485,7 @@
    },
    {
     "airport": "LTN",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London Luton",
     "country": "England",
     "price": 1803,
     "airline": "El Al",
@@ -2493,7 +2493,7 @@
    },
    {
     "airport": "BCN",
-    "city": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+    "city": "Barcelona",
     "country": "Spain",
     "price": 1983,
     "airline": "El Al",
@@ -2501,7 +2501,7 @@
    },
    {
     "airport": "LHR",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London",
     "country": "England",
     "price": 1992,
     "airline": "El Al",
@@ -2509,7 +2509,7 @@
    },
    {
     "airport": "ZRH",
-    "city": "\u05e6\u05d9\u05e8\u05d9\u05da",
+    "city": "Zurich",
     "country": "Switzerland",
     "price": 2178,
     "airline": "El Al",
@@ -2517,7 +2517,7 @@
    },
    {
     "airport": "MAD",
-    "city": "\u05de\u05d3\u05e8\u05d9\u05d3",
+    "city": "Madrid",
     "country": "Spain",
     "price": 2238,
     "airline": "El Al",
@@ -2525,7 +2525,7 @@
    },
    {
     "airport": "AMS",
-    "city": "\u05d0\u05de\u05e1\u05d8\u05e8\u05d3\u05dd",
+    "city": "Amsterdam",
     "country": "Netherlands",
     "price": 2301,
     "airline": "El Al",
@@ -2533,7 +2533,7 @@
    },
    {
     "airport": "LIS",
-    "city": "\u05dc\u05d9\u05e1\u05d1\u05d5\u05df",
+    "city": "Lisbon",
     "country": "Portugal",
     "price": 2391,
     "airline": "El Al",
@@ -2541,8 +2541,8 @@
    },
    {
     "airport": "DME",
-    "city": "\u05de\u05d5\u05e1\u05e7\u05d1\u05d4",
-    "country": "Unknown",
+    "city": "Moscow",
+    "country": "Russia",
     "price": 2799,
     "airline": "El Al",
     "dur": null
@@ -2556,7 +2556,7 @@
   "flights": [
    {
     "airport": "LCA",
-    "city": "\u05dc\u05e8\u05e0\u05e7\u05d4",
+    "city": "Larnaca",
     "country": "Cyprus",
     "price": 600,
     "airline": "El Al",
@@ -2564,7 +2564,7 @@
    },
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 828,
     "airline": "El Al",
@@ -2572,7 +2572,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 948,
     "airline": "El Al",
@@ -2580,7 +2580,7 @@
    },
    {
     "airport": "SOF",
-    "city": "\u05e1\u05d5\u05e4\u05d9\u05d4",
+    "city": "Sofia",
     "country": "Bulgaria",
     "price": 975,
     "airline": "El Al",
@@ -2588,7 +2588,7 @@
    },
    {
     "airport": "BUD",
-    "city": "\u05d1\u05d5\u05d3\u05e4\u05e9\u05d8",
+    "city": "Budapest",
     "country": "Hungary",
     "price": 1347,
     "airline": "El Al",
@@ -2596,7 +2596,7 @@
    },
    {
     "airport": "VIE",
-    "city": "\u05d5\u05d9\u05e0\u05d4",
+    "city": "Vienna",
     "country": "Austria",
     "price": 1488,
     "airline": "El Al",
@@ -2604,7 +2604,7 @@
    },
    {
     "airport": "ZRH",
-    "city": "\u05e6\u05d9\u05e8\u05d9\u05da",
+    "city": "Zurich",
     "country": "Switzerland",
     "price": 1497,
     "airline": "El Al",
@@ -2612,7 +2612,7 @@
    },
    {
     "airport": "FRA",
-    "city": "\u05e4\u05e8\u05e0\u05e7\u05e4\u05d5\u05e8\u05d8",
+    "city": "Frankfurt",
     "country": "Germany",
     "price": 1503,
     "airline": "El Al",
@@ -2620,7 +2620,7 @@
    },
    {
     "airport": "PRG",
-    "city": "\u05e4\u05e8\u05d0\u05d2",
+    "city": "Prague",
     "country": "Czechia",
     "price": 1518,
     "airline": "El Al",
@@ -2628,7 +2628,7 @@
    },
    {
     "airport": "BER",
-    "city": "\u05d1\u05e8\u05dc\u05d9\u05df",
+    "city": "Berlin",
     "country": "Germany",
     "price": 1551,
     "airline": "El Al",
@@ -2636,7 +2636,7 @@
    },
    {
     "airport": "GVA",
-    "city": "\u05d6'\u05e0\u05d1\u05d4",
+    "city": "Geneva",
     "country": "Switzerland",
     "price": 1569,
     "airline": "El Al",
@@ -2644,7 +2644,7 @@
    },
    {
     "airport": "MUC",
-    "city": "\u05de\u05d9\u05e0\u05db\u05df",
+    "city": "Munich",
     "country": "Germany",
     "price": 1569,
     "airline": "El Al",
@@ -2652,7 +2652,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1758,
     "airline": "El Al",
@@ -2660,7 +2660,7 @@
    },
    {
     "airport": "CDG",
-    "city": "\u05e4\u05e8\u05d9\u05d6",
+    "city": "Paris",
     "country": "France",
     "price": 1857,
     "airline": "El Al",
@@ -2668,7 +2668,7 @@
    },
    {
     "airport": "BCN",
-    "city": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+    "city": "Barcelona",
     "country": "Spain",
     "price": 1881,
     "airline": "El Al",
@@ -2676,15 +2676,15 @@
    },
    {
     "airport": "DXB",
-    "city": "\u05d3\u05d5\u05d1\u05d0\u05d9",
-    "country": "Unknown",
+    "city": "Dubai",
+    "country": "UAE",
     "price": 1893,
     "airline": "El Al",
     "dur": null
    },
    {
     "airport": "LTN",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London Luton",
     "country": "England",
     "price": 1908,
     "airline": "El Al",
@@ -2692,7 +2692,7 @@
    },
    {
     "airport": "AMS",
-    "city": "\u05d0\u05de\u05e1\u05d8\u05e8\u05d3\u05dd",
+    "city": "Amsterdam",
     "country": "Netherlands",
     "price": 2301,
     "airline": "El Al",
@@ -2700,7 +2700,7 @@
    },
    {
     "airport": "MXP",
-    "city": "\u05de\u05d9\u05dc\u05d0\u05e0\u05d5",
+    "city": "Milan",
     "country": "Italy",
     "price": 2403,
     "airline": "El Al",
@@ -2708,7 +2708,7 @@
    },
    {
     "airport": "LIS",
-    "city": "\u05dc\u05d9\u05e1\u05d1\u05d5\u05df",
+    "city": "Lisbon",
     "country": "Portugal",
     "price": 2691,
     "airline": "El Al",
@@ -2723,7 +2723,7 @@
   "flights": [
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 888,
     "airline": "El Al",
@@ -2731,7 +2731,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 1395,
     "airline": "El Al",
@@ -2739,7 +2739,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1638,
     "airline": "El Al",
@@ -2747,7 +2747,7 @@
    },
    {
     "airport": "BCN",
-    "city": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+    "city": "Barcelona",
     "country": "Spain",
     "price": 1881,
     "airline": "El Al",
@@ -2755,7 +2755,7 @@
    },
    {
     "airport": "MXP",
-    "city": "\u05de\u05d9\u05dc\u05d0\u05e0\u05d5",
+    "city": "Milan",
     "country": "Italy",
     "price": 2052,
     "airline": "El Al",
@@ -2770,7 +2770,7 @@
   "flights": [
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 963,
     "airline": "El Al",
@@ -2778,7 +2778,7 @@
    },
    {
     "airport": "SOF",
-    "city": "\u05e1\u05d5\u05e4\u05d9\u05d4",
+    "city": "Sofia",
     "country": "Bulgaria",
     "price": 1035,
     "airline": "El Al",
@@ -2786,7 +2786,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 1383,
     "airline": "El Al",
@@ -2794,7 +2794,7 @@
    },
    {
     "airport": "BUD",
-    "city": "\u05d1\u05d5\u05d3\u05e4\u05e9\u05d8",
+    "city": "Budapest",
     "country": "Hungary",
     "price": 1422,
     "airline": "El Al",
@@ -2802,7 +2802,7 @@
    },
    {
     "airport": "FRA",
-    "city": "\u05e4\u05e8\u05e0\u05e7\u05e4\u05d5\u05e8\u05d8",
+    "city": "Frankfurt",
     "country": "Germany",
     "price": 1548,
     "airline": "El Al",
@@ -2810,7 +2810,7 @@
    },
    {
     "airport": "VIE",
-    "city": "\u05d5\u05d9\u05e0\u05d4",
+    "city": "Vienna",
     "country": "Austria",
     "price": 1578,
     "airline": "El Al",
@@ -2818,7 +2818,7 @@
    },
    {
     "airport": "PRG",
-    "city": "\u05e4\u05e8\u05d0\u05d2",
+    "city": "Prague",
     "country": "Czechia",
     "price": 1593,
     "airline": "El Al",
@@ -2826,7 +2826,7 @@
    },
    {
     "airport": "MRS",
-    "city": "\u05de\u05e8\u05e1\u05d9\u05d9",
+    "city": "Marseille",
     "country": "France",
     "price": 1596,
     "airline": "El Al",
@@ -2834,7 +2834,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1638,
     "airline": "El Al",
@@ -2842,7 +2842,7 @@
    },
    {
     "airport": "GVA",
-    "city": "\u05d6'\u05e0\u05d1\u05d4",
+    "city": "Geneva",
     "country": "Switzerland",
     "price": 1644,
     "airline": "El Al",
@@ -2850,7 +2850,7 @@
    },
    {
     "airport": "BER",
-    "city": "\u05d1\u05e8\u05dc\u05d9\u05df",
+    "city": "Berlin",
     "country": "Germany",
     "price": 1680,
     "airline": "El Al",
@@ -2858,7 +2858,7 @@
    },
    {
     "airport": "MUC",
-    "city": "\u05de\u05d9\u05e0\u05db\u05df",
+    "city": "Munich",
     "country": "Germany",
     "price": 1749,
     "airline": "El Al",
@@ -2866,7 +2866,7 @@
    },
    {
     "airport": "ZRH",
-    "city": "\u05e6\u05d9\u05e8\u05d9\u05da",
+    "city": "Zurich",
     "country": "Switzerland",
     "price": 1752,
     "airline": "El Al",
@@ -2874,7 +2874,7 @@
    },
    {
     "airport": "LTN",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London Luton",
     "country": "England",
     "price": 1818,
     "airline": "El Al",
@@ -2882,7 +2882,7 @@
    },
    {
     "airport": "CDG",
-    "city": "\u05e4\u05e8\u05d9\u05d6",
+    "city": "Paris",
     "country": "France",
     "price": 1857,
     "airline": "El Al",
@@ -2890,7 +2890,7 @@
    },
    {
     "airport": "BCN",
-    "city": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+    "city": "Barcelona",
     "country": "Spain",
     "price": 1881,
     "airline": "El Al",
@@ -2898,15 +2898,15 @@
    },
    {
     "airport": "DXB",
-    "city": "\u05d3\u05d5\u05d1\u05d0\u05d9",
-    "country": "Unknown",
+    "city": "Dubai",
+    "country": "UAE",
     "price": 2019,
     "airline": "El Al",
     "dur": null
    },
    {
     "airport": "MXP",
-    "city": "\u05de\u05d9\u05dc\u05d0\u05e0\u05d5",
+    "city": "Milan",
     "country": "Italy",
     "price": 2157,
     "airline": "El Al",
@@ -2914,7 +2914,7 @@
    },
    {
     "airport": "MAD",
-    "city": "\u05de\u05d3\u05e8\u05d9\u05d3",
+    "city": "Madrid",
     "country": "Spain",
     "price": 2238,
     "airline": "El Al",
@@ -2922,7 +2922,7 @@
    },
    {
     "airport": "AMS",
-    "city": "\u05d0\u05de\u05e1\u05d8\u05e8\u05d3\u05dd",
+    "city": "Amsterdam",
     "country": "Netherlands",
     "price": 2301,
     "airline": "El Al",
@@ -2930,7 +2930,7 @@
    },
    {
     "airport": "LIS",
-    "city": "\u05dc\u05d9\u05e1\u05d1\u05d5\u05df",
+    "city": "Lisbon",
     "country": "Portugal",
     "price": 2691,
     "airline": "El Al",
@@ -2945,7 +2945,7 @@
   "flights": [
    {
     "airport": "LCA",
-    "city": "\u05dc\u05e8\u05e0\u05e7\u05d4",
+    "city": "Larnaca",
     "country": "Cyprus",
     "price": 906,
     "airline": "El Al",
@@ -2953,7 +2953,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 1395,
     "airline": "El Al",
@@ -2961,7 +2961,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1758,
     "airline": "El Al",
@@ -2976,7 +2976,7 @@
   "flights": [
    {
     "airport": "LCA",
-    "city": "\u05dc\u05e8\u05e0\u05e7\u05d4",
+    "city": "Larnaca",
     "country": "Cyprus",
     "price": 831,
     "airline": "El Al",
@@ -2984,7 +2984,7 @@
    },
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 963,
     "airline": "El Al",
@@ -2992,7 +2992,7 @@
    },
    {
     "airport": "SOF",
-    "city": "\u05e1\u05d5\u05e4\u05d9\u05d4",
+    "city": "Sofia",
     "country": "Bulgaria",
     "price": 1305,
     "airline": "El Al",
@@ -3000,7 +3000,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 1383,
     "airline": "El Al",
@@ -3008,7 +3008,7 @@
    },
    {
     "airport": "PRG",
-    "city": "\u05e4\u05e8\u05d0\u05d2",
+    "city": "Prague",
     "country": "Czechia",
     "price": 1518,
     "airline": "El Al",
@@ -3016,7 +3016,7 @@
    },
    {
     "airport": "MRS",
-    "city": "\u05de\u05e8\u05e1\u05d9\u05d9",
+    "city": "Marseille",
     "country": "France",
     "price": 1596,
     "airline": "El Al",
@@ -3024,7 +3024,7 @@
    },
    {
     "airport": "BUD",
-    "city": "\u05d1\u05d5\u05d3\u05e4\u05e9\u05d8",
+    "city": "Budapest",
     "country": "Hungary",
     "price": 1608,
     "airline": "El Al",
@@ -3032,7 +3032,7 @@
    },
    {
     "airport": "CDG",
-    "city": "\u05e4\u05e8\u05d9\u05d6",
+    "city": "Paris",
     "country": "France",
     "price": 1617,
     "airline": "El Al",
@@ -3040,7 +3040,7 @@
    },
    {
     "airport": "VIE",
-    "city": "\u05d5\u05d9\u05e0\u05d4",
+    "city": "Vienna",
     "country": "Austria",
     "price": 1668,
     "airline": "El Al",
@@ -3048,7 +3048,7 @@
    },
    {
     "airport": "BER",
-    "city": "\u05d1\u05e8\u05dc\u05d9\u05df",
+    "city": "Berlin",
     "country": "Germany",
     "price": 1680,
     "airline": "El Al",
@@ -3056,7 +3056,7 @@
    },
    {
     "airport": "LTN",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London Luton",
     "country": "England",
     "price": 1728,
     "airline": "El Al",
@@ -3064,7 +3064,7 @@
    },
    {
     "airport": "FRA",
-    "city": "\u05e4\u05e8\u05e0\u05e7\u05e4\u05d5\u05e8\u05d8",
+    "city": "Frankfurt",
     "country": "Germany",
     "price": 1743,
     "airline": "El Al",
@@ -3072,7 +3072,7 @@
    },
    {
     "airport": "MUC",
-    "city": "\u05de\u05d9\u05e0\u05db\u05df",
+    "city": "Munich",
     "country": "Germany",
     "price": 1749,
     "airline": "El Al",
@@ -3080,7 +3080,7 @@
    },
    {
     "airport": "ZRH",
-    "city": "\u05e6\u05d9\u05e8\u05d9\u05da",
+    "city": "Zurich",
     "country": "Switzerland",
     "price": 1752,
     "airline": "El Al",
@@ -3088,7 +3088,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1758,
     "airline": "El Al",
@@ -3096,7 +3096,7 @@
    },
    {
     "airport": "BCN",
-    "city": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+    "city": "Barcelona",
     "country": "Spain",
     "price": 1881,
     "airline": "El Al",
@@ -3104,7 +3104,7 @@
    },
    {
     "airport": "MXP",
-    "city": "\u05de\u05d9\u05dc\u05d0\u05e0\u05d5",
+    "city": "Milan",
     "country": "Italy",
     "price": 2052,
     "airline": "El Al",
@@ -3112,7 +3112,7 @@
    },
    {
     "airport": "LHR",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London",
     "country": "England",
     "price": 2106,
     "airline": "El Al",
@@ -3120,7 +3120,7 @@
    },
    {
     "airport": "AMS",
-    "city": "\u05d0\u05de\u05e1\u05d8\u05e8\u05d3\u05dd",
+    "city": "Amsterdam",
     "country": "Netherlands",
     "price": 2301,
     "airline": "El Al",
@@ -3128,7 +3128,7 @@
    },
    {
     "airport": "MAD",
-    "city": "\u05de\u05d3\u05e8\u05d9\u05d3",
+    "city": "Madrid",
     "country": "Spain",
     "price": 2394,
     "airline": "El Al",
@@ -3136,7 +3136,7 @@
    },
    {
     "airport": "LIS",
-    "city": "\u05dc\u05d9\u05e1\u05d1\u05d5\u05df",
+    "city": "Lisbon",
     "country": "Portugal",
     "price": 2541,
     "airline": "El Al",
@@ -3151,7 +3151,7 @@
   "flights": [
    {
     "airport": "LCA",
-    "city": "\u05dc\u05e8\u05e0\u05e7\u05d4",
+    "city": "Larnaca",
     "country": "Cyprus",
     "price": 711,
     "airline": "El Al",
@@ -3159,7 +3159,7 @@
    },
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 1143,
     "airline": "El Al",
@@ -3167,7 +3167,7 @@
    },
    {
     "airport": "SOF",
-    "city": "\u05e1\u05d5\u05e4\u05d9\u05d4",
+    "city": "Sofia",
     "country": "Bulgaria",
     "price": 1200,
     "airline": "El Al",
@@ -3175,7 +3175,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 1395,
     "airline": "El Al",
@@ -3183,7 +3183,7 @@
    },
    {
     "airport": "PRG",
-    "city": "\u05e4\u05e8\u05d0\u05d2",
+    "city": "Prague",
     "country": "Czechia",
     "price": 1593,
     "airline": "El Al",
@@ -3191,7 +3191,7 @@
    },
    {
     "airport": "MRS",
-    "city": "\u05de\u05e8\u05e1\u05d9\u05d9",
+    "city": "Marseille",
     "country": "France",
     "price": 1596,
     "airline": "El Al",
@@ -3199,7 +3199,7 @@
    },
    {
     "airport": "BUD",
-    "city": "\u05d1\u05d5\u05d3\u05e4\u05e9\u05d8",
+    "city": "Budapest",
     "country": "Hungary",
     "price": 1608,
     "airline": "El Al",
@@ -3207,7 +3207,7 @@
    },
    {
     "airport": "CDG",
-    "city": "\u05e4\u05e8\u05d9\u05d6",
+    "city": "Paris",
     "country": "France",
     "price": 1617,
     "airline": "El Al",
@@ -3215,7 +3215,7 @@
    },
    {
     "airport": "BER",
-    "city": "\u05d1\u05e8\u05dc\u05d9\u05df",
+    "city": "Berlin",
     "country": "Germany",
     "price": 1680,
     "airline": "El Al",
@@ -3223,7 +3223,7 @@
    },
    {
     "airport": "ZRH",
-    "city": "\u05e6\u05d9\u05e8\u05d9\u05da",
+    "city": "Zurich",
     "country": "Switzerland",
     "price": 1752,
     "airline": "El Al",
@@ -3231,7 +3231,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1794,
     "airline": "El Al",
@@ -3239,7 +3239,7 @@
    },
    {
     "airport": "VIE",
-    "city": "\u05d5\u05d9\u05e0\u05d4",
+    "city": "Vienna",
     "country": "Austria",
     "price": 1797,
     "airline": "El Al",
@@ -3247,7 +3247,7 @@
    },
    {
     "airport": "LTN",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London Luton",
     "country": "England",
     "price": 1818,
     "airline": "El Al",
@@ -3255,7 +3255,7 @@
    },
    {
     "airport": "FRA",
-    "city": "\u05e4\u05e8\u05e0\u05e7\u05e4\u05d5\u05e8\u05d8",
+    "city": "Frankfurt",
     "country": "Germany",
     "price": 1878,
     "airline": "El Al",
@@ -3263,7 +3263,7 @@
    },
    {
     "airport": "MUC",
-    "city": "\u05de\u05d9\u05e0\u05db\u05df",
+    "city": "Munich",
     "country": "Germany",
     "price": 1884,
     "airline": "El Al",
@@ -3271,7 +3271,7 @@
    },
    {
     "airport": "MXP",
-    "city": "\u05de\u05d9\u05dc\u05d0\u05e0\u05d5",
+    "city": "Milan",
     "country": "Italy",
     "price": 2052,
     "airline": "El Al",
@@ -3279,7 +3279,7 @@
    },
    {
     "airport": "BCN",
-    "city": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+    "city": "Barcelona",
     "country": "Spain",
     "price": 2094,
     "airline": "El Al",
@@ -3287,7 +3287,7 @@
    },
    {
     "airport": "LHR",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London",
     "country": "England",
     "price": 2217,
     "airline": "El Al",
@@ -3295,7 +3295,7 @@
    },
    {
     "airport": "AMS",
-    "city": "\u05d0\u05de\u05e1\u05d8\u05e8\u05d3\u05dd",
+    "city": "Amsterdam",
     "country": "Netherlands",
     "price": 2301,
     "airline": "El Al",
@@ -3303,7 +3303,7 @@
    },
    {
     "airport": "MAD",
-    "city": "\u05de\u05d3\u05e8\u05d9\u05d3",
+    "city": "Madrid",
     "country": "Spain",
     "price": 2394,
     "airline": "El Al",
@@ -3318,7 +3318,7 @@
   "flights": [
    {
     "airport": "CDG",
-    "city": "\u05e4\u05e8\u05d9\u05d6",
+    "city": "Paris",
     "country": "France",
     "price": 2517,
     "airline": "El Al",
@@ -3333,7 +3333,7 @@
   "flights": [
    {
     "airport": "CDG",
-    "city": "\u05e4\u05e8\u05d9\u05d6",
+    "city": "Paris",
     "country": "France",
     "price": 2277,
     "airline": "El Al",
@@ -3341,7 +3341,7 @@
    },
    {
     "airport": "LIS",
-    "city": "\u05dc\u05d9\u05e1\u05d1\u05d5\u05df",
+    "city": "Lisbon",
     "country": "Portugal",
     "price": 2541,
     "airline": "El Al",
@@ -3356,7 +3356,7 @@
   "flights": [
    {
     "airport": "CDG",
-    "city": "\u05e4\u05e8\u05d9\u05d6",
+    "city": "Paris",
     "country": "France",
     "price": 2277,
     "airline": "El Al",
@@ -3371,7 +3371,7 @@
   "flights": [
    {
     "airport": "LIS",
-    "city": "\u05dc\u05d9\u05e1\u05d1\u05d5\u05df",
+    "city": "Lisbon",
     "country": "Portugal",
     "price": 2691,
     "airline": "El Al",
@@ -3386,7 +3386,7 @@
   "flights": [
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 963,
     "airline": "El Al",
@@ -3394,7 +3394,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 1383,
     "airline": "El Al",
@@ -3402,7 +3402,7 @@
    },
    {
     "airport": "MRS",
-    "city": "\u05de\u05e8\u05e1\u05d9\u05d9",
+    "city": "Marseille",
     "country": "France",
     "price": 1416,
     "airline": "El Al",
@@ -3410,7 +3410,7 @@
    },
    {
     "airport": "BUD",
-    "city": "\u05d1\u05d5\u05d3\u05e4\u05e9\u05d8",
+    "city": "Budapest",
     "country": "Hungary",
     "price": 1422,
     "airline": "El Al",
@@ -3418,7 +3418,7 @@
    },
    {
     "airport": "FRA",
-    "city": "\u05e4\u05e8\u05e0\u05e7\u05e4\u05d5\u05e8\u05d8",
+    "city": "Frankfurt",
     "country": "Germany",
     "price": 1428,
     "airline": "El Al",
@@ -3426,7 +3426,7 @@
    },
    {
     "airport": "VIE",
-    "city": "\u05d5\u05d9\u05e0\u05d4",
+    "city": "Vienna",
     "country": "Austria",
     "price": 1446,
     "airline": "El Al",
@@ -3434,7 +3434,7 @@
    },
    {
     "airport": "PRG",
-    "city": "\u05e4\u05e8\u05d0\u05d2",
+    "city": "Prague",
     "country": "Czechia",
     "price": 1518,
     "airline": "El Al",
@@ -3442,7 +3442,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1599,
     "airline": "El Al",
@@ -3450,7 +3450,7 @@
    },
    {
     "airport": "MUC",
-    "city": "\u05de\u05d9\u05e0\u05db\u05df",
+    "city": "Munich",
     "country": "Germany",
     "price": 1614,
     "airline": "El Al",
@@ -3458,7 +3458,7 @@
    },
    {
     "airport": "BER",
-    "city": "\u05d1\u05e8\u05dc\u05d9\u05df",
+    "city": "Berlin",
     "country": "Germany",
     "price": 1680,
     "airline": "El Al",
@@ -3466,7 +3466,7 @@
    },
    {
     "airport": "ZRH",
-    "city": "\u05e6\u05d9\u05e8\u05d9\u05da",
+    "city": "Zurich",
     "country": "Switzerland",
     "price": 1752,
     "airline": "El Al",
@@ -3474,7 +3474,7 @@
    },
    {
     "airport": "MXP",
-    "city": "\u05de\u05d9\u05dc\u05d0\u05e0\u05d5",
+    "city": "Milan",
     "country": "Italy",
     "price": 1848,
     "airline": "El Al",
@@ -3482,15 +3482,15 @@
    },
    {
     "airport": "DXB",
-    "city": "\u05d3\u05d5\u05d1\u05d0\u05d9",
-    "country": "Unknown",
+    "city": "Dubai",
+    "country": "UAE",
     "price": 1869,
     "airline": "El Al",
     "dur": null
    },
    {
     "airport": "BCN",
-    "city": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+    "city": "Barcelona",
     "country": "Spain",
     "price": 1881,
     "airline": "El Al",
@@ -3498,7 +3498,7 @@
    },
    {
     "airport": "CDG",
-    "city": "\u05e4\u05e8\u05d9\u05d6",
+    "city": "Paris",
     "country": "France",
     "price": 1932,
     "airline": "El Al",
@@ -3506,7 +3506,7 @@
    },
    {
     "airport": "LTN",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London Luton",
     "country": "England",
     "price": 2073,
     "airline": "El Al",
@@ -3514,7 +3514,7 @@
    },
    {
     "airport": "MAD",
-    "city": "\u05de\u05d3\u05e8\u05d9\u05d3",
+    "city": "Madrid",
     "country": "Spain",
     "price": 2238,
     "airline": "El Al",
@@ -3522,7 +3522,7 @@
    },
    {
     "airport": "AMS",
-    "city": "\u05d0\u05de\u05e1\u05d8\u05e8\u05d3\u05dd",
+    "city": "Amsterdam",
     "country": "Netherlands",
     "price": 2301,
     "airline": "El Al",
@@ -3530,7 +3530,7 @@
    },
    {
     "airport": "LIS",
-    "city": "\u05dc\u05d9\u05e1\u05d1\u05d5\u05df",
+    "city": "Lisbon",
     "country": "Portugal",
     "price": 2541,
     "airline": "El Al",
@@ -3545,7 +3545,7 @@
   "flights": [
    {
     "airport": "LCA",
-    "city": "\u05dc\u05e8\u05e0\u05e7\u05d4",
+    "city": "Larnaca",
     "country": "Cyprus",
     "price": 846,
     "airline": "El Al",
@@ -3553,7 +3553,7 @@
    },
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 1179,
     "airline": "El Al",
@@ -3561,7 +3561,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 1395,
     "airline": "El Al",
@@ -3569,7 +3569,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1719,
     "airline": "El Al",
@@ -3584,7 +3584,7 @@
   "flights": [
    {
     "airport": "LCA",
-    "city": "\u05dc\u05e8\u05e0\u05e7\u05d4",
+    "city": "Larnaca",
     "country": "Cyprus",
     "price": 771,
     "airline": "El Al",
@@ -3592,7 +3592,7 @@
    },
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 963,
     "airline": "El Al",
@@ -3600,7 +3600,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 1383,
     "airline": "El Al",
@@ -3608,7 +3608,7 @@
    },
    {
     "airport": "PRG",
-    "city": "\u05e4\u05e8\u05d0\u05d2",
+    "city": "Prague",
     "country": "Czechia",
     "price": 1443,
     "airline": "El Al",
@@ -3616,7 +3616,7 @@
    },
    {
     "airport": "FRA",
-    "city": "\u05e4\u05e8\u05e0\u05e7\u05e4\u05d5\u05e8\u05d8",
+    "city": "Frankfurt",
     "country": "Germany",
     "price": 1518,
     "airline": "El Al",
@@ -3624,7 +3624,7 @@
    },
    {
     "airport": "MRS",
-    "city": "\u05de\u05e8\u05e1\u05d9\u05d9",
+    "city": "Marseille",
     "country": "France",
     "price": 1521,
     "airline": "El Al",
@@ -3632,7 +3632,7 @@
    },
    {
     "airport": "VIE",
-    "city": "\u05d5\u05d9\u05e0\u05d4",
+    "city": "Vienna",
     "country": "Austria",
     "price": 1536,
     "airline": "El Al",
@@ -3640,7 +3640,7 @@
    },
    {
     "airport": "BUD",
-    "city": "\u05d1\u05d5\u05d3\u05e4\u05e9\u05d8",
+    "city": "Budapest",
     "country": "Hungary",
     "price": 1608,
     "airline": "El Al",
@@ -3648,7 +3648,7 @@
    },
    {
     "airport": "MUC",
-    "city": "\u05de\u05d9\u05e0\u05db\u05df",
+    "city": "Munich",
     "country": "Germany",
     "price": 1614,
     "airline": "El Al",
@@ -3656,7 +3656,7 @@
    },
    {
     "airport": "BER",
-    "city": "\u05d1\u05e8\u05dc\u05d9\u05df",
+    "city": "Berlin",
     "country": "Germany",
     "price": 1680,
     "airline": "El Al",
@@ -3664,7 +3664,7 @@
    },
    {
     "airport": "CDG",
-    "city": "\u05e4\u05e8\u05d9\u05d6",
+    "city": "Paris",
     "country": "France",
     "price": 1692,
     "airline": "El Al",
@@ -3672,7 +3672,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1719,
     "airline": "El Al",
@@ -3680,7 +3680,7 @@
    },
    {
     "airport": "MXP",
-    "city": "\u05de\u05d9\u05dc\u05d0\u05e0\u05d5",
+    "city": "Milan",
     "country": "Italy",
     "price": 1743,
     "airline": "El Al",
@@ -3688,7 +3688,7 @@
    },
    {
     "airport": "ZRH",
-    "city": "\u05e6\u05d9\u05e8\u05d9\u05da",
+    "city": "Zurich",
     "country": "Switzerland",
     "price": 1752,
     "airline": "El Al",
@@ -3696,7 +3696,7 @@
    },
    {
     "airport": "VCE",
-    "city": "\u05d5\u05e0\u05e6\u05d9\u05d4",
+    "city": "Venice",
     "country": "Italy",
     "price": 1791,
     "airline": "El Al",
@@ -3704,7 +3704,7 @@
    },
    {
     "airport": "BCN",
-    "city": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+    "city": "Barcelona",
     "country": "Spain",
     "price": 1881,
     "airline": "El Al",
@@ -3712,7 +3712,7 @@
    },
    {
     "airport": "LTN",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London Luton",
     "country": "England",
     "price": 1983,
     "airline": "El Al",
@@ -3720,7 +3720,7 @@
    },
    {
     "airport": "LHR",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London",
     "country": "England",
     "price": 2106,
     "airline": "El Al",
@@ -3728,7 +3728,7 @@
    },
    {
     "airport": "AMS",
-    "city": "\u05d0\u05de\u05e1\u05d8\u05e8\u05d3\u05dd",
+    "city": "Amsterdam",
     "country": "Netherlands",
     "price": 2301,
     "airline": "El Al",
@@ -3736,7 +3736,7 @@
    },
    {
     "airport": "LIS",
-    "city": "\u05dc\u05d9\u05e1\u05d1\u05d5\u05df",
+    "city": "Lisbon",
     "country": "Portugal",
     "price": 2391,
     "airline": "El Al",
@@ -3744,7 +3744,7 @@
    },
    {
     "airport": "MAD",
-    "city": "\u05de\u05d3\u05e8\u05d9\u05d3",
+    "city": "Madrid",
     "country": "Spain",
     "price": 2394,
     "airline": "El Al",
@@ -3752,8 +3752,8 @@
    },
    {
     "airport": "DME",
-    "city": "\u05de\u05d5\u05e1\u05e7\u05d1\u05d4",
-    "country": "Unknown",
+    "city": "Moscow",
+    "country": "Russia",
     "price": 2799,
     "airline": "El Al",
     "dur": null
@@ -3767,7 +3767,7 @@
   "flights": [
    {
     "airport": "LCA",
-    "city": "\u05dc\u05e8\u05e0\u05e7\u05d4",
+    "city": "Larnaca",
     "country": "Cyprus",
     "price": 651,
     "airline": "El Al",
@@ -3775,7 +3775,7 @@
    },
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 1143,
     "airline": "El Al",
@@ -3783,7 +3783,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 1395,
     "airline": "El Al",
@@ -3791,7 +3791,7 @@
    },
    {
     "airport": "MRS",
-    "city": "\u05de\u05e8\u05e1\u05d9\u05d9",
+    "city": "Marseille",
     "country": "France",
     "price": 1416,
     "airline": "El Al",
@@ -3799,7 +3799,7 @@
    },
    {
     "airport": "PRG",
-    "city": "\u05e4\u05e8\u05d0\u05d2",
+    "city": "Prague",
     "country": "Czechia",
     "price": 1518,
     "airline": "El Al",
@@ -3807,7 +3807,7 @@
    },
    {
     "airport": "BUD",
-    "city": "\u05d1\u05d5\u05d3\u05e4\u05e9\u05d8",
+    "city": "Budapest",
     "country": "Hungary",
     "price": 1608,
     "airline": "El Al",
@@ -3815,7 +3815,7 @@
    },
    {
     "airport": "FRA",
-    "city": "\u05e4\u05e8\u05e0\u05e7\u05e4\u05d5\u05e8\u05d8",
+    "city": "Frankfurt",
     "country": "Germany",
     "price": 1653,
     "airline": "El Al",
@@ -3823,7 +3823,7 @@
    },
    {
     "airport": "VIE",
-    "city": "\u05d5\u05d9\u05e0\u05d4",
+    "city": "Vienna",
     "country": "Austria",
     "price": 1668,
     "airline": "El Al",
@@ -3831,7 +3831,7 @@
    },
    {
     "airport": "BER",
-    "city": "\u05d1\u05e8\u05dc\u05d9\u05df",
+    "city": "Berlin",
     "country": "Germany",
     "price": 1680,
     "airline": "El Al",
@@ -3839,7 +3839,7 @@
    },
    {
     "airport": "CDG",
-    "city": "\u05e4\u05e8\u05d9\u05d6",
+    "city": "Paris",
     "country": "France",
     "price": 1692,
     "airline": "El Al",
@@ -3847,7 +3847,7 @@
    },
    {
     "airport": "MXP",
-    "city": "\u05de\u05d9\u05dc\u05d0\u05e0\u05d5",
+    "city": "Milan",
     "country": "Italy",
     "price": 1743,
     "airline": "El Al",
@@ -3855,7 +3855,7 @@
    },
    {
     "airport": "MUC",
-    "city": "\u05de\u05d9\u05e0\u05db\u05df",
+    "city": "Munich",
     "country": "Germany",
     "price": 1749,
     "airline": "El Al",
@@ -3863,7 +3863,7 @@
    },
    {
     "airport": "ZRH",
-    "city": "\u05e6\u05d9\u05e8\u05d9\u05da",
+    "city": "Zurich",
     "country": "Switzerland",
     "price": 1752,
     "airline": "El Al",
@@ -3871,7 +3871,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1758,
     "airline": "El Al",
@@ -3879,7 +3879,7 @@
    },
    {
     "airport": "VCE",
-    "city": "\u05d5\u05e0\u05e6\u05d9\u05d4",
+    "city": "Venice",
     "country": "Italy",
     "price": 1869,
     "airline": "El Al",
@@ -3887,7 +3887,7 @@
    },
    {
     "airport": "LTN",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London Luton",
     "country": "England",
     "price": 2073,
     "airline": "El Al",
@@ -3895,7 +3895,7 @@
    },
    {
     "airport": "BCN",
-    "city": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+    "city": "Barcelona",
     "country": "Spain",
     "price": 2094,
     "airline": "El Al",
@@ -3903,7 +3903,7 @@
    },
    {
     "airport": "LHR",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London",
     "country": "England",
     "price": 2217,
     "airline": "El Al",
@@ -3911,7 +3911,7 @@
    },
    {
     "airport": "AMS",
-    "city": "\u05d0\u05de\u05e1\u05d8\u05e8\u05d3\u05dd",
+    "city": "Amsterdam",
     "country": "Netherlands",
     "price": 2301,
     "airline": "El Al",
@@ -3919,7 +3919,7 @@
    },
    {
     "airport": "MAD",
-    "city": "\u05de\u05d3\u05e8\u05d9\u05d3",
+    "city": "Madrid",
     "country": "Spain",
     "price": 2394,
     "airline": "El Al",
@@ -3927,8 +3927,8 @@
    },
    {
     "airport": "DME",
-    "city": "\u05de\u05d5\u05e1\u05e7\u05d1\u05d4",
-    "country": "Unknown",
+    "city": "Moscow",
+    "country": "Russia",
     "price": 2799,
     "airline": "El Al",
     "dur": null
@@ -3942,7 +3942,7 @@
   "flights": [
    {
     "airport": "LCA",
-    "city": "\u05dc\u05e8\u05e0\u05e7\u05d4",
+    "city": "Larnaca",
     "country": "Cyprus",
     "price": 771,
     "airline": "El Al",
@@ -3950,7 +3950,7 @@
    },
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 1284,
     "airline": "El Al",
@@ -3958,7 +3958,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 1395,
     "airline": "El Al",
@@ -3966,7 +3966,7 @@
    },
    {
     "airport": "BUD",
-    "city": "\u05d1\u05d5\u05d3\u05e4\u05e9\u05d8",
+    "city": "Budapest",
     "country": "Hungary",
     "price": 1512,
     "airline": "El Al",
@@ -3974,7 +3974,7 @@
    },
    {
     "airport": "MRS",
-    "city": "\u05de\u05e8\u05e1\u05d9\u05d9",
+    "city": "Marseille",
     "country": "France",
     "price": 1689,
     "airline": "El Al",
@@ -3982,7 +3982,7 @@
    },
    {
     "airport": "PRG",
-    "city": "\u05e4\u05e8\u05d0\u05d2",
+    "city": "Prague",
     "country": "Czechia",
     "price": 1773,
     "airline": "El Al",
@@ -3990,7 +3990,7 @@
    },
    {
     "airport": "BER",
-    "city": "\u05d1\u05e8\u05dc\u05d9\u05df",
+    "city": "Berlin",
     "country": "Germany",
     "price": 1791,
     "airline": "El Al",
@@ -3998,7 +3998,7 @@
    },
    {
     "airport": "MUC",
-    "city": "\u05de\u05d9\u05e0\u05db\u05df",
+    "city": "Munich",
     "country": "Germany",
     "price": 1845,
     "airline": "El Al",
@@ -4006,7 +4006,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1848,
     "airline": "El Al",
@@ -4014,7 +4014,7 @@
    },
    {
     "airport": "ZRH",
-    "city": "\u05e6\u05d9\u05e8\u05d9\u05da",
+    "city": "Zurich",
     "country": "Switzerland",
     "price": 1923,
     "airline": "El Al",
@@ -4022,7 +4022,7 @@
    },
    {
     "airport": "CDG",
-    "city": "\u05e4\u05e8\u05d9\u05d6",
+    "city": "Paris",
     "country": "France",
     "price": 1932,
     "airline": "El Al",
@@ -4030,7 +4030,7 @@
    },
    {
     "airport": "BCN",
-    "city": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+    "city": "Barcelona",
     "country": "Spain",
     "price": 2094,
     "airline": "El Al",
@@ -4038,7 +4038,7 @@
    },
    {
     "airport": "MAD",
-    "city": "\u05de\u05d3\u05e8\u05d9\u05d3",
+    "city": "Madrid",
     "country": "Spain",
     "price": 2394,
     "airline": "El Al",
@@ -4046,7 +4046,7 @@
    },
    {
     "airport": "MXP",
-    "city": "\u05de\u05d9\u05dc\u05d0\u05e0\u05d5",
+    "city": "Milan",
     "country": "Italy",
     "price": 2403,
     "airline": "El Al",
@@ -4054,7 +4054,7 @@
    },
    {
     "airport": "LTN",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London Luton",
     "country": "England",
     "price": 2490,
     "airline": "El Al",
@@ -4062,7 +4062,7 @@
    },
    {
     "airport": "LIS",
-    "city": "\u05dc\u05d9\u05e1\u05d1\u05d5\u05df",
+    "city": "Lisbon",
     "country": "Portugal",
     "price": 2541,
     "airline": "El Al",
@@ -4070,15 +4070,15 @@
    },
    {
     "airport": "DXB",
-    "city": "\u05d3\u05d5\u05d1\u05d0\u05d9",
-    "country": "Unknown",
+    "city": "Dubai",
+    "country": "UAE",
     "price": 2727,
     "airline": "El Al",
     "dur": null
    },
    {
     "airport": "AMS",
-    "city": "\u05d0\u05de\u05e1\u05d8\u05e8\u05d3\u05dd",
+    "city": "Amsterdam",
     "country": "Netherlands",
     "price": 2766,
     "airline": "El Al",
@@ -4093,7 +4093,7 @@
   "flights": [
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 1248,
     "airline": "El Al",
@@ -4101,7 +4101,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 1395,
     "airline": "El Al",
@@ -4109,7 +4109,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1848,
     "airline": "El Al",
@@ -4117,7 +4117,7 @@
    },
    {
     "airport": "BCN",
-    "city": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+    "city": "Barcelona",
     "country": "Spain",
     "price": 2094,
     "airline": "El Al",
@@ -4125,7 +4125,7 @@
    },
    {
     "airport": "MXP",
-    "city": "\u05de\u05d9\u05dc\u05d0\u05e0\u05d5",
+    "city": "Milan",
     "country": "Italy",
     "price": 2403,
     "airline": "El Al",
@@ -4140,7 +4140,7 @@
   "flights": [
    {
     "airport": "LCA",
-    "city": "\u05dc\u05e8\u05e0\u05e7\u05d4",
+    "city": "Larnaca",
     "country": "Cyprus",
     "price": 906,
     "airline": "El Al",
@@ -4148,7 +4148,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 1305,
     "airline": "El Al",
@@ -4156,7 +4156,7 @@
    },
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 1398,
     "airline": "El Al",
@@ -4164,7 +4164,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1719,
     "airline": "El Al",
@@ -4179,7 +4179,7 @@
   "flights": [
    {
     "airport": "LCA",
-    "city": "\u05dc\u05e8\u05e0\u05e7\u05d4",
+    "city": "Larnaca",
     "country": "Cyprus",
     "price": 831,
     "airline": "El Al",
@@ -4187,7 +4187,7 @@
    },
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 1179,
     "airline": "El Al",
@@ -4195,7 +4195,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 1293,
     "airline": "El Al",
@@ -4203,7 +4203,7 @@
    },
    {
     "airport": "SOF",
-    "city": "\u05e1\u05d5\u05e4\u05d9\u05d4",
+    "city": "Sofia",
     "country": "Bulgaria",
     "price": 1305,
     "airline": "El Al",
@@ -4211,7 +4211,7 @@
    },
    {
     "airport": "PRG",
-    "city": "\u05e4\u05e8\u05d0\u05d2",
+    "city": "Prague",
     "country": "Czechia",
     "price": 1443,
     "airline": "El Al",
@@ -4219,7 +4219,7 @@
    },
    {
     "airport": "MRS",
-    "city": "\u05de\u05e8\u05e1\u05d9\u05d9",
+    "city": "Marseille",
     "country": "France",
     "price": 1491,
     "airline": "El Al",
@@ -4227,7 +4227,7 @@
    },
    {
     "airport": "FRA",
-    "city": "\u05e4\u05e8\u05e0\u05e7\u05e4\u05d5\u05e8\u05d8",
+    "city": "Frankfurt",
     "country": "Germany",
     "price": 1608,
     "airline": "El Al",
@@ -4235,7 +4235,7 @@
    },
    {
     "airport": "MUC",
-    "city": "\u05de\u05d9\u05e0\u05db\u05df",
+    "city": "Munich",
     "country": "Germany",
     "price": 1614,
     "airline": "El Al",
@@ -4243,7 +4243,7 @@
    },
    {
     "airport": "CDG",
-    "city": "\u05e4\u05e8\u05d9\u05d6",
+    "city": "Paris",
     "country": "France",
     "price": 1617,
     "airline": "El Al",
@@ -4251,7 +4251,7 @@
    },
    {
     "airport": "VIE",
-    "city": "\u05d5\u05d9\u05e0\u05d4",
+    "city": "Vienna",
     "country": "Austria",
     "price": 1656,
     "airline": "El Al",
@@ -4259,7 +4259,7 @@
    },
    {
     "airport": "BUD",
-    "city": "\u05d1\u05d5\u05d3\u05e4\u05e9\u05d8",
+    "city": "Budapest",
     "country": "Hungary",
     "price": 1698,
     "airline": "El Al",
@@ -4267,7 +4267,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1719,
     "airline": "El Al",
@@ -4275,7 +4275,7 @@
    },
    {
     "airport": "MXP",
-    "city": "\u05de\u05d9\u05dc\u05d0\u05e0\u05d5",
+    "city": "Milan",
     "country": "Italy",
     "price": 1743,
     "airline": "El Al",
@@ -4283,7 +4283,7 @@
    },
    {
     "airport": "ZRH",
-    "city": "\u05e6\u05d9\u05e8\u05d9\u05da",
+    "city": "Zurich",
     "country": "Switzerland",
     "price": 1752,
     "airline": "El Al",
@@ -4291,7 +4291,7 @@
    },
    {
     "airport": "BER",
-    "city": "\u05d1\u05e8\u05dc\u05d9\u05df",
+    "city": "Berlin",
     "country": "Germany",
     "price": 1806,
     "airline": "El Al",
@@ -4299,7 +4299,7 @@
    },
    {
     "airport": "VCE",
-    "city": "\u05d5\u05e0\u05e6\u05d9\u05d4",
+    "city": "Venice",
     "country": "Italy",
     "price": 1869,
     "airline": "El Al",
@@ -4307,7 +4307,7 @@
    },
    {
     "airport": "BCN",
-    "city": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+    "city": "Barcelona",
     "country": "Spain",
     "price": 1881,
     "airline": "El Al",
@@ -4315,7 +4315,7 @@
    },
    {
     "airport": "LTN",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London Luton",
     "country": "England",
     "price": 1893,
     "airline": "El Al",
@@ -4323,7 +4323,7 @@
    },
    {
     "airport": "LHR",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London",
     "country": "England",
     "price": 2106,
     "airline": "El Al",
@@ -4331,7 +4331,7 @@
    },
    {
     "airport": "AMS",
-    "city": "\u05d0\u05de\u05e1\u05d8\u05e8\u05d3\u05dd",
+    "city": "Amsterdam",
     "country": "Netherlands",
     "price": 2301,
     "airline": "El Al",
@@ -4339,7 +4339,7 @@
    },
    {
     "airport": "MAD",
-    "city": "\u05de\u05d3\u05e8\u05d9\u05d3",
+    "city": "Madrid",
     "country": "Spain",
     "price": 2394,
     "airline": "El Al",
@@ -4347,7 +4347,7 @@
    },
    {
     "airport": "LIS",
-    "city": "\u05dc\u05d9\u05e1\u05d1\u05d5\u05df",
+    "city": "Lisbon",
     "country": "Portugal",
     "price": 2541,
     "airline": "El Al",
@@ -4355,8 +4355,8 @@
    },
    {
     "airport": "DME",
-    "city": "\u05de\u05d5\u05e1\u05e7\u05d1\u05d4",
-    "country": "Unknown",
+    "city": "Moscow",
+    "country": "Russia",
     "price": 2799,
     "airline": "El Al",
     "dur": null
@@ -4370,7 +4370,7 @@
   "flights": [
    {
     "airport": "LCA",
-    "city": "\u05dc\u05e8\u05e0\u05e7\u05d4",
+    "city": "Larnaca",
     "country": "Cyprus",
     "price": 711,
     "airline": "El Al",
@@ -4378,7 +4378,7 @@
    },
    {
     "airport": "SOF",
-    "city": "\u05e1\u05d5\u05e4\u05d9\u05d4",
+    "city": "Sofia",
     "country": "Bulgaria",
     "price": 1200,
     "airline": "El Al",
@@ -4386,7 +4386,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 1305,
     "airline": "El Al",
@@ -4394,7 +4394,7 @@
    },
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 1359,
     "airline": "El Al",
@@ -4402,7 +4402,7 @@
    },
    {
     "airport": "MRS",
-    "city": "\u05de\u05e8\u05e1\u05d9\u05d9",
+    "city": "Marseille",
     "country": "France",
     "price": 1491,
     "airline": "El Al",
@@ -4410,7 +4410,7 @@
    },
    {
     "airport": "PRG",
-    "city": "\u05e4\u05e8\u05d0\u05d2",
+    "city": "Prague",
     "country": "Czechia",
     "price": 1518,
     "airline": "El Al",
@@ -4418,7 +4418,7 @@
    },
    {
     "airport": "CDG",
-    "city": "\u05e4\u05e8\u05d9\u05d6",
+    "city": "Paris",
     "country": "France",
     "price": 1617,
     "airline": "El Al",
@@ -4426,7 +4426,7 @@
    },
    {
     "airport": "BUD",
-    "city": "\u05d1\u05d5\u05d3\u05e4\u05e9\u05d8",
+    "city": "Budapest",
     "country": "Hungary",
     "price": 1698,
     "airline": "El Al",
@@ -4434,7 +4434,7 @@
    },
    {
     "airport": "FRA",
-    "city": "\u05e4\u05e8\u05e0\u05e7\u05e4\u05d5\u05e8\u05d8",
+    "city": "Frankfurt",
     "country": "Germany",
     "price": 1743,
     "airline": "El Al",
@@ -4442,7 +4442,7 @@
    },
    {
     "airport": "MXP",
-    "city": "\u05de\u05d9\u05dc\u05d0\u05e0\u05d5",
+    "city": "Milan",
     "country": "Italy",
     "price": 1743,
     "airline": "El Al",
@@ -4450,7 +4450,7 @@
    },
    {
     "airport": "MUC",
-    "city": "\u05de\u05d9\u05e0\u05db\u05df",
+    "city": "Munich",
     "country": "Germany",
     "price": 1749,
     "airline": "El Al",
@@ -4458,7 +4458,7 @@
    },
    {
     "airport": "ZRH",
-    "city": "\u05e6\u05d9\u05e8\u05d9\u05da",
+    "city": "Zurich",
     "country": "Switzerland",
     "price": 1752,
     "airline": "El Al",
@@ -4466,7 +4466,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1758,
     "airline": "El Al",
@@ -4474,7 +4474,7 @@
    },
    {
     "airport": "VIE",
-    "city": "\u05d5\u05d9\u05e0\u05d4",
+    "city": "Vienna",
     "country": "Austria",
     "price": 1788,
     "airline": "El Al",
@@ -4482,7 +4482,7 @@
    },
    {
     "airport": "BER",
-    "city": "\u05d1\u05e8\u05dc\u05d9\u05df",
+    "city": "Berlin",
     "country": "Germany",
     "price": 1806,
     "airline": "El Al",
@@ -4490,7 +4490,7 @@
    },
    {
     "airport": "VCE",
-    "city": "\u05d5\u05e0\u05e6\u05d9\u05d4",
+    "city": "Venice",
     "country": "Italy",
     "price": 1944,
     "airline": "El Al",
@@ -4498,7 +4498,7 @@
    },
    {
     "airport": "LTN",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London Luton",
     "country": "England",
     "price": 1983,
     "airline": "El Al",
@@ -4506,7 +4506,7 @@
    },
    {
     "airport": "BCN",
-    "city": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+    "city": "Barcelona",
     "country": "Spain",
     "price": 2094,
     "airline": "El Al",
@@ -4514,7 +4514,7 @@
    },
    {
     "airport": "LHR",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London",
     "country": "England",
     "price": 2217,
     "airline": "El Al",
@@ -4522,7 +4522,7 @@
    },
    {
     "airport": "AMS",
-    "city": "\u05d0\u05de\u05e1\u05d8\u05e8\u05d3\u05dd",
+    "city": "Amsterdam",
     "country": "Netherlands",
     "price": 2301,
     "airline": "El Al",
@@ -4530,7 +4530,7 @@
    },
    {
     "airport": "MAD",
-    "city": "\u05de\u05d3\u05e8\u05d9\u05d3",
+    "city": "Madrid",
     "country": "Spain",
     "price": 2394,
     "airline": "El Al",
@@ -4538,8 +4538,8 @@
    },
    {
     "airport": "DME",
-    "city": "\u05de\u05d5\u05e1\u05e7\u05d1\u05d4",
-    "country": "Unknown",
+    "city": "Moscow",
+    "country": "Russia",
     "price": 2799,
     "airline": "El Al",
     "dur": null
@@ -4553,7 +4553,7 @@
   "flights": [
    {
     "airport": "LCA",
-    "city": "\u05dc\u05e8\u05e0\u05e7\u05d4",
+    "city": "Larnaca",
     "country": "Cyprus",
     "price": 831,
     "airline": "El Al",
@@ -4561,7 +4561,7 @@
    },
    {
     "airport": "SOF",
-    "city": "\u05e1\u05d5\u05e4\u05d9\u05d4",
+    "city": "Sofia",
     "country": "Bulgaria",
     "price": 1305,
     "airline": "El Al",
@@ -4569,7 +4569,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 1305,
     "airline": "El Al",
@@ -4577,7 +4577,7 @@
    },
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 1503,
     "airline": "El Al",
@@ -4585,7 +4585,7 @@
    },
    {
     "airport": "BUD",
-    "city": "\u05d1\u05d5\u05d3\u05e4\u05e9\u05d8",
+    "city": "Budapest",
     "country": "Hungary",
     "price": 1602,
     "airline": "El Al",
@@ -4593,7 +4593,7 @@
    },
    {
     "airport": "MRS",
-    "city": "\u05de\u05e8\u05e1\u05d9\u05d9",
+    "city": "Marseille",
     "country": "France",
     "price": 1701,
     "airline": "El Al",
@@ -4601,7 +4601,7 @@
    },
    {
     "airport": "PRG",
-    "city": "\u05e4\u05e8\u05d0\u05d2",
+    "city": "Prague",
     "country": "Czechia",
     "price": 1773,
     "airline": "El Al",
@@ -4609,7 +4609,7 @@
    },
    {
     "airport": "MUC",
-    "city": "\u05de\u05d9\u05e0\u05db\u05df",
+    "city": "Munich",
     "country": "Germany",
     "price": 1845,
     "airline": "El Al",
@@ -4617,7 +4617,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1848,
     "airline": "El Al",
@@ -4625,7 +4625,7 @@
    },
    {
     "airport": "CDG",
-    "city": "\u05e4\u05e8\u05d9\u05d6",
+    "city": "Paris",
     "country": "France",
     "price": 1857,
     "airline": "El Al",
@@ -4633,7 +4633,7 @@
    },
    {
     "airport": "BER",
-    "city": "\u05d1\u05e8\u05dc\u05d9\u05df",
+    "city": "Berlin",
     "country": "Germany",
     "price": 1920,
     "airline": "El Al",
@@ -4641,7 +4641,7 @@
    },
    {
     "airport": "ZRH",
-    "city": "\u05e6\u05d9\u05e8\u05d9\u05da",
+    "city": "Zurich",
     "country": "Switzerland",
     "price": 1923,
     "airline": "El Al",
@@ -4649,7 +4649,7 @@
    },
    {
     "airport": "GVA",
-    "city": "\u05d6'\u05e0\u05d1\u05d4",
+    "city": "Geneva",
     "country": "Switzerland",
     "price": 2022,
     "airline": "El Al",
@@ -4657,7 +4657,7 @@
    },
    {
     "airport": "BCN",
-    "city": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+    "city": "Barcelona",
     "country": "Spain",
     "price": 2094,
     "airline": "El Al",
@@ -4665,7 +4665,7 @@
    },
    {
     "airport": "MAD",
-    "city": "\u05de\u05d3\u05e8\u05d9\u05d3",
+    "city": "Madrid",
     "country": "Spain",
     "price": 2394,
     "airline": "El Al",
@@ -4673,7 +4673,7 @@
    },
    {
     "airport": "LTN",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London Luton",
     "country": "England",
     "price": 2400,
     "airline": "El Al",
@@ -4681,7 +4681,7 @@
    },
    {
     "airport": "MXP",
-    "city": "\u05de\u05d9\u05dc\u05d0\u05e0\u05d5",
+    "city": "Milan",
     "country": "Italy",
     "price": 2403,
     "airline": "El Al",
@@ -4689,7 +4689,7 @@
    },
    {
     "airport": "LIS",
-    "city": "\u05dc\u05d9\u05e1\u05d1\u05d5\u05df",
+    "city": "Lisbon",
     "country": "Portugal",
     "price": 2691,
     "airline": "El Al",
@@ -4697,7 +4697,7 @@
    },
    {
     "airport": "AMS",
-    "city": "\u05d0\u05de\u05e1\u05d8\u05e8\u05d3\u05dd",
+    "city": "Amsterdam",
     "country": "Netherlands",
     "price": 2766,
     "airline": "El Al",
@@ -4705,8 +4705,8 @@
    },
    {
     "airport": "DXB",
-    "city": "\u05d3\u05d5\u05d1\u05d0\u05d9",
-    "country": "Unknown",
+    "city": "Dubai",
+    "country": "UAE",
     "price": 2877,
     "airline": "El Al",
     "dur": null
@@ -4720,7 +4720,7 @@
   "flights": [
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 1305,
     "airline": "El Al",
@@ -4728,7 +4728,7 @@
    },
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 1464,
     "airline": "El Al",
@@ -4736,7 +4736,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1848,
     "airline": "El Al",
@@ -4744,7 +4744,7 @@
    },
    {
     "airport": "BCN",
-    "city": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+    "city": "Barcelona",
     "country": "Spain",
     "price": 2094,
     "airline": "El Al",
@@ -4752,7 +4752,7 @@
    },
    {
     "airport": "MXP",
-    "city": "\u05de\u05d9\u05dc\u05d0\u05e0\u05d5",
+    "city": "Milan",
     "country": "Italy",
     "price": 2403,
     "airline": "El Al",
@@ -4767,7 +4767,7 @@
   "flights": [
    {
     "airport": "LCA",
-    "city": "\u05dc\u05e8\u05e0\u05e7\u05d4",
+    "city": "Larnaca",
     "country": "Cyprus",
     "price": 1107,
     "airline": "El Al",
@@ -4775,7 +4775,7 @@
    },
    {
     "airport": "SOF",
-    "city": "\u05e1\u05d5\u05e4\u05d9\u05d4",
+    "city": "Sofia",
     "country": "Bulgaria",
     "price": 1200,
     "airline": "El Al",
@@ -4783,7 +4783,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 1305,
     "airline": "El Al",
@@ -4791,7 +4791,7 @@
    },
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 1464,
     "airline": "El Al",
@@ -4799,7 +4799,7 @@
    },
    {
     "airport": "PRG",
-    "city": "\u05e4\u05e8\u05d0\u05d2",
+    "city": "Prague",
     "country": "Czechia",
     "price": 1518,
     "airline": "El Al",
@@ -4807,7 +4807,7 @@
    },
    {
     "airport": "BUD",
-    "city": "\u05d1\u05d5\u05d3\u05e4\u05e9\u05d8",
+    "city": "Budapest",
     "country": "Hungary",
     "price": 1602,
     "airline": "El Al",
@@ -4815,7 +4815,7 @@
    },
    {
     "airport": "CDG",
-    "city": "\u05e4\u05e8\u05d9\u05d6",
+    "city": "Paris",
     "country": "France",
     "price": 1617,
     "airline": "El Al",
@@ -4823,7 +4823,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1758,
     "airline": "El Al",
@@ -4831,7 +4831,7 @@
    },
    {
     "airport": "VIE",
-    "city": "\u05d5\u05d9\u05e0\u05d4",
+    "city": "Vienna",
     "country": "Austria",
     "price": 1788,
     "airline": "El Al",
@@ -4839,7 +4839,7 @@
    },
    {
     "airport": "MUC",
-    "city": "\u05de\u05d9\u05e0\u05db\u05df",
+    "city": "Munich",
     "country": "Germany",
     "price": 1845,
     "airline": "El Al",
@@ -4847,7 +4847,7 @@
    },
    {
     "airport": "VCE",
-    "city": "\u05d5\u05e0\u05e6\u05d9\u05d4",
+    "city": "Venice",
     "country": "Italy",
     "price": 1869,
     "airline": "El Al",
@@ -4855,7 +4855,7 @@
    },
    {
     "airport": "ZRH",
-    "city": "\u05e6\u05d9\u05e8\u05d9\u05da",
+    "city": "Zurich",
     "country": "Switzerland",
     "price": 1923,
     "airline": "El Al",
@@ -4863,7 +4863,7 @@
    },
    {
     "airport": "BER",
-    "city": "\u05d1\u05e8\u05dc\u05d9\u05df",
+    "city": "Berlin",
     "country": "Germany",
     "price": 2055,
     "airline": "El Al",
@@ -4871,7 +4871,7 @@
    },
    {
     "airport": "BCN",
-    "city": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+    "city": "Barcelona",
     "country": "Spain",
     "price": 2094,
     "airline": "El Al",
@@ -4879,7 +4879,7 @@
    },
    {
     "airport": "LTN",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London Luton",
     "country": "England",
     "price": 2193,
     "airline": "El Al",
@@ -4887,7 +4887,7 @@
    },
    {
     "airport": "FRA",
-    "city": "\u05e4\u05e8\u05e0\u05e7\u05e4\u05d5\u05e8\u05d8",
+    "city": "Frankfurt",
     "country": "Germany",
     "price": 2268,
     "airline": "El Al",
@@ -4895,7 +4895,7 @@
    },
    {
     "airport": "MXP",
-    "city": "\u05de\u05d9\u05dc\u05d0\u05e0\u05d5",
+    "city": "Milan",
     "country": "Italy",
     "price": 2403,
     "airline": "El Al",
@@ -4903,7 +4903,7 @@
    },
    {
     "airport": "LHR",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London",
     "country": "England",
     "price": 2493,
     "airline": "El Al",
@@ -4911,7 +4911,7 @@
    },
    {
     "airport": "AMS",
-    "city": "\u05d0\u05de\u05e1\u05d8\u05e8\u05d3\u05dd",
+    "city": "Amsterdam",
     "country": "Netherlands",
     "price": 2556,
     "airline": "El Al",
@@ -4919,7 +4919,7 @@
    },
    {
     "airport": "LIS",
-    "city": "\u05dc\u05d9\u05e1\u05d1\u05d5\u05df",
+    "city": "Lisbon",
     "country": "Portugal",
     "price": 2691,
     "airline": "El Al",
@@ -4927,16 +4927,16 @@
    },
    {
     "airport": "DME",
-    "city": "\u05de\u05d5\u05e1\u05e7\u05d1\u05d4",
-    "country": "Unknown",
+    "city": "Moscow",
+    "country": "Russia",
     "price": 2799,
     "airline": "El Al",
     "dur": null
    },
    {
     "airport": "DXB",
-    "city": "\u05d3\u05d5\u05d1\u05d0\u05d9",
-    "country": "Unknown",
+    "city": "Dubai",
+    "country": "UAE",
     "price": 2877,
     "airline": "El Al",
     "dur": null
@@ -4950,7 +4950,7 @@
   "flights": [
    {
     "airport": "LCA",
-    "city": "\u05dc\u05e8\u05e0\u05e7\u05d4",
+    "city": "Larnaca",
     "country": "Cyprus",
     "price": 951,
     "airline": "El Al",
@@ -4958,7 +4958,7 @@
    },
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 1068,
     "airline": "El Al",
@@ -4966,7 +4966,7 @@
    },
    {
     "airport": "SOF",
-    "city": "\u05e1\u05d5\u05e4\u05d9\u05d4",
+    "city": "Sofia",
     "country": "Bulgaria",
     "price": 1380,
     "airline": "El Al",
@@ -4974,7 +4974,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 1383,
     "airline": "El Al",
@@ -4982,7 +4982,7 @@
    },
    {
     "airport": "PRG",
-    "city": "\u05e4\u05e8\u05d0\u05d2",
+    "city": "Prague",
     "country": "Czechia",
     "price": 1443,
     "airline": "El Al",
@@ -4990,7 +4990,7 @@
    },
    {
     "airport": "VIE",
-    "city": "\u05d5\u05d9\u05e0\u05d4",
+    "city": "Vienna",
     "country": "Austria",
     "price": 1668,
     "airline": "El Al",
@@ -4998,7 +4998,7 @@
    },
    {
     "airport": "BER",
-    "city": "\u05d1\u05e8\u05dc\u05d9\u05df",
+    "city": "Berlin",
     "country": "Germany",
     "price": 1680,
     "airline": "El Al",
@@ -5006,7 +5006,7 @@
    },
    {
     "airport": "CDG",
-    "city": "\u05e4\u05e8\u05d9\u05d6",
+    "city": "Paris",
     "country": "France",
     "price": 1692,
     "airline": "El Al",
@@ -5014,7 +5014,7 @@
    },
    {
     "airport": "BUD",
-    "city": "\u05d1\u05d5\u05d3\u05e4\u05e9\u05d8",
+    "city": "Budapest",
     "country": "Hungary",
     "price": 1698,
     "airline": "El Al",
@@ -5022,7 +5022,7 @@
    },
    {
     "airport": "FRA",
-    "city": "\u05e4\u05e8\u05e0\u05e7\u05e4\u05d5\u05e8\u05d8",
+    "city": "Frankfurt",
     "country": "Germany",
     "price": 1743,
     "airline": "El Al",
@@ -5030,7 +5030,7 @@
    },
    {
     "airport": "ZRH",
-    "city": "\u05e6\u05d9\u05e8\u05d9\u05da",
+    "city": "Zurich",
     "country": "Switzerland",
     "price": 1752,
     "airline": "El Al",
@@ -5038,7 +5038,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1758,
     "airline": "El Al",
@@ -5046,7 +5046,7 @@
    },
    {
     "airport": "MRS",
-    "city": "\u05de\u05e8\u05e1\u05d9\u05d9",
+    "city": "Marseille",
     "country": "France",
     "price": 1764,
     "airline": "El Al",
@@ -5054,7 +5054,7 @@
    },
    {
     "airport": "VCE",
-    "city": "\u05d5\u05e0\u05e6\u05d9\u05d4",
+    "city": "Venice",
     "country": "Italy",
     "price": 1791,
     "airline": "El Al",
@@ -5062,7 +5062,7 @@
    },
    {
     "airport": "MUC",
-    "city": "\u05de\u05d9\u05e0\u05db\u05df",
+    "city": "Munich",
     "country": "Germany",
     "price": 1845,
     "airline": "El Al",
@@ -5070,7 +5070,7 @@
    },
    {
     "airport": "BCN",
-    "city": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+    "city": "Barcelona",
     "country": "Spain",
     "price": 1881,
     "airline": "El Al",
@@ -5078,7 +5078,7 @@
    },
    {
     "airport": "LTN",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London Luton",
     "country": "England",
     "price": 1983,
     "airline": "El Al",
@@ -5086,7 +5086,7 @@
    },
    {
     "airport": "MXP",
-    "city": "\u05de\u05d9\u05dc\u05d0\u05e0\u05d5",
+    "city": "Milan",
     "country": "Italy",
     "price": 2052,
     "airline": "El Al",
@@ -5094,7 +5094,7 @@
    },
    {
     "airport": "AMS",
-    "city": "\u05d0\u05de\u05e1\u05d8\u05e8\u05d3\u05dd",
+    "city": "Amsterdam",
     "country": "Netherlands",
     "price": 2301,
     "airline": "El Al",
@@ -5102,7 +5102,7 @@
    },
    {
     "airport": "LHR",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London",
     "country": "England",
     "price": 2385,
     "airline": "El Al",
@@ -5110,7 +5110,7 @@
    },
    {
     "airport": "LIS",
-    "city": "\u05dc\u05d9\u05e1\u05d1\u05d5\u05df",
+    "city": "Lisbon",
     "country": "Portugal",
     "price": 2391,
     "airline": "El Al",
@@ -5118,7 +5118,7 @@
    },
    {
     "airport": "MAD",
-    "city": "\u05de\u05d3\u05e8\u05d9\u05d3",
+    "city": "Madrid",
     "country": "Spain",
     "price": 2394,
     "airline": "El Al",
@@ -5126,8 +5126,8 @@
    },
    {
     "airport": "DME",
-    "city": "\u05de\u05d5\u05e1\u05e7\u05d1\u05d4",
-    "country": "Unknown",
+    "city": "Moscow",
+    "country": "Russia",
     "price": 2799,
     "airline": "El Al",
     "dur": null
@@ -5141,7 +5141,7 @@
   "flights": [
    {
     "airport": "LCA",
-    "city": "\u05dc\u05e8\u05e0\u05e7\u05d4",
+    "city": "Larnaca",
     "country": "Cyprus",
     "price": 831,
     "airline": "El Al",
@@ -5149,7 +5149,7 @@
    },
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 1248,
     "airline": "El Al",
@@ -5157,7 +5157,7 @@
    },
    {
     "airport": "SOF",
-    "city": "\u05e1\u05d5\u05e4\u05d9\u05d4",
+    "city": "Sofia",
     "country": "Bulgaria",
     "price": 1275,
     "airline": "El Al",
@@ -5165,7 +5165,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 1395,
     "airline": "El Al",
@@ -5173,7 +5173,7 @@
    },
    {
     "airport": "PRG",
-    "city": "\u05e4\u05e8\u05d0\u05d2",
+    "city": "Prague",
     "country": "Czechia",
     "price": 1518,
     "airline": "El Al",
@@ -5181,7 +5181,7 @@
    },
    {
     "airport": "BER",
-    "city": "\u05d1\u05e8\u05dc\u05d9\u05df",
+    "city": "Berlin",
     "country": "Germany",
     "price": 1680,
     "airline": "El Al",
@@ -5189,7 +5189,7 @@
    },
    {
     "airport": "CDG",
-    "city": "\u05e4\u05e8\u05d9\u05d6",
+    "city": "Paris",
     "country": "France",
     "price": 1692,
     "airline": "El Al",
@@ -5197,7 +5197,7 @@
    },
    {
     "airport": "BUD",
-    "city": "\u05d1\u05d5\u05d3\u05e4\u05e9\u05d8",
+    "city": "Budapest",
     "country": "Hungary",
     "price": 1698,
     "airline": "El Al",
@@ -5205,7 +5205,7 @@
    },
    {
     "airport": "ZRH",
-    "city": "\u05e6\u05d9\u05e8\u05d9\u05da",
+    "city": "Zurich",
     "country": "Switzerland",
     "price": 1752,
     "airline": "El Al",
@@ -5213,7 +5213,7 @@
    },
    {
     "airport": "MRS",
-    "city": "\u05de\u05e8\u05e1\u05d9\u05d9",
+    "city": "Marseille",
     "country": "France",
     "price": 1764,
     "airline": "El Al",
@@ -5221,7 +5221,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1794,
     "airline": "El Al",
@@ -5229,7 +5229,7 @@
    },
    {
     "airport": "VIE",
-    "city": "\u05d5\u05d9\u05e0\u05d4",
+    "city": "Vienna",
     "country": "Austria",
     "price": 1797,
     "airline": "El Al",
@@ -5237,7 +5237,7 @@
    },
    {
     "airport": "VCE",
-    "city": "\u05d5\u05e0\u05e6\u05d9\u05d4",
+    "city": "Venice",
     "country": "Italy",
     "price": 1869,
     "airline": "El Al",
@@ -5245,7 +5245,7 @@
    },
    {
     "airport": "FRA",
-    "city": "\u05e4\u05e8\u05e0\u05e7\u05e4\u05d5\u05e8\u05d8",
+    "city": "Frankfurt",
     "country": "Germany",
     "price": 1878,
     "airline": "El Al",
@@ -5253,7 +5253,7 @@
    },
    {
     "airport": "MUC",
-    "city": "\u05de\u05d9\u05e0\u05db\u05df",
+    "city": "Munich",
     "country": "Germany",
     "price": 1980,
     "airline": "El Al",
@@ -5261,7 +5261,7 @@
    },
    {
     "airport": "MXP",
-    "city": "\u05de\u05d9\u05dc\u05d0\u05e0\u05d5",
+    "city": "Milan",
     "country": "Italy",
     "price": 2052,
     "airline": "El Al",
@@ -5269,7 +5269,7 @@
    },
    {
     "airport": "LTN",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London Luton",
     "country": "England",
     "price": 2073,
     "airline": "El Al",
@@ -5277,7 +5277,7 @@
    },
    {
     "airport": "BCN",
-    "city": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+    "city": "Barcelona",
     "country": "Spain",
     "price": 2094,
     "airline": "El Al",
@@ -5285,7 +5285,7 @@
    },
    {
     "airport": "AMS",
-    "city": "\u05d0\u05de\u05e1\u05d8\u05e8\u05d3\u05dd",
+    "city": "Amsterdam",
     "country": "Netherlands",
     "price": 2301,
     "airline": "El Al",
@@ -5293,7 +5293,7 @@
    },
    {
     "airport": "MAD",
-    "city": "\u05de\u05d3\u05e8\u05d9\u05d3",
+    "city": "Madrid",
     "country": "Spain",
     "price": 2394,
     "airline": "El Al",
@@ -5301,7 +5301,7 @@
    },
    {
     "airport": "LHR",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London",
     "country": "England",
     "price": 2496,
     "airline": "El Al",
@@ -5309,8 +5309,8 @@
    },
    {
     "airport": "DME",
-    "city": "\u05de\u05d5\u05e1\u05e7\u05d1\u05d4",
-    "country": "Unknown",
+    "city": "Moscow",
+    "country": "Russia",
     "price": 2799,
     "airline": "El Al",
     "dur": null
@@ -5324,7 +5324,7 @@
   "flights": [
    {
     "airport": "LCA",
-    "city": "\u05dc\u05e8\u05e0\u05e7\u05d4",
+    "city": "Larnaca",
     "country": "Cyprus",
     "price": 951,
     "airline": "El Al",
@@ -5332,7 +5332,7 @@
    },
    {
     "airport": "SOF",
-    "city": "\u05e1\u05d5\u05e4\u05d9\u05d4",
+    "city": "Sofia",
     "country": "Bulgaria",
     "price": 1380,
     "airline": "El Al",
@@ -5340,7 +5340,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 1395,
     "airline": "El Al",
@@ -5348,7 +5348,7 @@
    },
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 1473,
     "airline": "El Al",
@@ -5356,7 +5356,7 @@
    },
    {
     "airport": "BUD",
-    "city": "\u05d1\u05d5\u05d3\u05e4\u05e9\u05d8",
+    "city": "Budapest",
     "country": "Hungary",
     "price": 1602,
     "airline": "El Al",
@@ -5364,7 +5364,7 @@
    },
    {
     "airport": "PRG",
-    "city": "\u05e4\u05e8\u05d0\u05d2",
+    "city": "Prague",
     "country": "Czechia",
     "price": 1773,
     "airline": "El Al",
@@ -5372,7 +5372,7 @@
    },
    {
     "airport": "BER",
-    "city": "\u05d1\u05e8\u05dc\u05d9\u05df",
+    "city": "Berlin",
     "country": "Germany",
     "price": 1791,
     "airline": "El Al",
@@ -5380,7 +5380,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1884,
     "airline": "El Al",
@@ -5388,7 +5388,7 @@
    },
    {
     "airport": "ZRH",
-    "city": "\u05e6\u05d9\u05e8\u05d9\u05da",
+    "city": "Zurich",
     "country": "Switzerland",
     "price": 1923,
     "airline": "El Al",
@@ -5396,7 +5396,7 @@
    },
    {
     "airport": "CDG",
-    "city": "\u05e4\u05e8\u05d9\u05d6",
+    "city": "Paris",
     "country": "France",
     "price": 1932,
     "airline": "El Al",
@@ -5404,7 +5404,7 @@
    },
    {
     "airport": "MRS",
-    "city": "\u05de\u05e8\u05e1\u05d9\u05d9",
+    "city": "Marseille",
     "country": "France",
     "price": 1974,
     "airline": "El Al",
@@ -5412,7 +5412,7 @@
    },
    {
     "airport": "GVA",
-    "city": "\u05d6'\u05e0\u05d1\u05d4",
+    "city": "Geneva",
     "country": "Switzerland",
     "price": 2022,
     "airline": "El Al",
@@ -5420,7 +5420,7 @@
    },
    {
     "airport": "MUC",
-    "city": "\u05de\u05d9\u05e0\u05db\u05df",
+    "city": "Munich",
     "country": "Germany",
     "price": 2076,
     "airline": "El Al",
@@ -5428,7 +5428,7 @@
    },
    {
     "airport": "BCN",
-    "city": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+    "city": "Barcelona",
     "country": "Spain",
     "price": 2094,
     "airline": "El Al",
@@ -5436,7 +5436,7 @@
    },
    {
     "airport": "MAD",
-    "city": "\u05de\u05d3\u05e8\u05d9\u05d3",
+    "city": "Madrid",
     "country": "Spain",
     "price": 2394,
     "airline": "El Al",
@@ -5444,7 +5444,7 @@
    },
    {
     "airport": "LTN",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London Luton",
     "country": "England",
     "price": 2490,
     "airline": "El Al",
@@ -5452,7 +5452,7 @@
    },
    {
     "airport": "LIS",
-    "city": "\u05dc\u05d9\u05e1\u05d1\u05d5\u05df",
+    "city": "Lisbon",
     "country": "Portugal",
     "price": 2541,
     "airline": "El Al",
@@ -5460,7 +5460,7 @@
    },
    {
     "airport": "MXP",
-    "city": "\u05de\u05d9\u05dc\u05d0\u05e0\u05d5",
+    "city": "Milan",
     "country": "Italy",
     "price": 2712,
     "airline": "El Al",
@@ -5468,7 +5468,7 @@
    },
    {
     "airport": "AMS",
-    "city": "\u05d0\u05de\u05e1\u05d8\u05e8\u05d3\u05dd",
+    "city": "Amsterdam",
     "country": "Netherlands",
     "price": 2766,
     "airline": "El Al",
@@ -5483,7 +5483,7 @@
   "flights": [
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 1353,
     "airline": "El Al",
@@ -5491,7 +5491,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 1395,
     "airline": "El Al",
@@ -5499,7 +5499,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1884,
     "airline": "El Al",
@@ -5507,7 +5507,7 @@
    },
    {
     "airport": "BCN",
-    "city": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+    "city": "Barcelona",
     "country": "Spain",
     "price": 2094,
     "airline": "El Al",
@@ -5515,7 +5515,7 @@
    },
    {
     "airport": "MXP",
-    "city": "\u05de\u05d9\u05dc\u05d0\u05e0\u05d5",
+    "city": "Milan",
     "country": "Italy",
     "price": 2712,
     "airline": "El Al",
@@ -5530,7 +5530,7 @@
   "flights": [
    {
     "airport": "LCA",
-    "city": "\u05dc\u05e8\u05e0\u05e7\u05d4",
+    "city": "Larnaca",
     "country": "Cyprus",
     "price": 1227,
     "airline": "El Al",
@@ -5538,7 +5538,7 @@
    },
    {
     "airport": "SOF",
-    "city": "\u05e1\u05d5\u05e4\u05d9\u05d4",
+    "city": "Sofia",
     "country": "Bulgaria",
     "price": 1275,
     "airline": "El Al",
@@ -5546,7 +5546,7 @@
    },
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 1353,
     "airline": "El Al",
@@ -5554,7 +5554,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 1395,
     "airline": "El Al",
@@ -5562,7 +5562,7 @@
    },
    {
     "airport": "PRG",
-    "city": "\u05e4\u05e8\u05d0\u05d2",
+    "city": "Prague",
     "country": "Czechia",
     "price": 1593,
     "airline": "El Al",
@@ -5570,7 +5570,7 @@
    },
    {
     "airport": "BUD",
-    "city": "\u05d1\u05d5\u05d3\u05e4\u05e9\u05d8",
+    "city": "Budapest",
     "country": "Hungary",
     "price": 1602,
     "airline": "El Al",
@@ -5578,7 +5578,7 @@
    },
    {
     "airport": "CDG",
-    "city": "\u05e4\u05e8\u05d9\u05d6",
+    "city": "Paris",
     "country": "France",
     "price": 1692,
     "airline": "El Al",
@@ -5586,7 +5586,7 @@
    },
    {
     "airport": "VCE",
-    "city": "\u05d5\u05e0\u05e6\u05d9\u05d4",
+    "city": "Venice",
     "country": "Italy",
     "price": 1791,
     "airline": "El Al",
@@ -5594,7 +5594,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1794,
     "airline": "El Al",
@@ -5602,7 +5602,7 @@
    },
    {
     "airport": "VIE",
-    "city": "\u05d5\u05d9\u05e0\u05d4",
+    "city": "Vienna",
     "country": "Austria",
     "price": 1797,
     "airline": "El Al",
@@ -5610,7 +5610,7 @@
    },
    {
     "airport": "ZRH",
-    "city": "\u05e6\u05d9\u05e8\u05d9\u05da",
+    "city": "Zurich",
     "country": "Switzerland",
     "price": 1923,
     "airline": "El Al",
@@ -5618,7 +5618,7 @@
    },
    {
     "airport": "BER",
-    "city": "\u05d1\u05e8\u05dc\u05d9\u05df",
+    "city": "Berlin",
     "country": "Germany",
     "price": 1926,
     "airline": "El Al",
@@ -5626,7 +5626,7 @@
    },
    {
     "airport": "MUC",
-    "city": "\u05de\u05d9\u05e0\u05db\u05df",
+    "city": "Munich",
     "country": "Germany",
     "price": 2076,
     "airline": "El Al",
@@ -5634,7 +5634,7 @@
    },
    {
     "airport": "BCN",
-    "city": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+    "city": "Barcelona",
     "country": "Spain",
     "price": 2196,
     "airline": "El Al",
@@ -5642,7 +5642,7 @@
    },
    {
     "airport": "LTN",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London Luton",
     "country": "England",
     "price": 2283,
     "airline": "El Al",
@@ -5650,7 +5650,7 @@
    },
    {
     "airport": "FRA",
-    "city": "\u05e4\u05e8\u05e0\u05e7\u05e4\u05d5\u05e8\u05d8",
+    "city": "Frankfurt",
     "country": "Germany",
     "price": 2403,
     "airline": "El Al",
@@ -5658,7 +5658,7 @@
    },
    {
     "airport": "LIS",
-    "city": "\u05dc\u05d9\u05e1\u05d1\u05d5\u05df",
+    "city": "Lisbon",
     "country": "Portugal",
     "price": 2541,
     "airline": "El Al",
@@ -5666,7 +5666,7 @@
    },
    {
     "airport": "AMS",
-    "city": "\u05d0\u05de\u05e1\u05d8\u05e8\u05d3\u05dd",
+    "city": "Amsterdam",
     "country": "Netherlands",
     "price": 2556,
     "airline": "El Al",
@@ -5674,7 +5674,7 @@
    },
    {
     "airport": "MAD",
-    "city": "\u05de\u05d3\u05e8\u05d9\u05d3",
+    "city": "Madrid",
     "country": "Spain",
     "price": 2598,
     "airline": "El Al",
@@ -5682,7 +5682,7 @@
    },
    {
     "airport": "MXP",
-    "city": "\u05de\u05d9\u05dc\u05d0\u05e0\u05d5",
+    "city": "Milan",
     "country": "Italy",
     "price": 2712,
     "airline": "El Al",
@@ -5690,7 +5690,7 @@
    },
    {
     "airport": "LHR",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London",
     "country": "England",
     "price": 2772,
     "airline": "El Al",
@@ -5698,8 +5698,8 @@
    },
    {
     "airport": "DME",
-    "city": "\u05de\u05d5\u05e1\u05e7\u05d1\u05d4",
-    "country": "Unknown",
+    "city": "Moscow",
+    "country": "Russia",
     "price": 2799,
     "airline": "El Al",
     "dur": null
@@ -5713,7 +5713,7 @@
   "flights": [
    {
     "airport": "SOF",
-    "city": "\u05e1\u05d5\u05e4\u05d9\u05d4",
+    "city": "Sofia",
     "country": "Bulgaria",
     "price": 1380,
     "airline": "El Al",
@@ -5721,7 +5721,7 @@
    },
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 1473,
     "airline": "El Al",
@@ -5729,7 +5729,7 @@
    },
    {
     "airport": "BUD",
-    "city": "\u05d1\u05d5\u05d3\u05e4\u05e9\u05d8",
+    "city": "Budapest",
     "country": "Hungary",
     "price": 1512,
     "airline": "El Al",
@@ -5737,7 +5737,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 1623,
     "airline": "El Al",
@@ -5745,7 +5745,7 @@
    },
    {
     "airport": "PRG",
-    "city": "\u05e4\u05e8\u05d0\u05d2",
+    "city": "Prague",
     "country": "Czechia",
     "price": 1773,
     "airline": "El Al",
@@ -5753,7 +5753,7 @@
    },
    {
     "airport": "BER",
-    "city": "\u05d1\u05e8\u05dc\u05d9\u05df",
+    "city": "Berlin",
     "country": "Germany",
     "price": 1791,
     "airline": "El Al",
@@ -5761,7 +5761,7 @@
    },
    {
     "airport": "VIE",
-    "city": "\u05d5\u05d9\u05e0\u05d4",
+    "city": "Vienna",
     "country": "Austria",
     "price": 1797,
     "airline": "El Al",
@@ -5769,7 +5769,7 @@
    },
    {
     "airport": "CDG",
-    "city": "\u05e4\u05e8\u05d9\u05d6",
+    "city": "Paris",
     "country": "France",
     "price": 1797,
     "airline": "El Al",
@@ -5777,7 +5777,7 @@
    },
    {
     "airport": "MRS",
-    "city": "\u05de\u05e8\u05e1\u05d9\u05d9",
+    "city": "Marseille",
     "country": "France",
     "price": 1974,
     "airline": "El Al",
@@ -5785,7 +5785,7 @@
    },
    {
     "airport": "GVA",
-    "city": "\u05d6'\u05e0\u05d1\u05d4",
+    "city": "Geneva",
     "country": "Switzerland",
     "price": 2022,
     "airline": "El Al",
@@ -5793,7 +5793,7 @@
    },
    {
     "airport": "MUC",
-    "city": "\u05de\u05d9\u05e0\u05db\u05df",
+    "city": "Munich",
     "country": "Germany",
     "price": 2076,
     "airline": "El Al",
@@ -5801,7 +5801,7 @@
    },
    {
     "airport": "BCN",
-    "city": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+    "city": "Barcelona",
     "country": "Spain",
     "price": 2196,
     "airline": "El Al",
@@ -5809,7 +5809,7 @@
    },
    {
     "airport": "ZRH",
-    "city": "\u05e6\u05d9\u05e8\u05d9\u05da",
+    "city": "Zurich",
     "country": "Switzerland",
     "price": 2232,
     "airline": "El Al",
@@ -5817,7 +5817,7 @@
    },
    {
     "airport": "LTN",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London Luton",
     "country": "England",
     "price": 2283,
     "airline": "El Al",
@@ -5825,7 +5825,7 @@
    },
    {
     "airport": "FRA",
-    "city": "\u05e4\u05e8\u05e0\u05e7\u05e4\u05d5\u05e8\u05d8",
+    "city": "Frankfurt",
     "country": "Germany",
     "price": 2403,
     "airline": "El Al",
@@ -5833,7 +5833,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 2448,
     "airline": "El Al",
@@ -5841,7 +5841,7 @@
    },
    {
     "airport": "AMS",
-    "city": "\u05d0\u05de\u05e1\u05d8\u05e8\u05d3\u05dd",
+    "city": "Amsterdam",
     "country": "Netherlands",
     "price": 2556,
     "airline": "El Al",
@@ -5849,7 +5849,7 @@
    },
    {
     "airport": "MAD",
-    "city": "\u05de\u05d3\u05e8\u05d9\u05d3",
+    "city": "Madrid",
     "country": "Spain",
     "price": 2598,
     "airline": "El Al",
@@ -5857,7 +5857,7 @@
    },
    {
     "airport": "LIS",
-    "city": "\u05dc\u05d9\u05e1\u05d1\u05d5\u05df",
+    "city": "Lisbon",
     "country": "Portugal",
     "price": 2934,
     "airline": "El Al",
@@ -5865,7 +5865,7 @@
    },
    {
     "airport": "MXP",
-    "city": "\u05de\u05d9\u05dc\u05d0\u05e0\u05d5",
+    "city": "Milan",
     "country": "Italy",
     "price": 2967,
     "airline": "El Al",
@@ -5880,7 +5880,7 @@
   "flights": [
    {
     "airport": "LCA",
-    "city": "\u05dc\u05e8\u05e0\u05e7\u05d4",
+    "city": "Larnaca",
     "country": "Cyprus",
     "price": 996,
     "airline": "El Al",
@@ -5888,7 +5888,7 @@
    },
    {
     "airport": "SOF",
-    "city": "\u05e1\u05d5\u05e4\u05d9\u05d4",
+    "city": "Sofia",
     "country": "Bulgaria",
     "price": 1200,
     "airline": "El Al",
@@ -5896,7 +5896,7 @@
    },
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 1248,
     "airline": "El Al",
@@ -5904,7 +5904,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 1485,
     "airline": "El Al",
@@ -5912,7 +5912,7 @@
    },
    {
     "airport": "PRG",
-    "city": "\u05e4\u05e8\u05d0\u05d2",
+    "city": "Prague",
     "country": "Czechia",
     "price": 1593,
     "airline": "El Al",
@@ -5920,7 +5920,7 @@
    },
    {
     "airport": "FRA",
-    "city": "\u05e4\u05e8\u05e0\u05e7\u05e4\u05d5\u05e8\u05d8",
+    "city": "Frankfurt",
     "country": "Germany",
     "price": 1653,
     "airline": "El Al",
@@ -5928,7 +5928,7 @@
    },
    {
     "airport": "BER",
-    "city": "\u05d1\u05e8\u05dc\u05d9\u05df",
+    "city": "Berlin",
     "country": "Germany",
     "price": 1680,
     "airline": "El Al",
@@ -5936,7 +5936,7 @@
    },
    {
     "airport": "MXP",
-    "city": "\u05de\u05d9\u05dc\u05d0\u05e0\u05d5",
+    "city": "Milan",
     "country": "Italy",
     "price": 1743,
     "airline": "El Al",
@@ -5944,7 +5944,7 @@
    },
    {
     "airport": "VIE",
-    "city": "\u05d5\u05d9\u05e0\u05d4",
+    "city": "Vienna",
     "country": "Austria",
     "price": 1788,
     "airline": "El Al",
@@ -5952,7 +5952,7 @@
    },
    {
     "airport": "CDG",
-    "city": "\u05e4\u05e8\u05d9\u05d6",
+    "city": "Paris",
     "country": "France",
     "price": 1827,
     "airline": "El Al",
@@ -5960,7 +5960,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1884,
     "airline": "El Al",
@@ -5968,7 +5968,7 @@
    },
    {
     "airport": "MUC",
-    "city": "\u05de\u05d9\u05e0\u05db\u05df",
+    "city": "Munich",
     "country": "Germany",
     "price": 1884,
     "airline": "El Al",
@@ -5976,7 +5976,7 @@
    },
    {
     "airport": "ZRH",
-    "city": "\u05e6\u05d9\u05e8\u05d9\u05da",
+    "city": "Zurich",
     "country": "Switzerland",
     "price": 2004,
     "airline": "El Al",
@@ -5984,7 +5984,7 @@
    },
    {
     "airport": "BUD",
-    "city": "\u05d1\u05d5\u05d3\u05e4\u05e9\u05d8",
+    "city": "Budapest",
     "country": "Hungary",
     "price": 2013,
     "airline": "El Al",
@@ -5992,7 +5992,7 @@
    },
    {
     "airport": "BCN",
-    "city": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+    "city": "Barcelona",
     "country": "Spain",
     "price": 2094,
     "airline": "El Al",
@@ -6000,7 +6000,7 @@
    },
    {
     "airport": "LTN",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London Luton",
     "country": "England",
     "price": 2193,
     "airline": "El Al",
@@ -6008,7 +6008,7 @@
    },
    {
     "airport": "MAD",
-    "city": "\u05de\u05d3\u05e8\u05d9\u05d3",
+    "city": "Madrid",
     "country": "Spain",
     "price": 2394,
     "airline": "El Al",
@@ -6016,7 +6016,7 @@
    },
    {
     "airport": "AMS",
-    "city": "\u05d0\u05de\u05e1\u05d8\u05e8\u05d3\u05dd",
+    "city": "Amsterdam",
     "country": "Netherlands",
     "price": 2556,
     "airline": "El Al",
@@ -6031,7 +6031,7 @@
   "flights": [
    {
     "airport": "LCA",
-    "city": "\u05dc\u05e8\u05e0\u05e7\u05d4",
+    "city": "Larnaca",
     "country": "Cyprus",
     "price": 1116,
     "airline": "El Al",
@@ -6039,7 +6039,7 @@
    },
    {
     "airport": "SOF",
-    "city": "\u05e1\u05d5\u05e4\u05d9\u05d4",
+    "city": "Sofia",
     "country": "Bulgaria",
     "price": 1305,
     "airline": "El Al",
@@ -6047,7 +6047,7 @@
    },
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 1473,
     "airline": "El Al",
@@ -6055,7 +6055,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 1485,
     "airline": "El Al",
@@ -6063,7 +6063,7 @@
    },
    {
     "airport": "BER",
-    "city": "\u05d1\u05e8\u05dc\u05d9\u05df",
+    "city": "Berlin",
     "country": "Germany",
     "price": 1791,
     "airline": "El Al",
@@ -6071,7 +6071,7 @@
    },
    {
     "airport": "PRG",
-    "city": "\u05e4\u05e8\u05d0\u05d2",
+    "city": "Prague",
     "country": "Czechia",
     "price": 1848,
     "airline": "El Al",
@@ -6079,7 +6079,7 @@
    },
    {
     "airport": "BUD",
-    "city": "\u05d1\u05d5\u05d3\u05e4\u05e9\u05d8",
+    "city": "Budapest",
     "country": "Hungary",
     "price": 1917,
     "airline": "El Al",
@@ -6087,7 +6087,7 @@
    },
    {
     "airport": "GVA",
-    "city": "\u05d6'\u05e0\u05d1\u05d4",
+    "city": "Geneva",
     "country": "Switzerland",
     "price": 1917,
     "airline": "El Al",
@@ -6095,7 +6095,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1974,
     "airline": "El Al",
@@ -6103,7 +6103,7 @@
    },
    {
     "airport": "MUC",
-    "city": "\u05de\u05d9\u05e0\u05db\u05df",
+    "city": "Munich",
     "country": "Germany",
     "price": 1980,
     "airline": "El Al",
@@ -6111,7 +6111,7 @@
    },
    {
     "airport": "CDG",
-    "city": "\u05e4\u05e8\u05d9\u05d6",
+    "city": "Paris",
     "country": "France",
     "price": 2067,
     "airline": "El Al",
@@ -6119,7 +6119,7 @@
    },
    {
     "airport": "BCN",
-    "city": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+    "city": "Barcelona",
     "country": "Spain",
     "price": 2094,
     "airline": "El Al",
@@ -6127,7 +6127,7 @@
    },
    {
     "airport": "ZRH",
-    "city": "\u05e6\u05d9\u05e8\u05d9\u05da",
+    "city": "Zurich",
     "country": "Switzerland",
     "price": 2178,
     "airline": "El Al",
@@ -6135,7 +6135,7 @@
    },
    {
     "airport": "MAD",
-    "city": "\u05de\u05d3\u05e8\u05d9\u05d3",
+    "city": "Madrid",
     "country": "Spain",
     "price": 2394,
     "airline": "El Al",
@@ -6143,7 +6143,7 @@
    },
    {
     "airport": "MXP",
-    "city": "\u05de\u05d9\u05dc\u05d0\u05e0\u05d5",
+    "city": "Milan",
     "country": "Italy",
     "price": 2403,
     "airline": "El Al",
@@ -6151,7 +6151,7 @@
    },
    {
     "airport": "LTN",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London Luton",
     "country": "England",
     "price": 2610,
     "airline": "El Al",
@@ -6159,7 +6159,7 @@
    },
    {
     "airport": "LIS",
-    "city": "\u05dc\u05d9\u05e1\u05d1\u05d5\u05df",
+    "city": "Lisbon",
     "country": "Portugal",
     "price": 2691,
     "airline": "El Al",
@@ -6174,7 +6174,7 @@
   "flights": [
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 1353,
     "airline": "El Al",
@@ -6182,7 +6182,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 1485,
     "airline": "El Al",
@@ -6190,7 +6190,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1974,
     "airline": "El Al",
@@ -6198,7 +6198,7 @@
    },
    {
     "airport": "BCN",
-    "city": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+    "city": "Barcelona",
     "country": "Spain",
     "price": 2094,
     "airline": "El Al",
@@ -6206,7 +6206,7 @@
    },
    {
     "airport": "MXP",
-    "city": "\u05de\u05d9\u05dc\u05d0\u05e0\u05d5",
+    "city": "Milan",
     "country": "Italy",
     "price": 2403,
     "airline": "El Al",
@@ -6221,7 +6221,7 @@
   "flights": [
    {
     "airport": "SOF",
-    "city": "\u05e1\u05d5\u05e4\u05d9\u05d4",
+    "city": "Sofia",
     "country": "Bulgaria",
     "price": 1200,
     "airline": "El Al",
@@ -6229,7 +6229,7 @@
    },
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 1353,
     "airline": "El Al",
@@ -6237,7 +6237,7 @@
    },
    {
     "airport": "LCA",
-    "city": "\u05dc\u05e8\u05e0\u05e7\u05d4",
+    "city": "Larnaca",
     "country": "Cyprus",
     "price": 1392,
     "airline": "El Al",
@@ -6245,7 +6245,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 1485,
     "airline": "El Al",
@@ -6253,7 +6253,7 @@
    },
    {
     "airport": "PRG",
-    "city": "\u05e4\u05e8\u05d0\u05d2",
+    "city": "Prague",
     "country": "Czechia",
     "price": 1593,
     "airline": "El Al",
@@ -6261,7 +6261,7 @@
    },
    {
     "airport": "VIE",
-    "city": "\u05d5\u05d9\u05e0\u05d4",
+    "city": "Vienna",
     "country": "Austria",
     "price": 1788,
     "airline": "El Al",
@@ -6269,7 +6269,7 @@
    },
    {
     "airport": "CDG",
-    "city": "\u05e4\u05e8\u05d9\u05d6",
+    "city": "Paris",
     "country": "France",
     "price": 1827,
     "airline": "El Al",
@@ -6277,7 +6277,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1884,
     "airline": "El Al",
@@ -6285,7 +6285,7 @@
    },
    {
     "airport": "BUD",
-    "city": "\u05d1\u05d5\u05d3\u05e4\u05e9\u05d8",
+    "city": "Budapest",
     "country": "Hungary",
     "price": 1917,
     "airline": "El Al",
@@ -6293,7 +6293,7 @@
    },
    {
     "airport": "BER",
-    "city": "\u05d1\u05e8\u05dc\u05d9\u05df",
+    "city": "Berlin",
     "country": "Germany",
     "price": 1926,
     "airline": "El Al",
@@ -6301,7 +6301,7 @@
    },
    {
     "airport": "MUC",
-    "city": "\u05de\u05d9\u05e0\u05db\u05df",
+    "city": "Munich",
     "country": "Germany",
     "price": 1980,
     "airline": "El Al",
@@ -6309,7 +6309,7 @@
    },
    {
     "airport": "ZRH",
-    "city": "\u05e6\u05d9\u05e8\u05d9\u05da",
+    "city": "Zurich",
     "country": "Switzerland",
     "price": 2178,
     "airline": "El Al",
@@ -6317,7 +6317,7 @@
    },
    {
     "airport": "FRA",
-    "city": "\u05e4\u05e8\u05e0\u05e7\u05e4\u05d5\u05e8\u05d8",
+    "city": "Frankfurt",
     "country": "Germany",
     "price": 2178,
     "airline": "El Al",
@@ -6325,7 +6325,7 @@
    },
    {
     "airport": "BCN",
-    "city": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+    "city": "Barcelona",
     "country": "Spain",
     "price": 2196,
     "airline": "El Al",
@@ -6333,7 +6333,7 @@
    },
    {
     "airport": "LTN",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London Luton",
     "country": "England",
     "price": 2403,
     "airline": "El Al",
@@ -6341,7 +6341,7 @@
    },
    {
     "airport": "MXP",
-    "city": "\u05de\u05d9\u05dc\u05d0\u05e0\u05d5",
+    "city": "Milan",
     "country": "Italy",
     "price": 2403,
     "airline": "El Al",
@@ -6349,7 +6349,7 @@
    },
    {
     "airport": "LIS",
-    "city": "\u05dc\u05d9\u05e1\u05d1\u05d5\u05df",
+    "city": "Lisbon",
     "country": "Portugal",
     "price": 2691,
     "airline": "El Al",
@@ -6357,7 +6357,7 @@
    },
    {
     "airport": "AMS",
-    "city": "\u05d0\u05de\u05e1\u05d8\u05e8\u05d3\u05dd",
+    "city": "Amsterdam",
     "country": "Netherlands",
     "price": 2808,
     "airline": "El Al",
@@ -6372,7 +6372,7 @@
   "flights": [
    {
     "airport": "SOF",
-    "city": "\u05e1\u05d5\u05e4\u05d9\u05d4",
+    "city": "Sofia",
     "country": "Bulgaria",
     "price": 1305,
     "airline": "El Al",
@@ -6380,7 +6380,7 @@
    },
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 1473,
     "airline": "El Al",
@@ -6388,7 +6388,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 1713,
     "airline": "El Al",
@@ -6396,7 +6396,7 @@
    },
    {
     "airport": "VIE",
-    "city": "\u05d5\u05d9\u05e0\u05d4",
+    "city": "Vienna",
     "country": "Austria",
     "price": 1788,
     "airline": "El Al",
@@ -6404,7 +6404,7 @@
    },
    {
     "airport": "BER",
-    "city": "\u05d1\u05e8\u05dc\u05d9\u05df",
+    "city": "Berlin",
     "country": "Germany",
     "price": 1791,
     "airline": "El Al",
@@ -6412,7 +6412,7 @@
    },
    {
     "airport": "BUD",
-    "city": "\u05d1\u05d5\u05d3\u05e4\u05e9\u05d8",
+    "city": "Budapest",
     "country": "Hungary",
     "price": 1827,
     "airline": "El Al",
@@ -6420,7 +6420,7 @@
    },
    {
     "airport": "PRG",
-    "city": "\u05e4\u05e8\u05d0\u05d2",
+    "city": "Prague",
     "country": "Czechia",
     "price": 1848,
     "airline": "El Al",
@@ -6428,7 +6428,7 @@
    },
    {
     "airport": "GVA",
-    "city": "\u05d6'\u05e0\u05d1\u05d4",
+    "city": "Geneva",
     "country": "Switzerland",
     "price": 1917,
     "airline": "El Al",
@@ -6436,7 +6436,7 @@
    },
    {
     "airport": "CDG",
-    "city": "\u05e4\u05e8\u05d9\u05d6",
+    "city": "Paris",
     "country": "France",
     "price": 1932,
     "airline": "El Al",
@@ -6444,7 +6444,7 @@
    },
    {
     "airport": "MUC",
-    "city": "\u05de\u05d9\u05e0\u05db\u05df",
+    "city": "Munich",
     "country": "Germany",
     "price": 1980,
     "airline": "El Al",
@@ -6452,7 +6452,7 @@
    },
    {
     "airport": "FRA",
-    "city": "\u05e4\u05e8\u05e0\u05e7\u05e4\u05d5\u05e8\u05d8",
+    "city": "Frankfurt",
     "country": "Germany",
     "price": 2178,
     "airline": "El Al",
@@ -6460,7 +6460,7 @@
    },
    {
     "airport": "BCN",
-    "city": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+    "city": "Barcelona",
     "country": "Spain",
     "price": 2196,
     "airline": "El Al",
@@ -6468,7 +6468,7 @@
    },
    {
     "airport": "LTN",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London Luton",
     "country": "England",
     "price": 2403,
     "airline": "El Al",
@@ -6476,7 +6476,7 @@
    },
    {
     "airport": "ZRH",
-    "city": "\u05e6\u05d9\u05e8\u05d9\u05da",
+    "city": "Zurich",
     "country": "Switzerland",
     "price": 2487,
     "airline": "El Al",
@@ -6484,7 +6484,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 2538,
     "airline": "El Al",
@@ -6492,7 +6492,7 @@
    },
    {
     "airport": "MAD",
-    "city": "\u05de\u05d3\u05e8\u05d9\u05d3",
+    "city": "Madrid",
     "country": "Spain",
     "price": 2598,
     "airline": "El Al",
@@ -6500,7 +6500,7 @@
    },
    {
     "airport": "MXP",
-    "city": "\u05de\u05d9\u05dc\u05d0\u05e0\u05d5",
+    "city": "Milan",
     "country": "Italy",
     "price": 2658,
     "airline": "El Al",
@@ -6508,7 +6508,7 @@
    },
    {
     "airport": "AMS",
-    "city": "\u05d0\u05de\u05e1\u05d8\u05e8\u05d3\u05dd",
+    "city": "Amsterdam",
     "country": "Netherlands",
     "price": 2808,
     "airline": "El Al",
@@ -6523,7 +6523,7 @@
   "flights": [
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 1209,
     "airline": "El Al",
@@ -6531,7 +6531,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 1383,
     "airline": "El Al",
@@ -6539,7 +6539,7 @@
    },
    {
     "airport": "LCA",
-    "city": "\u05dc\u05e8\u05e0\u05e7\u05d4",
+    "city": "Larnaca",
     "country": "Cyprus",
     "price": 1491,
     "airline": "El Al",
@@ -6547,7 +6547,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 2538,
     "airline": "El Al",
@@ -6562,7 +6562,7 @@
   "flights": [
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 1329,
     "airline": "El Al",
@@ -6570,7 +6570,7 @@
    },
    {
     "airport": "CDG",
-    "city": "\u05e4\u05e8\u05d9\u05d6",
+    "city": "Paris",
     "country": "France",
     "price": 2202,
     "airline": "El Al",
@@ -6578,7 +6578,7 @@
    },
    {
     "airport": "LIS",
-    "city": "\u05dc\u05d9\u05e1\u05d1\u05d5\u05df",
+    "city": "Lisbon",
     "country": "Portugal",
     "price": 2691,
     "airline": "El Al",
@@ -6593,7 +6593,7 @@
   "flights": [
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 1293,
     "airline": "El Al",
@@ -6608,7 +6608,7 @@
   "flights": [
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 1293,
     "airline": "El Al",
@@ -6616,7 +6616,7 @@
    },
    {
     "airport": "CDG",
-    "city": "\u05e4\u05e8\u05d9\u05d6",
+    "city": "Paris",
     "country": "France",
     "price": 1962,
     "airline": "El Al",
@@ -6624,7 +6624,7 @@
    },
    {
     "airport": "LIS",
-    "city": "\u05dc\u05d9\u05e1\u05d1\u05d5\u05df",
+    "city": "Lisbon",
     "country": "Portugal",
     "price": 2691,
     "airline": "El Al",
@@ -6639,7 +6639,7 @@
   "flights": [
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 1413,
     "airline": "El Al",
@@ -6647,7 +6647,7 @@
    },
    {
     "airport": "CDG",
-    "city": "\u05e4\u05e8\u05d9\u05d6",
+    "city": "Paris",
     "country": "France",
     "price": 2067,
     "airline": "El Al",
@@ -6662,7 +6662,7 @@
   "flights": [
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 1149,
     "airline": "El Al",
@@ -6677,7 +6677,7 @@
   "flights": [
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 1014,
     "airline": "El Al",
@@ -6685,7 +6685,7 @@
    },
    {
     "airport": "LIS",
-    "city": "\u05dc\u05d9\u05e1\u05d1\u05d5\u05df",
+    "city": "Lisbon",
     "country": "Portugal",
     "price": 2541,
     "airline": "El Al",
@@ -6700,7 +6700,7 @@
   "flights": [
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 1293,
     "airline": "El Al",
@@ -6708,7 +6708,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 1485,
     "airline": "El Al",
@@ -6716,7 +6716,7 @@
    },
    {
     "airport": "BCN",
-    "city": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+    "city": "Barcelona",
     "country": "Spain",
     "price": 1881,
     "airline": "El Al",
@@ -6724,7 +6724,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1884,
     "airline": "El Al",
@@ -6732,7 +6732,7 @@
    },
    {
     "airport": "MXP",
-    "city": "\u05de\u05d9\u05dc\u05d0\u05e0\u05d5",
+    "city": "Milan",
     "country": "Italy",
     "price": 2277,
     "airline": "El Al",
@@ -6747,7 +6747,7 @@
   "flights": [
    {
     "airport": "SOF",
-    "city": "\u05e1\u05d5\u05e4\u05d9\u05d4",
+    "city": "Sofia",
     "country": "Bulgaria",
     "price": 1275,
     "airline": "El Al",
@@ -6755,7 +6755,7 @@
    },
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 1293,
     "airline": "El Al",
@@ -6763,7 +6763,7 @@
    },
    {
     "airport": "LCA",
-    "city": "\u05dc\u05e8\u05e0\u05e7\u05d4",
+    "city": "Larnaca",
     "country": "Cyprus",
     "price": 1302,
     "airline": "El Al",
@@ -6771,7 +6771,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 1485,
     "airline": "El Al",
@@ -6779,7 +6779,7 @@
    },
    {
     "airport": "PRG",
-    "city": "\u05e4\u05e8\u05d0\u05d2",
+    "city": "Prague",
     "country": "Czechia",
     "price": 1593,
     "airline": "El Al",
@@ -6787,7 +6787,7 @@
    },
    {
     "airport": "BUD",
-    "city": "\u05d1\u05d5\u05d3\u05e4\u05e9\u05d8",
+    "city": "Budapest",
     "country": "Hungary",
     "price": 1698,
     "airline": "El Al",
@@ -6795,7 +6795,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1794,
     "airline": "El Al",
@@ -6803,7 +6803,7 @@
    },
    {
     "airport": "CDG",
-    "city": "\u05e4\u05e8\u05d9\u05d6",
+    "city": "Paris",
     "country": "France",
     "price": 1932,
     "airline": "El Al",
@@ -6811,7 +6811,7 @@
    },
    {
     "airport": "BCN",
-    "city": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+    "city": "Barcelona",
     "country": "Spain",
     "price": 1983,
     "airline": "El Al",
@@ -6819,7 +6819,7 @@
    },
    {
     "airport": "VIE",
-    "city": "\u05d5\u05d9\u05e0\u05d4",
+    "city": "Vienna",
     "country": "Austria",
     "price": 2088,
     "airline": "El Al",
@@ -6827,7 +6827,7 @@
    },
    {
     "airport": "MXP",
-    "city": "\u05de\u05d9\u05dc\u05d0\u05e0\u05d5",
+    "city": "Milan",
     "country": "Italy",
     "price": 2277,
     "airline": "El Al",
@@ -6835,7 +6835,7 @@
    },
    {
     "airport": "LTN",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London Luton",
     "country": "England",
     "price": 2283,
     "airline": "El Al",
@@ -6843,7 +6843,7 @@
    },
    {
     "airport": "BER",
-    "city": "\u05d1\u05e8\u05dc\u05d9\u05df",
+    "city": "Berlin",
     "country": "Germany",
     "price": 2301,
     "airline": "El Al",
@@ -6851,7 +6851,7 @@
    },
    {
     "airport": "ZRH",
-    "city": "\u05e6\u05d9\u05e8\u05d9\u05da",
+    "city": "Zurich",
     "country": "Switzerland",
     "price": 2349,
     "airline": "El Al",
@@ -6859,7 +6859,7 @@
    },
    {
     "airport": "MUC",
-    "city": "\u05de\u05d9\u05e0\u05db\u05df",
+    "city": "Munich",
     "country": "Germany",
     "price": 2595,
     "airline": "El Al",
@@ -6867,7 +6867,7 @@
    },
    {
     "airport": "FRA",
-    "city": "\u05e4\u05e8\u05e0\u05e7\u05e4\u05d5\u05e8\u05d8",
+    "city": "Frankfurt",
     "country": "Germany",
     "price": 2628,
     "airline": "El Al",
@@ -6875,7 +6875,7 @@
    },
    {
     "airport": "LIS",
-    "city": "\u05dc\u05d9\u05e1\u05d1\u05d5\u05df",
+    "city": "Lisbon",
     "country": "Portugal",
     "price": 2691,
     "airline": "El Al",
@@ -6883,7 +6883,7 @@
    },
    {
     "airport": "AMS",
-    "city": "\u05d0\u05de\u05e1\u05d8\u05e8\u05d3\u05dd",
+    "city": "Amsterdam",
     "country": "Netherlands",
     "price": 2808,
     "airline": "El Al",
@@ -6891,8 +6891,8 @@
    },
    {
     "airport": "DXB",
-    "city": "\u05d3\u05d5\u05d1\u05d0\u05d9",
-    "country": "Unknown",
+    "city": "Dubai",
+    "country": "UAE",
     "price": 2877,
     "airline": "El Al",
     "dur": null
@@ -6906,7 +6906,7 @@
   "flights": [
    {
     "airport": "SOF",
-    "city": "\u05e1\u05d5\u05e4\u05d9\u05d4",
+    "city": "Sofia",
     "country": "Bulgaria",
     "price": 1380,
     "airline": "El Al",
@@ -6914,7 +6914,7 @@
    },
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 1413,
     "airline": "El Al",
@@ -6922,7 +6922,7 @@
    },
    {
     "airport": "BUD",
-    "city": "\u05d1\u05d5\u05d3\u05e4\u05e9\u05d8",
+    "city": "Budapest",
     "country": "Hungary",
     "price": 1608,
     "airline": "El Al",
@@ -6930,7 +6930,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 1713,
     "airline": "El Al",
@@ -6938,7 +6938,7 @@
    },
    {
     "airport": "MRS",
-    "city": "\u05de\u05e8\u05e1\u05d9\u05d9",
+    "city": "Marseille",
     "country": "France",
     "price": 1806,
     "airline": "El Al",
@@ -6946,7 +6946,7 @@
    },
    {
     "airport": "GVA",
-    "city": "\u05d6'\u05e0\u05d1\u05d4",
+    "city": "Geneva",
     "country": "Switzerland",
     "price": 1827,
     "airline": "El Al",
@@ -6954,7 +6954,7 @@
    },
    {
     "airport": "PRG",
-    "city": "\u05e4\u05e8\u05d0\u05d2",
+    "city": "Prague",
     "country": "Czechia",
     "price": 1848,
     "airline": "El Al",
@@ -6962,7 +6962,7 @@
    },
    {
     "airport": "CDG",
-    "city": "\u05e4\u05e8\u05d9\u05d6",
+    "city": "Paris",
     "country": "France",
     "price": 1932,
     "airline": "El Al",
@@ -6970,7 +6970,7 @@
    },
    {
     "airport": "BCN",
-    "city": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+    "city": "Barcelona",
     "country": "Spain",
     "price": 1983,
     "airline": "El Al",
@@ -6978,7 +6978,7 @@
    },
    {
     "airport": "VIE",
-    "city": "\u05d5\u05d9\u05e0\u05d4",
+    "city": "Vienna",
     "country": "Austria",
     "price": 2088,
     "airline": "El Al",
@@ -6986,7 +6986,7 @@
    },
    {
     "airport": "BER",
-    "city": "\u05d1\u05e8\u05dc\u05d9\u05df",
+    "city": "Berlin",
     "country": "Germany",
     "price": 2166,
     "airline": "El Al",
@@ -6994,7 +6994,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 2448,
     "airline": "El Al",
@@ -7002,7 +7002,7 @@
    },
    {
     "airport": "LTN",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London Luton",
     "country": "England",
     "price": 2493,
     "airline": "El Al",
@@ -7010,7 +7010,7 @@
    },
    {
     "airport": "MXP",
-    "city": "\u05de\u05d9\u05dc\u05d0\u05e0\u05d5",
+    "city": "Milan",
     "country": "Italy",
     "price": 2532,
     "airline": "El Al",
@@ -7018,7 +7018,7 @@
    },
    {
     "airport": "MUC",
-    "city": "\u05de\u05d9\u05e0\u05db\u05df",
+    "city": "Munich",
     "country": "Germany",
     "price": 2595,
     "airline": "El Al",
@@ -7026,7 +7026,7 @@
    },
    {
     "airport": "MAD",
-    "city": "\u05de\u05d3\u05e8\u05d9\u05d3",
+    "city": "Madrid",
     "country": "Spain",
     "price": 2598,
     "airline": "El Al",
@@ -7034,7 +7034,7 @@
    },
    {
     "airport": "FRA",
-    "city": "\u05e4\u05e8\u05e0\u05e7\u05e4\u05d5\u05e8\u05d8",
+    "city": "Frankfurt",
     "country": "Germany",
     "price": 2628,
     "airline": "El Al",
@@ -7042,7 +7042,7 @@
    },
    {
     "airport": "ZRH",
-    "city": "\u05e6\u05d9\u05e8\u05d9\u05da",
+    "city": "Zurich",
     "country": "Switzerland",
     "price": 2658,
     "airline": "El Al",
@@ -7050,7 +7050,7 @@
    },
    {
     "airport": "AMS",
-    "city": "\u05d0\u05de\u05e1\u05d8\u05e8\u05d3\u05dd",
+    "city": "Amsterdam",
     "country": "Netherlands",
     "price": 2808,
     "airline": "El Al",
@@ -7058,8 +7058,8 @@
    },
    {
     "airport": "DXB",
-    "city": "\u05d3\u05d5\u05d1\u05d0\u05d9",
-    "country": "Unknown",
+    "city": "Dubai",
+    "country": "UAE",
     "price": 2877,
     "airline": "El Al",
     "dur": null
@@ -7073,7 +7073,7 @@
   "flights": [
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 1149,
     "airline": "El Al",
@@ -7081,7 +7081,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 1383,
     "airline": "El Al",
@@ -7089,7 +7089,7 @@
    },
    {
     "airport": "LCA",
-    "city": "\u05dc\u05e8\u05e0\u05e7\u05d4",
+    "city": "Larnaca",
     "country": "Cyprus",
     "price": 1401,
     "airline": "El Al",
@@ -7097,7 +7097,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 2448,
     "airline": "El Al",
@@ -7112,7 +7112,7 @@
   "flights": [
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 1014,
     "airline": "El Al",
@@ -7120,7 +7120,7 @@
    },
    {
     "airport": "SOF",
-    "city": "\u05e1\u05d5\u05e4\u05d9\u05d4",
+    "city": "Sofia",
     "country": "Bulgaria",
     "price": 1050,
     "airline": "El Al",
@@ -7128,7 +7128,7 @@
    },
    {
     "airport": "LCA",
-    "city": "\u05dc\u05e8\u05e0\u05e7\u05d4",
+    "city": "Larnaca",
     "country": "Cyprus",
     "price": 1101,
     "airline": "El Al",
@@ -7136,7 +7136,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 1194,
     "airline": "El Al",
@@ -7144,7 +7144,7 @@
    },
    {
     "airport": "PRG",
-    "city": "\u05e4\u05e8\u05d0\u05d2",
+    "city": "Prague",
     "country": "Czechia",
     "price": 1668,
     "airline": "El Al",
@@ -7152,7 +7152,7 @@
    },
    {
     "airport": "BUD",
-    "city": "\u05d1\u05d5\u05d3\u05e4\u05e9\u05d8",
+    "city": "Budapest",
     "country": "Hungary",
     "price": 1698,
     "airline": "El Al",
@@ -7160,7 +7160,7 @@
    },
    {
     "airport": "MRS",
-    "city": "\u05de\u05e8\u05e1\u05d9\u05d9",
+    "city": "Marseille",
     "country": "France",
     "price": 1701,
     "airline": "El Al",
@@ -7168,7 +7168,7 @@
    },
    {
     "airport": "GVA",
-    "city": "\u05d6'\u05e0\u05d1\u05d4",
+    "city": "Geneva",
     "country": "Switzerland",
     "price": 1749,
     "airline": "El Al",
@@ -7176,7 +7176,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1758,
     "airline": "El Al",
@@ -7184,7 +7184,7 @@
    },
    {
     "airport": "MXP",
-    "city": "\u05de\u05d9\u05dc\u05d0\u05e0\u05d5",
+    "city": "Milan",
     "country": "Italy",
     "price": 1842,
     "airline": "El Al",
@@ -7192,7 +7192,7 @@
    },
    {
     "airport": "ZRH",
-    "city": "\u05e6\u05d9\u05e8\u05d9\u05da",
+    "city": "Zurich",
     "country": "Switzerland",
     "price": 1923,
     "airline": "El Al",
@@ -7200,7 +7200,7 @@
    },
    {
     "airport": "VIE",
-    "city": "\u05d5\u05d9\u05e0\u05d4",
+    "city": "Vienna",
     "country": "Austria",
     "price": 1956,
     "airline": "El Al",
@@ -7208,7 +7208,7 @@
    },
    {
     "airport": "BCN",
-    "city": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+    "city": "Barcelona",
     "country": "Spain",
     "price": 1983,
     "airline": "El Al",
@@ -7216,7 +7216,7 @@
    },
    {
     "airport": "BER",
-    "city": "\u05d1\u05e8\u05dc\u05d9\u05df",
+    "city": "Berlin",
     "country": "Germany",
     "price": 2055,
     "airline": "El Al",
@@ -7224,7 +7224,7 @@
    },
    {
     "airport": "LTN",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London Luton",
     "country": "England",
     "price": 2073,
     "airline": "El Al",
@@ -7232,7 +7232,7 @@
    },
    {
     "airport": "FRA",
-    "city": "\u05e4\u05e8\u05e0\u05e7\u05e4\u05d5\u05e8\u05d8",
+    "city": "Frankfurt",
     "country": "Germany",
     "price": 2103,
     "airline": "El Al",
@@ -7240,15 +7240,15 @@
    },
    {
     "airport": "DXB",
-    "city": "\u05d3\u05d5\u05d1\u05d0\u05d9",
-    "country": "Unknown",
+    "city": "Dubai",
+    "country": "UAE",
     "price": 2169,
     "airline": "El Al",
     "dur": null
    },
    {
     "airport": "MUC",
-    "city": "\u05de\u05d9\u05e0\u05db\u05df",
+    "city": "Munich",
     "country": "Germany",
     "price": 2184,
     "airline": "El Al",
@@ -7256,7 +7256,7 @@
    },
    {
     "airport": "LIS",
-    "city": "\u05dc\u05d9\u05e1\u05d1\u05d5\u05df",
+    "city": "Lisbon",
     "country": "Portugal",
     "price": 2541,
     "airline": "El Al",
@@ -7264,7 +7264,7 @@
    },
    {
     "airport": "MAD",
-    "city": "\u05de\u05d3\u05e8\u05d9\u05d3",
+    "city": "Madrid",
     "country": "Spain",
     "price": 2598,
     "airline": "El Al",
@@ -7272,7 +7272,7 @@
    },
    {
     "airport": "AMS",
-    "city": "\u05d0\u05de\u05e1\u05d8\u05e8\u05d3\u05dd",
+    "city": "Amsterdam",
     "country": "Netherlands",
     "price": 2808,
     "airline": "El Al",
@@ -7280,7 +7280,7 @@
    },
    {
     "airport": "LHR",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London",
     "country": "England",
     "price": 2826,
     "airline": "El Al",
@@ -7295,7 +7295,7 @@
   "flights": [
    {
     "airport": "LCA",
-    "city": "\u05dc\u05e8\u05e0\u05e7\u05d4",
+    "city": "Larnaca",
     "country": "Cyprus",
     "price": 966,
     "airline": "El Al",
@@ -7303,7 +7303,7 @@
    },
    {
     "airport": "OTP",
-    "city": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+    "city": "Bucharest",
     "country": "Romania",
     "price": 1008,
     "airline": "El Al",
@@ -7311,7 +7311,7 @@
    },
    {
     "airport": "SOF",
-    "city": "\u05e1\u05d5\u05e4\u05d9\u05d4",
+    "city": "Sofia",
     "country": "Bulgaria",
     "price": 1050,
     "airline": "El Al",
@@ -7319,7 +7319,7 @@
    },
    {
     "airport": "ATH",
-    "city": "\u05d0\u05ea\u05d5\u05e0\u05d4",
+    "city": "Athens",
     "country": "Greece",
     "price": 1128,
     "airline": "El Al",
@@ -7327,7 +7327,7 @@
    },
    {
     "airport": "PRG",
-    "city": "\u05e4\u05e8\u05d0\u05d2",
+    "city": "Prague",
     "country": "Czechia",
     "price": 1518,
     "airline": "El Al",
@@ -7335,7 +7335,7 @@
    },
    {
     "airport": "BUD",
-    "city": "\u05d1\u05d5\u05d3\u05e4\u05e9\u05d8",
+    "city": "Budapest",
     "country": "Hungary",
     "price": 1533,
     "airline": "El Al",
@@ -7343,7 +7343,7 @@
    },
    {
     "airport": "MXP",
-    "city": "\u05de\u05d9\u05dc\u05d0\u05e0\u05d5",
+    "city": "Milan",
     "country": "Italy",
     "price": 1617,
     "airline": "El Al",
@@ -7351,7 +7351,7 @@
    },
    {
     "airport": "FCO",
-    "city": "\u05e8\u05d5\u05de\u05d0",
+    "city": "Rome",
     "country": "Italy",
     "price": 1638,
     "airline": "El Al",
@@ -7359,7 +7359,7 @@
    },
    {
     "airport": "CDG",
-    "city": "\u05e4\u05e8\u05d9\u05d6",
+    "city": "Paris",
     "country": "France",
     "price": 1677,
     "airline": "El Al",
@@ -7367,7 +7367,7 @@
    },
    {
     "airport": "MRS",
-    "city": "\u05de\u05e8\u05e1\u05d9\u05d9",
+    "city": "Marseille",
     "country": "France",
     "price": 1701,
     "airline": "El Al",
@@ -7375,7 +7375,7 @@
    },
    {
     "airport": "BER",
-    "city": "\u05d1\u05e8\u05dc\u05d9\u05df",
+    "city": "Berlin",
     "country": "Germany",
     "price": 1806,
     "airline": "El Al",
@@ -7383,7 +7383,7 @@
    },
    {
     "airport": "VIE",
-    "city": "\u05d5\u05d9\u05e0\u05d4",
+    "city": "Vienna",
     "country": "Austria",
     "price": 1866,
     "airline": "El Al",
@@ -7391,7 +7391,7 @@
    },
    {
     "airport": "LTN",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London Luton",
     "country": "England",
     "price": 1908,
     "airline": "El Al",
@@ -7399,7 +7399,7 @@
    },
    {
     "airport": "ZRH",
-    "city": "\u05e6\u05d9\u05e8\u05d9\u05da",
+    "city": "Zurich",
     "country": "Switzerland",
     "price": 1923,
     "airline": "El Al",
@@ -7407,7 +7407,7 @@
    },
    {
     "airport": "BCN",
-    "city": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+    "city": "Barcelona",
     "country": "Spain",
     "price": 1983,
     "airline": "El Al",
@@ -7415,7 +7415,7 @@
    },
    {
     "airport": "FRA",
-    "city": "\u05e4\u05e8\u05e0\u05e7\u05e4\u05d5\u05e8\u05d8",
+    "city": "Frankfurt",
     "country": "Germany",
     "price": 2103,
     "airline": "El Al",
@@ -7423,15 +7423,15 @@
    },
    {
     "airport": "DXB",
-    "city": "\u05d3\u05d5\u05d1\u05d0\u05d9",
-    "country": "Unknown",
+    "city": "Dubai",
+    "country": "UAE",
     "price": 2169,
     "airline": "El Al",
     "dur": null
    },
    {
     "airport": "MUC",
-    "city": "\u05de\u05d9\u05e0\u05db\u05df",
+    "city": "Munich",
     "country": "Germany",
     "price": 2274,
     "airline": "El Al",
@@ -7439,7 +7439,7 @@
    },
    {
     "airport": "LIS",
-    "city": "\u05dc\u05d9\u05e1\u05d1\u05d5\u05df",
+    "city": "Lisbon",
     "country": "Portugal",
     "price": 2541,
     "airline": "El Al",
@@ -7447,7 +7447,7 @@
    },
    {
     "airport": "AMS",
-    "city": "\u05d0\u05de\u05e1\u05d8\u05e8\u05d3\u05dd",
+    "city": "Amsterdam",
     "country": "Netherlands",
     "price": 2556,
     "airline": "El Al",
@@ -7455,7 +7455,7 @@
    },
    {
     "airport": "MAD",
-    "city": "\u05de\u05d3\u05e8\u05d9\u05d3",
+    "city": "Madrid",
     "country": "Spain",
     "price": 2598,
     "airline": "El Al",
@@ -7463,7 +7463,7 @@
    },
    {
     "airport": "LHR",
-    "city": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df",
+    "city": "London",
     "country": "England",
     "price": 2826,
     "airline": "El Al",

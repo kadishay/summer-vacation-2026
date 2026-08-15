@@ -66,6 +66,16 @@ IATA_CITY_COUNTRY = {
     "LIS":("Lisbon","Portugal"),"OPO":("Porto","Portugal"),"FAO":("Faro","Portugal"),
     # Cyprus
     "LCA":("Larnaca","Cyprus"),"PFO":("Paphos","Cyprus"),
+    # UAE
+    "DXB":("Dubai","UAE"),"AUH":("Abu Dhabi","UAE"),
+    # Russia
+    "DME":("Moscow","Russia"),"SVO":("Moscow","Russia"),"LED":("St. Petersburg","Russia"),
+    # Turkey
+    "IST":("Istanbul","Turkey"),"SAW":("Istanbul Sabiha","Turkey"),"AYT":("Antalya","Turkey"),
+    # Egypt
+    "CAI":("Cairo","Egypt"),"HRG":("Hurghada","Egypt"),"SSH":("Sharm el-Sheikh","Egypt"),
+    # Jordan
+    "AMM":("Amman","Jordan"),
     # Romania
     "OTP":("Bucharest","Romania"),"CLJ":("Cluj-Napoca","Romania"),"TSR":("Timisoara","Romania"),
     # Bulgaria
@@ -101,11 +111,9 @@ IATA_CITY_COUNTRY = {
 PRICE_CAP = 3000  # 1000 USD × 3 NIS/USD
 
 def city_from_dest(dest_str, iata):
-    if " - " in dest_str:
-        return dest_str.rsplit(" - ", 1)[0].strip()
     if iata in IATA_CITY_COUNTRY:
         return IATA_CITY_COUNTRY[iata][0]
-    return iata
+    return iata  # fall back to raw IATA code; Hebrew names are intentionally skipped
 
 def merge():
     try:
