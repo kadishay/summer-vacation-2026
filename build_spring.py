@@ -252,6 +252,7 @@ HTML = r'''<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
  <div class="ctrl"><label>Max flight (min)</label><input type="number" id="dMax" placeholder="e.g. 240"></div>
  <div class="ctrl"><label>Min Apr high (°C)</label><input type="number" id="tMin" placeholder="e.g. 18"></div>
  <div class="ctrl"><label>Min days off</label><input type="number" id="doMin" placeholder="e.g. 5"></div>
+ <div class="ctrl"><label>Min free days</label><input type="number" id="fdMin" placeholder="e.g. 2"></div>
  <div class="ctrl"><label>Max rain days</label><input type="number" id="rMax" placeholder="e.g. 8"></div>
  <div class="ctrl"><label>&nbsp;</label><button class="secondary" id="reset">Reset</button></div>
 </div>
@@ -337,7 +338,7 @@ function weatherColor(high,rain){
 }
 function filtered(){
   const q=val('search').toLowerCase(),fa=val('fAir'),ff=val('fFrom'),ft=val('fTo'),
-    nmin=num('nMin'),nmax=num('nMax'),pmin=num('pMin'),pmax=num('pMax'),dmax=num('dMax'),tmin=num('tMin'),rmax=num('rMax'),domin=num('doMin');
+    nmin=num('nMin'),nmax=num('nMax'),pmin=num('pMin'),pmax=num('pMax'),dmax=num('dMax'),tmin=num('tMin'),rmax=num('rMax'),domin=num('doMin'),fdmin=num('fdMin');
   return DATA.filter(d=>{
     if(q&&!(d.dest.toLowerCase().includes(q)||d.country.toLowerCase().includes(q)||d.airline.toLowerCase().includes(q)))return false;
     if(selCountries.size&&!selCountries.has(d.country))return false;
@@ -348,6 +349,7 @@ function filtered(){
     if(pmin!=null&&d.price<pmin)return false;if(pmax!=null&&d.price>pmax)return false;
     if(dmax!=null&&d.durMin>dmax)return false;
     if(domin!=null&&d.daysOff<domin)return false;
+    if(fdmin!=null&&d.freeDays<fdmin)return false;
     if(tmin!=null&&(d.tempHigh===null||d.tempHigh<tmin))return false;
     if(rmax!=null&&(d.rainDays===null||d.rainDays>rmax))return false;
     return true;
@@ -448,7 +450,7 @@ function render(){
   document.getElementById('count').textContent=`${rows.length} of ${DATA.length} flights`+(rows.length?` · cheapest ₪${ch.toLocaleString()}`:'');
   renderMap();
 }
-const ids=['search','fAir','fFrom','fTo','nMin','nMax','pMin','pMax','dMax','doMin','tMin','rMax'];
+const ids=['search','fAir','fFrom','fTo','nMin','nMax','pMin','pMax','dMax','doMin','fdMin','tMin','rMax'];
 ids.forEach(id=>{document.getElementById(id).addEventListener('input',render);document.getElementById(id).addEventListener('change',render)});
 document.getElementById('reset').onclick=()=>{
   ids.forEach(id=>document.getElementById(id).value='');
