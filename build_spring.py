@@ -4,10 +4,16 @@
 Adds two columns vs. the summer page: Apr High/Low temp and Apr rain days.
 Map dot color reflects weather quality (warm+dry = orange, cool+wet = blue).
 """
-import json, datetime
+import json, datetime, subprocess
 
 DATA = json.load(open("spring_results.json"))
 CAPTURE = datetime.date.today().isoformat()
+try:
+    VERSION = "v" + subprocess.check_output(
+        ["git", "rev-list", "--count", "HEAD"], stderr=subprocess.DEVNULL
+    ).decode().strip()
+except Exception:
+    VERSION = "v?"
 
 # April climate averages per city: {high°C, low°C, rain days/month}
 CLIMATE = {
@@ -156,7 +162,8 @@ HTML = r'''<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
 <style>
  :root{--bg:#0f1419;--panel:#1a2029;--line:#2b3340;--text:#e6edf3;--muted:#8b98a8;--accent:#4ea1ff;}
  *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:14px/1.45 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
- header{padding:18px 22px 10px;border-bottom:1px solid var(--line);position:sticky;top:0;background:var(--bg);z-index:30}
+ header{padding:18px 22px 10px;border-bottom:1px solid var(--line);position:sticky;top:0;background:var(--bg);z-index:30;display:flex;justify-content:space-between;align-items:flex-start}
+ .header-main{flex:1}.version-badge{font-size:12px;font-family:monospace;color:var(--muted);background:var(--line);border-radius:5px;padding:3px 8px;white-space:nowrap;margin-top:4px;flex-shrink:0}
  h1{margin:0 0 2px;font-size:18px}.sub{color:var(--muted);font-size:13px}
  .controls{display:flex;flex-wrap:wrap;gap:14px;padding:12px 22px;border-bottom:1px solid var(--line);align-items:flex-end;background:var(--panel);position:sticky;top:61px;z-index:20}
  .ctrl{display:flex;flex-direction:column;gap:4px}.ctrl label{font-size:11px;text-transform:uppercase;letter-spacing:.04em;color:var(--muted)}
@@ -184,8 +191,8 @@ HTML = r'''<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
  .weather-legend{background:#1a2029;border:1px solid #2b3340;border-radius:7px;padding:8px 12px;color:#e6edf3;font:12px/1.7 -apple-system,sans-serif;line-height:1.7}
  .weather-legend b{display:block;margin-bottom:2px;font-size:11px;text-transform:uppercase;letter-spacing:.04em;color:#8b98a8}
 </style></head><body>
-<header><h1>Spring Break 2027 Flights — Tel Aviv → Europe</h1>
-<div class="sub">Google Flights · &le; 3,000 NIS (~$1,000) · 5–10 nights · Apr 13–23, 2027 · captured __CAPTURE__ · <span id="total"></span> options · 3 NIS ≈ $1 USD. Click a column to sort; filter below.</div></header>
+<header><div class="header-main"><h1>Spring Break 2027 Flights — Tel Aviv → Europe</h1>
+<div class="sub">Google Flights · &le; 3,000 NIS (~$1,000) · 5–10 nights · Apr 13–23, 2027 · captured __CAPTURE__ · <span id="total"></span> options · 3 NIS ≈ $1 USD. Click a column to sort; filter below.</div></div><span class="version-badge">__VERSION__</span></header>
 <div class="controls">
  <div class="ctrl"><label>Search</label><input id="search" placeholder="city / country / airline…"></div>
  <div class="ctrl"><label>Country</label><select id="fCountry"></select></div>
@@ -355,7 +362,7 @@ ids.forEach(id=>{document.getElementById(id).addEventListener('input',render);do
 document.getElementById('reset').onclick=()=>{ids.forEach(id=>document.getElementById(id).value='');sortKey='price';sortDir=1;render()};
 render();
 </script></body></html>'''
-HTML = HTML.replace("__DATA__", data_json).replace("__CAPTURE__", CAPTURE)
+HTML = HTML.replace("__DATA__", data_json).replace("__CAPTURE__", CAPTURE).replace("__VERSION__", VERSION)
 open("spring.html","w").write(HTML)
 open("spring_index.html","w").write(HTML)
 print(f"rows={nrows} dates={ndates} countries={countries}")
