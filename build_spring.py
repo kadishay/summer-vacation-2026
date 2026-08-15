@@ -166,7 +166,7 @@ HTML = r'''<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
  header{padding:18px 22px 10px;border-bottom:1px solid var(--line);position:sticky;top:0;background:var(--bg);z-index:30;display:flex;justify-content:space-between;align-items:flex-start}
  .header-main{flex:1}.version-badge{font-size:12px;font-family:monospace;color:var(--muted);background:var(--line);border-radius:5px;padding:3px 8px;white-space:nowrap;margin-top:4px;flex-shrink:0}
  h1{margin:0 0 2px;font-size:18px}.sub{color:var(--muted);font-size:13px}
- .controls{display:flex;flex-wrap:wrap;gap:14px;padding:12px 22px;border-bottom:1px solid var(--line);align-items:flex-end;background:var(--panel);position:sticky;top:61px;z-index:20}
+ .controls{display:flex;flex-wrap:wrap;gap:14px;padding:12px 22px;border-bottom:1px solid var(--line);align-items:flex-end;background:var(--panel);position:sticky;top:61px;z-index:1000}
  .ctrl{display:flex;flex-direction:column;gap:4px}.ctrl label{font-size:11px;text-transform:uppercase;letter-spacing:.04em;color:var(--muted)}
  select,input{background:var(--bg);color:var(--text);border:1px solid var(--line);border-radius:7px;padding:6px 8px;font-size:13px;outline:none}
  input:focus,select:focus{border-color:var(--accent)}input[type=number]{width:90px}.range{display:flex;gap:6px;align-items:center}#search{width:200px}
