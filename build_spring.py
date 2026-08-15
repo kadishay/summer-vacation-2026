@@ -120,6 +120,17 @@ def count_days_off(dep_iso, ret_iso):
         d += datetime.timedelta(days=1)
     return count
 
+def count_free_days(dep_iso, ret_iso):
+    """Count Fri/Sat/holiday days in the trip (= days off without using PTO)."""
+    dep = datetime.date.fromisoformat(dep_iso)
+    ret = datetime.date.fromisoformat(ret_iso)
+    count, d = 0, dep
+    while d <= ret:
+        if d.weekday() not in WORK_DAYS or d in HOLIDAYS:
+            count += 1
+        d += datetime.timedelta(days=1)
+    return count
+
 def get_climate(city):
     """Look up climate, handling variants like 'Milan Bergamo', 'Paris Orly', 'London Gatwick'."""
     if city in CLIMATE:
@@ -153,6 +164,7 @@ for key, dp in DATA.items():
             "toDay": datetime.date.fromisoformat(dp["ret"]).day,
             "nights": dp["nights"], "length": fmt_dur(f["dur"]), "durMin": f["dur"] or 0,
             "daysOff": count_days_off(dp["dep"], dp["ret"]),
+            "freeDays": count_free_days(dp["dep"], dp["ret"]),
             "tempHigh": cl["high"] if cl else None,
             "tempLow":  cl["low"]  if cl else None,
             "rainDays": cl["rain"] if cl else None,
@@ -242,6 +254,7 @@ const cols=[
   {key:'to',label:'Return',sortKey:'toISO'},
   {key:'nights',label:'Nights',num:1},
   {key:'daysOff',label:'Days Off',num:1},
+  {key:'freeDays',label:'Free Days',num:1},
   {key:'length',label:'Flight length',sortKey:'durMin'},
   {key:'tempHigh',label:'Apr High/Low',num:1},
   {key:'rainDays',label:'Apr Rain',num:1},
@@ -413,7 +426,7 @@ function render(){
     const wc=weatherColor(d.tempHigh,d.rainDays);
     const tempStr=d.tempHigh!==null?`${d.tempHigh}° / ${d.tempLow}°`:'—';
     const rainStr=d.rainDays!==null?`${d.rainDays} days`:'—';
-    return`<tr><td>${d.dest}</td><td class="country">${d.country}</td><td class="num price">₪${d.price.toLocaleString()}<span class="bar" style="width:${w}px"></span></td><td>${d.airline}</td><td>${d.from}</td><td>${d.to}</td><td class="num"><span class="pill">${d.nights}</span></td><td class="num"><span class="pill" style="background:${d.daysOff>=6?'#6b1f1f':d.daysOff>=4?'#7a3a1a':d.daysOff>=2?'#4a3a12':'var(--line)'}">${d.daysOff}</span></td><td>${d.length}</td><td class="num" style="color:${wc}">${tempStr}</td><td class="num">${rainStr}</td><td><a class="gf" href="${gf(d)}" target="_blank" rel="noopener">open ↗</a></td></tr>`;
+    return`<tr><td>${d.dest}</td><td class="country">${d.country}</td><td class="num price">₪${d.price.toLocaleString()}<span class="bar" style="width:${w}px"></span></td><td>${d.airline}</td><td>${d.from}</td><td>${d.to}</td><td class="num"><span class="pill">${d.nights}</span></td><td class="num"><span class="pill" style="background:${d.daysOff>=6?'#6b1f1f':d.daysOff>=4?'#7a3a1a':d.daysOff>=2?'#4a3a12':'var(--line)'}">${d.daysOff}</span></td><td class="num"><span class="pill" style="background:${d.freeDays>=6?'#1a5c35':d.freeDays>=4?'#2d7d46':d.freeDays>=2?'#3a5c30':'var(--line)'}">${d.freeDays}</span></td><td>${d.length}</td><td class="num" style="color:${wc}">${tempStr}</td><td class="num">${rainStr}</td><td><a class="gf" href="${gf(d)}" target="_blank" rel="noopener">open ↗</a></td></tr>`;
   }).join('');
   const ch=rows.length?Math.min(...rows.map(r=>r.price)):0;
   document.getElementById('count').textContent=`${rows.length} of ${DATA.length} flights`+(rows.length?` · cheapest ₪${ch.toLocaleString()}`:'');
