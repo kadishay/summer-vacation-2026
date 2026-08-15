@@ -9,9 +9,10 @@ import json, datetime, subprocess
 DATA = json.load(open("spring_results.json"))
 CAPTURE = datetime.date.today().isoformat()
 try:
-    VERSION = "v" + subprocess.check_output(
+    count = int(subprocess.check_output(
         ["git", "rev-list", "--count", "HEAD"], stderr=subprocess.DEVNULL
-    ).decode().strip()
+    ).decode().strip())
+    VERSION = f"v{count + 1}"  # +1 because the build itself will be committed
 except Exception:
     VERSION = "v?"
 
