@@ -101,18 +101,24 @@ CLIMATE = {
     "Faro":         {"high": 22, "low": 13, "rain":  6},
 }
 
-OFF_DAYS = {
-    datetime.date(2027, 4, 16), datetime.date(2027, 4, 17),
-    datetime.date(2027, 4, 20), datetime.date(2027, 4, 21),
-    datetime.date(2027, 4, 22), datetime.date(2027, 4, 23),
-    datetime.date(2027, 4, 24), datetime.date(2027, 4, 27),
-    datetime.date(2027, 4, 28), datetime.date(2027, 5,  1),
+# Public holidays within the spring window — no PTO needed for these
+HOLIDAYS = {
+    datetime.date(2027, 4, 21), datetime.date(2027, 4, 22),
+    datetime.date(2027, 4, 27), datetime.date(2027, 4, 28),
 }
+# Israeli work week: Sun(6) Mon(0) Tue(1) Wed(2) Thu(3)
+WORK_DAYS = {0, 1, 2, 3, 6}
 
 def count_days_off(dep_iso, ret_iso):
+    """Count Sun–Thu workdays in the trip that are not public holidays (= PTO days used)."""
     dep = datetime.date.fromisoformat(dep_iso)
     ret = datetime.date.fromisoformat(ret_iso)
-    return sum(1 for d in OFF_DAYS if dep <= d <= ret)
+    count, d = 0, dep
+    while d <= ret:
+        if d.weekday() in WORK_DAYS and d not in HOLIDAYS:
+            count += 1
+        d += datetime.timedelta(days=1)
+    return count
 
 def get_climate(city):
     """Look up climate, handling variants like 'Milan Bergamo', 'Paris Orly', 'London Gatwick'."""
@@ -407,7 +413,7 @@ function render(){
     const wc=weatherColor(d.tempHigh,d.rainDays);
     const tempStr=d.tempHigh!==null?`${d.tempHigh}° / ${d.tempLow}°`:'—';
     const rainStr=d.rainDays!==null?`${d.rainDays} days`:'—';
-    return`<tr><td>${d.dest}</td><td class="country">${d.country}</td><td class="num price">₪${d.price.toLocaleString()}<span class="bar" style="width:${w}px"></span></td><td>${d.airline}</td><td>${d.from}</td><td>${d.to}</td><td class="num"><span class="pill">${d.nights}</span></td><td class="num"><span class="pill" style="background:${d.daysOff>=7?'#2d5a3d':d.daysOff>=5?'#3a4a1e':'var(--line)'}">${d.daysOff}</span></td><td>${d.length}</td><td class="num" style="color:${wc}">${tempStr}</td><td class="num">${rainStr}</td><td><a class="gf" href="${gf(d)}" target="_blank" rel="noopener">open ↗</a></td></tr>`;
+    return`<tr><td>${d.dest}</td><td class="country">${d.country}</td><td class="num price">₪${d.price.toLocaleString()}<span class="bar" style="width:${w}px"></span></td><td>${d.airline}</td><td>${d.from}</td><td>${d.to}</td><td class="num"><span class="pill">${d.nights}</span></td><td class="num"><span class="pill" style="background:${d.daysOff>=6?'#6b1f1f':d.daysOff>=4?'#7a3a1a':d.daysOff>=2?'#4a3a12':'var(--line)'}">${d.daysOff}</span></td><td>${d.length}</td><td class="num" style="color:${wc}">${tempStr}</td><td class="num">${rainStr}</td><td><a class="gf" href="${gf(d)}" target="_blank" rel="noopener">open ↗</a></td></tr>`;
   }).join('');
   const ch=rows.length?Math.min(...rows.map(r=>r.price)):0;
   document.getElementById('count').textContent=`${rows.length} of ${DATA.length} flights`+(rows.length?` · cheapest ₪${ch.toLocaleString()}`:'');
