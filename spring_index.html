@@ -33,13 +33,25 @@
  .leaflet-tooltip-left:before,.leaflet-tooltip-right:before,.leaflet-tooltip-top:before,.leaflet-tooltip-bottom:before{border:none}
  .weather-legend{background:#1a2029;border:1px solid #2b3340;border-radius:7px;padding:8px 12px;color:#e6edf3;font:12px/1.7 -apple-system,sans-serif;line-height:1.7}
  .weather-legend b{display:block;margin-bottom:2px;font-size:11px;text-transform:uppercase;letter-spacing:.04em;color:#8b98a8}
+ .ms-wrap{position:relative}
+ .ms-btn{background:var(--bg);color:var(--text);border:1px solid var(--line);border-radius:7px;padding:6px 26px 6px 8px;font-size:13px;font-weight:400;cursor:pointer;text-align:left;min-width:140px;position:relative;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:200px}
+ .ms-btn::after{content:'▾';position:absolute;right:8px;top:50%;transform:translateY(-50%);color:var(--muted);font-size:10px;pointer-events:none}
+ .ms-btn.active{border-color:var(--accent);color:var(--accent)}
+ .ms-panel{display:none;position:absolute;top:calc(100% + 4px);left:0;min-width:200px;max-height:300px;background:var(--panel);border:1px solid var(--line);border-radius:7px;z-index:200;box-shadow:0 6px 20px rgba(0,0,0,.6);flex-direction:column}
+ .ms-panel.open{display:flex}
+ .ms-search{border:none;border-bottom:1px solid var(--line);border-radius:7px 7px 0 0;padding:7px 10px;font-size:13px;background:var(--panel);color:var(--text);outline:none;flex-shrink:0}
+ .ms-list{overflow-y:auto;flex:1;max-height:240px}
+ .ms-item{display:flex;align-items:center;gap:8px;padding:5px 12px;cursor:pointer;font-size:13px;white-space:nowrap;user-select:none}
+ .ms-item:hover{background:rgba(255,255,255,.05)}
+ .ms-item input[type=checkbox]{cursor:pointer;accent-color:var(--accent);flex-shrink:0;width:14px;height:14px}
+ .ms-divider{border:none;border-top:1px solid var(--line);margin:2px 0;flex-shrink:0}
 </style></head><body>
 <header><div class="header-main"><h1>Spring Break 2027 Flights — Tel Aviv → Europe</h1>
-<div class="sub">Google Flights · &le; 3,000 NIS (~$1,000) · 5–10 nights · Apr 13–23, 2027 · captured 2026-08-15 · <span id="total"></span> options · 3 NIS ≈ $1 USD. Click a column to sort; filter below.</div></div><span class="version-badge">v22</span></header>
+<div class="sub">Google Flights · &le; 3,000 NIS (~$1,000) · 5–10 nights · Apr 13–23, 2027 · captured 2026-08-15 · <span id="total"></span> options · 3 NIS ≈ $1 USD. Click a column to sort; filter below.</div></div><span class="version-badge">v23</span></header>
 <div class="controls">
  <div class="ctrl"><label>Search</label><input id="search" placeholder="city / country / airline…"></div>
- <div class="ctrl"><label>Country</label><select id="fCountry"></select></div>
- <div class="ctrl"><label>Destination</label><select id="fDest"></select></div>
+ <div class="ctrl"><label>Country</label><div class="ms-wrap" id="msWrapCountry"><button class="ms-btn" id="msBtnCountry" type="button">All countries</button><div class="ms-panel" id="msPanelCountry"><input class="ms-search" id="msSearchCountry" placeholder="Search…"><div class="ms-list" id="msListCountry"></div></div></div></div>
+ <div class="ctrl"><label>Destination</label><div class="ms-wrap" id="msWrapDest"><button class="ms-btn" id="msBtnDest" type="button">All destinations</button><div class="ms-panel" id="msPanelDest"><input class="ms-search" id="msSearchDest" placeholder="Search…"><div class="ms-list" id="msListDest"></div></div></div></div>
  <div class="ctrl"><label>Airline</label><select id="fAir"></select></div>
  <div class="ctrl"><label>Depart day</label><select id="fFrom"></select></div>
  <div class="ctrl"><label>Return day</label><select id="fTo"></select></div>
@@ -74,12 +86,48 @@ const cols=[
 let sortKey='price',sortDir=1;
 const uniq=k=>[...new Set(DATA.map(d=>d[k]))];
 function fill(s,v,st){document.getElementById(s).innerHTML='<option value="">All</option>'+v.sort(st).map(x=>`<option>${x}</option>`).join('')}
-fill('fCountry',uniq('country'),(a,b)=>a.localeCompare(b));
-fill('fDest',uniq('dest'),(a,b)=>a.localeCompare(b));
 fill('fAir',uniq('airline'),(a,b)=>a.localeCompare(b));
 fill('fFrom',uniq('from'),(a,b)=>DATA.find(d=>d.from==a).fromISO.localeCompare(DATA.find(d=>d.from==b).fromISO));
 fill('fTo',uniq('to'),(a,b)=>DATA.find(d=>d.to==a).toISO.localeCompare(DATA.find(d=>d.to==b).toISO));
 document.getElementById('total').textContent=DATA.length;
+// --- Multi-select (Country + Destination) ---
+const selCountries=new Set(),selDests=new Set();
+const allCountries=uniq('country').sort((a,b)=>a.localeCompare(b));
+const allDests2=uniq('dest').sort((a,b)=>a.localeCompare(b));
+function buildMS(listId,btnId,searchId,items,sel,allLabel){
+  const list=document.getElementById(listId);
+  function renderList(q){
+    const fi=q?items.filter(x=>x.toLowerCase().includes(q.toLowerCase())):items;
+    list.innerHTML=(!q?`<label class="ms-item"><input type="checkbox" class="ms-all-cb" ${sel.size===0?'checked':''}> <span>All / None</span></label><hr class="ms-divider">`:'')
+      +fi.map(v=>`<label class="ms-item"><input type="checkbox" value="${v.replace(/"/g,'&quot;')}" ${sel.has(v)?'checked':''}> <span>${v}</span></label>`).join('');
+    list.querySelectorAll('input[type=checkbox]').forEach(cb=>{
+      cb.addEventListener('change',()=>{
+        if(cb.classList.contains('ms-all-cb')){if(cb.checked){sel.clear();}else{items.forEach(v=>sel.add(v));}}
+        else{if(cb.checked)sel.add(cb.value);else sel.delete(cb.value);}
+        updateMSBtn(btnId,sel,allLabel);render();renderList(document.getElementById(searchId).value);
+      });
+    });
+  }
+  document.getElementById(searchId).addEventListener('input',e=>renderList(e.target.value));
+  renderList('');updateMSBtn(btnId,sel,allLabel);
+}
+function updateMSBtn(btnId,sel,allLabel){
+  const btn=document.getElementById(btnId);
+  btn.textContent=sel.size===0?allLabel:sel.size===1?[...sel][0]:`${sel.size} selected`;
+  btn.classList.toggle('active',sel.size>0);
+}
+function toggleMS(wrapId){
+  document.querySelectorAll('.ms-panel').forEach(p=>{if(p.closest('.ms-wrap').id!==wrapId)p.classList.remove('open');});
+  const panel=document.querySelector('#'+wrapId+' .ms-panel');
+  const opening=!panel.classList.contains('open');
+  panel.classList.toggle('open');
+  if(opening)document.querySelector('#'+wrapId+' .ms-search').focus();
+}
+document.addEventListener('click',e=>{if(!e.target.closest('.ms-wrap'))document.querySelectorAll('.ms-panel').forEach(p=>p.classList.remove('open'));});
+document.getElementById('msWrapCountry').querySelector('.ms-btn').addEventListener('click',()=>toggleMS('msWrapCountry'));
+document.getElementById('msWrapDest').querySelector('.ms-btn').addEventListener('click',()=>toggleMS('msWrapDest'));
+buildMS('msListCountry','msBtnCountry','msSearchCountry',allCountries,selCountries,'All countries');
+buildMS('msListDest','msBtnDest','msSearchDest',allDests2,selDests,'All destinations');
 const head=document.getElementById('head');
 function renderHead(){head.innerHTML=cols.map(c=>{if(c.nosort)return'<th></th>';const k=c.sortKey||c.key;const a=(sortKey===k)?` <span class="arrow">${sortDir>0?'▲':'▼'}</span>`:'';return`<th data-k="${k}">${c.label}${a}</th>`}).join('');head.querySelectorAll('th[data-k]').forEach(th=>th.onclick=()=>{const k=th.dataset.k;if(sortKey===k)sortDir*=-1;else{sortKey=k;sortDir=1}render()})}
 const gf=d=>'https://www.google.com/travel/flights?q='+encodeURIComponent('Flights from Tel Aviv to '+d.dest+' on '+d.fromISO+' returning '+d.toISO);
@@ -95,11 +143,13 @@ function weatherColor(high,rain){
   return'#5588bb';
 }
 function filtered(){
-  const q=val('search').toLowerCase(),fc=val('fCountry'),fd=val('fDest'),fa=val('fAir'),ff=val('fFrom'),ft=val('fTo'),
+  const q=val('search').toLowerCase(),fa=val('fAir'),ff=val('fFrom'),ft=val('fTo'),
     nmin=num('nMin'),nmax=num('nMax'),pmin=num('pMin'),pmax=num('pMax'),dmax=num('dMax'),tmin=num('tMin'),rmax=num('rMax'),domin=num('doMin');
   return DATA.filter(d=>{
     if(q&&!(d.dest.toLowerCase().includes(q)||d.country.toLowerCase().includes(q)||d.airline.toLowerCase().includes(q)))return false;
-    if(fc&&d.country!==fc)return false;if(fd&&d.dest!==fd)return false;if(fa&&d.airline!==fa)return false;
+    if(selCountries.size&&!selCountries.has(d.country))return false;
+    if(selDests.size&&!selDests.has(d.dest))return false;
+    if(fa&&d.airline!==fa)return false;
     if(ff&&d.from!==ff)return false;if(ft&&d.to!==ft)return false;
     if(nmin!=null&&d.nights<nmin)return false;if(nmax!=null&&d.nights>nmax)return false;
     if(pmin!=null&&d.price<pmin)return false;if(pmax!=null&&d.price>pmax)return false;
@@ -205,8 +255,14 @@ function render(){
   document.getElementById('count').textContent=`${rows.length} of ${DATA.length} flights`+(rows.length?` · cheapest ₪${ch.toLocaleString()}`:'');
   renderMap();
 }
-const ids=['search','fCountry','fDest','fAir','fFrom','fTo','nMin','nMax','pMin','pMax','dMax','doMin','tMin','rMax'];
+const ids=['search','fAir','fFrom','fTo','nMin','nMax','pMin','pMax','dMax','doMin','tMin','rMax'];
 ids.forEach(id=>{document.getElementById(id).addEventListener('input',render);document.getElementById(id).addEventListener('change',render)});
-document.getElementById('reset').onclick=()=>{ids.forEach(id=>document.getElementById(id).value='');sortKey='price';sortDir=1;render()};
+document.getElementById('reset').onclick=()=>{
+  ids.forEach(id=>document.getElementById(id).value='');
+  selCountries.clear();selDests.clear();
+  buildMS('msListCountry','msBtnCountry','msSearchCountry',allCountries,selCountries,'All countries');
+  buildMS('msListDest','msBtnDest','msSearchDest',allDests2,selDests,'All destinations');
+  sortKey='price';sortDir=1;render();
+};
 render();
 </script></body></html>
