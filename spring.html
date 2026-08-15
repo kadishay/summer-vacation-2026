@@ -35,7 +35,7 @@
  .weather-legend b{display:block;margin-bottom:2px;font-size:11px;text-transform:uppercase;letter-spacing:.04em;color:#8b98a8}
 </style></head><body>
 <header><div class="header-main"><h1>Spring Break 2027 Flights — Tel Aviv → Europe</h1>
-<div class="sub">Google Flights · &le; 3,000 NIS (~$1,000) · 5–10 nights · Apr 13–23, 2027 · captured 2026-08-15 · <span id="total"></span> options · 3 NIS ≈ $1 USD. Click a column to sort; filter below.</div></div><span class="version-badge">v21</span></header>
+<div class="sub">Google Flights · &le; 3,000 NIS (~$1,000) · 5–10 nights · Apr 13–23, 2027 · captured 2026-08-15 · <span id="total"></span> options · 3 NIS ≈ $1 USD. Click a column to sort; filter below.</div></div><span class="version-badge">v22</span></header>
 <div class="controls">
  <div class="ctrl"><label>Search</label><input id="search" placeholder="city / country / airline…"></div>
  <div class="ctrl"><label>Country</label><select id="fCountry"></select></div>
@@ -162,8 +162,10 @@ function renderMap(){
   const byDest={};
   rows.forEach(d=>{if(!byDest[d.dest])byDest[d.dest]=[];byDest[d.dest].push(d)});
   Object.values(byDest).forEach(arr=>arr.sort((a,b)=>a.price-b.price));
-  const top10=Object.entries(byDest).sort((a,b)=>a[1][0].price-b[1][0].price).slice(0,10);
-  top10.forEach(([dest,flights],rank)=>{
+  const allDests=Object.entries(byDest).sort((a,b)=>a[1][0].price-b[1][0].price);
+  const minP=allDests.length?allDests[0][1][0].price:1;
+  const maxP=allDests.length?allDests[allDests.length-1][1][0].price:1;
+  allDests.forEach(([dest,flights])=>{
     const coords=COORDS[dest];if(!coords)return;
     const top3=flights.slice(0,3);
     const f0=flights[0];
@@ -173,9 +175,10 @@ function renderMap(){
     const tipHtml='<div class="map-tip"><div class="tip-head">'+dest+'</div>'+weatherLine+
       top3.map(f=>'<div class="tip-flight"><span class="tip-price">₪'+f.price.toLocaleString()+'</span> · '+f.airline+
         '<div class="tip-meta">'+f.from+' → '+f.to+' · '+f.nights+' nights · '+f.length+'</div></div>').join('')+'</div>';
-    const size=rank===0?14:rank<3?11:8;
+    const t=maxP===minP?1:1-(f0.price-minP)/(maxP-minP);
+    const size=6+Math.round(t*8);
     const marker=L.circleMarker(coords,{
-      radius:size,fillColor:wColor,color:'#fff',weight:1.5,fillOpacity:rank===0?1:0.75,
+      radius:size,fillColor:wColor,color:'#fff',weight:1.5,fillOpacity:0.85,
     }).bindTooltip(tipHtml,{className:'',sticky:false,direction:'auto',offset:[0,0]}).addTo(map);
     mapMarkers.push(marker);
   });
