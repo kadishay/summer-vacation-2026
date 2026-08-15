@@ -1,0 +1,2845 @@
+{
+ "2027-03-24_2027-03-29": {
+  "dep": "2027-03-24",
+  "ret": "2027-03-29",
+  "nights": 5,
+  "flights": [
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 370,
+    "airline": "Aegean",
+    "dur": 130
+   },
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 500,
+    "airline": "Wizz Air",
+    "dur": 235
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 513,
+    "airline": "Wizz Air",
+    "dur": 215
+   },
+   {
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 568,
+    "airline": "Wizz Air",
+    "dur": 265
+   },
+   {
+    "airport": "VCE",
+    "city": "Venice",
+    "country": "Italy",
+    "price": 602,
+    "airline": "Wizz Air",
+    "dur": 240
+   },
+   {
+    "airport": "PMO",
+    "city": "Palermo",
+    "country": "Italy",
+    "price": 602,
+    "airline": "Wizz Air",
+    "dur": 215
+   },
+   {
+    "airport": "ORY",
+    "city": "Paris Orly",
+    "country": "France",
+    "price": 831,
+    "airline": "Transavia",
+    "dur": 315
+   },
+   {
+    "airport": "FRA",
+    "city": "Frankfurt",
+    "country": "Germany",
+    "price": 973,
+    "airline": "Condor",
+    "dur": 260
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 1085,
+    "airline": "El Al",
+    "dur": 270
+   },
+   {
+    "airport": "ZRH",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "price": 1105,
+    "airline": "El Al",
+    "dur": 270
+   },
+   {
+    "airport": "MUC",
+    "city": "Munich",
+    "country": "Germany",
+    "price": 1136,
+    "airline": "Lufthansa",
+    "dur": 250
+   },
+   {
+    "airport": "CDG",
+    "city": "Paris",
+    "country": "France",
+    "price": 1192,
+    "airline": "El Al",
+    "dur": 310
+   },
+   {
+    "airport": "BCN",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price": 1317,
+    "airline": "El Al",
+    "dur": 290
+   },
+   {
+    "airport": "AMS",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "price": 1525,
+    "airline": "El Al",
+    "dur": 315
+   },
+   {
+    "airport": "MAD",
+    "city": "Madrid",
+    "country": "Spain",
+    "price": 1570,
+    "airline": "Air Europa",
+    "dur": 325
+   },
+   {
+    "airport": "GVA",
+    "city": "Geneva",
+    "country": "Switzerland",
+    "price": 1619,
+    "airline": "El Al",
+    "dur": 275
+   }
+  ]
+ },
+ "2027-03-24_2027-04-01": {
+  "dep": "2027-03-24",
+  "ret": "2027-04-01",
+  "nights": 8,
+  "flights": [
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 370,
+    "airline": "Aegean",
+    "dur": 130
+   },
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 567,
+    "airline": "Wizz Air",
+    "dur": 235
+   },
+   {
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 636,
+    "airline": "Wizz Air",
+    "dur": 265
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 650,
+    "airline": "Wizz Air",
+    "dur": 215
+   },
+   {
+    "airport": "MAD",
+    "city": "Madrid",
+    "country": "Spain",
+    "price": 952,
+    "airline": "Air Europa",
+    "dur": 325
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 996,
+    "airline": "El Al",
+    "dur": 270
+   },
+   {
+    "airport": "FRA",
+    "city": "Frankfurt",
+    "country": "Germany",
+    "price": 1017,
+    "airline": "Condor",
+    "dur": 260
+   },
+   {
+    "airport": "ORY",
+    "city": "Paris Orly",
+    "country": "France",
+    "price": 1029,
+    "airline": "Transavia",
+    "dur": 315
+   },
+   {
+    "airport": "ZRH",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "price": 1037,
+    "airline": "El Al",
+    "dur": 270
+   },
+   {
+    "airport": "MUC",
+    "city": "Munich",
+    "country": "Germany",
+    "price": 1148,
+    "airline": "El Al",
+    "dur": 255
+   },
+   {
+    "airport": "BCN",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price": 1228,
+    "airline": "El Al",
+    "dur": 290
+   },
+   {
+    "airport": "CDG",
+    "city": "Paris",
+    "country": "France",
+    "price": 1266,
+    "airline": "El Al",
+    "dur": 310
+   },
+   {
+    "airport": "AMS",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "price": 1481,
+    "airline": "El Al",
+    "dur": 315
+   }
+  ]
+ },
+ "2027-03-25_2027-03-30": {
+  "dep": "2027-03-25",
+  "ret": "2027-03-30",
+  "nights": 5,
+  "flights": [
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 448,
+    "airline": "Aegean",
+    "dur": 130
+   },
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 499,
+    "airline": "Wizz Air",
+    "dur": 235
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 513,
+    "airline": "Wizz Air",
+    "dur": 215
+   },
+   {
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 568,
+    "airline": "Wizz Air",
+    "dur": 215
+   },
+   {
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 568,
+    "airline": "Wizz Air",
+    "dur": 265
+   },
+   {
+    "airport": "CTA",
+    "city": "Catania",
+    "country": "Italy",
+    "price": 753,
+    "airline": "Wizz Air",
+    "dur": 200
+   },
+   {
+    "airport": "ORY",
+    "city": "Paris Orly",
+    "country": "France",
+    "price": 825,
+    "airline": "Transavia",
+    "dur": 315
+   },
+   {
+    "airport": "LYS",
+    "city": "Lyon",
+    "country": "France",
+    "price": 834,
+    "airline": "Transavia",
+    "dur": 290
+   },
+   {
+    "airport": "ZRH",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "price": 874,
+    "airline": "El Al",
+    "dur": 270
+   },
+   {
+    "airport": "MRS",
+    "city": "Marseille",
+    "country": "France",
+    "price": 971,
+    "airline": "Transavia",
+    "dur": 285
+   },
+   {
+    "airport": "VCE",
+    "city": "Venice",
+    "country": "Italy",
+    "price": 991,
+    "airline": "El Al",
+    "dur": 230
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 996,
+    "airline": "El Al",
+    "dur": 270
+   },
+   {
+    "airport": "FRA",
+    "city": "Frankfurt",
+    "country": "Germany",
+    "price": 1017,
+    "airline": "Condor",
+    "dur": 260
+   },
+   {
+    "airport": "BCN",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price": 1081,
+    "airline": "El Al",
+    "dur": 290
+   },
+   {
+    "airport": "MAD",
+    "city": "Madrid",
+    "country": "Spain",
+    "price": 1097,
+    "airline": "Air Europa",
+    "dur": 325
+   },
+   {
+    "airport": "MUC",
+    "city": "Munich",
+    "country": "Germany",
+    "price": 1101,
+    "airline": "El Al",
+    "dur": 255
+   },
+   {
+    "airport": "CDG",
+    "city": "Paris",
+    "country": "France",
+    "price": 1251,
+    "airline": "El Al",
+    "dur": 300
+   },
+   {
+    "airport": "GVA",
+    "city": "Geneva",
+    "country": "Switzerland",
+    "price": 1309,
+    "airline": "El Al",
+    "dur": 275
+   },
+   {
+    "airport": "AMS",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "price": 1436,
+    "airline": "El Al",
+    "dur": 315
+   }
+  ]
+ },
+ "2027-03-25_2027-04-02": {
+  "dep": "2027-03-25",
+  "ret": "2027-04-02",
+  "nights": 8,
+  "flights": [
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 530,
+    "airline": "Aegean",
+    "dur": 130
+   },
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 567,
+    "airline": "Wizz Air",
+    "dur": 235
+   },
+   {
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 636,
+    "airline": "Wizz Air",
+    "dur": 265
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 650,
+    "airline": "Wizz Air",
+    "dur": 215
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 937,
+    "airline": "El Al",
+    "dur": 270
+   },
+   {
+    "airport": "ZRH",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "price": 942,
+    "airline": "El Al",
+    "dur": 270
+   },
+   {
+    "airport": "MAD",
+    "city": "Madrid",
+    "country": "Spain",
+    "price": 952,
+    "airline": "Air Europa",
+    "dur": 325
+   },
+   {
+    "airport": "ORY",
+    "city": "Paris Orly",
+    "country": "France",
+    "price": 1006,
+    "airline": "Transavia",
+    "dur": 315
+   },
+   {
+    "airport": "FRA",
+    "city": "Frankfurt",
+    "country": "Germany",
+    "price": 1047,
+    "airline": "Condor",
+    "dur": 260
+   },
+   {
+    "airport": "BCN",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price": 1081,
+    "airline": "El Al",
+    "dur": 290
+   },
+   {
+    "airport": "MUC",
+    "city": "Munich",
+    "country": "Germany",
+    "price": 1325,
+    "airline": "El Al",
+    "dur": 255
+   },
+   {
+    "airport": "GVA",
+    "city": "Geneva",
+    "country": "Switzerland",
+    "price": 1457,
+    "airline": "El Al",
+    "dur": 275
+   },
+   {
+    "airport": "CDG",
+    "city": "Paris",
+    "country": "France",
+    "price": 1479,
+    "airline": "El Al",
+    "dur": 300
+   },
+   {
+    "airport": "AMS",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "price": 1481,
+    "airline": "El Al",
+    "dur": 315
+   }
+  ]
+ },
+ "2027-03-26_2027-03-31": {
+  "dep": "2027-03-26",
+  "ret": "2027-03-31",
+  "nights": 5,
+  "flights": [
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 370,
+    "airline": "Aegean",
+    "dur": 130
+   },
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 499,
+    "airline": "Wizz Air",
+    "dur": 235
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 513,
+    "airline": "Wizz Air",
+    "dur": 215
+   },
+   {
+    "airport": "VCE",
+    "city": "Venice",
+    "country": "Italy",
+    "price": 568,
+    "airline": "Wizz Air",
+    "dur": 240
+   },
+   {
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 568,
+    "airline": "Wizz Air",
+    "dur": 265
+   },
+   {
+    "airport": "ZRH",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "price": 806,
+    "airline": "El Al",
+    "dur": 270
+   },
+   {
+    "airport": "ORY",
+    "city": "Paris Orly",
+    "country": "France",
+    "price": 831,
+    "airline": "Transavia",
+    "dur": 315
+   },
+   {
+    "airport": "MAD",
+    "city": "Madrid",
+    "country": "Spain",
+    "price": 952,
+    "airline": "Air Europa",
+    "dur": 325
+   },
+   {
+    "airport": "FRA",
+    "city": "Frankfurt",
+    "country": "Germany",
+    "price": 1005,
+    "airline": "Condor",
+    "dur": 260
+   },
+   {
+    "airport": "MUC",
+    "city": "Munich",
+    "country": "Germany",
+    "price": 1012,
+    "airline": "El Al",
+    "dur": 255
+   },
+   {
+    "airport": "BCN",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price": 1214,
+    "airline": "El Al",
+    "dur": 290
+   },
+   {
+    "airport": "CDG",
+    "city": "Paris",
+    "country": "France",
+    "price": 1346,
+    "airline": "El Al",
+    "dur": 300
+   },
+   {
+    "airport": "GVA",
+    "city": "Geneva",
+    "country": "Switzerland",
+    "price": 1457,
+    "airline": "El Al",
+    "dur": 270
+   },
+   {
+    "airport": "AMS",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "price": 1481,
+    "airline": "El Al",
+    "dur": 315
+   }
+  ]
+ },
+ "2027-03-26_2027-04-03": {
+  "dep": "2027-03-26",
+  "ret": "2027-04-03",
+  "nights": 8,
+  "flights": [
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 448,
+    "airline": "Aegean",
+    "dur": 130
+   },
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 568,
+    "airline": "Wizz Air",
+    "dur": 235
+   },
+   {
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 636,
+    "airline": "Wizz Air",
+    "dur": 265
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 650,
+    "airline": "Wizz Air",
+    "dur": 215
+   },
+   {
+    "airport": "ZRH",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "price": 836,
+    "airline": "SWISS",
+    "dur": 265
+   },
+   {
+    "airport": "FRA",
+    "city": "Frankfurt",
+    "country": "Germany",
+    "price": 1005,
+    "airline": "Condor",
+    "dur": 260
+   },
+   {
+    "airport": "MUC",
+    "city": "Munich",
+    "country": "Germany",
+    "price": 1127,
+    "airline": "Lufthansa",
+    "dur": 250
+   },
+   {
+    "airport": "MAD",
+    "city": "Madrid",
+    "country": "Spain",
+    "price": 2111,
+    "airline": "Iberia Express",
+    "dur": 330
+   },
+   {
+    "airport": "CDG",
+    "city": "Paris",
+    "country": "France",
+    "price": 2701,
+    "airline": "Air France",
+    "dur": 285
+   }
+  ]
+ },
+ "2027-03-27_2027-04-01": {
+  "dep": "2027-03-27",
+  "ret": "2027-04-01",
+  "nights": 5,
+  "flights": [
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 370,
+    "airline": "Aegean",
+    "dur": 130
+   },
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 567,
+    "airline": "Wizz Air",
+    "dur": 235
+   },
+   {
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 636,
+    "airline": "Wizz Air",
+    "dur": 265
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 650,
+    "airline": "Wizz Air",
+    "dur": 215
+   },
+   {
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 773,
+    "airline": "Wizz Air",
+    "dur": 215
+   },
+   {
+    "airport": "FRA",
+    "city": "Frankfurt",
+    "country": "Germany",
+    "price": 993,
+    "airline": "Condor",
+    "dur": 260
+   },
+   {
+    "airport": "ZRH",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "price": 1037,
+    "airline": "SWISS",
+    "dur": 260
+   },
+   {
+    "airport": "LYS",
+    "city": "Lyon",
+    "country": "France",
+    "price": 1108,
+    "airline": "Transavia",
+    "dur": 290
+   },
+   {
+    "airport": "MUC",
+    "city": "Munich",
+    "country": "Germany",
+    "price": 1297,
+    "airline": "Lufthansa",
+    "dur": 250
+   },
+   {
+    "airport": "MAD",
+    "city": "Madrid",
+    "country": "Spain",
+    "price": 1979,
+    "airline": "Iberia Express",
+    "dur": 330
+   },
+   {
+    "airport": "CDG",
+    "city": "Paris",
+    "country": "France",
+    "price": 2135,
+    "airline": "Air France",
+    "dur": 285
+   }
+  ]
+ },
+ "2027-03-27_2027-04-04": {
+  "dep": "2027-03-27",
+  "ret": "2027-04-04",
+  "nights": 8,
+  "flights": [
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 448,
+    "airline": "Aegean",
+    "dur": 130
+   },
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 567,
+    "airline": "Wizz Air",
+    "dur": 235
+   },
+   {
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 636,
+    "airline": "Wizz Air",
+    "dur": 265
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 650,
+    "airline": "Wizz Air",
+    "dur": 215
+   },
+   {
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 722,
+    "airline": "Wizz Air",
+    "dur": 215
+   },
+   {
+    "airport": "ZRH",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "price": 836,
+    "airline": "SWISS",
+    "dur": 260
+   },
+   {
+    "airport": "FRA",
+    "city": "Frankfurt",
+    "country": "Germany",
+    "price": 952,
+    "airline": "Condor",
+    "dur": 260
+   },
+   {
+    "airport": "MUC",
+    "city": "Munich",
+    "country": "Germany",
+    "price": 1003,
+    "airline": "Lufthansa",
+    "dur": 250
+   },
+   {
+    "airport": "MAD",
+    "city": "Madrid",
+    "country": "Spain",
+    "price": 1979,
+    "airline": "Iberia Express",
+    "dur": 330
+   },
+   {
+    "airport": "CDG",
+    "city": "Paris",
+    "country": "France",
+    "price": 2194,
+    "airline": "Air France",
+    "dur": 285
+   }
+  ]
+ },
+ "2027-03-28_2027-04-02": {
+  "dep": "2027-03-28",
+  "ret": "2027-04-02",
+  "nights": 5,
+  "flights": [
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 448,
+    "airline": "Aegean",
+    "dur": 130
+   },
+   {
+    "airport": "SKG",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "price": 596,
+    "airline": "Aegean",
+    "dur": 145
+   },
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 684,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 752,
+    "airline": "Wizz Air",
+    "dur": 210
+   },
+   {
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 821,
+    "airline": "Wizz Air",
+    "dur": 255
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 849,
+    "airline": "El Al",
+    "dur": 255
+   },
+   {
+    "airport": "MRS",
+    "city": "Marseille",
+    "country": "France",
+    "price": 1084,
+    "airline": "El Al",
+    "dur": 265
+   },
+   {
+    "airport": "NCE",
+    "city": "Nice",
+    "country": "France",
+    "price": 1087,
+    "airline": "El Al",
+    "dur": 255
+   },
+   {
+    "airport": "ORY",
+    "city": "Paris Orly",
+    "country": "France",
+    "price": 1153,
+    "airline": "Transavia",
+    "dur": 305
+   },
+   {
+    "airport": "BCN",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price": 1170,
+    "airline": "El Al",
+    "dur": 280
+   },
+   {
+    "airport": "ZRH",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "price": 1229,
+    "airline": "SWISS",
+    "dur": 260
+   },
+   {
+    "airport": "MUC",
+    "city": "Munich",
+    "country": "Germany",
+    "price": 1345,
+    "airline": "Lufthansa",
+    "dur": 250
+   },
+   {
+    "airport": "FRA",
+    "city": "Frankfurt",
+    "country": "Germany",
+    "price": 1407,
+    "airline": "El Al",
+    "dur": 275
+   },
+   {
+    "airport": "AMS",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "price": 1422,
+    "airline": "El Al",
+    "dur": 305
+   },
+   {
+    "airport": "CDG",
+    "city": "Paris",
+    "country": "France",
+    "price": 1479,
+    "airline": "El Al",
+    "dur": 300
+   },
+   {
+    "airport": "MAD",
+    "city": "Madrid",
+    "country": "Spain",
+    "price": 1499,
+    "airline": "Air Europa",
+    "dur": 325
+   }
+  ]
+ },
+ "2027-03-28_2027-04-05": {
+  "dep": "2027-03-28",
+  "ret": "2027-04-05",
+  "nights": 8,
+  "flights": [
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 361,
+    "airline": "Aegean",
+    "dur": 130
+   },
+   {
+    "airport": "SKG",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "price": 600,
+    "airline": "Aegean",
+    "dur": 145
+   },
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 684,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 753,
+    "airline": "Wizz Air",
+    "dur": 210
+   },
+   {
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 821,
+    "airline": "Wizz Air",
+    "dur": 255
+   },
+   {
+    "airport": "ZRH",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "price": 1075,
+    "airline": "El Al",
+    "dur": 260
+   },
+   {
+    "airport": "MRS",
+    "city": "Marseille",
+    "country": "France",
+    "price": 1144,
+    "airline": "El Al",
+    "dur": 265
+   },
+   {
+    "airport": "NCE",
+    "city": "Nice",
+    "country": "France",
+    "price": 1146,
+    "airline": "El Al",
+    "dur": 255
+   },
+   {
+    "airport": "MUC",
+    "city": "Munich",
+    "country": "Germany",
+    "price": 1148,
+    "airline": "El Al",
+    "dur": 245
+   },
+   {
+    "airport": "VCE",
+    "city": "Venice",
+    "country": "Italy",
+    "price": 1169,
+    "airline": "El Al",
+    "dur": 230
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 1203,
+    "airline": "El Al",
+    "dur": 255
+   },
+   {
+    "airport": "BCN",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price": 1214,
+    "airline": "El Al",
+    "dur": 280
+   },
+   {
+    "airport": "ORY",
+    "city": "Paris Orly",
+    "country": "France",
+    "price": 1224,
+    "airline": "Transavia",
+    "dur": 305
+   },
+   {
+    "airport": "CDG",
+    "city": "Paris",
+    "country": "France",
+    "price": 1251,
+    "airline": "El Al",
+    "dur": 300
+   },
+   {
+    "airport": "AMS",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "price": 1422,
+    "airline": "El Al",
+    "dur": 305
+   },
+   {
+    "airport": "FRA",
+    "city": "Frankfurt",
+    "country": "Germany",
+    "price": 1526,
+    "airline": "El Al",
+    "dur": 275
+   },
+   {
+    "airport": "MAD",
+    "city": "Madrid",
+    "country": "Spain",
+    "price": 1570,
+    "airline": "Air Europa",
+    "dur": 325
+   }
+  ]
+ },
+ "2027-03-29_2027-04-03": {
+  "dep": "2027-03-29",
+  "ret": "2027-04-03",
+  "nights": 5,
+  "flights": [
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 449,
+    "airline": "Aegean",
+    "dur": 130
+   },
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 684,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 752,
+    "airline": "Wizz Air",
+    "dur": 210
+   },
+   {
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 821,
+    "airline": "Wizz Air",
+    "dur": 255
+   },
+   {
+    "airport": "PMO",
+    "city": "Palermo",
+    "country": "Italy",
+    "price": 821,
+    "airline": "Wizz Air",
+    "dur": 210
+   },
+   {
+    "airport": "ZRH",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "price": 966,
+    "airline": "SWISS",
+    "dur": 260
+   },
+   {
+    "airport": "FRA",
+    "city": "Frankfurt",
+    "country": "Germany",
+    "price": 1014,
+    "airline": "Condor",
+    "dur": 270
+   },
+   {
+    "airport": "MUC",
+    "city": "Munich",
+    "country": "Germany",
+    "price": 1396,
+    "airline": "Lufthansa",
+    "dur": 250
+   },
+   {
+    "airport": "MAD",
+    "city": "Madrid",
+    "country": "Spain",
+    "price": 2356,
+    "airline": "Iberia Express",
+    "dur": 330
+   },
+   {
+    "airport": "CDG",
+    "city": "Paris",
+    "country": "France",
+    "price": 2902,
+    "airline": "El Al",
+    "dur": 290
+   }
+  ]
+ },
+ "2027-03-29_2027-04-06": {
+  "dep": "2027-03-29",
+  "ret": "2027-04-06",
+  "nights": 8,
+  "flights": [
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 360,
+    "airline": "Aegean",
+    "dur": 130
+   },
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 684,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "VCE",
+    "city": "Venice",
+    "country": "Italy",
+    "price": 725,
+    "airline": "El Al",
+    "dur": 230
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 738,
+    "airline": "El Al",
+    "dur": 205
+   },
+   {
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 781,
+    "airline": "El Al",
+    "dur": 250
+   },
+   {
+    "airport": "ZRH",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "price": 874,
+    "airline": "El Al",
+    "dur": 260
+   },
+   {
+    "airport": "NCE",
+    "city": "Nice",
+    "country": "France",
+    "price": 969,
+    "airline": "El Al",
+    "dur": 255
+   },
+   {
+    "airport": "FRA",
+    "city": "Frankfurt",
+    "country": "Germany",
+    "price": 1002,
+    "airline": "Condor",
+    "dur": 270
+   },
+   {
+    "airport": "MUC",
+    "city": "Munich",
+    "country": "Germany",
+    "price": 1012,
+    "airline": "El Al",
+    "dur": 245
+   },
+   {
+    "airport": "MRS",
+    "city": "Marseille",
+    "country": "France",
+    "price": 1025,
+    "airline": "El Al",
+    "dur": 265
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 1085,
+    "airline": "El Al",
+    "dur": 255
+   },
+   {
+    "airport": "ORY",
+    "city": "Paris Orly",
+    "country": "France",
+    "price": 1142,
+    "airline": "Transavia",
+    "dur": 305
+   },
+   {
+    "airport": "CDG",
+    "city": "Paris",
+    "country": "France",
+    "price": 1192,
+    "airline": "El Al",
+    "dur": 290
+   },
+   {
+    "airport": "BCN",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price": 1332,
+    "airline": "El Al",
+    "dur": 280
+   },
+   {
+    "airport": "MAD",
+    "city": "Madrid",
+    "country": "Spain",
+    "price": 1366,
+    "airline": "Air Europa",
+    "dur": 325
+   },
+   {
+    "airport": "AMS",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "price": 1437,
+    "airline": "El Al",
+    "dur": 290
+   },
+   {
+    "airport": "GVA",
+    "city": "Geneva",
+    "country": "Switzerland",
+    "price": 1575,
+    "airline": "El Al",
+    "dur": 270
+   }
+  ]
+ },
+ "2027-03-30_2027-04-04": {
+  "dep": "2027-03-30",
+  "ret": "2027-04-04",
+  "nights": 5,
+  "flights": [
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 449,
+    "airline": "Aegean",
+    "dur": 130
+   },
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 684,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 753,
+    "airline": "Wizz Air",
+    "dur": 210
+   },
+   {
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 821,
+    "airline": "Wizz Air",
+    "dur": 255
+   },
+   {
+    "airport": "CTA",
+    "city": "Catania",
+    "country": "Italy",
+    "price": 821,
+    "airline": "Wizz Air",
+    "dur": 200
+   },
+   {
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 941,
+    "airline": "Wizz Air",
+    "dur": 210
+   },
+   {
+    "airport": "VCE",
+    "city": "Venice",
+    "country": "Italy",
+    "price": 947,
+    "airline": "El Al",
+    "dur": 230
+   },
+   {
+    "airport": "NCE",
+    "city": "Nice",
+    "country": "France",
+    "price": 969,
+    "airline": "El Al",
+    "dur": 255
+   },
+   {
+    "airport": "ZRH",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "price": 1010,
+    "airline": "El Al",
+    "dur": 260
+   },
+   {
+    "airport": "FRA",
+    "city": "Frankfurt",
+    "country": "Germany",
+    "price": 1017,
+    "airline": "Condor",
+    "dur": 270
+   },
+   {
+    "airport": "MRS",
+    "city": "Marseille",
+    "country": "France",
+    "price": 1084,
+    "airline": "El Al",
+    "dur": 265
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 1085,
+    "airline": "El Al",
+    "dur": 255
+   },
+   {
+    "airport": "ORY",
+    "city": "Paris Orly",
+    "country": "France",
+    "price": 1142,
+    "airline": "Transavia",
+    "dur": 305
+   },
+   {
+    "airport": "BCN",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price": 1169,
+    "airline": "El Al",
+    "dur": 280
+   },
+   {
+    "airport": "MAD",
+    "city": "Madrid",
+    "country": "Spain",
+    "price": 1174,
+    "airline": "Air Europa",
+    "dur": 325
+   },
+   {
+    "airport": "MUC",
+    "city": "Munich",
+    "country": "Germany",
+    "price": 1237,
+    "airline": "El Al",
+    "dur": 245
+   },
+   {
+    "airport": "CDG",
+    "city": "Paris",
+    "country": "France",
+    "price": 1252,
+    "airline": "El Al",
+    "dur": 300
+   },
+   {
+    "airport": "AMS",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "price": 1764,
+    "airline": "El Al",
+    "dur": 290
+   }
+  ]
+ },
+ "2027-03-30_2027-04-07": {
+  "dep": "2027-03-30",
+  "ret": "2027-04-07",
+  "nights": 8,
+  "flights": [
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 534,
+    "airline": "Aegean",
+    "dur": 130
+   },
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 684,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "VCE",
+    "city": "Venice",
+    "country": "Italy",
+    "price": 725,
+    "airline": "El Al",
+    "dur": 230
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 739,
+    "airline": "El Al",
+    "dur": 205
+   },
+   {
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 821,
+    "airline": "Wizz Air",
+    "dur": 255
+   },
+   {
+    "airport": "NCE",
+    "city": "Nice",
+    "country": "France",
+    "price": 910,
+    "airline": "El Al",
+    "dur": 255
+   },
+   {
+    "airport": "ZRH",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "price": 942,
+    "airline": "El Al",
+    "dur": 260
+   },
+   {
+    "airport": "MUC",
+    "city": "Munich",
+    "country": "Germany",
+    "price": 1012,
+    "airline": "El Al",
+    "dur": 245
+   },
+   {
+    "airport": "ORY",
+    "city": "Paris Orly",
+    "country": "France",
+    "price": 1071,
+    "airline": "Transavia",
+    "dur": 305
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 1085,
+    "airline": "El Al",
+    "dur": 255
+   },
+   {
+    "airport": "FRA",
+    "city": "Frankfurt",
+    "country": "Germany",
+    "price": 1117,
+    "airline": "Condor",
+    "dur": 270
+   },
+   {
+    "airport": "BCN",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price": 1170,
+    "airline": "El Al",
+    "dur": 280
+   },
+   {
+    "airport": "MRS",
+    "city": "Marseille",
+    "country": "France",
+    "price": 1217,
+    "airline": "El Al",
+    "dur": 265
+   },
+   {
+    "airport": "CDG",
+    "city": "Paris",
+    "country": "France",
+    "price": 1251,
+    "airline": "El Al",
+    "dur": 300
+   },
+   {
+    "airport": "MAD",
+    "city": "Madrid",
+    "country": "Spain",
+    "price": 1295,
+    "airline": "El Al",
+    "dur": 320
+   },
+   {
+    "airport": "GVA",
+    "city": "Geneva",
+    "country": "Switzerland",
+    "price": 1383,
+    "airline": "El Al",
+    "dur": 270
+   },
+   {
+    "airport": "AMS",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "price": 1809,
+    "airline": "El Al",
+    "dur": 290
+   }
+  ]
+ },
+ "2027-03-31_2027-04-05": {
+  "dep": "2027-03-31",
+  "ret": "2027-04-05",
+  "nights": 5,
+  "flights": [
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 442,
+    "airline": "Aegean",
+    "dur": 130
+   },
+   {
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 637,
+    "airline": "El Al",
+    "dur": 195
+   },
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 684,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "SKG",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "price": 684,
+    "airline": "Wizz Air",
+    "dur": 155
+   },
+   {
+    "airport": "VCE",
+    "city": "Venice",
+    "country": "Italy",
+    "price": 725,
+    "airline": "El Al",
+    "dur": 230
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 752,
+    "airline": "Wizz Air",
+    "dur": 210
+   },
+   {
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 821,
+    "airline": "Wizz Air",
+    "dur": 255
+   },
+   {
+    "airport": "PMO",
+    "city": "Palermo",
+    "country": "Italy",
+    "price": 821,
+    "airline": "Wizz Air",
+    "dur": 210
+   },
+   {
+    "airport": "ZRH",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "price": 954,
+    "airline": "SWISS",
+    "dur": 260
+   },
+   {
+    "airport": "FRA",
+    "city": "Frankfurt",
+    "country": "Germany",
+    "price": 970,
+    "airline": "Condor",
+    "dur": 270
+   },
+   {
+    "airport": "NCE",
+    "city": "Nice",
+    "country": "France",
+    "price": 1028,
+    "airline": "El Al",
+    "dur": 255
+   },
+   {
+    "airport": "MUC",
+    "city": "Munich",
+    "country": "Germany",
+    "price": 1059,
+    "airline": "El Al",
+    "dur": 245
+   },
+   {
+    "airport": "ORY",
+    "city": "Paris Orly",
+    "country": "France",
+    "price": 1142,
+    "airline": "Transavia",
+    "dur": 305
+   },
+   {
+    "airport": "CDG",
+    "city": "Paris",
+    "country": "France",
+    "price": 1192,
+    "airline": "El Al",
+    "dur": 290
+   },
+   {
+    "airport": "MRS",
+    "city": "Marseille",
+    "country": "France",
+    "price": 1217,
+    "airline": "El Al",
+    "dur": 265
+   },
+   {
+    "airport": "MAD",
+    "city": "Madrid",
+    "country": "Spain",
+    "price": 1245,
+    "airline": "Air Europa",
+    "dur": 325
+   },
+   {
+    "airport": "BCN",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price": 1273,
+    "airline": "El Al",
+    "dur": 280
+   },
+   {
+    "airport": "GVA",
+    "city": "Geneva",
+    "country": "Switzerland",
+    "price": 1309,
+    "airline": "El Al",
+    "dur": 270
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 1395,
+    "airline": "El Al",
+    "dur": 255
+   },
+   {
+    "airport": "AMS",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "price": 1764,
+    "airline": "El Al",
+    "dur": 305
+   }
+  ]
+ },
+ "2027-03-31_2027-04-08": {
+  "dep": "2027-03-31",
+  "ret": "2027-04-08",
+  "nights": 8,
+  "flights": [
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 610,
+    "airline": "El Al",
+    "dur": 130
+   },
+   {
+    "airport": "SKG",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "price": 610,
+    "airline": "Wizz Air",
+    "dur": 155
+   },
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 684,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "VCE",
+    "city": "Venice",
+    "country": "Italy",
+    "price": 725,
+    "airline": "El Al",
+    "dur": 230
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 752,
+    "airline": "Wizz Air",
+    "dur": 210
+   },
+   {
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 821,
+    "airline": "Wizz Air",
+    "dur": 255
+   },
+   {
+    "airport": "NCE",
+    "city": "Nice",
+    "country": "France",
+    "price": 910,
+    "airline": "El Al",
+    "dur": 255
+   },
+   {
+    "airport": "ZRH",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "price": 942,
+    "airline": "El Al",
+    "dur": 260
+   },
+   {
+    "airport": "ORY",
+    "city": "Paris Orly",
+    "country": "France",
+    "price": 1005,
+    "airline": "Transavia",
+    "dur": 305
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 1041,
+    "airline": "El Al",
+    "dur": 255
+   },
+   {
+    "airport": "MUC",
+    "city": "Munich",
+    "country": "Germany",
+    "price": 1059,
+    "airline": "El Al",
+    "dur": 245
+   },
+   {
+    "airport": "FRA",
+    "city": "Frankfurt",
+    "country": "Germany",
+    "price": 1115,
+    "airline": "Condor",
+    "dur": 270
+   },
+   {
+    "airport": "MAD",
+    "city": "Madrid",
+    "country": "Spain",
+    "price": 1174,
+    "airline": "Air Europa",
+    "dur": 325
+   },
+   {
+    "airport": "BCN",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price": 1317,
+    "airline": "El Al",
+    "dur": 280
+   },
+   {
+    "airport": "CDG",
+    "city": "Paris",
+    "country": "France",
+    "price": 1325,
+    "airline": "El Al",
+    "dur": 290
+   },
+   {
+    "airport": "AMS",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "price": 1764,
+    "airline": "El Al",
+    "dur": 305
+   }
+  ]
+ },
+ "2027-04-01_2027-04-06": {
+  "dep": "2027-04-01",
+  "ret": "2027-04-06",
+  "nights": 5,
+  "flights": [
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 444,
+    "airline": "Aegean",
+    "dur": 130
+   },
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 752,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 889,
+    "airline": "Wizz Air",
+    "dur": 255
+   },
+   {
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 889,
+    "airline": "Wizz Air",
+    "dur": 210
+   },
+   {
+    "airport": "CTA",
+    "city": "Catania",
+    "country": "Italy",
+    "price": 889,
+    "airline": "Wizz Air",
+    "dur": 200
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 889,
+    "airline": "Wizz Air",
+    "dur": 210
+   },
+   {
+    "airport": "VCE",
+    "city": "Venice",
+    "country": "Italy",
+    "price": 903,
+    "airline": "El Al",
+    "dur": 230
+   },
+   {
+    "airport": "ZRH",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "price": 942,
+    "airline": "El Al",
+    "dur": 260
+   },
+   {
+    "airport": "FRA",
+    "city": "Frankfurt",
+    "country": "Germany",
+    "price": 1002,
+    "airline": "Condor",
+    "dur": 270
+   },
+   {
+    "airport": "MUC",
+    "city": "Munich",
+    "country": "Germany",
+    "price": 1030,
+    "airline": "El Al",
+    "dur": 245
+   },
+   {
+    "airport": "BCN",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price": 1125,
+    "airline": "El Al",
+    "dur": 280
+   },
+   {
+    "airport": "NCE",
+    "city": "Nice",
+    "country": "France",
+    "price": 1191,
+    "airline": "El Al",
+    "dur": 255
+   },
+   {
+    "airport": "CDG",
+    "city": "Paris",
+    "country": "France",
+    "price": 1313,
+    "airline": "El Al",
+    "dur": 290
+   },
+   {
+    "airport": "MAD",
+    "city": "Madrid",
+    "country": "Spain",
+    "price": 1366,
+    "airline": "Air Europa",
+    "dur": 325
+   },
+   {
+    "airport": "ORY",
+    "city": "Paris Orly",
+    "country": "France",
+    "price": 1402,
+    "airline": "Transavia",
+    "dur": 305
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 1537,
+    "airline": "El Al",
+    "dur": 255
+   },
+   {
+    "airport": "AMS",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "price": 1599,
+    "airline": "El Al",
+    "dur": 290
+   },
+   {
+    "airport": "LYS",
+    "city": "Lyon",
+    "country": "France",
+    "price": 1751,
+    "airline": "Transavia",
+    "dur": 280
+   }
+  ]
+ },
+ "2027-04-01_2027-04-09": {
+  "dep": "2027-04-01",
+  "ret": "2027-04-09",
+  "nights": 8,
+  "flights": [
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 517,
+    "airline": "Aegean",
+    "dur": 130
+   },
+   {
+    "airport": "SKG",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "price": 647,
+    "airline": "Aegean",
+    "dur": 145
+   },
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 753,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 889,
+    "airline": "Wizz Air",
+    "dur": 255
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 889,
+    "airline": "Wizz Air",
+    "dur": 210
+   },
+   {
+    "airport": "FRA",
+    "city": "Frankfurt",
+    "country": "Germany",
+    "price": 1002,
+    "airline": "Condor",
+    "dur": 270
+   },
+   {
+    "airport": "ZRH",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "price": 1010,
+    "airline": "El Al",
+    "dur": 260
+   },
+   {
+    "airport": "NCE",
+    "city": "Nice",
+    "country": "France",
+    "price": 1191,
+    "airline": "El Al",
+    "dur": 255
+   },
+   {
+    "airport": "MUC",
+    "city": "Munich",
+    "country": "Germany",
+    "price": 1222,
+    "airline": "El Al",
+    "dur": 245
+   },
+   {
+    "airport": "BCN",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price": 1229,
+    "airline": "El Al",
+    "dur": 280
+   },
+   {
+    "airport": "MAD",
+    "city": "Madrid",
+    "country": "Spain",
+    "price": 1366,
+    "airline": "Air Europa",
+    "dur": 325
+   },
+   {
+    "airport": "CDG",
+    "city": "Paris",
+    "country": "France",
+    "price": 1446,
+    "airline": "El Al",
+    "dur": 290
+   },
+   {
+    "airport": "AMS",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "price": 1495,
+    "airline": "El Al",
+    "dur": 290
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 1655,
+    "airline": "El Al",
+    "dur": 255
+   },
+   {
+    "airport": "ORY",
+    "city": "Paris Orly",
+    "country": "France",
+    "price": 1761,
+    "airline": "Transavia",
+    "dur": 305
+   }
+  ]
+ },
+ "2027-04-02_2027-04-07": {
+  "dep": "2027-04-02",
+  "ret": "2027-04-07",
+  "nights": 5,
+  "flights": [
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 534,
+    "airline": "Aegean",
+    "dur": 130
+   },
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 753,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "SKG",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "price": 820,
+    "airline": "Wizz Air",
+    "dur": 155
+   },
+   {
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 889,
+    "airline": "Wizz Air",
+    "dur": 255
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 889,
+    "airline": "Wizz Air",
+    "dur": 210
+   },
+   {
+    "airport": "ZRH",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "price": 942,
+    "airline": "El Al",
+    "dur": 260
+   },
+   {
+    "airport": "NAP",
+    "city": "Naples",
+    "country": "Italy",
+    "price": 1007,
+    "airline": "El Al",
+    "dur": 195
+   },
+   {
+    "airport": "MUC",
+    "city": "Munich",
+    "country": "Germany",
+    "price": 1030,
+    "airline": "El Al",
+    "dur": 245
+   },
+   {
+    "airport": "FRA",
+    "city": "Frankfurt",
+    "country": "Germany",
+    "price": 1044,
+    "airline": "Condor",
+    "dur": 270
+   },
+   {
+    "airport": "VCE",
+    "city": "Venice",
+    "country": "Italy",
+    "price": 1060,
+    "airline": "Wizz Air",
+    "dur": 235
+   },
+   {
+    "airport": "BCN",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price": 1081,
+    "airline": "El Al",
+    "dur": 280
+   },
+   {
+    "airport": "NCE",
+    "city": "Nice",
+    "country": "France",
+    "price": 1117,
+    "airline": "El Al",
+    "dur": 255
+   },
+   {
+    "airport": "ORY",
+    "city": "Paris Orly",
+    "country": "France",
+    "price": 1235,
+    "airline": "Transavia",
+    "dur": 305
+   },
+   {
+    "airport": "MAD",
+    "city": "Madrid",
+    "country": "Spain",
+    "price": 1318,
+    "airline": "Air Europa",
+    "dur": 325
+   },
+   {
+    "airport": "MRS",
+    "city": "Marseille",
+    "country": "France",
+    "price": 1321,
+    "airline": "El Al",
+    "dur": 265
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 1410,
+    "airline": "El Al",
+    "dur": 255
+   },
+   {
+    "airport": "CDG",
+    "city": "Paris",
+    "country": "France",
+    "price": 1446,
+    "airline": "El Al",
+    "dur": 290
+   },
+   {
+    "airport": "GVA",
+    "city": "Geneva",
+    "country": "Switzerland",
+    "price": 1457,
+    "airline": "El Al",
+    "dur": 270
+   },
+   {
+    "airport": "AMS",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "price": 1540,
+    "airline": "El Al",
+    "dur": 290
+   }
+  ]
+ },
+ "2027-04-02_2027-04-10": {
+  "dep": "2027-04-02",
+  "ret": "2027-04-10",
+  "nights": 8,
+  "flights": [
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 517,
+    "airline": "Aegean",
+    "dur": 130
+   },
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 753,
+    "airline": "Wizz Air",
+    "dur": 230
+   },
+   {
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 889,
+    "airline": "Wizz Air",
+    "dur": 255
+   },
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 889,
+    "airline": "Wizz Air",
+    "dur": 210
+   },
+   {
+    "airport": "FRA",
+    "city": "Frankfurt",
+    "country": "Germany",
+    "price": 964,
+    "airline": "Condor",
+    "dur": 270
+   },
+   {
+    "airport": "ZRH",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "price": 966,
+    "airline": "SWISS",
+    "dur": 260
+   },
+   {
+    "airport": "MUC",
+    "city": "Munich",
+    "country": "Germany",
+    "price": 1624,
+    "airline": "Lufthansa",
+    "dur": 250
+   },
+   {
+    "airport": "MAD",
+    "city": "Madrid",
+    "country": "Spain",
+    "price": 1979,
+    "airline": "Iberia Express",
+    "dur": 330
+   },
+   {
+    "airport": "CDG",
+    "city": "Paris",
+    "country": "France",
+    "price": 2456,
+    "airline": "Air France",
+    "dur": 280
+   }
+  ]
+ },
+ "2027-03-01_2027-03-02": {
+  "dep": "2027-03-01",
+  "ret": "2027-03-02",
+  "nights": 1,
+  "flights": [
+   {
+    "airport": "LCA",
+    "city": "Larnaca",
+    "country": "Cyprus",
+    "price": 384,
+    "airline": "El Al",
+    "dur": null
+   },
+   {
+    "airport": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "price": 552,
+    "airline": "El Al",
+    "dur": null
+   },
+   {
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "price": 792,
+    "airline": "El Al",
+    "dur": null
+   },
+   {
+    "airport": "PRG",
+    "city": "Prague",
+    "country": "Czechia",
+    "price": 990,
+    "airline": "El Al",
+    "dur": null
+   }
+  ]
+ },
+ "2027-03-02_2027-03-03": {
+  "dep": "2027-03-02",
+  "ret": "2027-03-03",
+  "nights": 1,
+  "flights": [
+   {
+    "airport": "OTP",
+    "city": "Bucharest",
+    "country": "Romania",
+    "price": 507,
+    "airline": "El Al",
+    "dur": null
+   },
+   {
+    "airport": "BER",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 861,
+    "airline": "El Al",
+    "dur": null
+   },
+   {
+    "airport": "DXB",
+    "city": "Dubai",
+    "country": "Unknown",
+    "price": 1134,
+    "airline": "El Al",
+    "dur": null
+   },
+   {
+    "airport": "CDG",
+    "city": "Paris",
+    "country": "France",
+    "price": 1134,
+    "airline": "El Al",
+    "dur": null
+   }
+  ]
+ },
+ "2027-04-30_2027-05-05": {
+  "dep": "2027-04-30",
+  "ret": "2027-05-05",
+  "nights": 5,
+  "flights": [
+   {
+    "airport": "SOF",
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "price": 675,
+    "airline": "El Al",
+    "dur": null
+   }
+  ]
+ },
+ "2027-03-02_2027-03-09": {
+  "dep": "2027-03-02",
+  "ret": "2027-03-09",
+  "nights": 7,
+  "flights": [
+   {
+    "airport": "TBS",
+    "city": "Tbilisi",
+    "country": "Georgia",
+    "price": 687,
+    "airline": "El Al",
+    "dur": null
+   },
+   {
+    "airport": "ZRH",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "price": 819,
+    "airline": "El Al",
+    "dur": null
+   }
+  ]
+ },
+ "2027-03-08_2027-03-09": {
+  "dep": "2027-03-08",
+  "ret": "2027-03-09",
+  "nights": 1,
+  "flights": [
+   {
+    "airport": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "price": 705,
+    "airline": "El Al",
+    "dur": null
+   },
+   {
+    "airport": "LIS",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "price": 1329,
+    "airline": "El Al",
+    "dur": null
+   }
+  ]
+ },
+ "2027-03-01_2027-03-04": {
+  "dep": "2027-03-01",
+  "ret": "2027-03-04",
+  "nights": 3,
+  "flights": [
+   {
+    "airport": "VIE",
+    "city": "Vienna",
+    "country": "Austria",
+    "price": 726,
+    "airline": "El Al",
+    "dur": null
+   }
+  ]
+ },
+ "2027-03-29_2027-03-31": {
+  "dep": "2027-03-29",
+  "ret": "2027-03-31",
+  "nights": 2,
+  "flights": [
+   {
+    "airport": "VCE",
+    "city": "Venice",
+    "country": "Italy",
+    "price": 735,
+    "airline": "El Al",
+    "dur": null
+   }
+  ]
+ },
+ "2027-03-01_2027-03-03": {
+  "dep": "2027-03-01",
+  "ret": "2027-03-03",
+  "nights": 2,
+  "flights": [
+   {
+    "airport": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "price": 819,
+    "airline": "El Al",
+    "dur": null
+   }
+  ]
+ },
+ "2027-03-26_2027-03-30": {
+  "dep": "2027-03-26",
+  "ret": "2027-03-30",
+  "nights": 4,
+  "flights": [
+   {
+    "airport": "MUC",
+    "city": "Munich",
+    "country": "Germany",
+    "price": 1026,
+    "airline": "El Al",
+    "dur": null
+   }
+  ]
+ },
+ "2027-03-28_2027-03-30": {
+  "dep": "2027-03-28",
+  "ret": "2027-03-30",
+  "nights": 2,
+  "flights": [
+   {
+    "airport": "MRS",
+    "city": "Marseille",
+    "country": "France",
+    "price": 1041,
+    "airline": "El Al",
+    "dur": null
+   }
+  ]
+ },
+ "2027-03-03_2027-03-07": {
+  "dep": "2027-03-03",
+  "ret": "2027-03-07",
+  "nights": 4,
+  "flights": [
+   {
+    "airport": "FRA",
+    "city": "Frankfurt",
+    "country": "Germany",
+    "price": 1065,
+    "airline": "El Al",
+    "dur": null
+   }
+  ]
+ },
+ "2027-03-05_2027-03-07": {
+  "dep": "2027-03-05",
+  "ret": "2027-03-07",
+  "nights": 2,
+  "flights": [
+   {
+    "airport": "MAD",
+    "city": "Madrid",
+    "country": "Spain",
+    "price": 1164,
+    "airline": "El Al",
+    "dur": null
+   }
+  ]
+ },
+ "2027-03-03_2027-03-04": {
+  "dep": "2027-03-03",
+  "ret": "2027-03-04",
+  "nights": 1,
+  "flights": [
+   {
+    "airport": "GVA",
+    "city": "Geneva",
+    "country": "Switzerland",
+    "price": 1179,
+    "airline": "El Al",
+    "dur": null
+   }
+  ]
+ },
+ "2027-03-05_2027-03-10": {
+  "dep": "2027-03-05",
+  "ret": "2027-03-10",
+  "nights": 5,
+  "flights": [
+   {
+    "airport": "AMS",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "price": 1263,
+    "airline": "El Al",
+    "dur": null
+   }
+  ]
+ },
+ "2027-03-15_2027-03-18": {
+  "dep": "2027-03-15",
+  "ret": "2027-03-18",
+  "nights": 3,
+  "flights": [
+   {
+    "airport": "LTN",
+    "city": "London Luton",
+    "country": "England",
+    "price": 1365,
+    "airline": "El Al",
+    "dur": null
+   }
+  ]
+ },
+ "2027-03-03_2027-03-06": {
+  "dep": "2027-03-03",
+  "ret": "2027-03-06",
+  "nights": 3,
+  "flights": [
+   {
+    "airport": "LHR",
+    "city": "London",
+    "country": "England",
+    "price": 1629,
+    "airline": "El Al",
+    "dur": null
+   }
+  ]
+ },
+ "2027-03-23_2027-03-29": {
+  "dep": "2027-03-23",
+  "ret": "2027-03-29",
+  "nights": 6,
+  "flights": [
+   {
+    "airport": "EWR",
+    "city": "New York",
+    "country": "Unknown",
+    "price": 2748,
+    "airline": "El Al",
+    "dur": null
+   }
+  ]
+ }
+}

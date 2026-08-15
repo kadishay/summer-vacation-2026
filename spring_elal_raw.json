@@ -1,0 +1,258 @@
+{
+ "2027-03-01_2027-03-02": {
+  "dep": "2027-03-01",
+  "ret": "2027-03-02",
+  "nights": 1,
+  "dests": [
+   {
+    "dest": "Larnaca - LCA",
+    "iata": "LCA",
+    "usd": 128
+   },
+   {
+    "dest": "Athens - ATH",
+    "iata": "ATH",
+    "usd": 184
+   },
+   {
+    "dest": "Milan - MXP",
+    "iata": "MXP",
+    "usd": 264
+   },
+   {
+    "dest": "Prague - PRG",
+    "iata": "PRG",
+    "usd": 330
+   }
+  ]
+ },
+ "2027-03-02_2027-03-03": {
+  "dep": "2027-03-02",
+  "ret": "2027-03-03",
+  "nights": 1,
+  "dests": [
+   {
+    "dest": "Bucharest - OTP",
+    "iata": "OTP",
+    "usd": 169
+   },
+   {
+    "dest": "Berlin - BER",
+    "iata": "BER",
+    "usd": 287
+   },
+   {
+    "dest": "Dubai - DXB",
+    "iata": "DXB",
+    "usd": 378
+   },
+   {
+    "dest": "Paris - CDG",
+    "iata": "CDG",
+    "usd": 378
+   }
+  ]
+ },
+ "2027-04-30_2027-05-05": {
+  "dep": "2027-04-30",
+  "ret": "2027-05-05",
+  "nights": 5,
+  "dests": [
+   {
+    "dest": "Sofia - SOF",
+    "iata": "SOF",
+    "usd": 225
+   }
+  ]
+ },
+ "2027-03-02_2027-03-09": {
+  "dep": "2027-03-02",
+  "ret": "2027-03-09",
+  "nights": 7,
+  "dests": [
+   {
+    "dest": "Tbilisi - TBS",
+    "iata": "TBS",
+    "usd": 229
+   },
+   {
+    "dest": "Zurich - ZRH",
+    "iata": "ZRH",
+    "usd": 273
+   }
+  ]
+ },
+ "2027-03-08_2027-03-09": {
+  "dep": "2027-03-08",
+  "ret": "2027-03-09",
+  "nights": 1,
+  "dests": [
+   {
+    "dest": "Budapest - BUD",
+    "iata": "BUD",
+    "usd": 235
+   },
+   {
+    "dest": "Lisbon - LIS",
+    "iata": "LIS",
+    "usd": 443
+   }
+  ]
+ },
+ "2027-03-01_2027-03-04": {
+  "dep": "2027-03-01",
+  "ret": "2027-03-04",
+  "nights": 3,
+  "dests": [
+   {
+    "dest": "Vienna - VIE",
+    "iata": "VIE",
+    "usd": 242
+   }
+  ]
+ },
+ "2027-03-29_2027-03-31": {
+  "dep": "2027-03-29",
+  "ret": "2027-03-31",
+  "nights": 2,
+  "dests": [
+   {
+    "dest": "Venice - VCE",
+    "iata": "VCE",
+    "usd": 245
+   }
+  ]
+ },
+ "2027-03-01_2027-03-03": {
+  "dep": "2027-03-01",
+  "ret": "2027-03-03",
+  "nights": 2,
+  "dests": [
+   {
+    "dest": "Rome - FCO",
+    "iata": "FCO",
+    "usd": 273
+   }
+  ]
+ },
+ "2027-03-26_2027-03-30": {
+  "dep": "2027-03-26",
+  "ret": "2027-03-30",
+  "nights": 4,
+  "dests": [
+   {
+    "dest": "Munich - MUC",
+    "iata": "MUC",
+    "usd": 342
+   }
+  ]
+ },
+ "2027-03-28_2027-03-30": {
+  "dep": "2027-03-28",
+  "ret": "2027-03-30",
+  "nights": 2,
+  "dests": [
+   {
+    "dest": "Marseille - MRS",
+    "iata": "MRS",
+    "usd": 347
+   }
+  ]
+ },
+ "2027-03-03_2027-03-07": {
+  "dep": "2027-03-03",
+  "ret": "2027-03-07",
+  "nights": 4,
+  "dests": [
+   {
+    "dest": "Frankfurt - FRA",
+    "iata": "FRA",
+    "usd": 355
+   }
+  ]
+ },
+ "2027-03-25_2027-03-30": {
+  "dep": "2027-03-25",
+  "ret": "2027-03-30",
+  "nights": 5,
+  "dests": [
+   {
+    "dest": "Barcelona - BCN",
+    "iata": "BCN",
+    "usd": 366
+   }
+  ]
+ },
+ "2027-03-05_2027-03-07": {
+  "dep": "2027-03-05",
+  "ret": "2027-03-07",
+  "nights": 2,
+  "dests": [
+   {
+    "dest": "Madrid - MAD",
+    "iata": "MAD",
+    "usd": 388
+   }
+  ]
+ },
+ "2027-03-03_2027-03-04": {
+  "dep": "2027-03-03",
+  "ret": "2027-03-04",
+  "nights": 1,
+  "dests": [
+   {
+    "dest": "Geneva - GVA",
+    "iata": "GVA",
+    "usd": 393
+   }
+  ]
+ },
+ "2027-03-05_2027-03-10": {
+  "dep": "2027-03-05",
+  "ret": "2027-03-10",
+  "nights": 5,
+  "dests": [
+   {
+    "dest": "Amsterdam - AMS",
+    "iata": "AMS",
+    "usd": 421
+   }
+  ]
+ },
+ "2027-03-15_2027-03-18": {
+  "dep": "2027-03-15",
+  "ret": "2027-03-18",
+  "nights": 3,
+  "dests": [
+   {
+    "dest": "London Luton - LTN",
+    "iata": "LTN",
+    "usd": 455
+   }
+  ]
+ },
+ "2027-03-03_2027-03-06": {
+  "dep": "2027-03-03",
+  "ret": "2027-03-06",
+  "nights": 3,
+  "dests": [
+   {
+    "dest": "London - LHR",
+    "iata": "LHR",
+    "usd": 543
+   }
+  ]
+ },
+ "2027-03-23_2027-03-29": {
+  "dep": "2027-03-23",
+  "ret": "2027-03-29",
+  "nights": 6,
+  "dests": [
+   {
+    "dest": "New York - EWR",
+    "iata": "EWR",
+    "usd": 916
+   }
+  ]
+ }
+}
