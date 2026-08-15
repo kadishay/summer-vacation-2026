@@ -99,6 +99,21 @@ CLIMATE = {
     "Lisbon":       {"high": 20, "low": 12, "rain":  9},
     "Porto":        {"high": 19, "low": 10, "rain": 13},
     "Faro":         {"high": 22, "low": 13, "rain":  6},
+    # Missing cities (El Al destinations)
+    "Larnaca":      {"high": 23, "low": 14, "rain":  5},
+    "Bucharest":    {"high": 19, "low":  8, "rain": 11},
+    "Sofia":        {"high": 16, "low":  5, "rain": 10},
+    "Dubai":        {"high": 34, "low": 24, "rain":  1},
+    "Moscow":       {"high": 12, "low":  3, "rain": 10},
+}
+
+# Approximate TLV direct flight times (minutes) by IATA — used when scraper has no dur
+TLV_DUR = {
+    "AMS": 300, "ATH": 150, "BCN": 270, "BER": 240, "BUD": 180,
+    "CDG": 270, "DME": 210, "DXB": 210, "FCO": 180, "FRA": 240,
+    "GVA": 240, "LCA":  60, "LHR": 270, "LIS": 330, "LTN": 270,
+    "MAD": 300, "MRS": 210, "MUC": 240, "MXP": 180, "OTP": 150,
+    "PRG": 210, "SOF": 120, "VCE": 180, "VIE": 180, "ZRH": 210,
 }
 
 # Public holidays within the spring window — no PTO needed for these
@@ -155,6 +170,7 @@ for key, dp in DATA.items():
         continue
     for f in dp["flights"]:
         cl = get_climate(f["city"])
+        dur = f["dur"] or TLV_DUR.get(f["airport"])
         rows.append({
             "dest": f["city"], "country": f["country"], "airport": f["airport"],
             "price": f["price"], "airline": f["airline"],
@@ -162,7 +178,7 @@ for key, dp in DATA.items():
             "fromISO": dp["dep"], "toISO": dp["ret"],
             "fromDay": datetime.date.fromisoformat(dp["dep"]).day,
             "toDay": datetime.date.fromisoformat(dp["ret"]).day,
-            "nights": dp["nights"], "length": fmt_dur(f["dur"]), "durMin": f["dur"] or 0,
+            "nights": dp["nights"], "length": fmt_dur(dur), "durMin": dur or 0,
             "daysOff": count_days_off(dp["dep"], dp["ret"]),
             "freeDays": count_free_days(dp["dep"], dp["ret"]),
             "tempHigh": cl["high"] if cl else None,
