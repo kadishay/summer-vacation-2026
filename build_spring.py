@@ -94,6 +94,19 @@ CLIMATE = {
     "Faro":         {"high": 22, "low": 13, "rain":  6},
 }
 
+OFF_DAYS = {
+    datetime.date(2027, 4, 16), datetime.date(2027, 4, 17),
+    datetime.date(2027, 4, 20), datetime.date(2027, 4, 21),
+    datetime.date(2027, 4, 22), datetime.date(2027, 4, 23),
+    datetime.date(2027, 4, 24), datetime.date(2027, 4, 27),
+    datetime.date(2027, 4, 28), datetime.date(2027, 5,  1),
+}
+
+def count_days_off(dep_iso, ret_iso):
+    dep = datetime.date.fromisoformat(dep_iso)
+    ret = datetime.date.fromisoformat(ret_iso)
+    return sum(1 for d in OFF_DAYS if dep <= d <= ret)
+
 def get_climate(city):
     """Look up climate, handling variants like 'Milan Bergamo', 'Paris Orly', 'London Gatwick'."""
     if city in CLIMATE:
@@ -114,6 +127,8 @@ def fmt_date(iso):
 
 rows = []
 for key, dp in DATA.items():
+    if dp["nights"] < 5:
+        continue
     for f in dp["flights"]:
         cl = get_climate(f["city"])
         rows.append({
@@ -124,6 +139,7 @@ for key, dp in DATA.items():
             "fromDay": datetime.date.fromisoformat(dp["dep"]).day,
             "toDay": datetime.date.fromisoformat(dp["ret"]).day,
             "nights": dp["nights"], "length": fmt_dur(f["dur"]), "durMin": f["dur"] or 0,
+            "daysOff": count_days_off(dp["dep"], dp["ret"]),
             "tempHigh": cl["high"] if cl else None,
             "tempLow":  cl["low"]  if cl else None,
             "rainDays": cl["rain"] if cl else None,
@@ -181,6 +197,7 @@ HTML = r'''<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
  <div class="ctrl"><label>Price (NIS)</label><div class="range"><input type="number" id="pMin" placeholder="min"><span>–</span><input type="number" id="pMax" placeholder="max"></div></div>
  <div class="ctrl"><label>Max flight (min)</label><input type="number" id="dMax" placeholder="e.g. 240"></div>
  <div class="ctrl"><label>Min Apr high (°C)</label><input type="number" id="tMin" placeholder="e.g. 18"></div>
+ <div class="ctrl"><label>Min days off</label><input type="number" id="doMin" placeholder="e.g. 5"></div>
  <div class="ctrl"><label>Max rain days</label><input type="number" id="rMax" placeholder="e.g. 8"></div>
  <div class="ctrl"><label>&nbsp;</label><button class="secondary" id="reset">Reset</button></div>
 </div>
@@ -198,6 +215,7 @@ const cols=[
   {key:'from',label:'Depart',sortKey:'fromISO'},
   {key:'to',label:'Return',sortKey:'toISO'},
   {key:'nights',label:'Nights',num:1},
+  {key:'daysOff',label:'Days Off',num:1},
   {key:'length',label:'Flight length',sortKey:'durMin'},
   {key:'tempHigh',label:'Apr High/Low',num:1},
   {key:'rainDays',label:'Apr Rain',num:1},
@@ -228,7 +246,7 @@ function weatherColor(high,rain){
 }
 function filtered(){
   const q=val('search').toLowerCase(),fc=val('fCountry'),fd=val('fDest'),fa=val('fAir'),ff=val('fFrom'),ft=val('fTo'),
-    nmin=num('nMin'),nmax=num('nMax'),pmin=num('pMin'),pmax=num('pMax'),dmax=num('dMax'),tmin=num('tMin'),rmax=num('rMax');
+    nmin=num('nMin'),nmax=num('nMax'),pmin=num('pMin'),pmax=num('pMax'),dmax=num('dMax'),tmin=num('tMin'),rmax=num('rMax'),domin=num('doMin');
   return DATA.filter(d=>{
     if(q&&!(d.dest.toLowerCase().includes(q)||d.country.toLowerCase().includes(q)||d.airline.toLowerCase().includes(q)))return false;
     if(fc&&d.country!==fc)return false;if(fd&&d.dest!==fd)return false;if(fa&&d.airline!==fa)return false;
@@ -236,6 +254,7 @@ function filtered(){
     if(nmin!=null&&d.nights<nmin)return false;if(nmax!=null&&d.nights>nmax)return false;
     if(pmin!=null&&d.price<pmin)return false;if(pmax!=null&&d.price>pmax)return false;
     if(dmax!=null&&d.durMin>dmax)return false;
+    if(domin!=null&&d.daysOff<domin)return false;
     if(tmin!=null&&(d.tempHigh===null||d.tempHigh<tmin))return false;
     if(rmax!=null&&(d.rainDays===null||d.rainDays>rmax))return false;
     return true;
@@ -325,13 +344,13 @@ function render(){
     const wc=weatherColor(d.tempHigh,d.rainDays);
     const tempStr=d.tempHigh!==null?`${d.tempHigh}° / ${d.tempLow}°`:'—';
     const rainStr=d.rainDays!==null?`${d.rainDays} days`:'—';
-    return`<tr><td>${d.dest}</td><td class="country">${d.country}</td><td class="num price">₪${d.price.toLocaleString()}<span class="bar" style="width:${w}px"></span></td><td>${d.airline}</td><td>${d.from}</td><td>${d.to}</td><td class="num"><span class="pill">${d.nights}</span></td><td>${d.length}</td><td class="num" style="color:${wc}">${tempStr}</td><td class="num">${rainStr}</td><td><a class="gf" href="${gf(d)}" target="_blank" rel="noopener">open ↗</a></td></tr>`;
+    return`<tr><td>${d.dest}</td><td class="country">${d.country}</td><td class="num price">₪${d.price.toLocaleString()}<span class="bar" style="width:${w}px"></span></td><td>${d.airline}</td><td>${d.from}</td><td>${d.to}</td><td class="num"><span class="pill">${d.nights}</span></td><td class="num"><span class="pill" style="background:${d.daysOff>=7?'#2d5a3d':d.daysOff>=5?'#3a4a1e':'var(--line)'}">${d.daysOff}</span></td><td>${d.length}</td><td class="num" style="color:${wc}">${tempStr}</td><td class="num">${rainStr}</td><td><a class="gf" href="${gf(d)}" target="_blank" rel="noopener">open ↗</a></td></tr>`;
   }).join('');
   const ch=rows.length?Math.min(...rows.map(r=>r.price)):0;
   document.getElementById('count').textContent=`${rows.length} of ${DATA.length} flights`+(rows.length?` · cheapest ₪${ch.toLocaleString()}`:'');
   renderMap();
 }
-const ids=['search','fCountry','fDest','fAir','fFrom','fTo','nMin','nMax','pMin','pMax','dMax','tMin','rMax'];
+const ids=['search','fCountry','fDest','fAir','fFrom','fTo','nMin','nMax','pMin','pMax','dMax','doMin','tMin','rMax'];
 ids.forEach(id=>{document.getElementById(id).addEventListener('input',render);document.getElementById(id).addEventListener('change',render)});
 document.getElementById('reset').onclick=()=>{ids.forEach(id=>document.getElementById(id).value='');sortKey='price';sortDir=1;render()};
 render();
